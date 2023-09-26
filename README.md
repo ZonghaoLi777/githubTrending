@@ -680,6 +680,44 @@
 
 ## Go
 
+* 【2023-09-26】[harness / gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+* 【2023-09-26】[matrix-org / dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
+* 【2023-09-26】[IceWhaleTech / CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+* 【2023-09-26】[evcc-io / evcc](https://github.com/evcc-io/evcc) - Sonne tanken ☀️🚘
+* 【2023-09-26】[avelino / awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+* 【2023-09-26】[schollz / croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦
+* 【2023-09-26】[AdguardTeam / AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+* 【2023-09-26】[gravitl / netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+* 【2023-09-26】[cloudnative-pg / cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+* 【2023-09-26】[alist-org / alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+* 【2023-09-26】[getzep / zep](https://github.com/getzep/zep) - Zep: Fast, scalable building blocks for production LLM apps
+* 【2023-09-26】[tmc / langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go
+* 【2023-09-26】[v2ray / v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+* 【2023-09-26】[ardanlabs / gotour](https://github.com/ardanlabs/gotour) - 
+* 【2023-09-26】[bxcodec / go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+* 【2023-09-26】[charmbracelet / mods](https://github.com/charmbracelet/mods) - AI on the command line
+* 【2023-09-26】[netbirdio / netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+* 【2023-09-26】[Mrs4s / go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
+* 【2023-09-26】[meshery / meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
+* 【2023-09-26】[TheAlgorithms / Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
+* 【2023-09-26】[usememos / memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+* 【2023-09-26】[XZB-1248 / Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监控和控制所有设备。
+* 【2023-09-26】[supabase / gotrue](https://github.com/supabase/gotrue) - A JWT based API for managing users and issuing JWT tokens
+* 【2023-09-26】[tinode / chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+* 【2023-09-26】[lionsoul2014 / ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+* 【2023-09-26】[hanc00l / nemo_go](https://github.com/hanc00l/nemo_go) - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。
+* 【2023-09-26】[lcvvvv / kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
+* 【2023-09-26】[hwholiday / learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
+* 【2023-09-26】[XIU2 / CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+* 【2023-09-26】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
+* 【2023-09-26】[jiujuan / go-collection](https://github.com/jiujuan/go-collection) - 🌷 awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
+* 【2023-09-26】[ccfos / nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+* 【2023-09-26】[tickstep / aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。
+* 【2023-09-26】[suyuan32 / simple-admin-core](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个基于Go Zero开发面向中大型项目的分布式微服务后端管理系统脚手架，提供丰富的后台管理功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for large management system. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
+* 【2023-09-26】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+* 【2023-09-26】[EndlessCheng / codeforces-go](https://github.com/EndlessCheng/codeforces-go) - Golang 算法竞赛模板库 | Solutions to Codeforces by Go 💭💡🎈
+* 【2023-09-26】[go-musicfox / go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
+* 【2023-09-26】[bufanyun / hotgo](https://github.com/bufanyun/hotgo) - HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
 * 【2023-09-22】[opentofu / opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 * 【2023-09-21】[akuity / kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 * 【2023-09-20】[cortexproject / cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
@@ -752,6 +790,36 @@
 
 ## C
 
+* 【2023-09-26】[qmk / qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+* 【2023-09-26】[libretro / RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
+* 【2023-09-26】[mit-pdos / xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
+* 【2023-09-26】[LuaJIT / LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
+* 【2023-09-26】[valinet / ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+* 【2023-09-26】[Maldev-Academy / MaldevAcademyLdr.1](https://github.com/Maldev-Academy/MaldevAcademyLdr.1) - 
+* 【2023-09-26】[maximegmd / CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
+* 【2023-09-26】[mistymntncop / CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) - 
+* 【2023-09-26】[microsoft / Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
+* 【2023-09-26】[libsdl-org / SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
+* 【2023-09-26】[fw876 / helloworld](https://github.com/fw876/helloworld) - 
+* 【2023-09-26】[coolsnowwolf / lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
+* 【2023-09-26】[Genymobile / scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+* 【2023-09-26】[obsproject / obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+* 【2023-09-26】[arendst / Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+* 【2023-09-26】[espressif / esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+* 【2023-09-26】[remzi-arpacidusseau / ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects) - Projects for an undergraduate OS course
+* 【2023-09-26】[radareorg / radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
+* 【2023-09-26】[pbatard / rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+* 【2023-09-26】[zmkfirmware / zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
+* 【2023-09-26】[immortalwrt / immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
+* 【2023-09-26】[open5gs / open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
+* 【2023-09-26】[openwrt / openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+* 【2023-09-26】[BitMaker-hub / NerdMiner_v2](https://github.com/BitMaker-hub/NerdMiner_v2) - Improved version of first ESP32 NerdMiner
+* 【2023-09-26】[pymumu / smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
+* 【2023-09-26】[openctp / openctp](https://github.com/openctp/openctp) - CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
+* 【2023-09-26】[StevenBaby / onix](https://github.com/StevenBaby/onix) - Onix - 操作系统实现
+* 【2023-09-26】[langhuihui / jessibuca](https://github.com/langhuihui/jessibuca) - Jessibuca是一款开源的纯H5直播流播放器
+* 【2023-09-26】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
+* 【2023-09-26】[linuxkerneltravel / lmp](https://github.com/linuxkerneltravel/lmp) - LMP is a supermarket
 * 【2023-09-22】[input-leap / input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 * 【2023-09-22】[phillbush / jvm](https://github.com/phillbush/jvm) - simple java virtual machine
 * 【2023-09-22】[Odyssey-Team / Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak
@@ -838,6 +906,41 @@
 
 ## C++
 
+* 【2023-09-26】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
+* 【2023-09-26】[cmu-db / 15445-bootcamp](https://github.com/cmu-db/15445-bootcamp) - A basic introduction to coding in modern C++.
+* 【2023-09-26】[qinguoyi / TinyWebServer](https://github.com/qinguoyi/TinyWebServer) - 🔥 Linux下C++轻量级WebServer服务器
+* 【2023-09-26】[PrismLauncher / PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
+* 【2023-09-26】[TheCherno / Hazel](https://github.com/TheCherno/Hazel) - Hazel Engine
+* 【2023-09-26】[ArthurSonzogni / FTXUI](https://github.com/ArthurSonzogni/FTXUI) - 💻 C++ Functional Terminal User Interface. ❤️
+* 【2023-09-26】[timeplus-io / proton](https://github.com/timeplus-io/proton) - a unified streaming and historical data processing engine in a single binary, powered by ClickHouse
+* 【2023-09-26】[tensorflow / tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+* 【2023-09-26】[oceanbase / oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
+* 【2023-09-26】[tdlib / td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
+* 【2023-09-26】[aria2 / aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+* 【2023-09-26】[OpenRCT2 / OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+* 【2023-09-26】[organicmaps / organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
+* 【2023-09-26】[rutura / The-C-20-Masterclass-Source-Code](https://github.com/rutura/The-C-20-Masterclass-Source-Code) - Source code for the C++ 20 Masterclass on udemy
+* 【2023-09-26】[Aircoookie / WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+* 【2023-09-26】[qbittorrent / qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+* 【2023-09-26】[nlohmann / json](https://github.com/nlohmann/json) - JSON for Modern C++
+* 【2023-09-26】[telegramdesktop / tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
+* 【2023-09-26】[facebook / hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
+* 【2023-09-26】[AlexandreRouma / SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
+* 【2023-09-26】[skypjack / entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+* 【2023-09-26】[tdlib / telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
+* 【2023-09-26】[aseprite / aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+* 【2023-09-26】[flyinghead / flycast](https://github.com/flyinghead/flycast) - Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
+* 【2023-09-26】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+* 【2023-09-26】[oceanbase / miniob](https://github.com/oceanbase/miniob) - MiniOB is one mini database, helping developers to learn how database works.
+* 【2023-09-26】[zjhellofss / KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 带你从零实现一个高性能的深度学习推理库，支持Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
+* 【2023-09-26】[Gooddbird / tinyrpc](https://github.com/Gooddbird/tinyrpc) - c++ async rpc framework. 14w+qps.
+* 【2023-09-26】[youngyangyang04 / Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP) - A tiny KV storage based on skiplist written in C++ language| 使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀
+* 【2023-09-26】[hxhb / HotPatcher](https://github.com/hxhb/HotPatcher) - Unreal Engine hot update manage and package plugin.
+* 【2023-09-26】[Shangyizhou / A-Tiny-Network-Library](https://github.com/Shangyizhou/A-Tiny-Network-Library) - 使用 C++ 11 重构陈硕的 muduo 库，去除 boost 依赖。内部实现有 HTTP 服务器，可支持 GET 请求。
+* 【2023-09-26】[TonyChen56 / WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人 、微信接口、企微、企微hook、企业微信接口、WXWork
+* 【2023-09-26】[yuesong-feng / 30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer) - 30天自制C++服务器，包含教程和源代码
+* 【2023-09-26】[Tencent / puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
+* 【2023-09-26】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 * 【2023-09-22】[RamadhanAmizudin / malware](https://github.com/RamadhanAmizudin/malware) - Malware Samples. Uploaded to GitHub for those want to analyse the code. Code mostly from: http://www.malwaretech.com
 * 【2023-09-21】[facontidavide / Bonxai](https://github.com/facontidavide/Bonxai) - Fast, hierarchical, sparse Voxel Grid
 * 【2023-09-21】[nghttp2 / nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
@@ -898,6 +1001,44 @@
 
 ## C#
 
+* 【2023-09-26】[PowerShell / PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+* 【2023-09-26】[SlejmUr / PayCheck3](https://github.com/SlejmUr/PayCheck3) - PayDay 3 Server Emulator Attempt
+* 【2023-09-26】[2dust / v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
+* 【2023-09-26】[microsoft / fluentui-blazor](https://github.com/microsoft/fluentui-blazor) - Microsoft Fluent UI Blazor components library. For use with .NET 6.0 or higher Blazor applications
+* 【2023-09-26】[ppy / osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
+* 【2023-09-26】[BeyondDimension / SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+* 【2023-09-26】[Jackett / Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+* 【2023-09-26】[BepInEx / BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
+* 【2023-09-26】[jellyfin / jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+* 【2023-09-26】[shadowsocks / shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+* 【2023-09-26】[AvaloniaUI / Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+* 【2023-09-26】[beeradmoore / dlss-swapper](https://github.com/beeradmoore/dlss-swapper) - 
+* 【2023-09-26】[hellzerg / optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+* 【2023-09-26】[OpenTabletDriver / OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
+* 【2023-09-26】[dotnet / aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+* 【2023-09-26】[tModLoader / tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
+* 【2023-09-26】[LavaGang / MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
+* 【2023-09-26】[csutorasa / XOutput](https://github.com/csutorasa/XOutput) - DirectInput to XInput wrapper
+* 【2023-09-26】[dotnet / csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
+* 【2023-09-26】[BeichenDream / GodPotato](https://github.com/BeichenDream/GodPotato) - 
+* 【2023-09-26】[gibbed / SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
+* 【2023-09-26】[builtbybel / BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Experience Windows 11 in your way!
+* 【2023-09-26】[emoose / DLSSTweaks](https://github.com/emoose/DLSSTweaks) - Tweak DLL for NVIDIA DLSS, allows forcing DLAA on DLSS-supported titles, tweaking scaling ratios & DLSS 3.1 presets, and overriding DLSS versions without overwriting game files.
+* 【2023-09-26】[openbullet / OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
+* 【2023-09-26】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
+* 【2023-09-26】[OdysseusYuan / LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+* 【2023-09-26】[jynew / jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable demo games.
+* 【2023-09-26】[dotnetcore / FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
+* 【2023-09-26】[Paving-Base / APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
+* 【2023-09-26】[Planshit / Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
+* 【2023-09-26】[Richasy / Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
+* 【2023-09-26】[LorisYounger / VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+* 【2023-09-26】[egametang / ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
+* 【2023-09-26】[RayWangQvQ / BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
+* 【2023-09-26】[tylearymf / UniHacker](https://github.com/tylearymf/UniHacker) - Patch all versions of Unity3D and UnityHub for Windows, MacOS, Linux and Docker.
+* 【2023-09-26】[Super-Badmen-Viper / MoZhiMusicPlayer](https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer) - MusicPlayer，based on dotNET_ C#_ WPF's open-source music software（基于dotNET_ C#_ WPF的开源音乐软件）
+* 【2023-09-26】[DGP-Studio / Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 唷，找本堂主有何贵干呀？
+* 【2023-09-26】[Uahh / ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
 * 【2023-09-22】[master131 / iFakeLocation](https://github.com/master131/iFakeLocation) - Simulate locations on iOS devices on Windows, Mac and Ubuntu.
 * 【2023-09-21】[laochiangx / Common.Utility](https://github.com/laochiangx/Common.Utility) - Various helper class
 * 【2023-09-20】[microsoft / OSSGadget](https://github.com/microsoft/OSSGadget) - Collection of tools for analyzing open source packages.
