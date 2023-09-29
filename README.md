@@ -210,6 +210,23 @@
 
 ## Java
 
+* 【2023-09-29】[Frooodle / Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
+* 【2023-09-29】[languagetool-org / languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
+* 【2023-09-29】[PowerJob / PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
+* 【2023-09-29】[Netflix / conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
+* 【2023-09-29】[quarkusio / quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
+* 【2023-09-29】[provectus / kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
+* 【2023-09-29】[kkevsekk1 / AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+* 【2023-09-29】[PhilJay / MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
+* 【2023-09-29】[javaparser / javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+* 【2023-09-29】[vespa-engine / vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
+* 【2023-09-29】[testcontainers / testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+* 【2023-09-29】[prestodb / presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
+* 【2023-09-29】[deepjavalibrary / djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
+* 【2023-09-29】[spring-projects / spring-security](https://github.com/spring-projects/spring-security) - Spring Security
+* 【2023-09-29】[react-native-video / react-native-video](https://github.com/react-native-video/react-native-video) - A <Video /> component for react-native
+* 【2023-09-29】[jenly1314 / MLKit](https://github.com/jenly1314/MLKit) - 🌝 MLKit是一个强大易用的工具包。通过ML Kit您可以很轻松的实现文字识别、条码识别、图像标记、人脸检测、对象检测等功能。
+* 【2023-09-29】[6tail / lunar-java](https://github.com/6tail/lunar-java) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
 * 【2023-09-28】[google / bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 * 【2023-09-28】[datahub-project / datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 * 【2023-09-28】[Activiti / Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
@@ -373,6 +390,25 @@
 
 ## Python
 
+* 【2023-09-29】[mlflow / mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
+* 【2023-09-29】[MakiNaruto / Automatic_ticket_purchase](https://github.com/MakiNaruto/Automatic_ticket_purchase) - 大麦网抢票脚本
+* 【2023-09-29】[great-expectations / great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+* 【2023-09-29】[kedro-org / kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
+* 【2023-09-29】[imartinez / privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+* 【2023-09-29】[jackmpcollins / magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
+* 【2023-09-29】[ray-project / ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+* 【2023-09-29】[dortania / OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
+* 【2023-09-29】[iam-veeramalla / Jenkins-Zero-To-Hero](https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero) - Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.
+* 【2023-09-29】[hhyo / Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
+* 【2023-09-29】[mlfoundations / open_lm](https://github.com/mlfoundations/open_lm) - A repository for research on medium sized language models.
+* 【2023-09-29】[intel / neural-compressor](https://github.com/intel/neural-compressor) - Provide unified APIs for SOTA model compression techniques, such as low precision (INT8/INT4/FP4/NF4) quantization, sparsity, pruning, and knowledge distillation on mainstream AI frameworks such as TensorFlow, PyTorch, and ONNX Runtime.
+* 【2023-09-29】[sktime / sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
+* 【2023-09-29】[Rockyzsu / stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
+* 【2023-09-29】[wzpan / wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
+* 【2023-09-29】[muziing / PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial) - 可能是最好的PySide6中文教程！用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享！
+* 【2023-09-29】[Boris-code / feapder](https://github.com/Boris-code/feapder) - 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便的部署及调度
+* 【2023-09-29】[SocialSisterYi / CxKitty](https://github.com/SocialSisterYi/CxKitty) - 超星学习通答题姬（视频文档观看、模拟答题，无需浏览器、无需油猴，容器/host 运行ok！
+* 【2023-09-29】[shibing624 / similarities](https://github.com/shibing624/similarities) - Similarities: a toolkit for similarity calculation and semantic search. 相似度计算、匹配搜索工具包，支持亿级数据文搜文、文搜图、图搜图，python3开发，开箱即用。
 * 【2023-09-28】[facebookresearch / detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 * 【2023-09-28】[Ebazhanov / linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
 * 【2023-09-28】[wagtail / wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
@@ -639,6 +675,23 @@
 
 ## Javascript
 
+* 【2023-09-29】[OpenZeppelin / openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+* 【2023-09-29】[brunosimon / my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
+* 【2023-09-29】[denysdovhan / wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
+* 【2023-09-29】[WordPress / gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+* 【2023-09-29】[twbs / bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+* 【2023-09-29】[Kong / insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+* 【2023-09-29】[homanp / superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
+* 【2023-09-29】[DataDog / documentation](https://github.com/DataDog/documentation) - The source for Datadog's documentation site.
+* 【2023-09-29】[eKoopmans / html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
+* 【2023-09-29】[diegomura / react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
+* 【2023-09-29】[4ian / GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform game engine designed to be used by everyone.
+* 【2023-09-29】[parallax / jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
+* 【2023-09-29】[DataDog / dd-trace-js](https://github.com/DataDog/dd-trace-js) - JavaScript APM Tracer
+* 【2023-09-29】[biuuu / genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
+* 【2023-09-29】[haizlin / fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+* 【2023-09-29】[wangrongding / wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
+* 【2023-09-29】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 * 【2023-09-28】[ToolJet / ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 * 【2023-09-28】[strapi / strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 * 【2023-09-28】[abinnz / jdlite-server](https://github.com/abinnz/jdlite-server) - 京东 抢券 log参数
@@ -838,6 +891,20 @@
 
 ## Go
 
+* 【2023-09-29】[macOScontainers / rund](https://github.com/macOScontainers/rund) - OCI Container Runtime for macOS
+* 【2023-09-29】[wagoodman / dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+* 【2023-09-29】[apernet / hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+* 【2023-09-29】[lightningnetwork / lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
+* 【2023-09-29】[grpc / grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
+* 【2023-09-29】[GoogleCloudPlatform / terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+* 【2023-09-29】[moby / moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+* 【2023-09-29】[helm / helm](https://github.com/helm/helm) - The Kubernetes Package Manager
+* 【2023-09-29】[elastic / beats](https://github.com/elastic/beats) - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+* 【2023-09-29】[aws / aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
+* 【2023-09-29】[cilium / ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+* 【2023-09-29】[DataDog / terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Terraform Datadog provider
+* 【2023-09-29】[gitleaks / gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+* 【2023-09-29】[chaos-mesh / chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 * 【2023-09-28】[wailsapp / wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 * 【2023-09-28】[go-sql-driver / mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * 【2023-09-28】[uber-go / zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
@@ -996,6 +1063,21 @@
 
 ## C
 
+* 【2023-09-29】[asdcorp / ohook](https://github.com/asdcorp/ohook) - An universal Office "activation" hook with main focus of enabling full functionality of subscription editions
+* 【2023-09-29】[M01N-Team / HeaderLessPE](https://github.com/M01N-Team/HeaderLessPE) - 
+* 【2023-09-29】[raysan5 / raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+* 【2023-09-29】[koekeishiya / yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+* 【2023-09-29】[u-boot / u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
+* 【2023-09-29】[cloudwu / skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
+* 【2023-09-29】[riscv-collab / riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) - GNU toolchain for RISC-V, including GCC
+* 【2023-09-29】[espressif / arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
+* 【2023-09-29】[pgvector / pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
+* 【2023-09-29】[ffmpegwasm / ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
+* 【2023-09-29】[TheAlgorithms / C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+* 【2023-09-29】[nature-lang / nature](https://github.com/nature-lang/nature) - 🍀 The Nature Programming Language, may you be able to experience the joy of programming.
+* 【2023-09-29】[apple-oss-distributions / xnu](https://github.com/apple-oss-distributions/xnu) - 
+* 【2023-09-29】[flightlessmango / MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
+* 【2023-09-29】[redis / redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 * 【2023-09-28】[ColinIanKing / stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
 * 【2023-09-28】[fluent / fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
 * 【2023-09-28】[postgres / postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
@@ -1148,6 +1230,20 @@
 
 ## C++
 
+* 【2023-09-29】[gabime / spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+* 【2023-09-29】[cloudflare / workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+* 【2023-09-29】[aristocratos / btop](https://github.com/aristocratos/btop) - A monitor of resources
+* 【2023-09-29】[R3nzTheCodeGOD / R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
+* 【2023-09-29】[TrinityCore / TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51536, 3.3.5 = 3.3.5a.12340)
+* 【2023-09-29】[ClickHouse / ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+* 【2023-09-29】[ArduPilot / ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
+* 【2023-09-29】[finos / perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+* 【2023-09-29】[pixie-io / pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
+* 【2023-09-29】[userver-framework / userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework
+* 【2023-09-29】[TheAlgorithms / C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+* 【2023-09-29】[idaholab / moose](https://github.com/idaholab/moose) - Multiphysics Object Oriented Simulation Environment
+* 【2023-09-29】[UZ-SLAMLab / ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
+* 【2023-09-29】[ruc-deke / rucbase-lab](https://github.com/ruc-deke/rucbase-lab) - RUC Educational Database Project open lab
 * 【2023-09-28】[microsoft / terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 * 【2023-09-28】[google / benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 * 【2023-09-28】[envoyproxy / envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -1284,6 +1380,22 @@
 
 ## C#
 
+* 【2023-09-29】[microsoft / devhome](https://github.com/microsoft/devhome) - Dev Home Experience
+* 【2023-09-29】[carlospolop / PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+* 【2023-09-29】[mcintyre321 / OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
+* 【2023-09-29】[mertdas / RedPersist](https://github.com/mertdas/RedPersist) - 
+* 【2023-09-29】[microsoft / PowerPlatformConnectors](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors
+* 【2023-09-29】[thebookisclosed / ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+* 【2023-09-29】[chocolatey / choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+* 【2023-09-29】[ScottPlot / ScottPlot](https://github.com/ScottPlot/ScottPlot) - Interactive plotting library for .NET
+* 【2023-09-29】[maliming / Abp.GeneralTree](https://github.com/maliming/Abp.GeneralTree) - For Abp vNext
+* 【2023-09-29】[ONLYOFFICE / CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
+* 【2023-09-29】[dotnet / sdk](https://github.com/dotnet/sdk) - Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI
+* 【2023-09-29】[dotnet / AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
+* 【2023-09-29】[nopSolutions / nopCommerce](https://github.com/nopSolutions/nopCommerce) - ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
+* 【2023-09-29】[Azure-Samples / communication-services-AI-customer-service-sample](https://github.com/Azure-Samples/communication-services-AI-customer-service-sample) - A sample app for the customer support center running in Azure, using Azure Communication Services and Azure OpenAI for text and voice bots.
+* 【2023-09-29】[TheJoeFin / Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and popups.
+* 【2023-09-29】[gmhevinci / MotionFramework](https://github.com/gmhevinci/MotionFramework) - MotionFramework is unity3d game framework.
 * 【2023-09-28】[dotnet / runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 * 【2023-09-28】[dotnet / efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 * 【2023-09-28】[dotnet / roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
@@ -1437,6 +1549,16 @@
 
 ## Html
 
+* 【2023-09-29】[freddier / hyperblog](https://github.com/freddier/hyperblog) - Un blog increíble para el curso de Git y Github de Platzi
+* 【2023-09-29】[tc39 / proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
+* 【2023-09-29】[f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+* 【2023-09-29】[merlinmann / wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
+* 【2023-09-29】[web-platform-tests / wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
+* 【2023-09-29】[uikit / uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
+* 【2023-09-29】[whatwg / html](https://github.com/whatwg/html) - HTML Standard
+* 【2023-09-29】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
+* 【2023-09-29】[haozi-team / panel](https://github.com/haozi-team/panel) - 耗子Linux面板 - GO开发的轻量Linux面板
+* 【2023-09-29】[dark-kingA / superSearchPlus](https://github.com/dark-kingA/superSearchPlus) - 谷歌插件版本- superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描 整合了目前常见的资产测绘平台 同时支持数据导出
 * 【2023-09-28】[GoogleCloudPlatform / magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 * 【2023-09-28】[octocat / Spoon-Knife](https://github.com/octocat/Spoon-Knife) - This repo is for demonstration purposes only.
 * 【2023-09-28】[webmin / webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
@@ -1589,6 +1711,17 @@
 
 ## Css
 
+* 【2023-09-29】[micro-zoe / micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
+* 【2023-09-29】[divyanshudhruv / Minifolio](https://github.com/divyanshudhruv/Minifolio) - ⚡ A minimal portfolio template for Developers | Hacktoberfest 2023
+* 【2023-09-29】[Screenly / Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
+* 【2023-09-29】[kmaasrud / awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
+* 【2023-09-29】[nbuntsch / exercice-bootstrap-2-layout-responsive](https://github.com/nbuntsch/exercice-bootstrap-2-layout-responsive) - 
+* 【2023-09-29】[primefaces / sakai-react](https://github.com/primefaces/sakai-react) - Free React Admin Template
+* 【2023-09-29】[nbuntsch / exercice-bootstrap-1-layout-desktop](https://github.com/nbuntsch/exercice-bootstrap-1-layout-desktop) - 
+* 【2023-09-29】[sharu725 / online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
+* 【2023-09-29】[kodekloudhub / learning-app-ecommerce](https://github.com/kodekloudhub/learning-app-ecommerce) - A sample e-commerce learning app
+* 【2023-09-29】[Artado-Project / artadosearch](https://github.com/Artado-Project/artadosearch) - Artado Search is open source and private search engine.
+* 【2023-09-29】[Kalvium-Program / lab-brrgrr](https://github.com/Kalvium-Program/lab-brrgrr) - 
 * 【2023-09-28】[necolas / normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 * 【2023-09-28】[bedimcode / responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) - Responsive Portfolio Website Using HTML, CSS & JavaScript
 * 【2023-09-28】[WebStackPage / WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
@@ -1762,6 +1895,27 @@
 
 ## Unknown
 
+* 【2023-09-29】[datalens-tech / datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
+* 【2023-09-29】[firstcontributions / first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
+* 【2023-09-29】[sorrycc / awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* 【2023-09-29】[lydiahallie / javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations ✨
+* 【2023-09-29】[LetsDefend / incident-response-playbooks](https://github.com/LetsDefend/incident-response-playbooks) - 
+* 【2023-09-29】[996icu / 996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+* 【2023-09-29】[public-api-lists / public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
+* 【2023-09-29】[JushBJJ / Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+* 【2023-09-29】[gxh27954 / damai_requests](https://github.com/gxh27954/damai_requests) - 大麦网H5、小程序、APP抢票解决
+* 【2023-09-29】[kamranahmedse / design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+* 【2023-09-29】[sudheerj / angular-interview-questions](https://github.com/sudheerj/angular-interview-questions) - List of 300 Angular Interview Questions and answers
+* 【2023-09-29】[projectdiscovery / nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+* 【2023-09-29】[bradtraversy / design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+* 【2023-09-29】[1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+* 【2023-09-29】[ExpLangcn / NucleiTP](https://github.com/ExpLangcn/NucleiTP) - 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！
+* 【2023-09-29】[L1Xu4n / Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘
+* 【2023-09-29】[52CV / CV-Surveys](https://github.com/52CV/CV-Surveys) - 计算机视觉相关综述。包括目标检测、跟踪........
+* 【2023-09-29】[alaskasquirrel / Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱 📧 newsletter RSS 荟萃 News
+* 【2023-09-29】[chika0801 / sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
+* 【2023-09-29】[ayaka14732 / awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata | Rime 輸入法方案列表
+* 【2023-09-29】[wuwenjie1992 / StarrySky](https://github.com/wuwenjie1992/StarrySky) - 精选了千余项目，包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉等内容。
 * 【2023-09-28】[saisathvik1 / OSCP-Cheatsheet](https://github.com/saisathvik1/OSCP-Cheatsheet) - OSCP Cheatsheet by Sai Sathvik
 * 【2023-09-28】[kodekloudhub / linux-basics-course](https://github.com/kodekloudhub/linux-basics-course) - 
 * 【2023-09-28】[Azure / azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
