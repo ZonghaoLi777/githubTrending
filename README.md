@@ -210,6 +210,18 @@
 
 ## Java
 
+* 【2023-09-30】[williamfiset / Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
+* 【2023-09-30】[SAP / abap-cleaner](https://github.com/SAP/abap-cleaner) - ABAP cleaner applies 60+ cleanup rules to ABAP code at a single keystroke
+* 【2023-09-30】[openrewrite / rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
+* 【2023-09-30】[iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+* 【2023-09-30】[keycloak / keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
+* 【2023-09-30】[supertokens / supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+* 【2023-09-30】[PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
+* 【2023-09-30】[hapifhir / hapi-fhir](https://github.com/hapifhir/hapi-fhir) - 🔥 HAPI FHIR - Java API for HL7 FHIR Clients and Servers
+* 【2023-09-30】[ssssssss-team / spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+* 【2023-09-30】[DerekYRC / mini-spring-cloud](https://github.com/DerekYRC/mini-spring-cloud) - mini-spring-cloud是简化版的spring-cloud框架，能帮助你快速熟悉spring-cloud源码及掌握其核心原理。在保留spring cloud核心功能的的前提下尽量精简代码，核心功能包括服务注册、服务发现、负载均衡、集成Feign简化调用、流量控制、熔断降级、API网关等。
+* 【2023-09-30】[noear / solon](https://github.com/noear/solon) - 🔥 Java 新的生态：更快、更小、更简单！！！启动快 5 ～ 10 倍；qps 高 2～ 3 倍；运行时内存节省 1/3 ~ 1/2；打包可以缩到 1/2 ~ 1/10
+* 【2023-09-30】[ytyht226 / taskflow](https://github.com/ytyht226/taskflow) - taskflow是一款轻量、简单易用、可灵活扩展的通用任务编排框架，基于有向无环图(DAG)的方式实现，框架提供了组件复用、同步/异步编排、条件判断、分支选择等能力，可以根据不同的业务场景对任意的业务流程进行编排
 * 【2023-09-29】[Frooodle / Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 * 【2023-09-29】[languagetool-org / languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 * 【2023-09-29】[PowerJob / PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
@@ -390,6 +402,13 @@
 
 ## Python
 
+* 【2023-09-30】[mistralai / mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
+* 【2023-09-30】[streamlit / streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+* 【2023-09-30】[faif / python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+* 【2023-09-30】[Azure-Samples / azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
+* 【2023-09-30】[apple / ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
+* 【2023-09-30】[apache / airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+* 【2023-09-30】[psf / requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 * 【2023-09-29】[mlflow / mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 * 【2023-09-29】[MakiNaruto / Automatic_ticket_purchase](https://github.com/MakiNaruto/Automatic_ticket_purchase) - 大麦网抢票脚本
 * 【2023-09-29】[great-expectations / great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
@@ -675,6 +694,17 @@
 
 ## Javascript
 
+* 【2023-09-30】[naptha / tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+* 【2023-09-30】[redwanul10 / React-Native-Animations](https://github.com/redwanul10/React-Native-Animations) - 
+* 【2023-09-30】[Hacker0x01 / react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
+* 【2023-09-30】[WhiskeySockets / Baileys](https://github.com/WhiskeySockets/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
+* 【2023-09-30】[foliojs / pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
+* 【2023-09-30】[Expensify / App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
+* 【2023-09-30】[algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+* 【2023-09-30】[chetannada / Namaste-React](https://github.com/chetannada/Namaste-React) - ❤ Namaste React Live Course from Zero to Hero 🚀 by Akshay Saini(Founder of NamasteDev). This repository for Assignment & Class Notes taken during Namaste React Live Course #namaste #javascript #react
+* 【2023-09-30】[lfb / nodejs-koa-blog](https://github.com/lfb/nodejs-koa-blog) - 基于 Node.js Koa2 实战开发的一套完整的博客项目网站
+* 【2023-09-30】[hejialianghe / Senior-FrontEnd](https://github.com/hejialianghe/Senior-FrontEnd) - 🔥 🔥🔥 🔥🔥 高级开发工程师必备，打通全栈任督二脉，文档地址gitee版（Senior development engineers must understand the web body of knowledge, document addresses）：https://js.youliaowu.com
+* 【2023-09-30】[cyao2q / files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
 * 【2023-09-29】[OpenZeppelin / openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 * 【2023-09-29】[brunosimon / my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 * 【2023-09-29】[denysdovhan / wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -891,6 +921,18 @@
 
 ## Go
 
+* 【2023-09-30】[coder / coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+* 【2023-09-30】[naiba / nezha](https://github.com/naiba/nezha) - Self-hosted, lightweight server and website monitoring and O&M tool
+* 【2023-09-30】[ethereum-optimism / optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled.
+* 【2023-09-30】[google / capslock](https://github.com/google/capslock) - 
+* 【2023-09-30】[loft-sh / devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+* 【2023-09-30】[GoogleCloudPlatform / k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - GCP Config Connector, a Kubernetes add-on for managing GCP resources
+* 【2023-09-30】[bytebase / bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
+* 【2023-09-30】[deepmap / oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
+* 【2023-09-30】[cubefs / cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage
+* 【2023-09-30】[ledgerwatch / erigon](https://github.com/ledgerwatch/erigon) - Ethereum implementation on the efficiency frontier
+* 【2023-09-30】[binwiederhier / ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+* 【2023-09-30】[hashicorp / terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
 * 【2023-09-29】[macOScontainers / rund](https://github.com/macOScontainers/rund) - OCI Container Runtime for macOS
 * 【2023-09-29】[wagoodman / dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 * 【2023-09-29】[apernet / hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
@@ -1063,6 +1105,19 @@
 
 ## C
 
+* 【2023-09-30】[FreeRDP / FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+* 【2023-09-30】[vanhauser-thc / thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
+* 【2023-09-30】[Klipper3d / klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
+* 【2023-09-30】[freebsd / freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
+* 【2023-09-30】[telekom-security / tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
+* 【2023-09-30】[openzfs / zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
+* 【2023-09-30】[hmgle / graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
+* 【2023-09-30】[ggerganov / whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+* 【2023-09-30】[raspberrypi / pico-sdk](https://github.com/raspberrypi/pico-sdk) - 
+* 【2023-09-30】[sqlcipher / sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
+* 【2023-09-30】[kmesh-net / kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on Programmable Kernel
+* 【2023-09-30】[raspberrypi / linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
+* 【2023-09-30】[bsauce / kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory) - Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore.
 * 【2023-09-29】[asdcorp / ohook](https://github.com/asdcorp/ohook) - An universal Office "activation" hook with main focus of enabling full functionality of subscription editions
 * 【2023-09-29】[M01N-Team / HeaderLessPE](https://github.com/M01N-Team/HeaderLessPE) - 
 * 【2023-09-29】[raysan5 / raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -1230,6 +1285,18 @@
 
 ## C++
 
+* 【2023-09-30】[VASTDynamics / Vaporizer2](https://github.com/VASTDynamics/Vaporizer2) - Vaporizer2 hybrid wavetable additive / subtractive VST / AU / AAX synthesizer / sampler workstation plugin
+* 【2023-09-30】[duckdb / duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
+* 【2023-09-30】[scottbez1 / smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
+* 【2023-09-30】[typesense / typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+* 【2023-09-30】[LibrePCB / LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
+* 【2023-09-30】[fabiensanglard / st](https://github.com/fabiensanglard/st) - Command Space-Time explorer
+* 【2023-09-30】[autowarefoundation / autoware.universe](https://github.com/autowarefoundation/autoware.universe) - 
+* 【2023-09-30】[facebookincubator / velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
+* 【2023-09-30】[esphome / esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+* 【2023-09-30】[qgis / QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+* 【2023-09-30】[doctest / doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20/23 single-header testing framework
+* 【2023-09-30】[HuangCongQing / pcl-learning](https://github.com/HuangCongQing/pcl-learning) - 🔥PCL（Point Cloud Library）点云库学习记录
 * 【2023-09-29】[gabime / spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 * 【2023-09-29】[cloudflare / workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 * 【2023-09-29】[aristocratos / btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -1380,6 +1447,14 @@
 
 ## C#
 
+* 【2023-09-30】[lepoco / wpfui](https://github.com/lepoco/wpfui) - WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
+* 【2023-09-30】[Danily07 / Translumo](https://github.com/Danily07/Translumo) - Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.
+* 【2023-09-30】[files-community / Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+* 【2023-09-30】[microsoft / microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+* 【2023-09-30】[dotnet-architecture / eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+* 【2023-09-30】[App-vNext / Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
+* 【2023-09-30】[microsoft / reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
+* 【2023-09-30】[MessagePack-CSharp / MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
 * 【2023-09-29】[microsoft / devhome](https://github.com/microsoft/devhome) - Dev Home Experience
 * 【2023-09-29】[carlospolop / PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 * 【2023-09-29】[mcintyre321 / OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
@@ -1549,6 +1624,19 @@
 
 ## Html
 
+* 【2023-09-30】[CodeWithHarry / Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course
+* 【2023-09-30】[MetaGLM / FinGLM](https://github.com/MetaGLM/FinGLM) - 
+* 【2023-09-30】[cypress-io / cypress-example-kitchensink](https://github.com/cypress-io/cypress-example-kitchensink) - This is an example app used to showcase Cypress.io testing.
+* 【2023-09-30】[italanta / elewa-website-html](https://github.com/italanta/elewa-website-html) - Repository of the elewa website redesign. This is a website which uses HTML, CSS and TypeScript.
+* 【2023-09-30】[sheryislive / two-good-co](https://github.com/sheryislive/two-good-co) - 
+* 【2023-09-30】[sumn2u / learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript
+* 【2023-09-30】[OWASP / NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
+* 【2023-09-30】[six2dez / reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+* 【2023-09-30】[Syknapse / Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
+* 【2023-09-30】[codewithsadee / vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+* 【2023-09-30】[Th30neAnd0nly / AIRAVAT](https://github.com/Th30neAnd0nly/AIRAVAT) - A multifunctional Android RAT with GUI based Web Panel without port forwarding.
+* 【2023-09-30】[delta-io / delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+* 【2023-09-30】[yntd / changchunzx](https://github.com/yntd/changchunzx) - 
 * 【2023-09-29】[freddier / hyperblog](https://github.com/freddier/hyperblog) - Un blog increíble para el curso de Git y Github de Platzi
 * 【2023-09-29】[tc39 / proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 * 【2023-09-29】[f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -1711,6 +1799,18 @@
 
 ## Css
 
+* 【2023-09-30】[appsecco / dvna](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application
+* 【2023-09-30】[kognise / water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
+* 【2023-09-30】[eazybytes / springsecurity6](https://github.com/eazybytes/springsecurity6) - Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples
+* 【2023-09-30】[lipis / flag-icons](https://github.com/lipis/flag-icons) - 🎏 A curated collection of all country flags in SVG — plus the CSS for easier integration
+* 【2023-09-30】[simeydotme / pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
+* 【2023-09-30】[space-wizards / docs](https://github.com/space-wizards/docs) - Documentation side for Space Station 14 and RobustToolbox
+* 【2023-09-30】[erictreacy / mimic.css](https://github.com/erictreacy/mimic.css) - Everyone else is doing it!
+* 【2023-09-30】[poole / hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
+* 【2023-09-30】[creativetimofficial / black-dashboard-django](https://github.com/creativetimofficial/black-dashboard-django) - Black Dashboard - Open-source Django Template | Creative-Tim
+* 【2023-09-30】[primefaces / sakai-vue](https://github.com/primefaces/sakai-vue) - 
+* 【2023-09-30】[DevMountain / HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems) - 
+* 【2023-09-30】[amethystnetwork-dev / Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with TompHTTP bare server included.
 * 【2023-09-29】[micro-zoe / micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
 * 【2023-09-29】[divyanshudhruv / Minifolio](https://github.com/divyanshudhruv/Minifolio) - ⚡ A minimal portfolio template for Developers | Hacktoberfest 2023
 * 【2023-09-29】[Screenly / Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
@@ -1895,6 +1995,26 @@
 
 ## Unknown
 
+* 【2023-09-30】[chromium / chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+* 【2023-09-30】[aws-samples / aws-customer-playbook-framework](https://github.com/aws-samples/aws-customer-playbook-framework) - This repository provides sample templates for security playbooks against various scenarios when using Amazon Web Services.
+* 【2023-09-30】[AakashKumarNain / annotated_research_papers](https://github.com/AakashKumarNain/annotated_research_papers) - This repo contains annotated research papers that I found really good and useful
+* 【2023-09-30】[mehdihadeli / awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
+* 【2023-09-30】[ACL4SSR / ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
+* 【2023-09-30】[iamshaunjp / Complete-React-Tutorial](https://github.com/iamshaunjp/Complete-React-Tutorial) - All course files for the Complete React Tutorial on the Net Ninja YouTube channel.
+* 【2023-09-30】[leereilly / games](https://github.com/leereilly/games) - 🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+* 【2023-09-30】[WebKit / WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+* 【2023-09-30】[liferay / liferay-portal](https://github.com/liferay/liferay-portal) - 
+* 【2023-09-30】[binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+* 【2023-09-30】[PRG1-HEIGVD / PRG1_Recueil_Exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices) - 
+* 【2023-09-30】[ONLYOFFICE / DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
+* 【2023-09-30】[yinggaozhen / awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。⏰脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
+* 【2023-09-30】[forthespada / Awsome-Courses](https://github.com/forthespada/Awsome-Courses) - 😏国内外计算机的优秀课程，包含MIT、CMU等世界CS名校，🔥🔥其中包含计算机基础学科（操作系统、计算机网络、编译器、数据库、数据结构与算法等）以及人工智能&AI等高级科目，欢迎通过PR形式贡献！
+* 【2023-09-30】[sulab999 / AppMessenger](https://github.com/sulab999/AppMessenger) - 一款适用于以APP病毒分析、APP漏洞挖掘、APP开发、HW行动/红队/渗透测试团队为场景的移动端(Android、iOS)辅助分析工具
+* 【2023-09-30】[hua1995116 / awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
+* 【2023-09-30】[adminpass / aliyundrive-subscribe](https://github.com/adminpass/aliyundrive-subscribe) - 阿里云盘 【订阅】【转存】 【下载】【命名】
+* 【2023-09-30】[DropsOfZut / awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) - 网络安全类公众号推荐，欢迎大家推荐
+* 【2023-09-30】[gfriends / gfriends](https://github.com/gfriends/gfriends) - 媒体服务器演员头像仓库
+* 【2023-09-30】[Jackpopc / DevWeekly](https://github.com/Jackpopc/DevWeekly) - 每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。
 * 【2023-09-29】[datalens-tech / datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 * 【2023-09-29】[firstcontributions / first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 * 【2023-09-29】[sorrycc / awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
