@@ -210,6 +210,21 @@
 
 ## Java
 
+* 【2023-10-02】[Col-E / Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
+* 【2023-10-02】[LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+* 【2023-10-02】[FIRST-Tech-Challenge / FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController) - 
+* 【2023-10-02】[apache / lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software
+* 【2023-10-02】[runelite / runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
+* 【2023-10-02】[huanghongxun / HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+* 【2023-10-02】[TooTallNate / Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java.
+* 【2023-10-02】[iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+* 【2023-10-02】[citerus / dddsample-core](https://github.com/citerus/dddsample-core) - This is the new home of the original DDD Sample app (previously hosted at sf.net)..
+* 【2023-10-02】[LWJGL / lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.
+* 【2023-10-02】[doocs / leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+* 【2023-10-02】[neo4j / neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
+* 【2023-10-02】[GoogleContainerTools / jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+* 【2023-10-02】[FabricMC / fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
+* 【2023-10-02】[WinterChenS / my-site](https://github.com/WinterChenS/my-site) - springboot2.0开发的个人网站，集成了：个人首页，个人博客，个人作品
 * 【2023-10-01】[OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * 【2023-10-01】[apache / parquet-mr](https://github.com/apache/parquet-mr) - Apache Parquet
 * 【2023-10-01】[kestra-io / kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
@@ -418,6 +433,19 @@
 
 ## Python
 
+* 【2023-10-02】[a13xp0p0v / kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
+* 【2023-10-02】[LTTLabsOSS / markbench-tests](https://github.com/LTTLabsOSS/markbench-tests) - Home of test harnesses used in LTT Labs MarkBench
+* 【2023-10-02】[spotDL / spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+* 【2023-10-02】[facebookresearch / demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
+* 【2023-10-02】[LmeSzinc / StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot) - 崩坏：星穹铁道脚本 | Honkai: Star Rail bot (简体中文/繁體中文/English/Español)
+* 【2023-10-02】[kwai / DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
+* 【2023-10-02】[fineanmol / Hacktoberfest2023](https://github.com/fineanmol/Hacktoberfest2023) - Make your first Pull Request on Hacktoberfest 2023. Don't forget to spread love and if you like give us a ⭐️
+* 【2023-10-02】[zero-to-mastery / start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
+* 【2023-10-02】[gsgen3d / gsgen](https://github.com/gsgen3d/gsgen) - Text-to-3D using Gaussian Splatting
+* 【2023-10-02】[huggingface / transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+* 【2023-10-02】[facebookresearch / MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - Everything about MetaCLIP: curation/training code, metadata, distribution and pre-trained models.
+* 【2023-10-02】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
+* 【2023-10-02】[EricZhu-42 / SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com and youpin898.com.
 * 【2023-10-01】[dreamgaussian / dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - Generative Gaussian Splatting for Efficient 3D Content Creation
 * 【2023-10-01】[home-assistant / core](https://github.com/home-assistant/core) - 🏡 Open source home automation that puts local control and privacy first.
 * 【2023-10-01】[commaai / openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
@@ -724,6 +752,16 @@
 
 ## Javascript
 
+* 【2023-10-02】[MHSanaei / 3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks)
+* 【2023-10-02】[beefproject / beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
+* 【2023-10-02】[jonasschmedtmann / ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
+* 【2023-10-02】[benphelps / homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+* 【2023-10-02】[neetcode-gh / leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
+* 【2023-10-02】[jellyfin / jellyfin-web](https://github.com/jellyfin/jellyfin-web) - Web Client for Jellyfin
+* 【2023-10-02】[Asabeneh / 30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+* 【2023-10-02】[typescript-cheatsheets / react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+* 【2023-10-02】[DIYgod / RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+* 【2023-10-02】[liyf-code / reverse_practice](https://github.com/liyf-code/reverse_practice) - python爬虫练习案例，汇总一些简单的js逆向案例，看准网，网易云评论、房天下，粉笔网，企名片，天翼云，巨潮资讯，tokencap，新榜资讯，公共资源交易，欧科云链，得物等
 * 【2023-10-01】[usebruno / bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 * 【2023-10-01】[github / docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 * 【2023-10-01】[Asabeneh / 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
@@ -965,6 +1003,18 @@
 
 ## Go
 
+* 【2023-10-02】[XTLS / REALITY](https://github.com/XTLS/REALITY) - THE NEXT FUTURE
+* 【2023-10-02】[charmbracelet / gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
+* 【2023-10-02】[v2fly / v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+* 【2023-10-02】[caddyserver / caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+* 【2023-10-02】[syncthing / syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+* 【2023-10-02】[Boeing / config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files
+* 【2023-10-02】[tailscale / tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+* 【2023-10-02】[vitessio / vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+* 【2023-10-02】[hybridgroup / gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
+* 【2023-10-02】[gravitational / teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
+* 【2023-10-02】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,多平台,ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒,ipv4内网穿透,计划任务,自动证书
+* 【2023-10-02】[childe / gohangout](https://github.com/childe/gohangout) - 使用 golang 模仿的 Logstash。用于消费 Kafka 数据，处理后写入 ES、Clickhouse 等。
 * 【2023-10-01】[quii / learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 * 【2023-10-01】[kubefirst / kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
 * 【2023-10-01】[SagerNet / sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
@@ -1168,6 +1218,17 @@
 
 ## C
 
+* 【2023-10-02】[jsecurity101 / JonMon](https://github.com/jsecurity101/JonMon) - 
+* 【2023-10-02】[pygame / pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
+* 【2023-10-02】[HansKristian-Work / vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
+* 【2023-10-02】[sandboxie-plus / Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
+* 【2023-10-02】[davatorium / rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
+* 【2023-10-02】[ventoy / Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+* 【2023-10-02】[nesbox / TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
+* 【2023-10-02】[aircrack-ng / aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) - WiFi security auditing tools suite
+* 【2023-10-02】[ptitSeb / box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
+* 【2023-10-02】[mit-pdos / xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
+* 【2023-10-02】[glfw / glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 * 【2023-10-01】[confluentinc / librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C++ library
 * 【2023-10-01】[UberGuidoZ / Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 * 【2023-10-01】[micropython / micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
@@ -1359,6 +1420,20 @@
 
 ## C++
 
+* 【2023-10-02】[mamedev / mame](https://github.com/mamedev/mame) - MAME
+* 【2023-10-02】[nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+* 【2023-10-02】[thedmd / imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
+* 【2023-10-02】[TKazer / CS2_External](https://github.com/TKazer/CS2_External) - CS2 external cheat.
+* 【2023-10-02】[alliedmodders / hl2sdk](https://github.com/alliedmodders/hl2sdk) - Half-Life 2 SDK Mirrors
+* 【2023-10-02】[CleverRaven / Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+* 【2023-10-02】[carbon-language / carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+* 【2023-10-02】[Neargye / magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
+* 【2023-10-02】[diasurgical / devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
+* 【2023-10-02】[ValveSoftware / Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
+* 【2023-10-02】[yuzu-emu / yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
+* 【2023-10-02】[ocornut / imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+* 【2023-10-02】[v8 / v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+* 【2023-10-02】[weolar / miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 * 【2023-10-01】[bitcoin / bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 * 【2023-10-01】[IMXNOOBX / cs2-external-esp](https://github.com/IMXNOOBX/cs2-external-esp) - Simple external esp using discord's/gdi overlay to render a box-esp on top of Counter-Strike 2, highlighting your enemies and teammates including their health.
 * 【2023-10-01】[apple / swift](https://github.com/apple/swift) - The Swift Programming Language
@@ -1532,6 +1607,17 @@
 
 ## C#
 
+* 【2023-10-02】[Sonarr / Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
+* 【2023-10-02】[JustArchiNET / ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+* 【2023-10-02】[dnSpy / dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
+* 【2023-10-02】[rocksdanister / lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+* 【2023-10-02】[dotnet / Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
+* 【2023-10-02】[jamie-mh / AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
+* 【2023-10-02】[Radarr / Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
+* 【2023-10-02】[Azure-Samples / cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk) - Sample code for the Microsoft Cognitive Services Speech SDK
+* 【2023-10-02】[kwsch / PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
+* 【2023-10-02】[ShareX / ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+* 【2023-10-02】[WolvenKit / WolvenKit](https://github.com/WolvenKit/WolvenKit) - Community Mod editor/creator for REDengine games.
 * 【2023-10-01】[ElevenPaths / FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 * 【2023-10-01】[PrismLibrary / Prism](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..
 * 【2023-10-01】[microsoft / sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
@@ -1719,6 +1805,19 @@
 
 ## Html
 
+* 【2023-10-02】[NoTextToSpeech / goofy-site](https://github.com/NoTextToSpeech/goofy-site) - Basic html repo for people to use to make their own nonsensical github website to embed into Discord
+* 【2023-10-02】[munificent / craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
+* 【2023-10-02】[cotes2020 / jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
+* 【2023-10-02】[varadbhogayata / varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
+* 【2023-10-02】[google / coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
+* 【2023-10-02】[wg-easy / wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+* 【2023-10-02】[TandoorRecipes / recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
+* 【2023-10-02】[themesberg / flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
+* 【2023-10-02】[Masterminds / html5-php](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer for PHP.
+* 【2023-10-02】[mmistakes / minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - 📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+* 【2023-10-02】[yuantuo666 / baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
+* 【2023-10-02】[techchipnet / CamPhish](https://github.com/techchipnet/CamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link.
+* 【2023-10-02】[CaiJimmy / hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 * 【2023-10-01】[Unstructured-IO / unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 * 【2023-10-01】[tailwindlabs / tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 * 【2023-10-01】[Purple-CSGO / CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) - 🎉 CFG Presets for many scenarios in Counter-Strike 2
@@ -1908,6 +2007,12 @@
 
 ## Css
 
+* 【2023-10-02】[vinceliuice / Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
+* 【2023-10-02】[kepano / obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian
+* 【2023-10-02】[AnubisNekhet / AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
+* 【2023-10-02】[zero-to-mastery / Animation-Nation](https://github.com/zero-to-mastery/Animation-Nation) - A ZTM Challenge for Hacktoberfest
+* 【2023-10-02】[OpenClassrooms-Student-Center / 7697016-Front-End.1](https://github.com/OpenClassrooms-Student-Center/7697016-Front-End.1) - 
+* 【2023-10-02】[tgulegacy / web-technologies-2023-1](https://github.com/tgulegacy/web-technologies-2023-1) - 
 * 【2023-10-01】[ghuntley / noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 * 【2023-10-01】[mgilangjanuar / teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
 * 【2023-10-01】[microsoft / vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
@@ -2114,6 +2219,20 @@
 
 ## Unknown
 
+* 【2023-10-02】[Developer-Y / cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+* 【2023-10-02】[codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+* 【2023-10-02】[Furkan-Gulsen / AWS-Certified-Cloud-Practitioner-Certification-My-Notes](https://github.com/Furkan-Gulsen/AWS-Certified-Cloud-Practitioner-Certification-My-Notes) - In the process of obtaining the AWS Certified Cloud Practitioner certificate, I took notes of the topics I encountered from more than 10 sources and more than 2000+ questions and I share them in this repo.
+* 【2023-10-02】[zero-to-mastery / Hacktoberfest-2023](https://github.com/zero-to-mastery/Hacktoberfest-2023) - Get started with Hacktoberfest 2023 with 3 awesome ZTM projects
+* 【2023-10-02】[academind / react-complete-guide-code](https://github.com/academind/react-complete-guide-code) - Code snapshots and materials for our "React - The Complete Guide" course (https://acad.link/reactjs)
+* 【2023-10-02】[ngosang / trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+* 【2023-10-02】[MustardChef / WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+* 【2023-10-02】[21Z / Microsoft-Office-2021](https://github.com/21Z/Microsoft-Office-2021) - Download and Activate Microsoft Office 2021 (Latest) for free. (Legal)
+* 【2023-10-02】[sharmajv / vpn](https://github.com/sharmajv/vpn) - VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓
+* 【2023-10-02】[jackfrued / Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) - Python语言基础50课
+* 【2023-10-02】[ai-collection / ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+* 【2023-10-02】[sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - 🔗 Some useful websites for programmers.
+* 【2023-10-02】[krishnaik06 / 6-Months-Data-Science-Roadmap-](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-) - 
+* 【2023-10-02】[ChirmyRam / ChirmyRam-OneDrive-Repository](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) - ChirmyRam OneDrive Repository
 * 【2023-10-01】[microsoft / prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 * 【2023-10-01】[practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 * 【2023-10-01】[anderspitman / awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
