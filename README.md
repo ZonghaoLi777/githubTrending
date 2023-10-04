@@ -210,6 +210,15 @@
 
 ## Java
 
+* 【2023-10-04】[sanyarnd / java-course-2023](https://github.com/sanyarnd/java-course-2023) - 
+* 【2023-10-04】[hiteshchoudhary / React-native-projects](https://github.com/hiteshchoudhary/React-native-projects) - Learn React native with this free series on youtube (powered by Hashnode)
+* 【2023-10-04】[checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+* 【2023-10-04】[EnterpriseQualityCoding / FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+* 【2023-10-04】[NextAlone / Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
+* 【2023-10-04】[paulgries / LoginCleanArchitecture](https://github.com/paulgries/LoginCleanArchitecture) - 
+* 【2023-10-04】[cinit / QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
+* 【2023-10-04】[tsaol / Web3-serverless-analytics-on-aws](https://github.com/tsaol/Web3-serverless-analytics-on-aws) - 
+* 【2023-10-04】[cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 * 【2023-10-03】[alura-es-cursos / Spring-Boot-3](https://github.com/alura-es-cursos/Spring-Boot-3) - Documente, teste y prepare una API para deploy
 * 【2023-10-03】[cabaletta / baritone](https://github.com/cabaletta/baritone) - google maps for block game
 * 【2023-10-03】[tonikelope / megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
@@ -443,6 +452,17 @@
 
 ## Python
 
+* 【2023-10-04】[unifyai / ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+* 【2023-10-04】[arc53 / DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+* 【2023-10-04】[psf / black](https://github.com/psf/black) - The uncompromising Python code formatter
+* 【2023-10-04】[scikit-learn / scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+* 【2023-10-04】[Pennyw0rth / NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
+* 【2023-10-04】[sqlfluff / sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
+* 【2023-10-04】[SociallyIneptWeeb / AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
+* 【2023-10-04】[ckan / ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
+* 【2023-10-04】[goauthentik / authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+* 【2023-10-04】[openai / whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+* 【2023-10-04】[howarder3 / GPT-Linebot-python-flask-on-vercel](https://github.com/howarder3/GPT-Linebot-python-flask-on-vercel) - GPT-Linebot using python flask for vercel
 * 【2023-10-03】[scrapy / scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 * 【2023-10-03】[codespell-project / codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 * 【2023-10-03】[kholia / OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -773,6 +793,15 @@
 
 ## Javascript
 
+* 【2023-10-04】[vercel / next.js](https://github.com/vercel/next.js) - The React Framework
+* 【2023-10-04】[yogeshojha / rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with…
+* 【2023-10-04】[MichMich / MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+* 【2023-10-04】[novuhq / hacksquad-website](https://github.com/novuhq/hacksquad-website) - Contribute code, meet community members, participate in workshops, and win more SWAG 🚀
+* 【2023-10-04】[SyedImtiyaz-1 / PreciousServices](https://github.com/SyedImtiyaz-1/PreciousServices) - Make your first Pull Request on this Repo. Don't forget to spread love and give us a ⭐️
+* 【2023-10-04】[jondot / awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+* 【2023-10-04】[KudoAI / chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
+* 【2023-10-04】[up-for-grabs / up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
+* 【2023-10-04】[sahat / hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 * 【2023-10-03】[Mazars-Tech / AD_Miner](https://github.com/Mazars-Tech/AD_Miner) - AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses
 * 【2023-10-03】[ArchGPT / insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focus and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of https://github.com/Kong/insomnia
 * 【2023-10-03】[rahuldkjain / github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -1031,6 +1060,18 @@
 
 ## Go
 
+* 【2023-10-04】[go-chi / chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+* 【2023-10-04】[google / wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
+* 【2023-10-04】[kubescape / kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+* 【2023-10-04】[go-playground / validator](https://github.com/go-playground/validator) - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+* 【2023-10-04】[pressly / goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
+* 【2023-10-04】[dolthub / dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+* 【2023-10-04】[googleapis / google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
+* 【2023-10-04】[golang-jwt / jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+* 【2023-10-04】[gorilla / mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
+* 【2023-10-04】[sourcegraph / sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
+* 【2023-10-04】[go-skynet / LocalAI](https://github.com/go-skynet/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+* 【2023-10-04】[gin-gonic / gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 * 【2023-10-03】[rclone / rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * 【2023-10-03】[trustwallet / assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 * 【2023-10-03】[github / gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
@@ -1259,6 +1300,20 @@
 
 ## C
 
+* 【2023-10-04】[phitronio / Batch-4-Introduction-to-C-Programming](https://github.com/phitronio/Batch-4-Introduction-to-C-Programming) - 
+* 【2023-10-04】[systemd / systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+* 【2023-10-04】[nothings / stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
+* 【2023-10-04】[HarbourMasters / Shipwright](https://github.com/HarbourMasters/Shipwright) - 
+* 【2023-10-04】[wazuh / wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
+* 【2023-10-04】[jqlang / jq](https://github.com/jqlang/jq) - Command-line JSON processor
+* 【2023-10-04】[mattn / go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
+* 【2023-10-04】[cilium / tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
+* 【2023-10-04】[bucanero / pkgi-psp](https://github.com/bucanero/pkgi-psp) - A PlayStation Portable (PSP) package download tool
+* 【2023-10-04】[heysaiyad / Hacktoberfest2023-DSA](https://github.com/heysaiyad/Hacktoberfest2023-DSA) - Make your first Pull Request on Hacktoberfest 2023.You know the implementation of any DSA related topic/problem then you can contribute it in this repo. Raise Genuine PRs only. Your PRs will be accepted, keep patience. Star this Repo ⭐️
+* 【2023-10-04】[veracrypt / VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
+* 【2023-10-04】[pret / pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
+* 【2023-10-04】[P-H-C / phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
+* 【2023-10-04】[floooh / sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
 * 【2023-10-03】[acidanthera / OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 * 【2023-10-03】[EdgeTX / edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio
 * 【2023-10-03】[flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -1470,6 +1525,19 @@
 
 ## C++
 
+* 【2023-10-04】[ethereum / solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+* 【2023-10-04】[apache / arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+* 【2023-10-04】[BehaviorTree / BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
+* 【2023-10-04】[juce-framework / JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.
+* 【2023-10-04】[Tencent / rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
+* 【2023-10-04】[emilybache / GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
+* 【2023-10-04】[weidai11 / cryptopp](https://github.com/weidai11/cryptopp) - free C++ class library of cryptographic schemes
+* 【2023-10-04】[facebook / folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
+* 【2023-10-04】[microsoft / IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
+* 【2023-10-04】[tomlooman / ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University
+* 【2023-10-04】[epezent / implot](https://github.com/epezent/implot) - Immediate Mode Plotting
+* 【2023-10-04】[ShahjalalShohag / code-library](https://github.com/ShahjalalShohag/code-library) - Templates, algorithms and data structures implemented and collected for programming contests.
+* 【2023-10-04】[Saikat2407 / DSA_Hacktoberfest2023](https://github.com/Saikat2407/DSA_Hacktoberfest2023) - This Repo will Accept all the quality Hacktoberfest 2023 Contribution ⚡️✅🎉
 * 【2023-10-03】[topjohnwu / Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 * 【2023-10-03】[Norbyte / bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 * 【2023-10-03】[hsutter / cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -> Syntax 1 compiler
@@ -1667,6 +1735,22 @@
 
 ## C#
 
+* 【2023-10-04】[dotnet / intro-to-dotnet-web-dev](https://github.com/dotnet/intro-to-dotnet-web-dev) - Get Started as a Web Developer with .NET, C#, and ASP.NET Core
+* 【2023-10-04】[Unity-Technologies / ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+* 【2023-10-04】[dotnet / docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
+* 【2023-10-04】[dotnet / interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
+* 【2023-10-04】[ThreeMammals / Ocelot](https://github.com/ThreeMammals/Ocelot) - dotnet 7.0 API Gateway
+* 【2023-10-04】[reactiveui / ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
+* 【2023-10-04】[pwntester / ysoserial.net](https://github.com/pwntester/ysoserial.net) - Deserialization payload generator for a variety of .NET formatters
+* 【2023-10-04】[btcpayserver / btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
+* 【2023-10-04】[dotnet / samples](https://github.com/dotnet/samples) - Sample code referenced by the .NET documentation
+* 【2023-10-04】[Sergio0694 / ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+* 【2023-10-04】[borisdj / EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite
+* 【2023-10-04】[OrchardCMS / OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
+* 【2023-10-04】[spectreconsole / spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
+* 【2023-10-04】[liukuo362573 / YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) - 基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观
+* 【2023-10-04】[XCharts-Team / XCharts](https://github.com/XCharts-Team/XCharts) - A charting and data visualization library for Unity. Unity数据可视化图表插件。
+* 【2023-10-04】[xunkong / xunkong](https://github.com/xunkong/xunkong) - 记录旅途中发生的事
 * 【2023-10-03】[wolfgarbe / PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) - PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
 * 【2023-10-03】[dockersamples / example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 * 【2023-10-03】[ai-tradingbot / AI-Trading-Bot](https://github.com/ai-tradingbot/AI-Trading-Bot) - State-of-the-art AI trading bot. Enjoy automated trading with precision
@@ -1876,6 +1960,14 @@
 
 ## Html
 
+* 【2023-10-04】[laviii123 / Btecky](https://github.com/laviii123/Btecky) - Hacktoberfest 2023
+* 【2023-10-04】[javascript-tutorial / en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+* 【2023-10-04】[davidarroyo1234 / InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
+* 【2023-10-04】[jimmy-byte / -HactoberFest2023-For_All_Beginers-](https://github.com/jimmy-byte/-HactoberFest2023-For_All_Beginers-) - Raise Genuine PRs, Your PRs will be accepted, Star This Repo, You aren't allowed to Update README.md
+* 【2023-10-04】[Karamraj / hacktoberfest2023](https://github.com/Karamraj/hacktoberfest2023) - Hacktoberfest 2023 PR Tutorial
+* 【2023-10-04】[SuperSimpleDev / html-css-course-2022](https://github.com/SuperSimpleDev/html-css-course-2022) - 
+* 【2023-10-04】[ayushsarode / CardConnect-HacktoberfestEdition23](https://github.com/ayushsarode/CardConnect-HacktoberfestEdition23) - "Join us for Hacktoberfest 2023! Beginner-friendly Repository, Start your Open-Source Journey!"
+* 【2023-10-04】[Nikhil-2002 / development_Hactoberfest23](https://github.com/Nikhil-2002/development_Hactoberfest23) - 
 * 【2023-10-03】[Roll20 / roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets) - Character sheet templates created by the community for use in Roll20 VTT. Submit a ticket at roll20.net/help if critical hotfixes are to be requested.
 * 【2023-10-03】[zuramai / mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
 * 【2023-10-03】[aileftech / spring-boot-database-admin](https://github.com/aileftech/spring-boot-database-admin) - A plug-and-play, auto-generated CRUD database admin panel for Spring Boot apps
@@ -2087,6 +2179,10 @@
 
 ## Css
 
+* 【2023-10-04】[creativetimofficial / tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
+* 【2023-10-04】[parag477 / Amazing-Webdev-Components](https://github.com/parag477/Amazing-Webdev-Components) - Make your first Pull Request on Hacktoberfest 2023. Don't forget to spread love and if you like don't forget to give us a star⭐️
+* 【2023-10-04】[FrancescoXX / free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
+* 【2023-10-04】[openai / openai-quickstart-python](https://github.com/openai/openai-quickstart-python) - Python example app from the OpenAI API quickstart tutorial
 * 【2023-10-03】[end-4 / dots-hyprland](https://github.com/end-4/dots-hyprland) - Practical, accessible setups powered by Hyprland and Eww!
 * 【2023-10-03】[rafaelmardojai / firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 * 【2023-10-03】[spicetify / spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
@@ -2303,6 +2399,19 @@
 
 ## Unknown
 
+* 【2023-10-04】[systemdesignfightclub / SDFC](https://github.com/systemdesignfightclub/SDFC) - 
+* 【2023-10-04】[OtacilioN / awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) - A curated list of awesome Hacktoberfest 2023 repositories, guides and resources
+* 【2023-10-04】[Universidade-Livre / ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
+* 【2023-10-04】[free-educa / free-livros](https://github.com/free-educa/free-livros) - Educação é um direito de todos
+* 【2023-10-04】[payloadbox / sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
+* 【2023-10-04】[0xsyr0 / vx-underground-wordlist](https://github.com/0xsyr0/vx-underground-wordlist) - Wordlist to crack .zip-file password
+* 【2023-10-04】[Ftindy / IPTV-URL](https://github.com/Ftindy/IPTV-URL) - 
+* 【2023-10-04】[smartcontractkit / full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
+* 【2023-10-04】[smartcontractkit / full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
+* 【2023-10-04】[karan / Projects](https://github.com/karan/Projects) - 📃 A list of practical projects that anyone can solve in any programming language.
+* 【2023-10-04】[dongyubin / Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve) - 🚀免费Shadowrocket账号，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan/clash节点、谷歌商店、翻墙梯子，Openai ChatGPT账号
+* 【2023-10-04】[HackJava / HackJava](https://github.com/HackJava/HackJava) - 《Java安全-只有Java安全才能拯救宇宙》Only Java Security Can Save The Universe.
+* 【2023-10-04】[lanceliao / china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
 * 【2023-10-03】[certsocietegenerale / IRM](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies 2022
 * 【2023-10-03】[AssemblyAI-Examples / ML-Study-Guide](https://github.com/AssemblyAI-Examples/ML-Study-Guide) - Minimal Machine Learning Study Plan
 * 【2023-10-03】[freefq / free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
