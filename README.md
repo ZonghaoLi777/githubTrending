@@ -210,6 +210,13 @@
 
 ## Java
 
+* 【2023-10-10】[seata / seata](https://github.com/seata/seata) - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+* 【2023-10-10】[apache / flink](https://github.com/apache/flink) - Apache Flink
+* 【2023-10-10】[pxb1988 / dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
+* 【2023-10-10】[apache / skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
+* 【2023-10-10】[apache / seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+* 【2023-10-10】[zxing / zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
+* 【2023-10-10】[getActivity / EasyHttp](https://github.com/getActivity/EasyHttp) - Android 网络请求框架，简单易用，so easy
 * 【2023-10-09】[alibaba / nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 * 【2023-10-09】[dromara / hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
 * 【2023-10-09】[xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
@@ -503,6 +510,10 @@
 
 ## Python
 
+* 【2023-10-10】[Weixin-Liang / LLM-scientific-feedback](https://github.com/Weixin-Liang/LLM-scientific-feedback) - Can large language models provide useful feedback on research papers? A large-scale empirical analysis.
+* 【2023-10-10】[THUDM / ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+* 【2023-10-10】[cvg / glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
+* 【2023-10-10】[Mikubill / sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 * 【2023-10-09】[coqui-ai / TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 * 【2023-10-09】[THUDM / ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 * 【2023-10-09】[hiyouga / LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM2)
@@ -901,6 +912,15 @@
 
 ## Javascript
 
+* 【2023-10-10】[lutzroeder / netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
+* 【2023-10-10】[EastWorld / wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
+* 【2023-10-10】[DiamondHunters / NodeInject_Hook_example](https://github.com/DiamondHunters/NodeInject_Hook_example) - A hooking example for NodeInject
+* 【2023-10-10】[dirk1983 / chatgpt](https://github.com/dirk1983/chatgpt) - 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
+* 【2023-10-10】[zloirock / core-js](https://github.com/zloirock/core-js) - Standard Library
+* 【2023-10-10】[xcanwin / KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化首页、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
+* 【2023-10-10】[youzan / vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
+* 【2023-10-10】[academicpages / academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+* 【2023-10-10】[CorwinDev / Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
 * 【2023-10-09】[Binaryify / NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 * 【2023-10-09】[code-423n4 / 2023-10-ens](https://github.com/code-423n4/2023-10-ens) - 
 * 【2023-10-09】[tjy-gitnub / win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
@@ -1217,6 +1237,12 @@
 
 ## Go
 
+* 【2023-10-10】[pingcap / tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+* 【2023-10-10】[jeessy2 / ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
+* 【2023-10-10】[evrone / go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+* 【2023-10-10】[unknwon / the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+* 【2023-10-10】[p4gefau1t / trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+* 【2023-10-10】[labring / sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. https://sealos.io
 * 【2023-10-09】[go-kratos / kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 * 【2023-10-09】[flipped-aurora / gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
 * 【2023-10-09】[ethereum / go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
@@ -1522,6 +1548,11 @@
 
 ## C
 
+* 【2023-10-10】[HandBrake / HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+* 【2023-10-10】[raspberrypi / pico-examples](https://github.com/raspberrypi/pico-examples) - 
+* 【2023-10-10】[pjsip / pjproject](https://github.com/pjsip/pjproject) - PJSIP project
+* 【2023-10-10】[olikraus / u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
+* 【2023-10-10】[microsoft / WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 * 【2023-10-09】[FFmpeg / FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 * 【2023-10-09】[taosdata / TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
 * 【2023-10-09】[wireshark / wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark.⚠️GitHub won't let us disable pull requests.⚠️THEY WILL BE IGNORED HERE⚠️Upload them at GitLab instead.
@@ -1787,6 +1818,15 @@
 
 ## C++
 
+* 【2023-10-10】[FreeCAD / FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+* 【2023-10-10】[huihut / interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation…
+* 【2023-10-10】[ZLMediaKit / ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
+* 【2023-10-10】[defold / defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+* 【2023-10-10】[apache / brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".
+* 【2023-10-10】[wenet-e2e / wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
+* 【2023-10-10】[tindy2013 / subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+* 【2023-10-10】[PointCloudLibrary / pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
+* 【2023-10-10】[intel / x86-simd-sort](https://github.com/intel/x86-simd-sort) - C++ header file library for high performance SIMD based sorting algorithms for primitive datatypes
 * 【2023-10-09】[WopsS / RED4ext](https://github.com/WopsS/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
 * 【2023-10-09】[NVIDIA / cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
 * 【2023-10-09】[nasa / fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
@@ -2050,6 +2090,11 @@
 
 ## C#
 
+* 【2023-10-10】[stride3d / stride](https://github.com/stride3d/stride) - Stride Game Engine (formerly Xenko)
+* 【2023-10-10】[XuanchenLin / NanUI](https://github.com/XuanchenLin/NanUI) - NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript.
+* 【2023-10-10】[bepu / bepuphysics2](https://github.com/bepu/bepuphysics2) - Pure C# 3D real time physics simulation library, now with a higher version number.
+* 【2023-10-10】[microsoft / typechat.net](https://github.com/microsoft/typechat.net) - 
+* 【2023-10-10】[Super-Badmen-Viper / NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS（Nine Songs · Rhythmic World：九歌·韵世），based on dotNET_ C#_ WPF's open-source music software
 * 【2023-10-09】[leiurayer / downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 * 【2023-10-09】[huiyadanli / RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 * 【2023-10-09】[aniketrajnish / Unity-Collider-Optimizer](https://github.com/aniketrajnish/Unity-Collider-Optimizer) - Optimizes mesh and polygon colliders in Unity
@@ -2313,6 +2358,11 @@
 
 ## Html
 
+* 【2023-10-10】[google / styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+* 【2023-10-10】[CanciuCostin / android-spyware](https://github.com/CanciuCostin/android-spyware) - Rails c&c web application for spying Android devices
+* 【2023-10-10】[fengdu78 / deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
+* 【2023-10-10】[yash19sinha / coffee-bean](https://github.com/yash19sinha/coffee-bean) - Welcome to the "Coffee-Bean" Coffee Shop project! We're on a quest to blend coffee and code like never before. Join us for a latte-tude of coding fun. All skill levels are welcome to make this project as espresso-nal as it can be! Grab your digital mugs and join us.
+* 【2023-10-10】[yangzongzhuan / RuoYi](https://github.com/yangzongzhuan/RuoYi) - 🎉 (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 * 【2023-10-09】[adams549659584 / go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 * 【2023-10-09】[wesbos / JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 * 【2023-10-09】[FluxionNetwork / fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
@@ -2572,6 +2622,10 @@
 
 ## Css
 
+* 【2023-10-10】[omicreativedev / hacktoberfest2023](https://github.com/omicreativedev/hacktoberfest2023) - ⭐ 200 Star Goal 👆🏽 My first time maintaining a repo for #hacktoberfest (YAY!) — Website with Theme Switcher. You can see the deployment below.
+* 【2023-10-10】[LineageOS / android_vendor_lineage](https://github.com/LineageOS/android_vendor_lineage) - 
+* 【2023-10-10】[adobe-fonts / source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
+* 【2023-10-10】[liuzhihang / halo-theme-hao](https://github.com/liuzhihang/halo-theme-hao) - 
 * 【2023-10-09】[missing-semester-cn / missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 * 【2023-10-09】[Diptenusarkar / Website-Template](https://github.com/Diptenusarkar/Website-Template) - Website Template this repository is free for all. You can use this code for both personal & commercial use.
 * 【2023-10-09】[lhndo / LH-Stinger](https://github.com/lhndo/LH-Stinger) - Fast, Precise, Cartesian, FDM 3D Printer
@@ -2840,6 +2894,12 @@
 
 ## Unknown
 
+* 【2023-10-10】[github / how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the "common API" for how the GitHub Engineering organization communicates
+* 【2023-10-10】[GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+* 【2023-10-10】[trickest / wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
+* 【2023-10-10】[CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+* 【2023-10-10】[grananqvist / Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning
+* 【2023-10-10】[Lenvia / job-pre](https://github.com/Lenvia/job-pre) - 面试准备：算法+后端+编程题
 * 【2023-10-09】[brcyrr / OSCP](https://github.com/brcyrr/OSCP) - #cheat sheet for OSCP
 * 【2023-10-09】[xxxxxxxx666 / WeChatDevTools](https://github.com/xxxxxxxx666/WeChatDevTools) - 只需放置一个dll 简单方便的hook微信强制打开小程序 devtool
 * 【2023-10-09】[andyzoujm / representation-engineering](https://github.com/andyzoujm/representation-engineering) - Representation Engineering: A Top-Down Approach to AI Transparency
