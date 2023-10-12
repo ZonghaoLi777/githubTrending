@@ -210,6 +210,14 @@
 
 ## Java
 
+* 【2023-10-12】[bazelbuild / bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
+* 【2023-10-12】[apache / tomcat](https://github.com/apache/tomcat) - Apache Tomcat
+* 【2023-10-12】[Blankj / AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - 🔥 Android developers should collect the following utils(updating).
+* 【2023-10-12】[apache / shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
+* 【2023-10-12】[CoderLeixiaoshuai / java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！
+* 【2023-10-12】[elunez / eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+* 【2023-10-12】[grpc / grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
+* 【2023-10-12】[mahonelau / -kykms](https://github.com/mahonelau/-kykms) - 科亿知识库 KY KMS 是一款基于Elasticsearch的文档型知识库管理系统，提供强大的全文检索与文档分类管理功能
 * 【2023-10-11】[chat2db / Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 * 【2023-10-11】[medcl / elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 * 【2023-10-11】[mybatis / mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
@@ -515,6 +523,19 @@
 
 ## Python
 
+* 【2023-10-12】[karpathy / nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+* 【2023-10-12】[nerfstudio-project / nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
+* 【2023-10-12】[chao325 / QmaoTai](https://github.com/chao325/QmaoTai) - 抢茅台2023最新，京东抢茅台，淘宝抢茅台 QmaoTai
+* 【2023-10-12】[Azure / azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+* 【2023-10-12】[pytorch / pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+* 【2023-10-12】[ultralytics / yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+* 【2023-10-12】[recommenders-team / recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
+* 【2023-10-12】[eric-ai-lab / MiniGPT-5](https://github.com/eric-ai-lab/MiniGPT-5) - Official implementation of paper "MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens"
+* 【2023-10-12】[AlaaLab / InstructCV](https://github.com/AlaaLab/InstructCV) - Codebase for "InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists"
+* 【2023-10-12】[shibing624 / pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。
+* 【2023-10-12】[YaoFANGUK / video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.
+* 【2023-10-12】[sngyai / Sequoia](https://github.com/sngyai/Sequoia) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
+* 【2023-10-12】[78778443 / QingScan](https://github.com/78778443/QingScan) - 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
 * 【2023-10-11】[wkentaro / labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 * 【2023-10-11】[okuvshynov / slowllama](https://github.com/okuvshynov/slowllama) - Finetune llama2-70b and codellama on MacBook Air without quantization
 * 【2023-10-10】[Weixin-Liang / LLM-scientific-feedback](https://github.com/Weixin-Liang/LLM-scientific-feedback) - Can large language models provide useful feedback on research papers? A large-scale empirical analysis.
@@ -919,6 +940,20 @@
 
 ## Javascript
 
+* 【2023-10-12】[MetaMask / metamask-extension](https://github.com/MetaMask/metamask-extension) - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+* 【2023-10-12】[bradtraversy / vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+* 【2023-10-12】[MetaMask / metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
+* 【2023-10-12】[processing / p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+* 【2023-10-12】[chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+* 【2023-10-12】[jgraph / drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+* 【2023-10-12】[marcotcr / lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
+* 【2023-10-12】[sadanandpai / frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges) - Collection of frontend challenges for learning and interviews
+* 【2023-10-12】[zenoamaro / react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
+* 【2023-10-12】[Automattic / node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
+* 【2023-10-12】[prettier / prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+* 【2023-10-12】[exceljs / exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
+* 【2023-10-12】[cixingguangming55555 / wechat-bot](https://github.com/cixingguangming55555/wechat-bot) - 带二次开发接口的PC微信聊天机器人
+* 【2023-10-12】[didi / mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 * 【2023-10-11】[iamadamdev / bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 * 【2023-10-11】[pot-app / pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognize.
 * 【2023-10-11】[gnat / surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Pairs with htmx. Locality of Behavior. Use one element or arrays transparently. Vanilla querySelector() but better!
@@ -1252,6 +1287,16 @@
 
 ## Go
 
+* 【2023-10-12】[robfig / cron](https://github.com/robfig/cron) - a cron library for go
+* 【2023-10-12】[sourcegraph / conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
+* 【2023-10-12】[wux1an / wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具
+* 【2023-10-12】[kubernetes / kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+* 【2023-10-12】[apache / incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.
+* 【2023-10-12】[docker / compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+* 【2023-10-12】[gogs / gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+* 【2023-10-12】[securego / gosec](https://github.com/securego/gosec) - Golang security checker
+* 【2023-10-12】[containers / skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+* 【2023-10-12】[google / cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 * 【2023-10-11】[Azure / azure-container-networking](https://github.com/Azure/azure-container-networking) - Azure Container Networking Solutions for Linux and Windows Containers
 * 【2023-10-11】[iawia002 / lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 * 【2023-10-11】[charmbracelet / bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -1571,6 +1616,11 @@
 
 ## C
 
+* 【2023-10-12】[civetweb / civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
+* 【2023-10-12】[gentilkiwi / mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+* 【2023-10-12】[ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+* 【2023-10-12】[apache / age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
+* 【2023-10-12】[jemalloc / jemalloc](https://github.com/jemalloc/jemalloc) - 
 * 【2023-10-11】[reduz / larvita3](https://github.com/reduz/larvita3) - Larvita 3 Game Engine
 * 【2023-10-11】[kingToolbox / WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 * 【2023-10-11】[DPDK / dpdk](https://github.com/DPDK/dpdk) - Data Plane Development Kit
@@ -1851,6 +1901,14 @@
 
 ## C++
 
+* 【2023-10-12】[ros-planning / moveit2](https://github.com/ros-planning/moveit2) - 🤖 MoveIt for ROS 2
+* 【2023-10-12】[Ardour / ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
+* 【2023-10-12】[google / perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
+* 【2023-10-12】[zrax / pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
+* 【2023-10-12】[danmar / cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+* 【2023-10-12】[fmtlib / fmt](https://github.com/fmtlib/fmt) - A modern formatting library
+* 【2023-10-12】[project-chip / connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
+* 【2023-10-12】[loveBabbar / CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series) - This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.
 * 【2023-10-11】[openvinotoolkit / openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 * 【2023-10-11】[raulmur / ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 * 【2023-10-11】[AngusJohnson / Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon Clipping and Offsetting - C++, C# and Delphi
@@ -2132,6 +2190,12 @@
 
 ## C#
 
+* 【2023-10-12】[EsotericSoftware / spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes) - 2D skeletal animation runtimes for Spine.
+* 【2023-10-12】[StarfireLab / SharpWeb](https://github.com/StarfireLab/SharpWeb) - 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
+* 【2023-10-12】[openmod / openmod](https://github.com/openmod/openmod) - OpenMod .NET Plugin Framework
+* 【2023-10-12】[neozhu / CleanArchitectureWithBlazorServer](https://github.com/neozhu/CleanArchitectureWithBlazorServer) - This is a repository for creating a Blazor Server dashboard application following the principles of Clean Architecture
+* 【2023-10-12】[ClosedXML / ClosedXML](https://github.com/ClosedXML/ClosedXML) - ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
+* 【2023-10-12】[MassTransit / MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
 * 【2023-10-11】[dotnet / orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
 * 【2023-10-11】[Wox-launcher / Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 * 【2023-10-11】[ChilliCream / graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
@@ -2403,6 +2467,13 @@
 
 ## Html
 
+* 【2023-10-12】[trickest / cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
+* 【2023-10-12】[daattali / beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+* 【2023-10-12】[Financial-Times / chart-doctor](https://github.com/Financial-Times/chart-doctor) - Sample files to accompany the FT's Chart Doctor column
+* 【2023-10-12】[alpinejs / alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+* 【2023-10-12】[DhanushNehru / Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources for most of your development needs
+* 【2023-10-12】[google / fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+* 【2023-10-12】[dibingfa / flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 * 【2023-10-11】[snakemake / snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 * 【2023-10-11】[Instruction-Tuning-with-GPT-4 / GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
 * 【2023-10-11】[kohei-kawaguchi / EmpiricalIO](https://github.com/kohei-kawaguchi/EmpiricalIO) - 
@@ -2676,6 +2747,13 @@
 
 ## Css
 
+* 【2023-10-12】[sindresorhus / github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+* 【2023-10-12】[learn-co-curriculum / phase-1-mock-cc-ramen-rater](https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater) - 
+* 【2023-10-12】[bdenney / phase-1-practice-friday-the-13th](https://github.com/bdenney/phase-1-practice-friday-the-13th) - 
+* 【2023-10-12】[EarningScripter / FieWin-Fast-Parity-Hack-By-ES](https://github.com/EarningScripter/FieWin-Fast-Parity-Hack-By-ES) - 
+* 【2023-10-12】[MichaelBarney / LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
+* 【2023-10-12】[cssnano / cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
+* 【2023-10-12】[CareerDevelopmentHub / Beginner_WeatherAPP](https://github.com/CareerDevelopmentHub/Beginner_WeatherAPP) - Weather App: A simple, user-friendly application built with HTML, CSS, and JavaScript that fetches and displays weather data for any city from the OpenWeatherMap API. Features include temperature, humidity, and wind speed.
 * 【2023-10-11】[omicreativedev / ThemeSwitcher](https://github.com/omicreativedev/ThemeSwitcher) - Free website template with theme switcher and page switcher in Javascript
 * 【2023-10-11】[RajMalik23 / Hacktoberfest](https://github.com/RajMalik23/Hacktoberfest) - 
 * 【2023-10-11】[WildCodeSchool / php-wildzoo](https://github.com/WildCodeSchool/php-wildzoo) - 
@@ -2958,6 +3036,18 @@
 
 ## Unknown
 
+* 【2023-10-12】[cjbt / Free-Algorithm-Books](https://github.com/cjbt/Free-Algorithm-Books) - 
+* 【2023-10-12】[abc123info / BlueTeamTools](https://github.com/abc123info/BlueTeamTools) - 蓝队分析研判工具箱，自带的反编译工具对红队也有帮助，有建议欢迎给我留言
+* 【2023-10-12】[xx025 / carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+* 【2023-10-12】[fastfire / deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
+* 【2023-10-12】[arthurspk / guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacionada a tecnologia.
+* 【2023-10-12】[febobo / web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
+* 【2023-10-12】[alex / what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+* 【2023-10-12】[skills / introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
+* 【2023-10-12】[Allar / ue5-style-guide](https://github.com/Allar/ue5-style-guide) - An attempt to make Unreal Engine 4 projects more consistent
+* 【2023-10-12】[FrogDar / code-contributing-practice](https://github.com/FrogDar/code-contributing-practice) - 利用 GitHub 进行代码贡献的练习专用仓库）
+* 【2023-10-12】[githubXiaowangzi / NP-Manager](https://github.com/githubXiaowangzi/NP-Manager) - Apk控制流混淆；Apk-Dex2C；Res资源混淆；Dex、jar、smali文件的相互转换； Dex、Pdf文件合并； Apk、dex、jar混淆和字符串加密； Apk签名、共存、去除签名校验、对话框取消、去除VPN/代理检测； Res资源混淆； Dex、AXML、ARSC文件编辑及翻译；字符串加密(Apk、dex)； 一键添加Xposed检测，一键添加弹窗、对话框； axml反编译/回编译； 一键LOG注入，一键去除所有弹窗(Toast)； 一键注入字符串解密LOG，Dex文件换包名； 一键添加禁止截屏，一键添加Apk崩溃日志记录； Apk超级混淆3.0--高效率直接对dex混淆，支持混淆四大组件，支持多dex； Apk功能--DEX混淆对抗；屏幕取色器；屏幕标尺。
+* 【2023-10-12】[geeeeeeeek / code_products](https://github.com/geeeeeeeek/code_products) - python系统设计， python毕业设计推荐，python/vue课程设计，java毕业设计
 * 【2023-10-11】[jackaduma / awesome_LLMs_interview_notes](https://github.com/jackaduma/awesome_LLMs_interview_notes) - LLMs interview notes and answers:该仓库主要记录大模型（LLMs）算法工程师相关的面试题和参考答案
 * 【2023-10-11】[CyberSecurityUP / Guide-CEH-Practical-Master](https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master) - 
 * 【2023-10-11】[chao325 / MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT) - JD京东抢购、京东抢茅台Windows端、开箱即用无需配置环境。开发在即（开源协议采用Apache License）抢茅台外挂，茅台脚本
