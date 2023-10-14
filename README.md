@@ -210,6 +210,12 @@
 
 ## Java
 
+* 【2023-10-14】[jeremylong / DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+* 【2023-10-14】[karatelabs / karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
+* 【2023-10-14】[open-telemetry / opentelemetry-java](https://github.com/open-telemetry/opentelemetry-java) - OpenTelemetry Java SDK
+* 【2023-10-14】[Graylog2 / graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
+* 【2023-10-14】[eclipse-vertx / vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
+* 【2023-10-14】[patrickfav / bcrypt](https://github.com/patrickfav/bcrypt) - A Java standalone implementation of the bcrypt password hash function. Based on the Blowfish cipher it is the default password hash algorithm for OpenBSD and other systems including some Linux distributions. Includes a CLI Tool.
 * 【2023-10-12】[bazelbuild / bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 * 【2023-10-12】[apache / tomcat](https://github.com/apache/tomcat) - Apache Tomcat
 * 【2023-10-12】[Blankj / AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - 🔥 Android developers should collect the following utils(updating).
@@ -523,6 +529,17 @@
 
 ## Python
 
+* 【2023-10-14】[bcdannyboy / CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) - Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487
+* 【2023-10-14】[THUDM / CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model
+* 【2023-10-14】[sml2h3 / ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
+* 【2023-10-14】[pyg-team / pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
+* 【2023-10-14】[hezarai / hezar](https://github.com/hezarai/hezar) - The all-in-one AI library for Persian, supporting a wide variety of tasks and modalities!
+* 【2023-10-14】[cvg / LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
+* 【2023-10-14】[bokeh / bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python
+* 【2023-10-14】[LibreTranslate / LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+* 【2023-10-14】[mootdx / mootdx](https://github.com/mootdx/mootdx) - 通达信数据读取的一个简便使用封装
+* 【2023-10-14】[pofey / movie_robot](https://github.com/pofey/movie_robot) - 轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。
+* 【2023-10-14】[HarleysZhang / dl_note](https://github.com/HarleysZhang/dl_note) - 深度学习系统笔记，包含深度学习数学基础知识、神经网络基础部件详解、深度学习炼丹策略、模型压缩算法详解，以及如何实现深度学习推理框架实战。
 * 【2023-10-12】[karpathy / nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 * 【2023-10-12】[nerfstudio-project / nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 * 【2023-10-12】[chao325 / QmaoTai](https://github.com/chao325/QmaoTai) - 抢茅台2023最新，京东抢茅台，淘宝抢茅台 QmaoTai
@@ -940,6 +957,16 @@
 
 ## Javascript
 
+* 【2023-10-14】[antonioru / beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+* 【2023-10-14】[adrianhajdin / project_syncfusion_dashboard](https://github.com/adrianhajdin/project_syncfusion_dashboard) - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion
+* 【2023-10-14】[parcel-bundler / parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
+* 【2023-10-14】[pmndrs / drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
+* 【2023-10-14】[mailcow / mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
+* 【2023-10-14】[aframevr / aframe](https://github.com/aframevr/aframe) - 🅰️Web framework for building virtual reality experiences.
+* 【2023-10-14】[easychen / CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
+* 【2023-10-14】[appium / appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
+* 【2023-10-14】[john-smilga / react-course-v3](https://github.com/john-smilga/react-course-v3) - 
+* 【2023-10-14】[fabricjs / fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 * 【2023-10-12】[MetaMask / metamask-extension](https://github.com/MetaMask/metamask-extension) - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 * 【2023-10-12】[bradtraversy / vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 * 【2023-10-12】[MetaMask / metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
@@ -1287,6 +1314,10 @@
 
 ## Go
 
+* 【2023-10-14】[milvus-io / milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
+* 【2023-10-14】[HACKERALERT / Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
+* 【2023-10-14】[volatiletech / sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
+* 【2023-10-14】[google / go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 * 【2023-10-12】[robfig / cron](https://github.com/robfig/cron) - a cron library for go
 * 【2023-10-12】[sourcegraph / conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 * 【2023-10-12】[wux1an / wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具
@@ -1616,6 +1647,18 @@
 
 ## C
 
+* 【2023-10-14】[chompie1337 / Windows_MSKSSRV_LPE_CVE-2023-36802](https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802) - LPE exploit for CVE-2023-36802
+* 【2023-10-14】[CTCaer / hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
+* 【2023-10-14】[pocoproject / poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+* 【2023-10-14】[tianocore / edk2](https://github.com/tianocore/edk2) - EDK II
+* 【2023-10-14】[gcc-mirror / gcc](https://github.com/gcc-mirror/gcc) - 
+* 【2023-10-14】[sqlite / sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
+* 【2023-10-14】[arthenica / ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
+* 【2023-10-14】[apache / nuttx](https://github.com/apache/nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS)
+* 【2023-10-14】[remzi-arpacidusseau / ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org)
+* 【2023-10-14】[jedisct1 / libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
+* 【2023-10-14】[sonic-net / sonic-buildimage](https://github.com/sonic-net/sonic-buildimage) - Scripts which perform an installable binary image build for SONiC
+* 【2023-10-14】[ggerganov / ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 * 【2023-10-12】[civetweb / civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
 * 【2023-10-12】[gentilkiwi / mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 * 【2023-10-12】[ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -1901,6 +1944,14 @@
 
 ## C++
 
+* 【2023-10-14】[Atmosphere-NX / Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+* 【2023-10-14】[NVIDIA / nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
+* 【2023-10-14】[AcademySoftwareFoundation / OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
+* 【2023-10-14】[wang-xinyu / tensorrtx](https://github.com/wang-xinyu/tensorrtx) - Implementation of popular deep learning networks with TensorRT network definition API
+* 【2023-10-14】[google / filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+* 【2023-10-14】[hamed-deriv / flutter_tearable_cloth](https://github.com/hamed-deriv/flutter_tearable_cloth) - Implementation of tearable cloth in Flutter.
+* 【2023-10-14】[google / skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+* 【2023-10-14】[ztxz16 / fastllm](https://github.com/ztxz16/fastllm) - 纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行
 * 【2023-10-12】[ros-planning / moveit2](https://github.com/ros-planning/moveit2) - 🤖 MoveIt for ROS 2
 * 【2023-10-12】[Ardour / ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 * 【2023-10-12】[google / perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
@@ -2190,6 +2241,12 @@
 
 ## C#
 
+* 【2023-10-14】[Unity-Technologies / UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code.
+* 【2023-10-14】[jstedfast / MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
+* 【2023-10-14】[dotnet-state-machine / stateless](https://github.com/dotnet-state-machine/stateless) - A simple library for creating state machines in C# code
+* 【2023-10-14】[microsoft / RulesEngine](https://github.com/microsoft/RulesEngine) - A Json based Rules Engine with extensive Dynamic expression support
+* 【2023-10-14】[microsoft / dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) - .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
+* 【2023-10-14】[inversionhourglass / Rougamo](https://github.com/inversionhourglass/Rougamo) - An AOP component that takes effect at compile time, similar to PostSharp.
 * 【2023-10-12】[EsotericSoftware / spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes) - 2D skeletal animation runtimes for Spine.
 * 【2023-10-12】[StarfireLab / SharpWeb](https://github.com/StarfireLab/SharpWeb) - 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
 * 【2023-10-12】[openmod / openmod](https://github.com/openmod/openmod) - OpenMod .NET Plugin Framework
@@ -2467,6 +2524,13 @@
 
 ## Html
 
+* 【2023-10-14】[SeleniumHQ / seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io) - Official Selenium website and documentation
+* 【2023-10-14】[microsoft / language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
+* 【2023-10-14】[dakshsinghrathore / ISRO-web](https://github.com/dakshsinghrathore/ISRO-web) - This website aims to adapt SpaceX's official website by incorporating ISRO's content, offering a unique fusion of both organizations.l
+* 【2023-10-14】[rigtorp / awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
+* 【2023-10-14】[OWASP / ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
+* 【2023-10-14】[shadowgmes / shadowgmes.github.io](https://github.com/shadowgmes/shadowgmes.github.io) - The best place to procrastinate. This is the game site that strives to be better than best. We don't focus on the little things, we go BIG.
+* 【2023-10-14】[leaningtech / webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 * 【2023-10-12】[trickest / cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 * 【2023-10-12】[daattali / beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * 【2023-10-12】[Financial-Times / chart-doctor](https://github.com/Financial-Times/chart-doctor) - Sample files to accompany the FT's Chart Doctor column
@@ -2747,6 +2811,14 @@
 
 ## Css
 
+* 【2023-10-14】[ros-planning / moveit2_tutorials](https://github.com/ros-planning/moveit2_tutorials) - A sphinx-based centralized documentation repo for MoveIt 2
+* 【2023-10-14】[orf / simple](https://github.com/orf/simple) - Simple is a clone of Obtvse written in Python running on Flask.
+* 【2023-10-14】[cloudacademy / static-website-example](https://github.com/cloudacademy/static-website-example) - Static website to use with Cloud Academy labs
+* 【2023-10-14】[artemsheludko / flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll) - Flexible-Jekyll is a simple and clean theme for Jekyll
+* 【2023-10-14】[Kalvium-Program / tic-tac-toe-boilerplate](https://github.com/Kalvium-Program/tic-tac-toe-boilerplate) - 
+* 【2023-10-14】[creativetimofficial / argon-dashboard-nodejs](https://github.com/creativetimofficial/argon-dashboard-nodejs) - 
+* 【2023-10-14】[KiranAminPanjwani / MedStats](https://github.com/KiranAminPanjwani/MedStats) - A Personal Health Journal Website
+* 【2023-10-14】[udacity / course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans) - 
 * 【2023-10-12】[sindresorhus / github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 * 【2023-10-12】[learn-co-curriculum / phase-1-mock-cc-ramen-rater](https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater) - 
 * 【2023-10-12】[bdenney / phase-1-practice-friday-the-13th](https://github.com/bdenney/phase-1-practice-friday-the-13th) - 
@@ -3036,6 +3108,18 @@
 
 ## Unknown
 
+* 【2023-10-14】[0xsyr0 / Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
+* 【2023-10-14】[jamiehannaford / what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔 What happens when I type kubectl run?
+* 【2023-10-14】[ann-afame / DEVOPS-WORLD](https://github.com/ann-afame/DEVOPS-WORLD) - 
+* 【2023-10-14】[Ignitetechnologies / BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) - This cheatsheet is built for the Bug Bounty Hunters and penetration testers in order to help them hunt the vulnerabilities from P4 to P1 solely and completely with "BurpSuite".
+* 【2023-10-14】[RuoJi6 / Deskbypass](https://github.com/RuoJi6/Deskbypass) - 
+* 【2023-10-14】[Cyfrin / foundry-full-course-f23](https://github.com/Cyfrin/foundry-full-course-f23) - 
+* 【2023-10-14】[jbhuang0604 / awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
+* 【2023-10-14】[sebaxakerhtc / rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini) - RDPWrap.ini for RDP Wrapper Library by Stas'M
+* 【2023-10-14】[anshumansingh / SQLNotes](https://github.com/anshumansingh/SQLNotes) - 
+* 【2023-10-14】[52CV / CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers) - 
+* 【2023-10-14】[PetalsOnaWet / lizhi](https://github.com/PetalsOnaWet/lizhi) - 李志所有歌曲下载地址
+* 【2023-10-14】[puxiao / react-hook-tutorial](https://github.com/puxiao/react-hook-tutorial) - React Hook 系列教程，学习和探索Hooks世界。
 * 【2023-10-12】[cjbt / Free-Algorithm-Books](https://github.com/cjbt/Free-Algorithm-Books) - 
 * 【2023-10-12】[abc123info / BlueTeamTools](https://github.com/abc123info/BlueTeamTools) - 蓝队分析研判工具箱，自带的反编译工具对红队也有帮助，有建议欢迎给我留言
 * 【2023-10-12】[xx025 / carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
