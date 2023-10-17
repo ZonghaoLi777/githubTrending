@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2023-10-17】[AlexModGuy / Ice_and_Fire](https://github.com/AlexModGuy/Ice_and_Fire) - Minecraft mystical mod
 * 【2023-10-16】[yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 * 【2023-10-16】[termux / termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 * 【2023-10-16】[jMonkeyEngine / jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) - A complete 3-D game development suite written in Java.
@@ -552,6 +553,12 @@
 
 ## Python
 
+* 【2023-10-17】[hustvl / 4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+* 【2023-10-17】[cpacker / MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
+* 【2023-10-17】[mementum / backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
+* 【2023-10-17】[AI-Citizen / SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Chat with your code repository to get Generate Product Requirement Document and Code Plan base on private project. 🧱 🧱
+* 【2023-10-17】[OpenTalker / video-retalking](https://github.com/OpenTalker/video-retalking) - [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
+* 【2023-10-17】[yangjianxin1 / GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
 * 【2023-10-16】[spdustin / ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 * 【2023-10-16】[facebookresearch / xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 * 【2023-10-16】[RedisVentures / ArXivChatGuru](https://github.com/RedisVentures/ArXivChatGuru) - Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache.
@@ -1008,6 +1015,11 @@
 
 ## Javascript
 
+* 【2023-10-17】[hkirat / docker-roadmap](https://github.com/hkirat/docker-roadmap) - 
+* 【2023-10-17】[philc / vimium](https://github.com/philc/vimium) - The hacker's browser.
+* 【2023-10-17】[gildas-lormeau / SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
+* 【2023-10-17】[porsager / postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
+* 【2023-10-17】[inrl-official / inrl-bot-md](https://github.com/inrl-official/inrl-bot-md) - Simple Whatsapp Bot
 * 【2023-10-16】[Anarios / return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 * 【2023-10-16】[is-a-dev / register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 * 【2023-10-16】[obsidianmd / obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
@@ -1384,6 +1396,17 @@
 
 ## Go
 
+* 【2023-10-17】[go-telegram-bot-api / telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
+* 【2023-10-17】[pocketbase / pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+* 【2023-10-17】[restic / restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+* 【2023-10-17】[juanfont / headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+* 【2023-10-17】[zitadel / zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. We combine the best of Auth0 and Keycloak for you.
+* 【2023-10-17】[tinygo-org / tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+* 【2023-10-17】[ThreeDotsLabs / wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
+* 【2023-10-17】[projectdiscovery / httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+* 【2023-10-17】[grafana / k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+* 【2023-10-17】[xmgtony / apiserver-gin](https://github.com/xmgtony/apiserver-gin) - 生产级可用golang api服务端(基于gin)
+* 【2023-10-17】[yuyan-sec / RedisEXP](https://github.com/yuyan-sec/RedisEXP) - Redis 漏洞利用工具
 * 【2023-10-16】[slackhq / nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 * 【2023-10-16】[v2fly / domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
 * 【2023-10-16】[BishopFox / sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
@@ -1735,6 +1758,11 @@
 
 ## C
 
+* 【2023-10-17】[merbanan / rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
+* 【2023-10-17】[SoftEtherVPN / SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
+* 【2023-10-17】[djpohly / dwl](https://github.com/djpohly/dwl) - dwm for Wayland
+* 【2023-10-17】[git / git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+* 【2023-10-17】[openwall / john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 * 【2023-10-16】[pgbouncer / pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 * 【2023-10-16】[betaflight / betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
 * 【2023-10-16】[RfidResearchGroup / proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
@@ -2045,6 +2073,14 @@
 
 ## C++
 
+* 【2023-10-17】[alvr-org / ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
+* 【2023-10-17】[mbucchia / VirtualDesktop-OpenXR](https://github.com/mbucchia/VirtualDesktop-OpenXR) - An implementation of the OpenXR standard for Virtual Desktop
+* 【2023-10-17】[SerenityOS / serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+* 【2023-10-17】[wisdompeak / LeetCode](https://github.com/wisdompeak/LeetCode) - This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.
+* 【2023-10-17】[kokkos / kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
+* 【2023-10-17】[ihhub / fheroes2](https://github.com/ihhub/fheroes2) - fheroes2 is a recreation of Heroes of Might and Magic II game engine.
+* 【2023-10-17】[jrouwe / JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
+* 【2023-10-17】[random957654 / Hactober-2023-1](https://github.com/random957654/Hactober-2023-1) - hacktoberfest, hacktoberfest-accepted, hacktoberfest2023
 * 【2023-10-16】[hyprwm / Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 * 【2023-10-16】[Alexays / Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉
 * 【2023-10-16】[pineappleEA / pineapple-src](https://github.com/pineappleEA/pineapple-src) - yuzu Early Access source code
@@ -2358,6 +2394,11 @@
 
 ## C#
 
+* 【2023-10-17】[SecHex / SecHex-Spoofy](https://github.com/SecHex/SecHex-Spoofy) - C# HWID Changer 🔑︎ Disk, Guid, Mac, Gpu, Pc-Name, Win-ID, EFI, SMBIOS Spoofing
+* 【2023-10-17】[yourtablecloth / TableCloth](https://github.com/yourtablecloth/TableCloth) - 식탁보 프로젝트
+* 【2023-10-17】[GameTechExplained / Chess-Challenge](https://github.com/GameTechExplained/Chess-Challenge) - 
+* 【2023-10-17】[paulov-t / SIT.Core](https://github.com/paulov-t/SIT.Core) - An Escape From Tarkov BepInEx module designed to be used with SPT-Aki with the ultimate goal of "Offline" Coop
+* 【2023-10-17】[xupefei / Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 * 【2023-10-16】[cjm00n / EvilSln](https://github.com/cjm00n/EvilSln) - A New Exploitation Technique for Visual Studio Projects
 * 【2023-10-16】[Tyrrrz / YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 * 【2023-10-16】[SubtitleEdit / subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
@@ -2655,6 +2696,7 @@
 
 ## Html
 
+* 【2023-10-17】[linuxmobile / hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄 Hyprland Cute Dotfiles
 * 【2023-10-16】[PKUanonym / REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 * 【2023-10-16】[collabnix / kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 * 【2023-10-16】[boostorg / boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
@@ -2955,6 +2997,9 @@
 
 ## Css
 
+* 【2023-10-17】[FPGA-Systems / drawio-hdl-builder](https://github.com/FPGA-Systems/drawio-hdl-builder) - Drawio => VHDL and Verilog
+* 【2023-10-17】[Kritika30032002 / To-Do-List-Application](https://github.com/Kritika30032002/To-Do-List-Application) - This is a To Do List Application
+* 【2023-10-17】[troxler / awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 * 【2023-10-16】[AsmrProg-YT / Personal-Portfolios](https://github.com/AsmrProg-YT/Personal-Portfolios) - AsmrProg Youtube Channel Personal Portfolio Designs Code Collection.
 * 【2023-10-16】[baekusboo / music-website](https://github.com/baekusboo/music-website) - A webpage with full of music suggestions!
 * 【2023-10-15】[straight-tamago / misaka](https://github.com/straight-tamago/misaka) - 
@@ -3260,6 +3305,14 @@
 
 ## Unknown
 
+* 【2023-10-17】[iamcryptoki / snowden-archive](https://github.com/iamcryptoki/snowden-archive) - 💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.
+* 【2023-10-17】[xPaw / CS2](https://github.com/xPaw/CS2) - 🏃‍♂️ Counter-Strike 2 stuff
+* 【2023-10-17】[cloudogu / gitops-patterns](https://github.com/cloudogu/gitops-patterns) - Collection of patterns, examples and resources for GitOps process design, GitOps repository structures, etc
+* 【2023-10-17】[digitalinnovationone / dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) - ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
+* 【2023-10-17】[ms2ag16 / Books](https://github.com/ms2ag16/Books) - 
+* 【2023-10-17】[Hack-with-Github / Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+* 【2023-10-17】[JDDKCN / KCN-GenshinServer](https://github.com/JDDKCN/KCN-GenshinServer) - 基于GC制作的原神一键GUI多功能服务端。
+* 【2023-10-17】[fenwii / huaweimind](https://github.com/fenwii/huaweimind) - 华为视角看世界，任总思维看问题，华为任正非思想之路，Huawei Renzhengfei speech,email& article,整理自1994年开始的讲话稿，涉及财经、人力资源、战略、内控与公共关系，从交换机、通讯设备、移动终端到人工智能、物联网，从2G、3G到4G、5G，从物理学、化学、数学到心理学、哲学，是创业，学习的标杆素材。
 * 【2023-10-16】[iam-veeramalla / python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
 * 【2023-10-16】[mengzehe / TVBox](https://github.com/mengzehe/TVBox) - TVBox自用源以及仓库源、直播源等
 * 【2023-10-16】[octagony / vscode_vim](https://github.com/octagony/vscode_vim) - Vim configuration for Vscode
