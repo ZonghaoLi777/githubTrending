@@ -210,6 +210,15 @@
 
 ## Java
 
+* 【2023-10-18】[stleary / JSON-java](https://github.com/stleary/JSON-java) - A reference implementation of a JSON package in Java.
+* 【2023-10-18】[kubernetes-client / java](https://github.com/kubernetes-client/java) - Official Java client library for kubernetes
+* 【2023-10-18】[apache / zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
+* 【2023-10-18】[dataease / dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
+* 【2023-10-18】[heibaiying / BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南 ⭐
+* 【2023-10-18】[yidongnan / grpc-spring-boot-starter](https://github.com/yidongnan/grpc-spring-boot-starter) - Spring Boot starter module for gRPC framework.
+* 【2023-10-18】[JSQLParser / JSqlParser](https://github.com/JSQLParser/JSqlParser) - JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern
+* 【2023-10-18】[Nepxion / Discovery](https://github.com/Nepxion/Discovery) - ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活
+* 【2023-10-18】[twelvet-projects / twelvet](https://github.com/twelvet-projects/twelvet) - （Spring Boot 3. X Microservices framework） 基于Spring Boot 3.X 的 Spring Cloud Alibaba / Spring Cloud Tencent + React的微服务框架。🔝 🔝 点个starrred 关注更新。 微服务交流群见底部群链接。
 * 【2023-10-17】[AlexModGuy / Ice_and_Fire](https://github.com/AlexModGuy/Ice_and_Fire) - Minecraft mystical mod
 * 【2023-10-16】[yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 * 【2023-10-16】[termux / termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
@@ -553,6 +562,15 @@
 
 ## Python
 
+* 【2023-10-18】[frappe / erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
+* 【2023-10-18】[freqtrade / freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+* 【2023-10-18】[OpenBMB / ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
+* 【2023-10-18】[jtesta / ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+* 【2023-10-18】[je-suis-tm / quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD
+* 【2023-10-18】[cloud-custodian / cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+* 【2023-10-18】[huggingface / accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
+* 【2023-10-18】[yihong0618 / Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
+* 【2023-10-18】[Nriver / Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
 * 【2023-10-17】[hustvl / 4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 * 【2023-10-17】[cpacker / MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 * 【2023-10-17】[mementum / backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
@@ -1015,6 +1033,14 @@
 
 ## Javascript
 
+* 【2023-10-18】[0x48piraj / fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.
+* 【2023-10-18】[po6ix / POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993) - 
+* 【2023-10-18】[adrianhajdin / project_hoobank](https://github.com/adrianhajdin/project_hoobank) - Modern UI/UX website using React.js & Tailwind CSS
+* 【2023-10-18】[videojs / video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+* 【2023-10-18】[knex / knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+* 【2023-10-18】[SchemaStore / schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
+* 【2023-10-18】[iamcco / markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
+* 【2023-10-18】[leochen-g / wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘书客户端，搭配
 * 【2023-10-17】[hkirat / docker-roadmap](https://github.com/hkirat/docker-roadmap) - 
 * 【2023-10-17】[philc / vimium](https://github.com/philc/vimium) - The hacker's browser.
 * 【2023-10-17】[gildas-lormeau / SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
@@ -1396,6 +1422,16 @@
 
 ## Go
 
+* 【2023-10-18】[kubernetes / kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
+* 【2023-10-18】[hashicorp / packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+* 【2023-10-18】[greycodee / wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
+* 【2023-10-18】[Azure / azure-sdk-for-go](https://github.com/Azure/azure-sdk-for-go) - This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:
+* 【2023-10-18】[slack-go / slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
+* 【2023-10-18】[sirupsen / logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+* 【2023-10-18】[ory / kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
+* 【2023-10-18】[gorilla / websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+* 【2023-10-18】[farseer-go / fs](https://github.com/farseer-go/fs) - farseer-go all components of the base module, module launcher, framework initialization program（所有组件的基础模块，模块启动器，框架初始化程序）
+* 【2023-10-18】[zgwit / iot-master](https://github.com/zgwit/iot-master) - 物联大师是开源免费的物联网操作系统，集成了标准Modbus、电力、水务和主流PLC等多种协议，支持数据采集、公式计算、异常报警、Web组态等功能，适用于大部分物联网和工业互联网应用场景。
 * 【2023-10-17】[go-telegram-bot-api / telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 * 【2023-10-17】[pocketbase / pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 * 【2023-10-17】[restic / restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -1758,6 +1794,11 @@
 
 ## C
 
+* 【2023-10-18】[cockpit-project / cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
+* 【2023-10-18】[omnigres / omnigres](https://github.com/omnigres/omnigres) - Postgres as a Platform
+* 【2023-10-18】[skeeto / endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
+* 【2023-10-18】[jdah / doomenstein-3d](https://github.com/jdah/doomenstein-3d) - Wolfenstein/DOOM style software renderers
+* 【2023-10-18】[openslide / openslide](https://github.com/openslide/openslide) - C library for reading virtual slide images
 * 【2023-10-17】[merbanan / rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
 * 【2023-10-17】[SoftEtherVPN / SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 * 【2023-10-17】[djpohly / dwl](https://github.com/djpohly/dwl) - dwm for Wayland
@@ -2073,6 +2114,10 @@
 
 ## C++
 
+* 【2023-10-18】[apache / thrift](https://github.com/apache/thrift) - Apache Thrift
+* 【2023-10-18】[zeux / pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
+* 【2023-10-18】[ossrs / srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+* 【2023-10-18】[Tencent / UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.
 * 【2023-10-17】[alvr-org / ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 * 【2023-10-17】[mbucchia / VirtualDesktop-OpenXR](https://github.com/mbucchia/VirtualDesktop-OpenXR) - An implementation of the OpenXR standard for Virtual Desktop
 * 【2023-10-17】[SerenityOS / serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
@@ -2394,6 +2439,11 @@
 
 ## C#
 
+* 【2023-10-18】[gui-cs / Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+* 【2023-10-18】[keijiro / SplatVFX](https://github.com/keijiro/SplatVFX) - 3D Gaussian Splatting with Unity VFX Graph
+* 【2023-10-18】[gus33000 / UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
+* 【2023-10-18】[Azure / azure-functions-core-tools](https://github.com/Azure/azure-functions-core-tools) - Command line tools for Azure Functions
+* 【2023-10-18】[restsharp / RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 * 【2023-10-17】[SecHex / SecHex-Spoofy](https://github.com/SecHex/SecHex-Spoofy) - C# HWID Changer 🔑︎ Disk, Guid, Mac, Gpu, Pc-Name, Win-ID, EFI, SMBIOS Spoofing
 * 【2023-10-17】[yourtablecloth / TableCloth](https://github.com/yourtablecloth/TableCloth) - 식탁보 프로젝트
 * 【2023-10-17】[GameTechExplained / Chess-Challenge](https://github.com/GameTechExplained/Chess-Challenge) - 
@@ -2696,6 +2746,11 @@
 
 ## Html
 
+* 【2023-10-18】[CHAYA41182 / support-israel-banner](https://github.com/CHAYA41182/support-israel-banner) - Simply setup banner for websites to show support for Israelis.
+* 【2023-10-18】[xxlllq / system_architect](https://github.com/xxlllq/system_architect) - 💯2023年系统架构设计师（软考高级）备考资料。
+* 【2023-10-18】[tecky708 / app](https://github.com/tecky708/app) - 
+* 【2023-10-18】[KhronosGroup / glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
+* 【2023-10-18】[clauswilke / dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 * 【2023-10-17】[linuxmobile / hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄 Hyprland Cute Dotfiles
 * 【2023-10-16】[PKUanonym / REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 * 【2023-10-16】[collabnix / kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
@@ -2997,6 +3052,10 @@
 
 ## Css
 
+* 【2023-10-18】[AsmrProg-YT / Modern-Login](https://github.com/AsmrProg-YT/Modern-Login) - AsmrProg Youtube Channel Modern Login Design Source Code
+* 【2023-10-18】[KubeDev / imersao-devops-cloud-02](https://github.com/KubeDev/imersao-devops-cloud-02) - 
+* 【2023-10-18】[Novus-Neurons / talebuddy](https://github.com/Novus-Neurons/talebuddy) - 
+* 【2023-10-18】[ossrndc / Hacktoberfest](https://github.com/ossrndc/Hacktoberfest) - Hacktober Fest Repository of Team OSS
 * 【2023-10-17】[FPGA-Systems / drawio-hdl-builder](https://github.com/FPGA-Systems/drawio-hdl-builder) - Drawio => VHDL and Verilog
 * 【2023-10-17】[Kritika30032002 / To-Do-List-Application](https://github.com/Kritika30032002/To-Do-List-Application) - This is a To Do List Application
 * 【2023-10-17】[troxler / awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
@@ -3305,6 +3364,16 @@
 
 ## Unknown
 
+* 【2023-10-18】[itrewub / jh-notes](https://github.com/itrewub/jh-notes) - 
+* 【2023-10-18】[facert / awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
+* 【2023-10-18】[paralleldrive / sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
+* 【2023-10-18】[joeycastillo / The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
+* 【2023-10-18】[0voice / linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
+* 【2023-10-18】[aws / aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) - AWS SDK for C++
+* 【2023-10-18】[dymensionxyz / rollapp-registry](https://github.com/dymensionxyz/rollapp-registry) - A registry for RollApps
+* 【2023-10-18】[JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+* 【2023-10-18】[eugeneyan / open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
+* 【2023-10-18】[StarRocks / docs.zh-cn](https://github.com/StarRocks/docs.zh-cn) - 
 * 【2023-10-17】[iamcryptoki / snowden-archive](https://github.com/iamcryptoki/snowden-archive) - 💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.
 * 【2023-10-17】[xPaw / CS2](https://github.com/xPaw/CS2) - 🏃‍♂️ Counter-Strike 2 stuff
 * 【2023-10-17】[cloudogu / gitops-patterns](https://github.com/cloudogu/gitops-patterns) - Collection of patterns, examples and resources for GitOps process design, GitOps repository structures, etc
