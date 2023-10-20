@@ -210,6 +210,11 @@
 
 ## Java
 
+* 【2023-10-20】[openjdk / jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
+* 【2023-10-20】[OpenRefine / OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
+* 【2023-10-20】[SonarSource / sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
+* 【2023-10-20】[stick-i / scblogs](https://github.com/stick-i/scblogs) - 🎉校园博客，基于微服务架构且前后端分离的博客社区系统。项目后端技术栈：SpringBoot + SpringCloud + Mybatis-Plus + Nacos + MySQL + Redis + MQ + ElasticSearch + Docker。前端主要是基于Vue2和ElementUI进行开发的。
+* 【2023-10-20】[ofdrw / ofdrw](https://github.com/ofdrw/ofdrw) - OFD Reader & Writer 开源的OFD处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能，文档格式遵循《GB/T 33190-2016 电子文件存储与交换格式版式文档》。
 * 【2023-10-19】[hazelcast / hazelcast](https://github.com/hazelcast/hazelcast) - Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
 * 【2023-10-19】[alibaba / druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 * 【2023-10-19】[obsidiandynamics / kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
@@ -567,6 +572,20 @@
 
 ## Python
 
+* 【2023-10-20】[SigmaHQ / sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
+* 【2023-10-20】[huggingface / peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+* 【2023-10-20】[NVIDIA / Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI
+* 【2023-10-20】[ScaledFoundations / GRID-playground](https://github.com/ScaledFoundations/GRID-playground) - Platform for General Robot Intelligence Development
+* 【2023-10-20】[chengzeyi / stable-fast](https://github.com/chengzeyi/stable-fast) - An ultra lightweight inference performance optimization library for HuggingFace Diffusers on NVIDIA GPUs.
+* 【2023-10-20】[EleutherAI / math-lm](https://github.com/EleutherAI/math-lm) - 
+* 【2023-10-20】[GreyDGL / PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+* 【2023-10-20】[llmware-ai / llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.
+* 【2023-10-20】[acl-org / aclpubcheck](https://github.com/acl-org/aclpubcheck) - Tools for checking ACL paper submissions
+* 【2023-10-20】[demisto / content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
+* 【2023-10-20】[onnx / onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
+* 【2023-10-20】[zhouhaoyi / Informer2020](https://github.com/zhouhaoyi/Informer2020) - The GitHub repository for the paper "Informer" accepted by AAAI 2021.
+* 【2023-10-20】[Baekalfen / PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
+* 【2023-10-20】[LittleBear4 / OA-EXPTOOL](https://github.com/LittleBear4/OA-EXPTOOL) - OA综合利用工具，集合将近20款OA漏洞批量扫描
 * 【2023-10-19】[open-mmlab / mmyolo](https://github.com/open-mmlab/mmyolo) - OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, RTMDet-Rotated,YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.
 * 【2023-10-19】[PyCQA / isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 * 【2023-10-19】[RealKai42 / liu-yao-divining](https://github.com/RealKai42/liu-yao-divining) - 六爻游戏 + GPT 解读 / liu yao divining + interpreted by GPT
@@ -1044,6 +1063,12 @@
 
 ## Javascript
 
+* 【2023-10-20】[mkkellogg / GaussianSplats3D](https://github.com/mkkellogg/GaussianSplats3D) - Three.js-based implementation of the 3D Gaussian splat viewer
+* 【2023-10-20】[nodejs / node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+* 【2023-10-20】[electron / electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
+* 【2023-10-20】[lohls / Api-Correios](https://github.com/lohls/Api-Correios) - 
+* 【2023-10-20】[sinonjs / sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
+* 【2023-10-20】[swagger-api / swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 * 【2023-10-19】[BrasilAPI / BrasilAPI](https://github.com/BrasilAPI/BrasilAPI) - Vamos transformar o Brasil em uma API?
 * 【2023-10-19】[wangwc18 / mygoFlaskProject](https://github.com/wangwc18/mygoFlaskProject) - 第一次提交版本
 * 【2023-10-19】[mrabit / aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck) - 阿里云盘每日签到脚本 青龙面板支持
@@ -1443,6 +1468,15 @@
 
 ## Go
 
+* 【2023-10-20】[runatlantis / atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+* 【2023-10-20】[minio / minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+* 【2023-10-20】[trpc-group / trpc-go](https://github.com/trpc-group/trpc-go) - A pluggable, high-performance RPC framework written in golang
+* 【2023-10-20】[lima-vm / lima](https://github.com/lima-vm/lima) - Linux virtual machines
+* 【2023-10-20】[git-lfs / git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
+* 【2023-10-20】[fullstorydev / grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+* 【2023-10-20】[sashabaranov / go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+* 【2023-10-20】[apache / incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+* 【2023-10-20】[astaxie / build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 * 【2023-10-19】[devfullcycle / imersao15](https://github.com/devfullcycle/imersao15) - 
 * 【2023-10-19】[open-telemetry / opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 * 【2023-10-19】[aws / aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
@@ -1825,6 +1859,14 @@
 
 ## C
 
+* 【2023-10-20】[nanopb / nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
+* 【2023-10-20】[warmcat / libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
+* 【2023-10-20】[attractivechaos / klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
+* 【2023-10-20】[cnlohr / mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
+* 【2023-10-20】[devbis / z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
+* 【2023-10-20】[intel / RealTimePathTracingResearchFramework](https://github.com/intel/RealTimePathTracingResearchFramework) - 
+* 【2023-10-20】[egzumer / uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
+* 【2023-10-20】[binbyu / Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
 * 【2023-10-19】[emscripten-core / emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 * 【2023-10-19】[Lienol / openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
 * 【2023-10-19】[86Box / 86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
@@ -2148,6 +2190,12 @@
 
 ## C++
 
+* 【2023-10-20】[Alex313031 / thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+* 【2023-10-20】[pytorch / executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
+* 【2023-10-20】[kimci86 / bkcrack](https://github.com/kimci86/bkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
+* 【2023-10-20】[TileDB-Inc / TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
+* 【2023-10-20】[zxing-cpp / zxing-cpp](https://github.com/zxing-cpp/zxing-cpp) - C++ port of ZXing
+* 【2023-10-20】[notepad-plus-plus / notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 * 【2023-10-19】[yanfengwu-syser / syserdebugger](https://github.com/yanfengwu-syser/syserdebugger) - 
 * 【2023-10-19】[wolfpld / tracy](https://github.com/wolfpld/tracy) - Frame profiler
 * 【2023-10-19】[SpiderLabs / ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
@@ -2481,6 +2529,12 @@
 
 ## C#
 
+* 【2023-10-20】[davidfowl / TodoApi](https://github.com/davidfowl/TodoApi) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
+* 【2023-10-20】[scriptchildie / maliciousCodeMatchingMFA](https://github.com/scriptchildie/maliciousCodeMatchingMFA) - A small executable to trick a user to authenticate using code matching MFA
+* 【2023-10-20】[Azure-Samples / miyagi](https://github.com/Azure-Samples/miyagi) - Sample to envision intelligent apps with Microsoft's Copilot stack for AI-infused product experiences.
+* 【2023-10-20】[Abdelrhman-AK / WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
+* 【2023-10-20】[dotnet / msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
+* 【2023-10-20】[focus-creative-games / hybridclr_trial](https://github.com/focus-creative-games/hybridclr_trial) - HybridCLR 示例项目
 * 【2023-10-19】[microsoft / PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples) - Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder.
 * 【2023-10-19】[quartznet / quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 * 【2023-10-19】[Tichau / FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
@@ -2797,6 +2851,9 @@
 
 ## Html
 
+* 【2023-10-20】[esphome / firmware](https://github.com/esphome/firmware) - 
+* 【2023-10-20】[Xilinx / embeddedsw](https://github.com/Xilinx/embeddedsw) - Xilinx Embedded Software (embeddedsw) Development
+* 【2023-10-20】[microsoft / fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 * 【2023-10-19】[c4coderandcreator / Flavour-Fusion](https://github.com/c4coderandcreator/Flavour-Fusion) - "Flavour Fusion : Real World Project". It has all the necessary features required for a Food website.
 * 【2023-10-19】[bradtraversy / saas-landing-page](https://github.com/bradtraversy/saas-landing-page) - Simple landing page for a SaaS
 * 【2023-10-19】[orcas-lab / hope-you-never-need-it](https://github.com/orcas-lab/hope-you-never-need-it) - An emergency booklet, I hope you will never use it
@@ -3107,6 +3164,11 @@
 
 ## Css
 
+* 【2023-10-20】[MultiverseLearningProducts / Lightbulb-Selectors](https://github.com/MultiverseLearningProducts/Lightbulb-Selectors) - 
+* 【2023-10-20】[cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
+* 【2023-10-20】[sighingnow / jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
+* 【2023-10-20】[HIO-Webutvikling / WEBUTVIKLING2023](https://github.com/HIO-Webutvikling/WEBUTVIKLING2023) - 
+* 【2023-10-20】[joy-of-react / hello-next](https://github.com/joy-of-react/hello-next) - 
 * 【2023-10-19】[ironhack-labs / lab-dom-pizza-builder](https://github.com/ironhack-labs/lab-dom-pizza-builder) - 
 * 【2023-10-19】[piyushkdas0611 / Profile-Card-Generator](https://github.com/piyushkdas0611/Profile-Card-Generator) - A Profile Card Generator for generating profile cards to display on websites.
 * 【2023-10-19】[Komroncube / BulkyBooksMVC-project](https://github.com/Komroncube/BulkyBooksMVC-project) - 11_07_2023
@@ -3424,6 +3486,12 @@
 
 ## Unknown
 
+* 【2023-10-20】[davidetaibi / Microservices_Project_List](https://github.com/davidetaibi/Microservices_Project_List) - A curated List of project that migrated to microservices
+* 【2023-10-20】[uzh-rpg / event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources) - 
+* 【2023-10-20】[xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
+* 【2023-10-20】[Alex313031 / Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS) - Thorium builds for MacOS (arm64 and x64).
+* 【2023-10-20】[frag-o-matic / TheLalaList](https://github.com/frag-o-matic/TheLalaList) - 
+* 【2023-10-20】[Alex313031 / Thorium-Android](https://github.com/Alex313031/Thorium-Android) - Thorium builds for Android (arm64 and arm32).
 * 【2023-10-19】[ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 * 【2023-10-19】[barnamenevisi / free-resources](https://github.com/barnamenevisi/free-resources) - ، تمام منابع آموزشی معرفی شده رایگان هستن برای اینکه هیچکس به خاطر نداشتن پول از آموزش عقب نمونه
 * 【2023-10-19】[jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
