@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-10-21】[xkcoding / spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+* 【2023-10-21】[bcgit / bc-java](https://github.com/bcgit/bc-java) - Bouncy Castle Java Distribution (Mirror)
+* 【2023-10-21】[zccbbg / wms-ruoyi](https://github.com/zccbbg/wms-ruoyi) - 若依wms是一套基于若依的wms仓库管理系统，支持lodop和网页打印入库单、出库单。包括仓库/库区/货架管理，出入库管理，客户/供应商/承运商，库存看板、库存记录等功能。
 * 【2023-10-20】[openjdk / jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 * 【2023-10-20】[OpenRefine / OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 * 【2023-10-20】[SonarSource / sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
@@ -572,6 +575,17 @@
 
 ## Python
 
+* 【2023-10-21】[xlang-ai / OpenAgents](https://github.com/xlang-ai/OpenAgents) - OpenAgents: An Open Platform for Language Agents in the Wild
+* 【2023-10-21】[luosiallen / latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
+* 【2023-10-21】[espnet / espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
+* 【2023-10-21】[huggingface / pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more
+* 【2023-10-21】[PixArt-alpha / PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
+* 【2023-10-21】[Kanaries / pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
+* 【2023-10-21】[neuralmagic / deepsparse](https://github.com/neuralmagic/deepsparse) - Sparsity-aware deep learning inference runtime for CPUs
+* 【2023-10-21】[dbt-labs / dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+* 【2023-10-21】[networkx / networkx](https://github.com/networkx/networkx) - Network Analysis in Python
+* 【2023-10-21】[tiangolo / fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+* 【2023-10-21】[jiajiaxd / Steamauto](https://github.com/jiajiaxd/Steamauto) - 免费开源的网易BUFF、悠悠有品、Steam的全自动收发货解决方案
 * 【2023-10-20】[SigmaHQ / sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
 * 【2023-10-20】[huggingface / peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 * 【2023-10-20】[NVIDIA / Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI
@@ -1063,6 +1077,15 @@
 
 ## Javascript
 
+* 【2023-10-21】[TongchengOpenSource / AppScan](https://github.com/TongchengOpenSource/AppScan) - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
+* 【2023-10-21】[sveltejs / svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+* 【2023-10-21】[gchq / CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+* 【2023-10-21】[OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
+* 【2023-10-21】[dream-num / Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+* 【2023-10-21】[krasimir / react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
+* 【2023-10-21】[import-js / eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
+* 【2023-10-21】[openlayers / openlayers](https://github.com/openlayers/openlayers) - OpenLayers
+* 【2023-10-21】[Tencent / westore](https://github.com/Tencent/westore) - 小程序项目分层架构
 * 【2023-10-20】[mkkellogg / GaussianSplats3D](https://github.com/mkkellogg/GaussianSplats3D) - Three.js-based implementation of the 3D Gaussian splat viewer
 * 【2023-10-20】[nodejs / node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 * 【2023-10-20】[electron / electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
@@ -1468,6 +1491,14 @@
 
 ## Go
 
+* 【2023-10-21】[containerd / containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
+* 【2023-10-21】[go-micro / go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+* 【2023-10-21】[teamhanko / hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
+* 【2023-10-21】[cloudflare / cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+* 【2023-10-21】[projectdiscovery / nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+* 【2023-10-21】[aws / karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+* 【2023-10-21】[kyverno / kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
+* 【2023-10-21】[nntaoli-project / goex](https://github.com/nntaoli-project/goex) - Cryptocurrency Exchange Rest API SDK For Golang Wrapper Support okx,huobi,binance
 * 【2023-10-20】[runatlantis / atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 * 【2023-10-20】[minio / minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 * 【2023-10-20】[trpc-group / trpc-go](https://github.com/trpc-group/trpc-go) - A pluggable, high-performance RPC framework written in golang
@@ -1859,6 +1890,14 @@
 
 ## C
 
+* 【2023-10-21】[wg / wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+* 【2023-10-21】[spdk / spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit
+* 【2023-10-21】[earlephilhower / arduino-pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards
+* 【2023-10-21】[Kitware / CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
+* 【2023-10-21】[coturn / coturn](https://github.com/coturn/coturn) - coturn TURN server project
+* 【2023-10-21】[marella / ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
+* 【2023-10-21】[citusdata / citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
+* 【2023-10-21】[OnionUI / Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 * 【2023-10-20】[nanopb / nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 * 【2023-10-20】[warmcat / libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
 * 【2023-10-20】[attractivechaos / klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
@@ -2190,6 +2229,8 @@
 
 ## C++
 
+* 【2023-10-21】[scylladb / scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+* 【2023-10-21】[luooofan / miniob-2022](https://github.com/luooofan/miniob-2022) - https://open.oceanbase.com/competition/index
 * 【2023-10-20】[Alex313031 / thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 * 【2023-10-20】[pytorch / executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
 * 【2023-10-20】[kimci86 / bkcrack](https://github.com/kimci86/bkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
@@ -2529,6 +2570,9 @@
 
 ## C#
 
+* 【2023-10-21】[JoshClose / CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
+* 【2023-10-21】[mini-software / MiniExcel](https://github.com/mini-software/MiniExcel) - Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet
+* 【2023-10-21】[IdentityServer / IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 * 【2023-10-20】[davidfowl / TodoApi](https://github.com/davidfowl/TodoApi) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
 * 【2023-10-20】[scriptchildie / maliciousCodeMatchingMFA](https://github.com/scriptchildie/maliciousCodeMatchingMFA) - A small executable to trick a user to authenticate using code matching MFA
 * 【2023-10-20】[Azure-Samples / miyagi](https://github.com/Azure-Samples/miyagi) - Sample to envision intelligent apps with Microsoft's Copilot stack for AI-infused product experiences.
@@ -2851,6 +2895,11 @@
 
 ## Html
 
+* 【2023-10-21】[bulianglin / psub](https://github.com/bulianglin/psub) - 利用CF Worker搭建的反代订阅转换工具
+* 【2023-10-21】[serpapi / awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
+* 【2023-10-21】[thedev-id / thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
+* 【2023-10-21】[akshitagupta15june / PetMe](https://github.com/akshitagupta15june/PetMe) - PetMe is an all-in-one platform that allows animals to be adopted, donated to pet lovers, and provides emergency medical care to stray animals in need. Star this repo⭐
+* 【2023-10-21】[khan4019 / front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions) - Help the front End community to rock interview
 * 【2023-10-20】[esphome / firmware](https://github.com/esphome/firmware) - 
 * 【2023-10-20】[Xilinx / embeddedsw](https://github.com/Xilinx/embeddedsw) - Xilinx Embedded Software (embeddedsw) Development
 * 【2023-10-20】[microsoft / fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -3164,6 +3213,9 @@
 
 ## Css
 
+* 【2023-10-21】[chimma666 / restaurant-file](https://github.com/chimma666/restaurant-file) - this is a restaurant menu page where you can show your creativity by adding new features
+* 【2023-10-21】[promet / provus-meridian-demo](https://github.com/promet/provus-meridian-demo) - Meridian Demo Site
+* 【2023-10-21】[caracal-js / Incognito](https://github.com/caracal-js/Incognito) - Source code.
 * 【2023-10-20】[MultiverseLearningProducts / Lightbulb-Selectors](https://github.com/MultiverseLearningProducts/Lightbulb-Selectors) - 
 * 【2023-10-20】[cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 * 【2023-10-20】[sighingnow / jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
@@ -3486,6 +3538,14 @@
 
 ## Unknown
 
+* 【2023-10-21】[zju3dv / 4K4D](https://github.com/zju3dv/4K4D) - 4K4D: Real-Time 4D View Synthesis at 4K Resolution
+* 【2023-10-21】[ByteByteGoHq / ml-bytebytego](https://github.com/ByteByteGoHq/ml-bytebytego) - 
+* 【2023-10-21】[danluu / post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
+* 【2023-10-21】[szabgab / awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
+* 【2023-10-21】[Nikhilthadani / MERN-AI-ChatBot](https://github.com/Nikhilthadani/MERN-AI-ChatBot) - 
+* 【2023-10-21】[shinezyy / micro-arch-training](https://github.com/shinezyy/micro-arch-training) - How to make undergraduates or new graduates ready for advanced computer architecture research or modern CPU design
+* 【2023-10-21】[qd-today / templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
+* 【2023-10-21】[ddgksf2013 / Rewrite](https://github.com/ddgksf2013/Rewrite) - 
 * 【2023-10-20】[davidetaibi / Microservices_Project_List](https://github.com/davidetaibi/Microservices_Project_List) - A curated List of project that migrated to microservices
 * 【2023-10-20】[uzh-rpg / event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources) - 
 * 【2023-10-20】[xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
