@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-10-22】[apache / cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
+* 【2023-10-22】[woowacourse-precourse / java-baseball-6](https://github.com/woowacourse-precourse/java-baseball-6) - 
+* 【2023-10-22】[alibaba / DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
 * 【2023-10-21】[xkcoding / spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 * 【2023-10-21】[bcgit / bc-java](https://github.com/bcgit/bc-java) - Bouncy Castle Java Distribution (Mirror)
 * 【2023-10-21】[zccbbg / wms-ruoyi](https://github.com/zccbbg/wms-ruoyi) - 若依wms是一套基于若依的wms仓库管理系统，支持lodop和网页打印入库单、出库单。包括仓库/库区/货架管理，出入库管理，客户/供应商/承运商，库存看板、库存记录等功能。
@@ -575,6 +578,16 @@
 
 ## Python
 
+* 【2023-10-22】[WisdomShell / codeshell](https://github.com/WisdomShell/codeshell) - A series of code large language models developed by PKU-KCL
+* 【2023-10-22】[Planetary-Computers / autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
+* 【2023-10-22】[babysor / MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+* 【2023-10-22】[facebookresearch / llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+* 【2023-10-22】[waymo-research / waymax](https://github.com/waymo-research/waymax) - A JAX-based simulator for autonomous driving research.
+* 【2023-10-22】[0xsyr0 / OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
+* 【2023-10-22】[yerfor / GeneFace](https://github.com/yerfor/GeneFace) - GeneFace: Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code
+* 【2023-10-22】[Azure-Samples / chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.
+* 【2023-10-22】[OpenTalker / SadTalker](https://github.com/OpenTalker/SadTalker) - [CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
+* 【2023-10-22】[moesnow / March7thAssistant](https://github.com/moesnow/March7thAssistant) - 🧊 崩坏：星穹铁道 自动日常｜每日实训｜清体力｜锄大地｜模拟宇宙｜忘却之庭｜图形界面｜消息推送｜循环运行
 * 【2023-10-21】[xlang-ai / OpenAgents](https://github.com/xlang-ai/OpenAgents) - OpenAgents: An Open Platform for Language Agents in the Wild
 * 【2023-10-21】[luosiallen / latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
 * 【2023-10-21】[espnet / espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
@@ -1077,6 +1090,14 @@
 
 ## Javascript
 
+* 【2023-10-22】[apexcharts / apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
+* 【2023-10-22】[umami-software / umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+* 【2023-10-22】[Dabble-Studio / 3d-to-photo](https://github.com/Dabble-Studio/3d-to-photo) - 3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine
+* 【2023-10-22】[thomasjacquin / allsky](https://github.com/thomasjacquin/allsky) - A Raspberry Pi operated Wireless Allsky Camera
+* 【2023-10-22】[remvst / knight](https://github.com/remvst/knight) - My entry for 2023's js13k competition
+* 【2023-10-22】[woowacourse-precourse / javascript-baseball-6](https://github.com/woowacourse-precourse/javascript-baseball-6) - 
+* 【2023-10-22】[krausest / js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
+* 【2023-10-22】[listen1 / listen1_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
 * 【2023-10-21】[TongchengOpenSource / AppScan](https://github.com/TongchengOpenSource/AppScan) - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
 * 【2023-10-21】[sveltejs / svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 * 【2023-10-21】[gchq / CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -1491,6 +1512,10 @@
 
 ## Go
 
+* 【2023-10-22】[radius-project / radius](https://github.com/radius-project/radius) - Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
+* 【2023-10-22】[JanDeDobbeleer / oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+* 【2023-10-22】[dexidp / dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+* 【2023-10-22】[dagger / dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 * 【2023-10-21】[containerd / containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 * 【2023-10-21】[go-micro / go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 * 【2023-10-21】[teamhanko / hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
@@ -1890,6 +1915,11 @@
 
 ## C
 
+* 【2023-10-22】[unicorn-engine / unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
+* 【2023-10-22】[eclipse / mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
+* 【2023-10-22】[bytecodealliance / wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+* 【2023-10-22】[geany / geany](https://github.com/geany/geany) - A fast and lightweight IDE
+* 【2023-10-22】[M2Team / NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 * 【2023-10-21】[wg / wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 * 【2023-10-21】[spdk / spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit
 * 【2023-10-21】[earlephilhower / arduino-pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards
@@ -2229,6 +2259,13 @@
 
 ## C++
 
+* 【2023-10-22】[NVIDIA / TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
+* 【2023-10-22】[BlueMatthew / WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
+* 【2023-10-22】[cameron314 / concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
+* 【2023-10-22】[hku-mars / FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
+* 【2023-10-22】[PowerDNS / pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
+* 【2023-10-22】[zaphoyd / websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library
+* 【2023-10-22】[HITSZ-Auto / HITSZ-OpenAuto](https://github.com/HITSZ-Auto/HITSZ-OpenAuto) - 哈工大（深圳）自动化本科开源计划
 * 【2023-10-21】[scylladb / scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 * 【2023-10-21】[luooofan / miniob-2022](https://github.com/luooofan/miniob-2022) - https://open.oceanbase.com/competition/index
 * 【2023-10-20】[Alex313031 / thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
@@ -2570,6 +2607,15 @@
 
 ## C#
 
+* 【2023-10-22】[CodeMazeBlog / CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - The main repository for all the Code Maze guides
+* 【2023-10-22】[microsoft / kernel-memory](https://github.com/microsoft/kernel-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations.
+* 【2023-10-22】[dotnet / maui-samples](https://github.com/dotnet/maui-samples) - Samples for .NET Multi-Platform App UI (.NET MAUI)
+* 【2023-10-22】[winsw / winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
+* 【2023-10-22】[riok / mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
+* 【2023-10-22】[cobbr / Covenant](https://github.com/cobbr/Covenant) - Covenant is a collaborative .NET C2 framework for red teamers.
+* 【2023-10-22】[mxgmn / WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
+* 【2023-10-22】[Fictiverse / Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
+* 【2023-10-22】[icsharpcode / ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 * 【2023-10-21】[JoshClose / CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
 * 【2023-10-21】[mini-software / MiniExcel](https://github.com/mini-software/MiniExcel) - Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet
 * 【2023-10-21】[IdentityServer / IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
@@ -2895,6 +2941,10 @@
 
 ## Html
 
+* 【2023-10-22】[jvallbona / exercici2](https://github.com/jvallbona/exercici2) - 
+* 【2023-10-22】[zachleat / table-saw](https://github.com/zachleat/table-saw) - A small web component for responsive <table> elements.
+* 【2023-10-22】[Slope-Game / Slope-Game.github.io](https://github.com/Slope-Game/Slope-Game.github.io) - Slope Game Unblocked
+* 【2023-10-22】[cf-pages / Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 * 【2023-10-21】[bulianglin / psub](https://github.com/bulianglin/psub) - 利用CF Worker搭建的反代订阅转换工具
 * 【2023-10-21】[serpapi / awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
 * 【2023-10-21】[thedev-id / thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
@@ -3213,6 +3263,7 @@
 
 ## Css
 
+* 【2023-10-22】[david-haerer / chatapi](https://github.com/david-haerer/chatapi) - ChatGPT by API
 * 【2023-10-21】[chimma666 / restaurant-file](https://github.com/chimma666/restaurant-file) - this is a restaurant menu page where you can show your creativity by adding new features
 * 【2023-10-21】[promet / provus-meridian-demo](https://github.com/promet/provus-meridian-demo) - Meridian Demo Site
 * 【2023-10-21】[caracal-js / Incognito](https://github.com/caracal-js/Incognito) - Source code.
@@ -3538,6 +3589,15 @@
 
 ## Unknown
 
+* 【2023-10-22】[danieldonda / Cybersecurity101](https://github.com/danieldonda/Cybersecurity101) - Um guia abrangente para iniciantes na área de cibersegurança.
+* 【2023-10-22】[slowmist / SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor) - Smart contract audit skills roadmap for beginners, auditors, engineers, etc.
+* 【2023-10-22】[brillout / awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+* 【2023-10-22】[milkv-duo / duo-buildroot-sdk](https://github.com/milkv-duo/duo-buildroot-sdk) - Milk-V Duo Official buildroot SDK
+* 【2023-10-22】[microsoft / SoM](https://github.com/microsoft/SoM) - Set-of-Mark Prompting for LMMs
+* 【2023-10-22】[MoienTajik / AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2023
+* 【2023-10-22】[ruesandora / Fleek](https://github.com/ruesandora/Fleek) - 
+* 【2023-10-22】[woowacourse / woowacourse-docs](https://github.com/woowacourse/woowacourse-docs) - 우아한테크코스 문서를 관리하는 저장소
+* 【2023-10-22】[desrtfx / SkillGradedProjects](https://github.com/desrtfx/SkillGradedProjects) - Project ideas graded by learnt skills
 * 【2023-10-21】[zju3dv / 4K4D](https://github.com/zju3dv/4K4D) - 4K4D: Real-Time 4D View Synthesis at 4K Resolution
 * 【2023-10-21】[ByteByteGoHq / ml-bytebytego](https://github.com/ByteByteGoHq/ml-bytebytego) - 
 * 【2023-10-21】[danluu / post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
