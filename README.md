@@ -210,6 +210,17 @@
 
 ## Java
 
+* 【2023-10-23】[zfile-dev / zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+* 【2023-10-23】[falvojr / santander-dev-week-2023](https://github.com/falvojr/santander-dev-week-2023) - Java RESTful API criada para a Santander Dev Week
+* 【2023-10-23】[signalapp / Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+* 【2023-10-23】[square / retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
+* 【2023-10-23】[osmandapp / OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
+* 【2023-10-23】[MinecraftForge / MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/
+* 【2023-10-23】[PaperMC / Velocity](https://github.com/PaperMC/Velocity) - The modern, next-generation Minecraft server proxy.
+* 【2023-10-23】[libgdx / libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
+* 【2023-10-23】[GeyserMC / Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+* 【2023-10-23】[gaarason / database-all](https://github.com/gaarason/database-all) - Eloquent ORM for Java 【database-spring-boot-starter】
+* 【2023-10-23】[crazyqiang / AndroidStudy](https://github.com/crazyqiang/AndroidStudy) - 🔥 Android学习知识点总结 Jetpack、MVVM、MVI、Kotlin、ViewPager2、JUC多线程等，欢迎star！
 * 【2023-10-22】[apache / cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
 * 【2023-10-22】[woowacourse-precourse / java-baseball-6](https://github.com/woowacourse-precourse/java-baseball-6) - 
 * 【2023-10-22】[alibaba / DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
@@ -578,6 +589,13 @@
 
 ## Python
 
+* 【2023-10-23】[NVIDIA-Omniverse / IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) - Isaac Gym Reinforcement Learning Environments
+* 【2023-10-23】[sherlock-project / sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+* 【2023-10-23】[AkariAsai / self-rag](https://github.com/AkariAsai/self-rag) - 
+* 【2023-10-23】[facebookresearch / habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
+* 【2023-10-23】[svc-develop-team / so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
+* 【2023-10-23】[microsoft / pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
+* 【2023-10-23】[yym68686 / ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT using Python on Zeabur, fly.io and Replit.
 * 【2023-10-22】[WisdomShell / codeshell](https://github.com/WisdomShell/codeshell) - A series of code large language models developed by PKU-KCL
 * 【2023-10-22】[Planetary-Computers / autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
 * 【2023-10-22】[babysor / MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -1090,6 +1108,10 @@
 
 ## Javascript
 
+* 【2023-10-23】[bchiang7 / v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
+* 【2023-10-23】[MetaMask / eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect) - Utility for detecting phishing domains targeting Web3 users
+* 【2023-10-23】[Guru322 / GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT <DO STAR THE REPO>
+* 【2023-10-23】[chaos-zhu / easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器ssh管理面板(webSSH&webSFTP)
 * 【2023-10-22】[apexcharts / apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 * 【2023-10-22】[umami-software / umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 * 【2023-10-22】[Dabble-Studio / 3d-to-photo](https://github.com/Dabble-Studio/3d-to-photo) - 3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine
@@ -1512,6 +1534,12 @@
 
 ## Go
 
+* 【2023-10-23】[FalconForceTeam / FalconHound](https://github.com/FalconForceTeam/FalconHound) - FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool.
+* 【2023-10-23】[D00Movenok / BounceBack](https://github.com/D00Movenok/BounceBack) - ↕️🤫 Stealth redirector for your red team operation security
+* 【2023-10-23】[go-task / task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+* 【2023-10-23】[stealthrocket / coroutine](https://github.com/stealthrocket/coroutine) - Durable coroutines for Go
+* 【2023-10-23】[ProudMuBai / GoFilm](https://github.com/ProudMuBai/GoFilm) - 多播放源自动采集在线影视网站 golang vue
+* 【2023-10-23】[Monibuca / engine](https://github.com/Monibuca/engine) - Monibuca 核心引擎，包含流媒体核心转发逻辑，需要配合功能插件一起组合运行
 * 【2023-10-22】[radius-project / radius](https://github.com/radius-project/radius) - Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
 * 【2023-10-22】[JanDeDobbeleer / oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 * 【2023-10-22】[dexidp / dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
@@ -1915,6 +1943,12 @@
 
 ## C
 
+* 【2023-10-23】[sleirsgoevy / ps4jb-payloads](https://github.com/sleirsgoevy/ps4jb-payloads) - Extracted payloads from the main repo
+* 【2023-10-23】[surge-synthesizer / surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
+* 【2023-10-23】[axboe / liburing](https://github.com/axboe/liburing) - 
+* 【2023-10-23】[wine-mirror / wine](https://github.com/wine-mirror/wine) - 
+* 【2023-10-23】[ntop / n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
+* 【2023-10-23】[openshwprojects / OpenBK7231T_App](https://github.com/openshwprojects/OpenBK7231T_App) - Open source firmware (Tasmota/Esphome replacement) for BK7231T, BK7231N, BL2028N, T34, XR809, W800/W801, W600/W601 and BL602
 * 【2023-10-22】[unicorn-engine / unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 * 【2023-10-22】[eclipse / mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 * 【2023-10-22】[bytecodealliance / wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
@@ -2259,6 +2293,10 @@
 
 ## C++
 
+* 【2023-10-23】[Roblox / luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
+* 【2023-10-23】[prusa3d / PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+* 【2023-10-23】[facebookresearch / habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
+* 【2023-10-23】[me-no-dev / ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 * 【2023-10-22】[NVIDIA / TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
 * 【2023-10-22】[BlueMatthew / WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
 * 【2023-10-22】[cameron314 / concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
@@ -2607,6 +2645,9 @@
 
 ## C#
 
+* 【2023-10-23】[pizzaboxer / bloxstrap](https://github.com/pizzaboxer/bloxstrap) - An open-source, feature-packed alternative bootstrapper for Roblox.
+* 【2023-10-23】[Orbmu2k / nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
+* 【2023-10-23】[helix-toolkit / helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) - Helix Toolkit is a collection of 3D components for .NET.
 * 【2023-10-22】[CodeMazeBlog / CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - The main repository for all the Code Maze guides
 * 【2023-10-22】[microsoft / kernel-memory](https://github.com/microsoft/kernel-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations.
 * 【2023-10-22】[dotnet / maui-samples](https://github.com/dotnet/maui-samples) - Samples for .NET Multi-Platform App UI (.NET MAUI)
@@ -2941,6 +2982,8 @@
 
 ## Html
 
+* 【2023-10-23】[susam / cfr](https://github.com/susam/cfr) - An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ].
+* 【2023-10-23】[RuanAragao / calculator](https://github.com/RuanAragao/calculator) - Create your own calculator
 * 【2023-10-22】[jvallbona / exercici2](https://github.com/jvallbona/exercici2) - 
 * 【2023-10-22】[zachleat / table-saw](https://github.com/zachleat/table-saw) - A small web component for responsive <table> elements.
 * 【2023-10-22】[Slope-Game / Slope-Game.github.io](https://github.com/Slope-Game/Slope-Game.github.io) - Slope Game Unblocked
@@ -3263,6 +3306,9 @@
 
 ## Css
 
+* 【2023-10-23】[vcwild / priya-portfolio](https://github.com/vcwild/priya-portfolio) - Portfolio for Priya Nobre
+* 【2023-10-23】[vcwild / tcc-proxy](https://github.com/vcwild/tcc-proxy) - An interactive e-book story.
+* 【2023-10-23】[rust-lang / nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
 * 【2023-10-22】[david-haerer / chatapi](https://github.com/david-haerer/chatapi) - ChatGPT by API
 * 【2023-10-21】[chimma666 / restaurant-file](https://github.com/chimma666/restaurant-file) - this is a restaurant menu page where you can show your creativity by adding new features
 * 【2023-10-21】[promet / provus-meridian-demo](https://github.com/promet/provus-meridian-demo) - Meridian Demo Site
@@ -3589,6 +3635,14 @@
 
 ## Unknown
 
+* 【2023-10-23】[alex-xu-system / bytebytego](https://github.com/alex-xu-system/bytebytego) - 
+* 【2023-10-23】[kkrypt0nn / wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 A collection of wordlists for many different usages
+* 【2023-10-23】[Elfocrash / .NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) - Roadmap for a .NET Backend Developer working with Microservices
+* 【2023-10-23】[rockerBOO / awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+* 【2023-10-23】[TheSpeedX / PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List that gets updated everyday
+* 【2023-10-23】[joe-shenouda / awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely
+* 【2023-10-23】[dtlnor / stable-diffusion-webui-localization-zh_CN](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN) - Simplified Chinese translation extension for AUTOMATIC1111's stable diffusion webui
+* 【2023-10-23】[61bcdefg / Hikari-LLVM15](https://github.com/61bcdefg/Hikari-LLVM15) - A fork of Hikari Obfuscator [WIP]
 * 【2023-10-22】[danieldonda / Cybersecurity101](https://github.com/danieldonda/Cybersecurity101) - Um guia abrangente para iniciantes na área de cibersegurança.
 * 【2023-10-22】[slowmist / SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor) - Smart contract audit skills roadmap for beginners, auditors, engineers, etc.
 * 【2023-10-22】[brillout / awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
