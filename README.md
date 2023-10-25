@@ -210,6 +210,11 @@
 
 ## Java
 
+* 【2023-10-25】[careercup / CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) - Cracking the Coding Interview 6th Ed. Solutions
+* 【2023-10-25】[flowable / flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
+* 【2023-10-25】[ionic-team / capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
+* 【2023-10-25】[real-logic / aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
+* 【2023-10-25】[GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 * 【2023-10-24】[digitalinnovationone / lab-padroes-projeto-spring](https://github.com/digitalinnovationone/lab-padroes-projeto-spring) - Exemplos de Padrões de Projeto com Spring
 * 【2023-10-24】[djkcyl / Shamrock](https://github.com/djkcyl/Shamrock) - 
 * 【2023-10-24】[paulgries / CACoding](https://github.com/paulgries/CACoding) - 
@@ -599,6 +604,10 @@
 
 ## Python
 
+* 【2023-10-25】[XingangPan / DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+* 【2023-10-25】[bregman-arie / devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+* 【2023-10-25】[huggingface / datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+* 【2023-10-25】[CarperAI / trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 * 【2023-10-24】[rupeshs / fastsdcpu](https://github.com/rupeshs/fastsdcpu) - Fast stable diffusion on CPU
 * 【2023-10-24】[sqlmapproject / sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 * 【2023-10-24】[Rudrabha / Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
@@ -1126,6 +1135,12 @@
 
 ## Javascript
 
+* 【2023-10-25】[stylelint / stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
+* 【2023-10-25】[azukaar / Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot)
+* 【2023-10-25】[transloadit / uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers 🐶
+* 【2023-10-25】[MonsterNone / tmall-miao](https://github.com/MonsterNone/tmall-miao) - 喵币助手：双十一天猫（淘宝）、京东任务一键完成。基于AutoX.JS。（幻想岛总动员）
+* 【2023-10-25】[hakimel / reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+* 【2023-10-25】[dropzone / dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 * 【2023-10-24】[NginxProxyManager / nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 * 【2023-10-24】[school-of-athens / schoolofathens-world-next](https://github.com/school-of-athens/schoolofathens-world-next) - 
 * 【2023-10-24】[janeczku / calibre-web](https://github.com/janeczku/calibre-web) - 📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -1559,6 +1574,15 @@
 
 ## Go
 
+* 【2023-10-25】[klauspost / compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
+* 【2023-10-25】[go-gost / gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
+* 【2023-10-25】[aperturerobotics / bifrost](https://github.com/aperturerobotics/bifrost) - Cross-platform p2p daemon and library with pluggable transports and WebAssembly support.
+* 【2023-10-25】[pulumi / pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+* 【2023-10-25】[drakkan / sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+* 【2023-10-25】[go-git / go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
+* 【2023-10-25】[bitnami-labs / sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
+* 【2023-10-25】[argoproj / argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
+* 【2023-10-25】[fsnotify / fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 * 【2023-10-24】[FxPool / FXMinerProxy](https://github.com/FxPool/FXMinerProxy) - 🔥minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,矿池抽水,矿池中转,矿场运维专用
 * 【2023-10-24】[IrineSistiana / mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
 * 【2023-10-24】[halfrost / LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -1973,6 +1997,9 @@
 
 ## C
 
+* 【2023-10-25】[kokke / tiny-AES-c](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C
+* 【2023-10-25】[microsoft / mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
+* 【2023-10-25】[openresty / lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 * 【2023-10-24】[darktable-org / darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 * 【2023-10-24】[outflanknl / C2-Tool-Collection](https://github.com/outflanknl/C2-Tool-Collection) - A collection of tools which integrate with Cobalt Strike (and possibly other C2 frameworks) through BOF and reflective DLL loading techniques.
 * 【2023-10-24】[jagt / clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
@@ -2327,6 +2354,13 @@
 
 ## C++
 
+* 【2023-10-25】[gaoxiang12 / slambook2](https://github.com/gaoxiang12/slambook2) - edition 2 of the slambook
+* 【2023-10-25】[hzeller / rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
+* 【2023-10-25】[facebook / hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+* 【2023-10-25】[drogonframework / drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
+* 【2023-10-25】[google / or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
+* 【2023-10-25】[PaddlePaddle / FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization, multi-platform and multi-framework support.
+* 【2023-10-25】[alibaba / havenask](https://github.com/alibaba/havenask) - 
 * 【2023-10-24】[Dr-TSNG / ZygiskOnKernelSU](https://github.com/Dr-TSNG/ZygiskOnKernelSU) - Run Zygisk on KernelSU
 * 【2023-10-24】[transmission / transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 * 【2023-10-24】[openscad / openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
@@ -2685,6 +2719,13 @@
 
 ## C#
 
+* 【2023-10-25】[GhostPack / Certify](https://github.com/GhostPack/Certify) - Active Directory certificate abuse.
+* 【2023-10-25】[FluentValidation / FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
+* 【2023-10-25】[cefsharp / CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
+* 【2023-10-25】[Humanizr / Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+* 【2023-10-25】[0xDrMoe / TownofHost-Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced) - 
+* 【2023-10-25】[pnp / powershell](https://github.com/pnp/powershell) - PnP PowerShell
+* 【2023-10-25】[Unity-Technologies / game-programming-patterns-demo](https://github.com/Unity-Technologies/game-programming-patterns-demo) - A repo of small demos that assemble some of the well-known design patterns in Unity development to support the ebook "Level up your code with game programming patterns"
 * 【2023-10-24】[inkle / ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
 * 【2023-10-24】[Davidobot / BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
 * 【2023-10-24】[XDSEC / MoeCTF_2023](https://github.com/XDSEC/MoeCTF_2023) - 
@@ -3028,6 +3069,9 @@
 
 ## Html
 
+* 【2023-10-25】[surajsharma14 / Web-Dev-Project-for-Hacktoberfest2023](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023) - 
+* 【2023-10-25】[rfordatascience / tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
+* 【2023-10-25】[qiangmzsx / Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
 * 【2023-10-24】[jpanther / congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 * 【2023-10-24】[HarborLibrary / Political-Science](https://github.com/HarborLibrary/Political-Science) - 政治
 * 【2023-10-24】[cursoemvideo / cursoemvideo-html5](https://github.com/cursoemvideo/cursoemvideo-html5) - Material do Curso de HTML5 e CSS3 do Curso em Vídeo
@@ -3355,6 +3399,10 @@
 
 ## Css
 
+* 【2023-10-25】[Azure-Samples / azure-sql-db-session-recommender](https://github.com/Azure-Samples/azure-sql-db-session-recommender) - Build a recommender using OpenAI, Azure Functions, Azure Static Web Apps, Azure SQL DB, Data API builder and Text Embeddings
+* 【2023-10-25】[MilanBhanuka / Sample_Codes](https://github.com/MilanBhanuka/Sample_Codes) - 
+* 【2023-10-25】[tictail / bounce.js](https://github.com/tictail/bounce.js) - Create beautiful CSS3 powered animations in no time.
+* 【2023-10-25】[neeraji2it / paperlesspipeline](https://github.com/neeraji2it/paperlesspipeline) - paperlesspipeline
 * 【2023-10-24】[p3nguin-kun / penguinFox](https://github.com/p3nguin-kun/penguinFox) - 🦊 Firefox with better UI, better privacy and security.
 * 【2023-10-24】[champkeh / wereadx](https://github.com/champkeh/wereadx) - 微信读书辅助工具，可用于书籍下载及自动阅读、自动兑换体验卡等
 * 【2023-10-24】[perkx999 / IntellifyAI](https://github.com/perkx999/IntellifyAI) - 
@@ -3687,6 +3735,13 @@
 
 ## Unknown
 
+* 【2023-10-25】[ZachGoldberg / Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+* 【2023-10-25】[daveshap / SparsePrimingRepresentations](https://github.com/daveshap/SparsePrimingRepresentations) - Public repo to document some SPR stuff
+* 【2023-10-25】[Mooler0410 / LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
+* 【2023-10-25】[iknowjason / Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) - Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
+* 【2023-10-25】[Chuny1 / 3DGPT](https://github.com/Chuny1/3DGPT) - 
+* 【2023-10-25】[arialdomartini / Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
+* 【2023-10-25】[brave-people / Dev-Event](https://github.com/brave-people/Dev-Event) - 🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 알려드립니다. [with 남송리 삼번지]
 * 【2023-10-24】[PanXProject / awesome-certificates](https://github.com/PanXProject/awesome-certificates) - List of IT, computer science and business courses with free certificates & badges.
 * 【2023-10-24】[louis-xiv-drainer / web3drain](https://github.com/louis-xiv-drainer/web3drain) - 
 * 【2023-10-24】[Avik-Jain / 100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
