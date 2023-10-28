@@ -210,6 +210,12 @@
 
 ## Java
 
+* 【2023-10-28】[apache / jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
+* 【2023-10-28】[logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
+* 【2023-10-28】[whitechi73 / OpenShamrock](https://github.com/whitechi73/OpenShamrock) - 一个OneBot11标准的机器人框架
+* 【2023-10-28】[metersphere / metersphere](https://github.com/metersphere/metersphere) - MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
+* 【2023-10-28】[dromara / Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+* 【2023-10-28】[kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
 * 【2023-10-27】[ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 * 【2023-10-27】[flyway / flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 * 【2023-10-27】[apache / flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) - Apache Flink Kubernetes Operator
@@ -615,6 +621,13 @@
 
 ## Python
 
+* 【2023-10-28】[dagster-io / dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+* 【2023-10-28】[bentoml / OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
+* 【2023-10-28】[codefuse-ai / Test-Agent](https://github.com/codefuse-ai/Test-Agent) - 国内首个测试行业大模型工具，体验AIGC为测试领域带来的变革！
+* 【2023-10-28】[AlbusSec / Penetration-List](https://github.com/AlbusSec/Penetration-List) - Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information.
+* 【2023-10-28】[nazavod777 / memeland_auto_reger](https://github.com/nazavod777/memeland_auto_reger) - 
+* 【2023-10-28】[huggingface / text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
+* 【2023-10-28】[openai / gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 * 【2023-10-27】[SUDO-AI-3D / zero123plus](https://github.com/SUDO-AI-3D/zero123plus) - Code repository for Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model.
 * 【2023-10-27】[s0md3v / roop](https://github.com/s0md3v/roop) - one-click face swap
 * 【2023-10-27】[N1k0la-T / CVE-2023-36745](https://github.com/N1k0la-T/CVE-2023-36745) - 
@@ -1166,6 +1179,12 @@
 
 ## Javascript
 
+* 【2023-10-28】[BetterDiscord / BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
+* 【2023-10-28】[LinaYorda / OSINTko](https://github.com/LinaYorda/OSINTko) - OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
+* 【2023-10-28】[jbaysolutions / vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
+* 【2023-10-28】[sequelize / sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+* 【2023-10-28】[mozilla / pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+* 【2023-10-28】[sealdice / javascript](https://github.com/sealdice/javascript) - 这个仓库存储了海豹的JS插件
 * 【2023-10-27】[RahulSChand / gpu_poor](https://github.com/RahulSChand/gpu_poor) - Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization
 * 【2023-10-27】[roberto-butti / some-drops-of-javascript](https://github.com/roberto-butti/some-drops-of-javascript) - This book collects some useful, unknown, underrated JavaScript functions discovered and learned while using JavaScript daily.
 * 【2023-10-27】[inkle / inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
@@ -1621,6 +1640,9 @@
 
 ## Go
 
+* 【2023-10-28】[rebuy-de / aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
+* 【2023-10-28】[sigstore / cosign](https://github.com/sigstore/cosign) - Container Signing
+* 【2023-10-28】[coreybutler / nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 * 【2023-10-27】[docker / cli](https://github.com/docker/cli) - The Docker CLI
 * 【2023-10-27】[shopspring / decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 * 【2023-10-27】[kubernetes-sigs / gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
@@ -2056,6 +2078,12 @@
 
 ## C
 
+* 【2023-10-28】[palera1n / palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
+* 【2023-10-28】[ttttupup / wxhelper](https://github.com/ttttupup/wxhelper) - Hook WeChat / 微信逆向
+* 【2023-10-28】[neutrinolabs / xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
+* 【2023-10-28】[guanzhi / GmSSL](https://github.com/guanzhi/GmSSL) - 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱
+* 【2023-10-28】[FreeRTOS / FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel) - FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.
+* 【2023-10-28】[jjwbruijn / OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) - 
 * 【2023-10-27】[jgamblin / Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 * 【2023-10-27】[zlib-ng / zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib replacement with optimizations for "next generation" systems.
 * 【2023-10-27】[capstone-engine / capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), BPF, Ethereum VM, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.
@@ -2426,6 +2454,8 @@
 
 ## C++
 
+* 【2023-10-28】[recastnavigation / recastnavigation](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh Toolset for Games
+* 【2023-10-28】[DRCL-USC / Hector_Simulation](https://github.com/DRCL-USC/Hector_Simulation) - Simulation Software for HECTOR Humanoid Robot (ROS/MATLAB)
 * 【2023-10-27】[nmslib / hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 * 【2023-10-27】[Dr-TSNG / ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 * 【2023-10-27】[google / leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -2801,6 +2831,8 @@
 
 ## C#
 
+* 【2023-10-28】[XINCGer / Unity3DTraining](https://github.com/XINCGer/Unity3DTraining) - 【Unity杂货铺】unity大杂烩~
+* 【2023-10-28】[LocalizeLimbusCompany / LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) - 边狱公司汉化模组，月亮计划官方已声明不会封禁使用者 | Limbus Company I18N mod,This mod is allowed by Project Moon Offical
 * 【2023-10-27】[mrdude2478 / IPS_Patch_Creator](https://github.com/mrdude2478/IPS_Patch_Creator) - A PC program to generate IPS Sig patches for the switch.
 * 【2023-10-27】[dbrizov / NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
 * 【2023-10-27】[SebLague / Fluid-Sim](https://github.com/SebLague/Fluid-Sim) - 
@@ -3160,6 +3192,10 @@
 
 ## Html
 
+* 【2023-10-28】[DualSubs / YouTube](https://github.com/DualSubs/YouTube) - YouTube字幕增强及双语模块
+* 【2023-10-28】[grassmunk / Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
+* 【2023-10-28】[Hyraze / ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) - Explore a curated selection of AI tools and resources
+* 【2023-10-28】[LuckyPuppy514 / Play-With-MPV](https://github.com/LuckyPuppy514/Play-With-MPV) - 使用 MPV 播放网页中的视频
 * 【2023-10-27】[cirosantilli / china-dictatorship](https://github.com/cirosantilli/china-dictatorship) - 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police might pay you a visit. Home to the mega-FAQ, news compilation, restaurant and music recommen…
 * 【2023-10-27】[Tencent / weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 * 【2023-10-27】[realpython / materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
@@ -3500,6 +3536,7 @@
 
 ## Css
 
+* 【2023-10-28】[subframe7536 / obsidian-theme-maple](https://github.com/subframe7536/obsidian-theme-maple) - Maple —— an obsidian theme for desktop with graceful animation and awesome components
 * 【2023-10-27】[mwittrien / BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 * 【2023-10-27】[tabulapdf / tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 * 【2023-10-26】[AcademySoftwareFoundation / OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) - Specification and reference implementation for the OpenPBR Surface shading model
@@ -3843,6 +3880,19 @@
 
 ## Unknown
 
+* 【2023-10-28】[ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - This repository contains LeetCode articles which are very useful during the interview preparation.
+* 【2023-10-28】[vasanthk / react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
+* 【2023-10-28】[ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design articles which are useful during the interview preparation and while learning Distributed Systems
+* 【2023-10-28】[google / material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+* 【2023-10-28】[balloonwj / CppGuide](https://github.com/balloonwj/CppGuide) - C/C++学习，后端开发进阶指南。
+* 【2023-10-28】[londonappbrewery / Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
+* 【2023-10-28】[charonlight / NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI) - Nacos综合漏洞利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用
+* 【2023-10-28】[aws / aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java.
+* 【2023-10-28】[qingsongedu / Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) - A professional list on Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series, Spatiotemporal, and Event Data.
+* 【2023-10-28】[daffainfo / AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
+* 【2023-10-28】[deepseek-ai / DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) - Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior
+* 【2023-10-28】[oldwinter / knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
+* 【2023-10-28】[tingyour / tingyour](https://github.com/tingyour/tingyour) - Tingyour是一个无需科学上网即可让你畅游YouTube油管，且可听/可看/可下载的视听体验，帮助发掘自己独特的兴趣所在的网站！
 * 【2023-10-27】[dotdc / grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 * 【2023-10-27】[aluismoya / EbookFoundation-free-programming-books](https://github.com/aluismoya/EbookFoundation-free-programming-books) - 
 * 【2023-10-27】[OneCodeMonkey / music-sources](https://github.com/OneCodeMonkey/music-sources) - 音乐播放可用源
