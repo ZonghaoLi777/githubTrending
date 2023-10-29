@@ -210,6 +210,10 @@
 
 ## Java
 
+* 【2023-10-29】[nayuki / QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
+* 【2023-10-29】[alibaba / Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+* 【2023-10-29】[sagframe / sagacity-sqltoy](https://github.com/sagframe/sagacity-sqltoy) - Java真正智慧的ORM框架，除具有JPA功能外，具有最佳的sql编写模式、独创的缓存翻译、最优化的分页、并提供无限层级分组汇总、同比环比、行列转换、树形排序汇总、sql自适配不同数据库、分库分表、多租户、数据加解密、脱敏等痛点问题的解决方案!
+* 【2023-10-29】[jenly1314 / ZXingLite](https://github.com/jenly1314/ZXingLite) - 🔥 ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成更简单。（扫码识别速度快如微信）
 * 【2023-10-28】[apache / jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
 * 【2023-10-28】[logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 * 【2023-10-28】[whitechi73 / OpenShamrock](https://github.com/whitechi73/OpenShamrock) - 一个OneBot11标准的机器人框架
@@ -621,6 +625,16 @@
 
 ## Python
 
+* 【2023-10-29】[xxlong0 / Wonder3D](https://github.com/xxlong0/Wonder3D) - A cross-domain diffusion model for 3D reconstruction from a single image
+* 【2023-10-29】[logspace-ai / langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
+* 【2023-10-29】[nadermx / backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+* 【2023-10-29】[amidaware / tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
+* 【2023-10-29】[jackhawks / telegram-groups](https://github.com/jackhawks/telegram-groups) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
+* 【2023-10-29】[huggingface / alignment-handbook](https://github.com/huggingface/alignment-handbook) - Robust recipes for to align language models with human and AI preferences
+* 【2023-10-29】[serengil / deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
+* 【2023-10-29】[open-mmlab / mmaction2](https://github.com/open-mmlab/mmaction2) - OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark
+* 【2023-10-29】[HKUDS / RLMRec](https://github.com/HKUDS/RLMRec) - "RLMRec: Representation Learning with Large Language Models for Recommendation"
+* 【2023-10-29】[CoderWanFeng / PyOfficeRobot](https://github.com/CoderWanFeng/PyOfficeRobot) - pip install PyOfficeRobot，微信机器人
 * 【2023-10-28】[dagster-io / dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 * 【2023-10-28】[bentoml / OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 * 【2023-10-28】[codefuse-ai / Test-Agent](https://github.com/codefuse-ai/Test-Agent) - 国内首个测试行业大模型工具，体验AIGC为测试领域带来的变革！
@@ -1179,6 +1193,9 @@
 
 ## Javascript
 
+* 【2023-10-29】[Orange-Cyberdefense / GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
+* 【2023-10-29】[TheOdinProject / javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) - 
+* 【2023-10-29】[highlightjs / highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 * 【2023-10-28】[BetterDiscord / BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 * 【2023-10-28】[LinaYorda / OSINTko](https://github.com/LinaYorda/OSINTko) - OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
 * 【2023-10-28】[jbaysolutions / vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
@@ -1640,6 +1657,10 @@
 
 ## Go
 
+* 【2023-10-29】[beego / beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+* 【2023-10-29】[ent / ent](https://github.com/ent/ent) - An entity framework for Go
+* 【2023-10-29】[kopia / kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+* 【2023-10-29】[apicat / apicat](https://github.com/apicat/apicat) - ApiCat is an API development tool based on AI technology. It analyzes and identifies API requirements input by users, and automatically generates corresponding API documents and codes to help developers develop APIs more quickly and efficiently.
 * 【2023-10-28】[rebuy-de / aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 * 【2023-10-28】[sigstore / cosign](https://github.com/sigstore/cosign) - Container Signing
 * 【2023-10-28】[coreybutler / nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -2078,6 +2099,13 @@
 
 ## C
 
+* 【2023-10-29】[videolan / vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
+* 【2023-10-29】[citusdata / pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
+* 【2023-10-29】[greenplum-db / gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
+* 【2023-10-29】[GaijinEntertainment / daScript](https://github.com/GaijinEntertainment/daScript) - daScript - high-performance statically strong typed scripting language
+* 【2023-10-29】[JHRobotics / patcher9x](https://github.com/JHRobotics/patcher9x) - Patch for Windows 9x to fix CPU issues
+* 【2023-10-29】[atc1441 / ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter
+* 【2023-10-29】[libarchive / libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
 * 【2023-10-28】[palera1n / palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
 * 【2023-10-28】[ttttupup / wxhelper](https://github.com/ttttupup/wxhelper) - Hook WeChat / 微信逆向
 * 【2023-10-28】[neutrinolabs / xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
@@ -2454,6 +2482,13 @@
 
 ## C++
 
+* 【2023-10-29】[GaijinEntertainment / DagorEngine](https://github.com/GaijinEntertainment/DagorEngine) - Dagor Engine and Tools source code from Gaijin Games KFT
+* 【2023-10-29】[PurpleI2P / i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
+* 【2023-10-29】[halpz / re3](https://github.com/halpz/re3) - 
+* 【2023-10-29】[PX4 / PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software
+* 【2023-10-29】[Snapchat / KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
+* 【2023-10-29】[tensorflow / tflite-micro](https://github.com/tensorflow/tflite-micro) - Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
+* 【2023-10-29】[mavlink / mavros](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station
 * 【2023-10-28】[recastnavigation / recastnavigation](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh Toolset for Games
 * 【2023-10-28】[DRCL-USC / Hector_Simulation](https://github.com/DRCL-USC/Hector_Simulation) - Simulation Software for HECTOR Humanoid Robot (ROS/MATLAB)
 * 【2023-10-27】[nmslib / hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
@@ -2831,6 +2866,11 @@
 
 ## C#
 
+* 【2023-10-29】[SciSharp / LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET binding of llama.cpp, including LLaMa/GPT model inference and quantization, ASP.NET core and semantic-kernel integration.
+* 【2023-10-29】[Scighost / Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo - 米家游戏启动器
+* 【2023-10-29】[lucasg / Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
+* 【2023-10-29】[davidfowl / AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) - This repository has examples of broken patterns in ASP.NET Core applications
+* 【2023-10-29】[snowflakedb / snowflake-connector-net](https://github.com/snowflakedb/snowflake-connector-net) - Snowflake Connector for .NET
 * 【2023-10-28】[XINCGer / Unity3DTraining](https://github.com/XINCGer/Unity3DTraining) - 【Unity杂货铺】unity大杂烩~
 * 【2023-10-28】[LocalizeLimbusCompany / LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) - 边狱公司汉化模组，月亮计划官方已声明不会封禁使用者 | Limbus Company I18N mod,This mod is allowed by Project Moon Offical
 * 【2023-10-27】[mrdude2478 / IPS_Patch_Creator](https://github.com/mrdude2478/IPS_Patch_Creator) - A PC program to generate IPS Sig patches for the switch.
@@ -3192,6 +3232,10 @@
 
 ## Html
 
+* 【2023-10-29】[i-am-alice / 2nd-devs](https://github.com/i-am-alice/2nd-devs) - 
+* 【2023-10-29】[x-dr / tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
+* 【2023-10-29】[EAGLECRAFTARCHIVE / EagleCraft-Download](https://github.com/EAGLECRAFTARCHIVE/EagleCraft-Download) - EagleCraft Archived
+* 【2023-10-29】[oneapi-src / oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 * 【2023-10-28】[DualSubs / YouTube](https://github.com/DualSubs/YouTube) - YouTube字幕增强及双语模块
 * 【2023-10-28】[grassmunk / Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 * 【2023-10-28】[Hyraze / ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) - Explore a curated selection of AI tools and resources
@@ -3536,6 +3580,11 @@
 
 ## Css
 
+* 【2023-10-29】[toriekimFSA / Flex.Demo.GroceryList](https://github.com/toriekimFSA/Flex.Demo.GroceryList) - 
+* 【2023-10-29】[Kalvium-Program / zombie-shoot-boilerplate](https://github.com/Kalvium-Program/zombie-shoot-boilerplate) - 
+* 【2023-10-29】[RandolphDR / Randolph-Flowers](https://github.com/RandolphDR/Randolph-Flowers) - Code not mine copyright only for educational purposes!
+* 【2023-10-29】[Ehviewer-Overhauled / fdroid-repo](https://github.com/Ehviewer-Overhauled/fdroid-repo) - Fdroid repo for Ehviewer-Overhauled Project
+* 【2023-10-29】[creativetimofficial / paper-dashboard-react](https://github.com/creativetimofficial/paper-dashboard-react) - 
 * 【2023-10-28】[subframe7536 / obsidian-theme-maple](https://github.com/subframe7536/obsidian-theme-maple) - Maple —— an obsidian theme for desktop with graceful animation and awesome components
 * 【2023-10-27】[mwittrien / BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 * 【2023-10-27】[tabulapdf / tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
@@ -3880,6 +3929,14 @@
 
 ## Unknown
 
+* 【2023-10-29】[techiescamp / kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
+* 【2023-10-29】[gtech-mulearn / Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders) - Kerala Top 100 Coders - Huddle Global 2023. Join our coding challenge and showcase your skills. Connect with startups and industries in Kerala's vibrant tech ecosystem
+* 【2023-10-29】[P3N-101 / ResourceKit](https://github.com/P3N-101/ResourceKit) - 
+* 【2023-10-29】[PaulWaltersDev / FreeLearningResourcesForSoftwareTesters](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.
+* 【2023-10-29】[Ignitetechnologies / bugbounty](https://github.com/Ignitetechnologies/bugbounty) - 
+* 【2023-10-29】[psychon-night / bypass-youtube-adblock-blocker](https://github.com/psychon-night/bypass-youtube-adblock-blocker) - A guide to blocking YouTube's anti-adblocking nonsense
+* 【2023-10-29】[cugu / awesome-forensics](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources
+* 【2023-10-29】[xiongcccc / PostgreSQL-ecosystem](https://github.com/xiongcccc/PostgreSQL-ecosystem) - Some things about PostgreSQL
 * 【2023-10-28】[ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - This repository contains LeetCode articles which are very useful during the interview preparation.
 * 【2023-10-28】[vasanthk / react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 * 【2023-10-28】[ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design articles which are useful during the interview preparation and while learning Distributed Systems
