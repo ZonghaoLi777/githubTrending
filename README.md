@@ -210,6 +210,12 @@
 
 ## Java
 
+* 【2023-10-30】[SaiUpadhyayula / spring-boot-microservices](https://github.com/SaiUpadhyayula/spring-boot-microservices) - This repository contains the latest source code of th spring-boot-microservices tutorial
+* 【2023-10-30】[hyperledger / besu](https://github.com/hyperledger/besu) - An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu
+* 【2023-10-30】[akto-api-security / akto](https://github.com/akto-api-security/akto) - Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
+* 【2023-10-30】[TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
+* 【2023-10-30】[karma9874 / AndroRAT](https://github.com/karma9874/AndroRAT) - A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
+* 【2023-10-30】[maxiaof / github-hosts](https://github.com/maxiaof/github-hosts) - 通过修改Hosts解决国内Github经常抽风访问不到,每日更新
 * 【2023-10-29】[nayuki / QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 * 【2023-10-29】[alibaba / Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 * 【2023-10-29】[sagframe / sagacity-sqltoy](https://github.com/sagframe/sagacity-sqltoy) - Java真正智慧的ORM框架，除具有JPA功能外，具有最佳的sql编写模式、独创的缓存翻译、最优化的分页、并提供无限层级分组汇总、同比环比、行列转换、树形排序汇总、sql自适配不同数据库、分库分表、多租户、数据加解密、脱敏等痛点问题的解决方案!
@@ -625,6 +631,15 @@
 
 ## Python
 
+* 【2023-10-30】[THUDM / ChatGLM3](https://github.com/THUDM/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
+* 【2023-10-30】[RsaCtfTool / RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
+* 【2023-10-30】[Rapptz / discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+* 【2023-10-30】[karfly / chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
+* 【2023-10-30】[LmeSzinc / AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界
+* 【2023-10-30】[mikf / gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
+* 【2023-10-30】[SkunkworksAI / BakLLaVA](https://github.com/SkunkworksAI/BakLLaVA) - 
+* 【2023-10-30】[FlagOpen / FlagPerf](https://github.com/FlagOpen/FlagPerf) - FlagPerf is an open-source software platform for benchmarking AI chips.
+* 【2023-10-30】[jsksxs360 / How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers) - Transformers 库快速入门教程
 * 【2023-10-29】[xxlong0 / Wonder3D](https://github.com/xxlong0/Wonder3D) - A cross-domain diffusion model for 3D reconstruction from a single image
 * 【2023-10-29】[logspace-ai / langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 * 【2023-10-29】[nadermx / backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
@@ -1193,6 +1208,11 @@
 
 ## Javascript
 
+* 【2023-10-30】[marktext / marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+* 【2023-10-30】[modood / Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+* 【2023-10-30】[souravkl11 / raganork-md](https://github.com/souravkl11/raganork-md) - Multi-functional WhatsApp bot project
+* 【2023-10-30】[spicetify / spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+* 【2023-10-30】[sseezov / l5-validator-test-v2](https://github.com/sseezov/l5-validator-test-v2) - Аналог аттестационного проекта для 2 курса 1 семестра в Хекслет колледж
 * 【2023-10-29】[Orange-Cyberdefense / GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 * 【2023-10-29】[TheOdinProject / javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) - 
 * 【2023-10-29】[highlightjs / highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
@@ -1657,6 +1677,14 @@
 
 ## Go
 
+* 【2023-10-30】[SidraChain / go-ethereum](https://github.com/SidraChain/go-ethereum) - Forked Golang execution layer implementation of the Ethereum protocol.
+* 【2023-10-30】[scratchdata / ScratchDB](https://github.com/scratchdata/ScratchDB) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
+* 【2023-10-30】[getlantern / lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت
+* 【2023-10-30】[hashicorp / nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+* 【2023-10-30】[dunglas / frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
+* 【2023-10-30】[cerbos / cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
+* 【2023-10-30】[golang / tools](https://github.com/golang/tools) - [mirror] Go Tools
+* 【2023-10-30】[superseriousbusiness / gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 * 【2023-10-29】[beego / beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 * 【2023-10-29】[ent / ent](https://github.com/ent/ent) - An entity framework for Go
 * 【2023-10-29】[kopia / kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -2099,6 +2127,8 @@
 
 ## C
 
+* 【2023-10-30】[dune3d / dune3d](https://github.com/dune3d/dune3d) - 3D CAD application
+* 【2023-10-30】[Tongsuo-Project / Tongsuo](https://github.com/Tongsuo-Project/Tongsuo) - 铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library
 * 【2023-10-29】[videolan / vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 * 【2023-10-29】[citusdata / pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 * 【2023-10-29】[greenplum-db / gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
@@ -2482,6 +2512,8 @@
 
 ## C++
 
+* 【2023-10-30】[Lyall / MGSHDFix](https://github.com/Lyall/MGSHDFix) - A work-in-progress fix that aims to add custom resolutions and ultrawide support to Metal Gear Solid Master Collection.
+* 【2023-10-30】[stenzek / duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 * 【2023-10-29】[GaijinEntertainment / DagorEngine](https://github.com/GaijinEntertainment/DagorEngine) - Dagor Engine and Tools source code from Gaijin Games KFT
 * 【2023-10-29】[PurpleI2P / i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 * 【2023-10-29】[halpz / re3](https://github.com/halpz/re3) - 
@@ -2866,6 +2898,11 @@
 
 ## C#
 
+* 【2023-10-30】[MarsQQ / Aimmy](https://github.com/MarsQQ/Aimmy) - Universal Second Eye for Gamers with Impairments
+* 【2023-10-30】[altmann / FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
+* 【2023-10-30】[netchx / netch](https://github.com/netchx/netch) - A simple proxy client
+* 【2023-10-30】[fudiwei / DotNetCore.SKIT.FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) - 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。欢迎 Star / Fork。QQ 交流群 875580418【满】、930461548。
+* 【2023-10-30】[Gaoyifei1011 / GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
 * 【2023-10-29】[SciSharp / LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET binding of llama.cpp, including LLaMa/GPT model inference and quantization, ASP.NET core and semantic-kernel integration.
 * 【2023-10-29】[Scighost / Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo - 米家游戏启动器
 * 【2023-10-29】[lucasg / Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
@@ -3232,6 +3269,10 @@
 
 ## Html
 
+* 【2023-10-30】[razar-dev / PowerTube](https://github.com/razar-dev/PowerTube) - PowerTube - Youtube-dl client for Android
+* 【2023-10-30】[mowzk / repo-recon](https://github.com/mowzk/repo-recon) - CTF Challenge for Fetch the Flag 2023
+* 【2023-10-30】[unhackableandy / my-other-awesome-site](https://github.com/unhackableandy/my-other-awesome-site) - 
+* 【2023-10-30】[fastlane / docs](https://github.com/fastlane/docs) - All the fastlane docs
 * 【2023-10-29】[i-am-alice / 2nd-devs](https://github.com/i-am-alice/2nd-devs) - 
 * 【2023-10-29】[x-dr / tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
 * 【2023-10-29】[EAGLECRAFTARCHIVE / EagleCraft-Download](https://github.com/EAGLECRAFTARCHIVE/EagleCraft-Download) - EagleCraft Archived
@@ -3580,6 +3621,7 @@
 
 ## Css
 
+* 【2023-10-30】[refact0r / midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
 * 【2023-10-29】[toriekimFSA / Flex.Demo.GroceryList](https://github.com/toriekimFSA/Flex.Demo.GroceryList) - 
 * 【2023-10-29】[Kalvium-Program / zombie-shoot-boilerplate](https://github.com/Kalvium-Program/zombie-shoot-boilerplate) - 
 * 【2023-10-29】[RandolphDR / Randolph-Flowers](https://github.com/RandolphDR/Randolph-Flowers) - Code not mine copyright only for educational purposes!
@@ -3929,6 +3971,14 @@
 
 ## Unknown
 
+* 【2023-10-30】[vercel / geist-font](https://github.com/vercel/geist-font) - 
+* 【2023-10-30】[brootware / awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
+* 【2023-10-30】[mgramin / awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
+* 【2023-10-30】[yonggekkk / warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本CFwarp，支持warp在线监测守护、endpoint对端优选IP等功能，replit平台无限生成warp+密钥与warp配置文件
+* 【2023-10-30】[ashishpatel26 / 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
+* 【2023-10-30】[krishnadey30 / LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
+* 【2023-10-30】[AaNingNing / Sth-Matters](https://github.com/AaNingNing/Sth-Matters) - Notes
+* 【2023-10-30】[gaoyb7 / rclone-release](https://github.com/gaoyb7/rclone-release) - rclone 改版，兼容支持 115 网盘
 * 【2023-10-29】[techiescamp / kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 * 【2023-10-29】[gtech-mulearn / Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders) - Kerala Top 100 Coders - Huddle Global 2023. Join our coding challenge and showcase your skills. Connect with startups and industries in Kerala's vibrant tech ecosystem
 * 【2023-10-29】[P3N-101 / ResourceKit](https://github.com/P3N-101/ResourceKit) - 
