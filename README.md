@@ -210,6 +210,12 @@
 
 ## Java
 
+* 【2023-11-02】[SuperMonster003 / AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
+* 【2023-11-02】[dromara / hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless. Support monitoring web, database, os, middleware, cloudnative, network and more.
+* 【2023-11-02】[apache / fineract](https://github.com/apache/fineract) - Apache Fineract
+* 【2023-11-02】[traccar / traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
+* 【2023-11-02】[micrometer-metrics / micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
+* 【2023-11-02】[DuGuQiuBai / Java](https://github.com/DuGuQiuBai/Java) - 27天成为Java大神
 * 【2023-11-01】[AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps on Android smartphones.
 * 【2023-10-31】[GXhunter / rpc-framework](https://github.com/GXhunter/rpc-framework) - 
 * 【2023-10-31】[TEAMMATES / teammates](https://github.com/TEAMMATES/teammates) - This is the project website for the TEAMMATES feedback management tool for education
@@ -639,6 +645,12 @@
 
 ## Python
 
+* 【2023-11-02】[Azure / MS-AMP](https://github.com/Azure/MS-AMP) - Microsoft Automatic Mixed Precision Library
+* 【2023-11-02】[yunjey / pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
+* 【2023-11-02】[togethercomputer / RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
+* 【2023-11-02】[SkyworkAI / Skywork](https://github.com/SkyworkAI/Skywork) - Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc. 天工系列模型在3.2TB高质量多语言和代码数据上进行预训练。我们开源了模型参数，训练数据，评估数据，评估方法。
+* 【2023-11-02】[microsoft / qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+* 【2023-11-02】[pathwaycom / llm-app](https://github.com/pathwaycom/llm-app) - LLM App is a production framework for building and serving AI applications and LLM-enabled real-time data pipelines.
 * 【2023-11-01】[ageitgey / face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 * 【2023-11-01】[CycodeLabs / raven](https://github.com/CycodeLabs/raven) - RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD)
 * 【2023-11-01】[ungoogled-software / ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
@@ -1226,6 +1238,7 @@
 
 ## Javascript
 
+* 【2023-11-02】[TonyJiangWJ / Ant-Forest](https://github.com/TonyJiangWJ/Ant-Forest) - 基于AutoJS的蚂蚁森林收能量脚本
 * 【2023-11-01】[sveltejs / kit](https://github.com/sveltejs/kit) - web development, streamlined
 * 【2023-11-01】[xnl-h4ck3r / XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) - A Chrome/Firefox browser extension to show alerts for relfected query params, show hidden elements and enable disabled elements.
 * 【2023-11-01】[drHyperion451 / does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so!
@@ -1707,6 +1720,14 @@
 
 ## Go
 
+* 【2023-11-02】[prometheus / node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+* 【2023-11-02】[miekg / dns](https://github.com/miekg/dns) - DNS library in Go
+* 【2023-11-02】[GREENHAT7 / pxplan](https://github.com/GREENHAT7/pxplan) - CVE-2023-2023
+* 【2023-11-02】[moonD4rk / HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+* 【2023-11-02】[gaoyb7 / 115drive-webdav](https://github.com/gaoyb7/115drive-webdav) - 115 网盘 WebDAV 服务
+* 【2023-11-02】[theRank / chinese-holidays-calendar](https://github.com/theRank/chinese-holidays-calendar) - Calendar of Public Holidays in China & Automatic Alarm Clock 中国大陆节假日安排 日历订阅 自动节假日闹钟
+* 【2023-11-02】[guonaihong / gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---> gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
+* 【2023-11-02】[ConnectAI-E / Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
 * 【2023-11-01】[rsc / unix](https://github.com/rsc/unix) - Old Unix programs running on modern computers.
 * 【2023-11-01】[treeverse / lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 * 【2023-11-01】[mitchellh / mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
@@ -2170,6 +2191,9 @@
 
 ## C
 
+* 【2023-11-02】[ARMmbed / mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
+* 【2023-11-02】[libfuse / sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
+* 【2023-11-02】[c-ares / c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 * 【2023-11-01】[blasty / unwyze](https://github.com/blasty/unwyze) - 
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 * 【2023-10-31】[witnessmenow / ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
@@ -2562,6 +2586,12 @@
 
 ## C++
 
+* 【2023-11-02】[google / sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
+* 【2023-11-02】[ckcr4lyf / EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32
+* 【2023-11-02】[progschj / ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
+* 【2023-11-02】[intel / intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
+* 【2023-11-02】[ton-blockchain / ton](https://github.com/ton-blockchain/ton) - Main TON monorepo
+* 【2023-11-02】[mahuifa / QMDemo](https://github.com/mahuifa/QMDemo) - Qt日常开发的一些功能模块或者Qt库、三方库的使用Demo，例如FFmpeg、OpenCV、Web、QGraphicsView、OpenGL、网络编程、数据库、QSS样式表、QtChart图表绘制等。
 * 【2023-11-01】[Rahiche / riveo_page_curl](https://github.com/Rahiche/riveo_page_curl) - Riveo page curl effect in flutter
 * 【2023-11-01】[luau-lang / luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 * 【2023-11-01】[myzxcg / RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR) - Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...
@@ -2957,6 +2987,8 @@
 
 ## C#
 
+* 【2023-11-02】[mono / mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
+* 【2023-11-02】[tuyoogame / YooAsset](https://github.com/tuyoogame/YooAsset) - unity3d resources management system
 * 【2023-11-01】[Stealerium / Stealerium](https://github.com/Stealerium/Stealerium) - Stealer + Clipper + Keylogger
 * 【2023-11-01】[Perfare / Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
 * 【2023-10-31】[Babyhamsta / Aimmy](https://github.com/Babyhamsta/Aimmy) - Universal Second Eye for Gamers with Impairments (Universal AI Aim Aligner - YOLOv8)
@@ -3332,6 +3364,9 @@
 
 ## Html
 
+* 【2023-11-02】[fool2fish / dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
+* 【2023-11-02】[lwinmoepaing / html-and-css-beginner-to-super-beginner-ebook](https://github.com/lwinmoepaing/html-and-css-beginner-to-super-beginner-ebook) - 
+* 【2023-11-02】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
 * 【2023-11-01】[w3c / webcodecs](https://github.com/w3c/webcodecs) - WebCodecs is a flexible web API for encoding and decoding audio and video.
 * 【2023-10-31】[LouisBear123a / LouisBear123a.github.io](https://github.com/LouisBear123a/LouisBear123a.github.io) - Custom website design
 * 【2023-10-31】[codewithsadee / anon-ecommerce-website](https://github.com/codewithsadee/anon-ecommerce-website) - Fully responsive ecommerce website, built using HTML CSS and JavaScript.
@@ -3688,6 +3723,8 @@
 
 ## Css
 
+* 【2023-11-02】[starknet-edu / starknetbook](https://github.com/starknet-edu/starknetbook) - Mastering Starknet. By the Starknet community
+* 【2023-11-02】[titaniumnetwork-dev / alloy](https://github.com/titaniumnetwork-dev/alloy) - A web proxy for use in combating web filters.
 * 【2023-11-01】[qq8e / qq](https://github.com/qq8e/qq) - 8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多
 * 【2023-11-01】[GDSCxGMIT / Giting-LinkedIn](https://github.com/GDSCxGMIT/Giting-LinkedIn) - Portfolio Website Template
 * 【2023-11-01】[theaob / oldblog](https://github.com/theaob/oldblog) - 
@@ -4046,6 +4083,12 @@
 
 ## Unknown
 
+* 【2023-11-02】[artichokeee / test-assignments](https://github.com/artichokeee/test-assignments) - Список тестовых заданий для ручных тестировщиков и автоматизаторов
+* 【2023-11-02】[afshinea / stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
+* 【2023-11-02】[agmmnn / awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
+* 【2023-11-02】[mhadidg / software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
+* 【2023-11-02】[karanwxliaa / Research-for-UG-Students](https://github.com/karanwxliaa/Research-for-UG-Students) - Research programs for Undergraduate students
+* 【2023-11-02】[Mwaseemzakir / Learn-Dot-Net](https://github.com/Mwaseemzakir/Learn-Dot-Net) - This repository contains list of all books for DotNet Developers
 * 【2023-11-01】[georgezouq / awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 * 【2023-11-01】[KathanP19 / HowToHunt](https://github.com/KathanP19/HowToHunt) - Collection of methodology and test case for various web vulnerabilities.
 * 【2023-11-01】[KAYOKG / BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev) - 📚 Biblioteca de livros essenciais da área da programação.
