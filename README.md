@@ -210,6 +210,10 @@
 
 ## Java
 
+* 【2023-11-03】[eugene-khyst / postgresql-event-sourcing](https://github.com/eugene-khyst/postgresql-event-sourcing) - A reference implementation of an event-sourced system that uses PostgreSQL as an event store built with Spring Boot. Fork the repository and use it as a template for your projects. Or clone the repository and run end-to-end tests to see how everything works together.
+* 【2023-11-03】[camunda / camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.
+* 【2023-11-03】[saraSakuHj / HyperCeiler](https://github.com/saraSakuHj/HyperCeiler) - Make HyperOS Great Again!
+* 【2023-11-03】[cybertheye / evolution-from-netty-to-springboot](https://github.com/cybertheye/evolution-from-netty-to-springboot) - 学习开源项目，模拟实现netty，tomcat，springmvc，springboot等核心功能。可以作为提升编码能力的实践项目。欢迎各位一起参与，提交代码，相互学习
 * 【2023-11-02】[SuperMonster003 / AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
 * 【2023-11-02】[dromara / hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless. Support monitoring web, database, os, middleware, cloudnative, network and more.
 * 【2023-11-02】[apache / fineract](https://github.com/apache/fineract) - Apache Fineract
@@ -645,6 +649,13 @@
 
 ## Python
 
+* 【2023-11-03】[public-apis-dev / public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
+* 【2023-11-03】[AILab-CVC / VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) - VideoCrafter1: Open Diffusion Models for High-Quality Video Generation
+* 【2023-11-03】[gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
+* 【2023-11-03】[facebookresearch / fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+* 【2023-11-03】[tatsu-lab / stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+* 【2023-11-03】[minimaxir / big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+* 【2023-11-03】[safevideo / autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
 * 【2023-11-02】[Azure / MS-AMP](https://github.com/Azure/MS-AMP) - Microsoft Automatic Mixed Precision Library
 * 【2023-11-02】[yunjey / pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 * 【2023-11-02】[togethercomputer / RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
@@ -1238,6 +1249,11 @@
 
 ## Javascript
 
+* 【2023-11-03】[MobSF / Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+* 【2023-11-03】[evilsocket / pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
+* 【2023-11-03】[ddupont808 / GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
+* 【2023-11-03】[preactjs / preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+* 【2023-11-03】[hoothin / SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 搜索酱/搜尋醬/検索ちゃん
 * 【2023-11-02】[TonyJiangWJ / Ant-Forest](https://github.com/TonyJiangWJ/Ant-Forest) - 基于AutoJS的蚂蚁森林收能量脚本
 * 【2023-11-01】[sveltejs / kit](https://github.com/sveltejs/kit) - web development, streamlined
 * 【2023-11-01】[xnl-h4ck3r / XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) - A Chrome/Firefox browser extension to show alerts for relfected query params, show hidden elements and enable disabled elements.
@@ -1720,6 +1736,7 @@
 
 ## Go
 
+* 【2023-11-03】[golang / mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 * 【2023-11-02】[prometheus / node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 * 【2023-11-02】[miekg / dns](https://github.com/miekg/dns) - DNS library in Go
 * 【2023-11-02】[GREENHAT7 / pxplan](https://github.com/GREENHAT7/pxplan) - CVE-2023-2023
@@ -2191,6 +2208,10 @@
 
 ## C
 
+* 【2023-11-03】[ElliotKillick / LdrLockLiberator](https://github.com/ElliotKillick/LdrLockLiberator) - For when DLLMain is the only way
+* 【2023-11-03】[cozis / microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack
+* 【2023-11-03】[libusb / hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+* 【2023-11-03】[jart / cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 * 【2023-11-02】[ARMmbed / mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
 * 【2023-11-02】[libfuse / sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 * 【2023-11-02】[c-ares / c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
@@ -2586,6 +2607,9 @@
 
 ## C++
 
+* 【2023-11-03】[rwengine / openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
+* 【2023-11-03】[myhhub / qtPluginApp](https://github.com/myhhub/qtPluginApp) - Qt Plugin.QT插件框架
+* 【2023-11-03】[alibaba / MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 * 【2023-11-02】[google / sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 * 【2023-11-02】[ckcr4lyf / EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32
 * 【2023-11-02】[progschj / ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
@@ -2987,6 +3011,9 @@
 
 ## C#
 
+* 【2023-11-03】[bitwarden / mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
+* 【2023-11-03】[CommunityToolkit / Maui](https://github.com/CommunityToolkit/Maui) - The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier
+* 【2023-11-03】[smccloud / pfSense-to-OPNSense-Config-File-Converter](https://github.com/smccloud/pfSense-to-OPNSense-Config-File-Converter) - 
 * 【2023-11-02】[mono / mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 * 【2023-11-02】[tuyoogame / YooAsset](https://github.com/tuyoogame/YooAsset) - unity3d resources management system
 * 【2023-11-01】[Stealerium / Stealerium](https://github.com/Stealerium/Stealerium) - Stealer + Clipper + Keylogger
@@ -3364,6 +3391,8 @@
 
 ## Html
 
+* 【2023-11-03】[strandjs / IntroLabs](https://github.com/strandjs/IntroLabs) - These are the labs for my Intro class. Yes, this is public. Yes, this is intentional.
+* 【2023-11-03】[3kh0 / ext-remover](https://github.com/3kh0/ext-remover) - A collection of ChromeOS exploits free for the public
 * 【2023-11-02】[fool2fish / dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
 * 【2023-11-02】[lwinmoepaing / html-and-css-beginner-to-super-beginner-ebook](https://github.com/lwinmoepaing/html-and-css-beginner-to-super-beginner-ebook) - 
 * 【2023-11-02】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
@@ -3723,6 +3752,12 @@
 
 ## Css
 
+* 【2023-11-03】[jeycaarce / flowers](https://github.com/jeycaarce/flowers) - 
+* 【2023-11-03】[team-s2 / ACTF-2023](https://github.com/team-s2/ACTF-2023) - Archive of AAA CTF 2023 (XCTF competition)
+* 【2023-11-03】[scaffold-eth / scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
+* 【2023-11-03】[WalletConnect / walletconnect-docs](https://github.com/WalletConnect/walletconnect-docs) - WalletConnect Documentation
+* 【2023-11-03】[creativetimofficial / nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
+* 【2023-11-03】[AroriaNetwork / GoGuardian-Bypass](https://github.com/AroriaNetwork/GoGuardian-Bypass) - The GoGuardian Bypass is a simple script that allows you to access blocked websites on your school's network. The script generates an iframe that displays the blocked content without being detected by the GoGuardian filter, allowing you to bypass restrictions and access the content you need. Join our discord: https://discord.gg/8ABatmss76
 * 【2023-11-02】[starknet-edu / starknetbook](https://github.com/starknet-edu/starknetbook) - Mastering Starknet. By the Starknet community
 * 【2023-11-02】[titaniumnetwork-dev / alloy](https://github.com/titaniumnetwork-dev/alloy) - A web proxy for use in combating web filters.
 * 【2023-11-01】[qq8e / qq](https://github.com/qq8e/qq) - 8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多
@@ -4083,6 +4118,10 @@
 
 ## Unknown
 
+* 【2023-11-03】[huggingface / distil-whisper](https://github.com/huggingface/distil-whisper) - 
+* 【2023-11-03】[The-Run-Philosophy-Organization / run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+* 【2023-11-03】[liaokongVFX / LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
+* 【2023-11-03】[EthicalML / awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 * 【2023-11-02】[artichokeee / test-assignments](https://github.com/artichokeee/test-assignments) - Список тестовых заданий для ручных тестировщиков и автоматизаторов
 * 【2023-11-02】[afshinea / stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
 * 【2023-11-02】[agmmnn / awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
