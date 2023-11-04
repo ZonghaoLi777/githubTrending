@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2023-11-04】[apache / calcite](https://github.com/apache/calcite) - Apache Calcite
 * 【2023-11-03】[eugene-khyst / postgresql-event-sourcing](https://github.com/eugene-khyst/postgresql-event-sourcing) - A reference implementation of an event-sourced system that uses PostgreSQL as an event store built with Spring Boot. Fork the repository and use it as a template for your projects. Or clone the repository and run end-to-end tests to see how everything works together.
 * 【2023-11-03】[camunda / camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.
 * 【2023-11-03】[saraSakuHj / HyperCeiler](https://github.com/saraSakuHj/HyperCeiler) - Make HyperOS Great Again!
@@ -649,6 +650,14 @@
 
 ## Python
 
+* 【2023-11-04】[radames / Real-Time-Latent-Consistency-Model](https://github.com/radames/Real-Time-Latent-Consistency-Model) - Demo showcasing ~real-time Latent Consistency Model pipeline with Diffusers and a MJPEG stream server
+* 【2023-11-04】[pytorch / examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
+* 【2023-11-04】[RekhuGopal / PythonHacks](https://github.com/RekhuGopal/PythonHacks) - This repo contains some solved python hacker codes
+* 【2023-11-04】[vivo-ai-lab / BlueLM](https://github.com/vivo-ai-lab/BlueLM) - BlueLM(蓝心大模型): Open large language models developed by vivo AI Lab
+* 【2023-11-04】[PromptEngineer48 / MemGPT-AutoGEN-LLM](https://github.com/PromptEngineer48/MemGPT-AutoGEN-LLM) - Run MemGPT-AutoGEN-Local LLM Together
+* 【2023-11-04】[hunshcn / gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+* 【2023-11-04】[ansible / awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+* 【2023-11-04】[datafold / data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
 * 【2023-11-03】[public-apis-dev / public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
 * 【2023-11-03】[AILab-CVC / VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) - VideoCrafter1: Open Diffusion Models for High-Quality Video Generation
 * 【2023-11-03】[gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
@@ -1249,6 +1258,11 @@
 
 ## Javascript
 
+* 【2023-11-04】[pinokiocomputer / pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
+* 【2023-11-04】[atlassian / react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
+* 【2023-11-04】[actuallymentor / battery](https://github.com/actuallymentor/battery) - CLI for managing the battery charging status for M1 Macs
+* 【2023-11-04】[jquense / react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
+* 【2023-11-04】[protobufjs / protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 * 【2023-11-03】[MobSF / Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 * 【2023-11-03】[evilsocket / pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 * 【2023-11-03】[ddupont808 / GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
@@ -1736,6 +1750,13 @@
 
 ## Go
 
+* 【2023-11-04】[shortlink-org / shortlink](https://github.com/shortlink-org/shortlink) - Shortlink service (Microservice example)
+* 【2023-11-04】[X1r0z / ActiveMQ-RCE](https://github.com/X1r0z/ActiveMQ-RCE) - ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言
+* 【2023-11-04】[gofr-dev / gofr](https://github.com/gofr-dev/gofr) - An opinionated Go framework for accelerated microservice development
+* 【2023-11-04】[charmbracelet / glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+* 【2023-11-04】[fleetdm / fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT and security teams with thousands of computers. (Linux, macOS, Windows, Chromebooks, AWS, Google Cloud, Azure, data center, containers, IoT)
+* 【2023-11-04】[rivo / tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
+* 【2023-11-04】[DataDog / datadog-agent](https://github.com/DataDog/datadog-agent) - Main repository for Datadog Agent
 * 【2023-11-03】[golang / mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 * 【2023-11-02】[prometheus / node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 * 【2023-11-02】[miekg / dns](https://github.com/miekg/dns) - DNS library in Go
@@ -2208,6 +2229,9 @@
 
 ## C
 
+* 【2023-11-04】[s0lst1c3 / eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
+* 【2023-11-04】[grafana / pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
+* 【2023-11-04】[Manawyrm / nvme-int13h-optionrom](https://github.com/Manawyrm/nvme-int13h-optionrom) - Option ROM to boot x86 PCs from NVMe drives (legacy BIOS, INT 13h)
 * 【2023-11-03】[ElliotKillick / LdrLockLiberator](https://github.com/ElliotKillick/LdrLockLiberator) - For when DLLMain is the only way
 * 【2023-11-03】[cozis / microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack
 * 【2023-11-03】[libusb / hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
@@ -3011,6 +3035,13 @@
 
 ## C#
 
+* 【2023-11-04】[microsoft / CopilotAdventures](https://github.com/microsoft/CopilotAdventures) - Copilot coding adventures
+* 【2023-11-04】[Xenomega / EchoRelay](https://github.com/Xenomega/EchoRelay) - A proof-of-concept reimplementation of Echo VR's web services and dedicated game servers
+* 【2023-11-04】[2dust / clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
+* 【2023-11-04】[neuecc / UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
+* 【2023-11-04】[Yu-Core / SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用MAUI Blazor 构建。"SwashbucklerDiary" is an open source cross-platform local diary app using MAUI Blazor .
+* 【2023-11-04】[roflmuffin / CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) - CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2
+* 【2023-11-04】[SnaffCon / Snaffler](https://github.com/SnaffCon/Snaffler) - a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )
 * 【2023-11-03】[bitwarden / mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 * 【2023-11-03】[CommunityToolkit / Maui](https://github.com/CommunityToolkit/Maui) - The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier
 * 【2023-11-03】[smccloud / pfSense-to-OPNSense-Config-File-Converter](https://github.com/smccloud/pfSense-to-OPNSense-Config-File-Converter) - 
@@ -3391,6 +3422,11 @@
 
 ## Html
 
+* 【2023-11-04】[wowchemy / wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+* 【2023-11-04】[Kaldek / rat-ratgdo](https://github.com/Kaldek/rat-ratgdo) - Open source schematics for ratgdo PCB
+* 【2023-11-04】[dotnet / blazor-samples](https://github.com/dotnet/blazor-samples) - 
+* 【2023-11-04】[JordanSchuetz / LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 3
+* 【2023-11-04】[EsotericSoftware / kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 * 【2023-11-03】[strandjs / IntroLabs](https://github.com/strandjs/IntroLabs) - These are the labs for my Intro class. Yes, this is public. Yes, this is intentional.
 * 【2023-11-03】[3kh0 / ext-remover](https://github.com/3kh0/ext-remover) - A collection of ChromeOS exploits free for the public
 * 【2023-11-02】[fool2fish / dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
@@ -3752,6 +3788,9 @@
 
 ## Css
 
+* 【2023-11-04】[FreeCodeCampChina / freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - FCC China open source codebase and curriculum. Learn to code and help nonprofits.
+* 【2023-11-04】[digitalinnovationone / js-yugioh-assets](https://github.com/digitalinnovationone/js-yugioh-assets) - 
+* 【2023-11-04】[EvgeniiMal / HTML-builder](https://github.com/EvgeniiMal/HTML-builder) - 
 * 【2023-11-03】[jeycaarce / flowers](https://github.com/jeycaarce/flowers) - 
 * 【2023-11-03】[team-s2 / ACTF-2023](https://github.com/team-s2/ACTF-2023) - Archive of AAA CTF 2023 (XCTF competition)
 * 【2023-11-03】[scaffold-eth / scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
@@ -4118,6 +4157,15 @@
 
 ## Unknown
 
+* 【2023-11-04】[tjunlp-lab / Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) - The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.
+* 【2023-11-04】[xsudoxx / OSCP](https://github.com/xsudoxx/OSCP) - 
+* 【2023-11-04】[Loyalsoldier / clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
+* 【2023-11-04】[yonggekkk / sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四协议共存一键脚本【Vless-reality、Vmess-ws(tls)、Hysteria2、Tuic-v5】：支持Argo隧道、IP优选级切换、双证书切换、多端口跳跃，自定义域名分流。显示分享链接、二维码，Clash-Meta配置，输出配置通吃SFA/SFI/SFW客户端
+* 【2023-11-04】[aiboboxx / clashfree](https://github.com/aiboboxx/clashfree) - clash节点、免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅地址、clash免费节点每日更新
+* 【2023-11-04】[arch3rPro / Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) - Windows11 Penetration Suite Toolkit 一个开箱即用的windows渗透测试环境
+* 【2023-11-04】[wgwang / LLMs-In-China](https://github.com/wgwang/LLMs-In-China) - 中国大模型
+* 【2023-11-04】[ebrahimpichka / awesome-optimization](https://github.com/ebrahimpichka/awesome-optimization) - A curated list of awesome mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.
+* 【2023-11-04】[wahyd4 / work-in-australia](https://github.com/wahyd4/work-in-australia) - Work in Australia as a Developer / 程序员如何申请到澳洲工作
 * 【2023-11-03】[huggingface / distil-whisper](https://github.com/huggingface/distil-whisper) - 
 * 【2023-11-03】[The-Run-Philosophy-Organization / run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 * 【2023-11-03】[liaokongVFX / LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
