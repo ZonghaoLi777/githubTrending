@@ -210,6 +210,12 @@
 
 ## Java
 
+* 【2023-11-05】[graphhopper / graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
+* 【2023-11-05】[spring-cloud / spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) - A Gateway built on Spring Framework and Spring Boot providing routing and more.
+* 【2023-11-05】[GoogleCloudPlatform / java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples) - Java and Kotlin Code samples used on cloud.google.com
+* 【2023-11-05】[woowacourse-precourse / java-lotto-6](https://github.com/woowacourse-precourse/java-lotto-6) - 
+* 【2023-11-05】[jetlinks / jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
+* 【2023-11-05】[spring-projects / spring-batch](https://github.com/spring-projects/spring-batch) - Spring Batch is a framework for writing batch applications using Java and Spring
 * 【2023-11-04】[apache / calcite](https://github.com/apache/calcite) - Apache Calcite
 * 【2023-11-03】[eugene-khyst / postgresql-event-sourcing](https://github.com/eugene-khyst/postgresql-event-sourcing) - A reference implementation of an event-sourced system that uses PostgreSQL as an event store built with Spring Boot. Fork the repository and use it as a template for your projects. Or clone the repository and run end-to-end tests to see how everything works together.
 * 【2023-11-03】[camunda / camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.
@@ -650,6 +656,17 @@
 
 ## Python
 
+* 【2023-11-05】[jianchang512 / pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音
+* 【2023-11-05】[spack / spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+* 【2023-11-05】[tigerlab-ai / tiger](https://github.com/tigerlab-ai/tiger) - Open Source LLM toolkit to build LLM applications. TigerRag (embedding, RAG), TigerTune (fine-tuning), TigerArmor (AI safety)
+* 【2023-11-05】[pydantic / pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
+* 【2023-11-05】[LorenEteval / Furious](https://github.com/LorenEteval/Furious) - A PySide6-based cross platform GUI client that launches your beloved GFW to outer space. Support Xray-core and hysteria.
+* 【2023-11-05】[Kav-K / GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
+* 【2023-11-05】[WilliamStar007 / ClashX-V2Ray-TopFreeProxy](https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy) - Top free VPN (ClashX & V2Ray proxy) with subscription links. [免费VPN、免费梯子、免费科学上网、免费订阅链接、免费节点、精选、ClashX & V2Ray 教程]
+* 【2023-11-05】[shadowsocks / shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
+* 【2023-11-05】[hiyouga / LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3)
+* 【2023-11-05】[helblazer811 / ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
+* 【2023-11-05】[noamgat / lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) - Enforce the output format (JSON Schema, Regex etc) of a language model
 * 【2023-11-04】[radames / Real-Time-Latent-Consistency-Model](https://github.com/radames/Real-Time-Latent-Consistency-Model) - Demo showcasing ~real-time Latent Consistency Model pipeline with Diffusers and a MJPEG stream server
 * 【2023-11-04】[pytorch / examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 * 【2023-11-04】[RekhuGopal / PythonHacks](https://github.com/RekhuGopal/PythonHacks) - This repo contains some solved python hacker codes
@@ -1258,6 +1275,15 @@
 
 ## Javascript
 
+* 【2023-11-05】[codrops / SlideshowAnimations](https://github.com/codrops/SlideshowAnimations) - A collection of ideas for slideshow animations.
+* 【2023-11-05】[vaxilu / x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
+* 【2023-11-05】[sve1r / Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X) - 适用于 Quantumult X 规则整理集合. 所有内容源自 互联网,仅作为收集和整理
+* 【2023-11-05】[MuhammedKalkan / OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
+* 【2023-11-05】[jackocnr / intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers
+* 【2023-11-05】[eslint-stylistic / eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
+* 【2023-11-05】[woowacourse-precourse / javascript-lotto-6](https://github.com/woowacourse-precourse/javascript-lotto-6) - 
+* 【2023-11-05】[crossutility / Quantumult-X](https://github.com/crossutility/Quantumult-X) - 
+* 【2023-11-05】[downshift-js / downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 * 【2023-11-04】[pinokiocomputer / pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 * 【2023-11-04】[atlassian / react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 * 【2023-11-04】[actuallymentor / battery](https://github.com/actuallymentor/battery) - CLI for managing the battery charging status for M1 Macs
@@ -1750,6 +1776,14 @@
 
 ## Go
 
+* 【2023-11-05】[daeuniverse / dae](https://github.com/daeuniverse/dae) - A Linux high-performance transparent proxy solution based on eBPF.
+* 【2023-11-05】[v2rayA / v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+* 【2023-11-05】[MetaCubeX / Clash.Mini](https://github.com/MetaCubeX/Clash.Mini) - Clash.Mini
+* 【2023-11-05】[charmbracelet / lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
+* 【2023-11-05】[determined-ai / determined](https://github.com/determined-ai/determined) - Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
+* 【2023-11-05】[Jrohy / trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
+* 【2023-11-05】[XrayR-project / XrayR](https://github.com/XrayR-project/XrayR) - A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
+* 【2023-11-05】[runfinch / finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 * 【2023-11-04】[shortlink-org / shortlink](https://github.com/shortlink-org/shortlink) - Shortlink service (Microservice example)
 * 【2023-11-04】[X1r0z / ActiveMQ-RCE](https://github.com/X1r0z/ActiveMQ-RCE) - ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言
 * 【2023-11-04】[gofr-dev / gofr](https://github.com/gofr-dev/gofr) - An opinionated Go framework for accelerated microservice development
@@ -2229,6 +2263,9 @@
 
 ## C
 
+* 【2023-11-05】[ibireme / yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
+* 【2023-11-05】[libusb / libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
+* 【2023-11-05】[libbpf / libbpf-bootstrap](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE
 * 【2023-11-04】[s0lst1c3 / eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
 * 【2023-11-04】[grafana / pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 * 【2023-11-04】[Manawyrm / nvme-int13h-optionrom](https://github.com/Manawyrm/nvme-int13h-optionrom) - Option ROM to boot x86 PCs from NVMe drives (legacy BIOS, INT 13h)
@@ -2631,6 +2668,12 @@
 
 ## C++
 
+* 【2023-11-05】[Qv2ray / Qv2ray](https://github.com/Qv2ray/Qv2ray) - ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐
+* 【2023-11-05】[klzgrad / naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
+* 【2023-11-05】[pxmkv / Balance-Tech](https://github.com/pxmkv/Balance-Tech) - Self Balancing Bicycle using LQR controller
+* 【2023-11-05】[mmp / pbrt-v4](https://github.com/mmp/pbrt-v4) - Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
+* 【2023-11-05】[taichi-dev / taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+* 【2023-11-05】[zeux / meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
 * 【2023-11-03】[rwengine / openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
 * 【2023-11-03】[myhhub / qtPluginApp](https://github.com/myhhub/qtPluginApp) - Qt Plugin.QT插件框架
 * 【2023-11-03】[alibaba / MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
@@ -3035,6 +3078,14 @@
 
 ## C#
 
+* 【2023-11-05】[HMBSbige / ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
+* 【2023-11-05】[OPCFoundation / UA-.NETStandard](https://github.com/OPCFoundation/UA-.NETStandard) - OPC Unified Architecture .NET Standard
+* 【2023-11-05】[4sval / FModel](https://github.com/4sval/FModel) - Unreal Engine Archives Explorer
+* 【2023-11-05】[codebude / QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
+* 【2023-11-05】[dafny-lang / dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
+* 【2023-11-05】[Azure / azure-cosmos-dotnet-v3](https://github.com/Azure/azure-cosmos-dotnet-v3) - .NET SDK for Azure Cosmos DB for the core SQL API
+* 【2023-11-05】[proxysu / ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
+* 【2023-11-05】[leeveel / GeekServer](https://github.com/leeveel/GeekServer) - 基于.Netcore的开发效率高，性能强，跨平台，持久化层透明，支持不停服热更新的游戏服务器。Best for your unity game server!
 * 【2023-11-04】[microsoft / CopilotAdventures](https://github.com/microsoft/CopilotAdventures) - Copilot coding adventures
 * 【2023-11-04】[Xenomega / EchoRelay](https://github.com/Xenomega/EchoRelay) - A proof-of-concept reimplementation of Echo VR's web services and dedicated game servers
 * 【2023-11-04】[2dust / clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
@@ -3422,6 +3473,8 @@
 
 ## Html
 
+* 【2023-11-05】[kevin-powell / css-parallax](https://github.com/kevin-powell/css-parallax) - 
+* 【2023-11-05】[anshuopinion / 10-Practice-Project-Html-CSS](https://github.com/anshuopinion/10-Practice-Project-Html-CSS) - HTML CSS 10 PRACTICE PROJECT Project that we are going to build in this complete practice course Project 1 - Tribute Website Project 2 - Job Application Project 3 - Parallax Wesbite Project 4 - Landing Page Project 5 - Restaurant Website Project 6 - Music Website Project 7 - Youtube Clone Project 8 - Javascript Documentation Project 9 - Blog Wes…
 * 【2023-11-04】[wowchemy / wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 * 【2023-11-04】[Kaldek / rat-ratgdo](https://github.com/Kaldek/rat-ratgdo) - Open source schematics for ratgdo PCB
 * 【2023-11-04】[dotnet / blazor-samples](https://github.com/dotnet/blazor-samples) - 
@@ -3788,6 +3841,12 @@
 
 ## Css
 
+* 【2023-11-05】[An0nUD4Y / Evilginx2-Phishlets](https://github.com/An0nUD4Y/Evilginx2-Phishlets) - Evilginx3 Phishlets version (0.2.3 & above) Only For Testing/Learning Purposes
+* 【2023-11-05】[altoliaw3 / 112-1HW2](https://github.com/altoliaw3/112-1HW2) - 
+* 【2023-11-05】[azerothcore / wiki](https://github.com/azerothcore/wiki) - AzerothCore wiki based on Drassil Git-Wiki
+* 【2023-11-05】[Ctoic / CalHub](https://github.com/Ctoic/CalHub) - The "Calculator" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.
+* 【2023-11-05】[zeeoneofficial / my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
+* 【2023-11-05】[epicentre-msf / beeR](https://github.com/epicentre-msf/beeR) - 
 * 【2023-11-04】[FreeCodeCampChina / freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - FCC China open source codebase and curriculum. Learn to code and help nonprofits.
 * 【2023-11-04】[digitalinnovationone / js-yugioh-assets](https://github.com/digitalinnovationone/js-yugioh-assets) - 
 * 【2023-11-04】[EvgeniiMal / HTML-builder](https://github.com/EvgeniiMal/HTML-builder) - 
@@ -4157,6 +4216,14 @@
 
 ## Unknown
 
+* 【2023-11-05】[ibraheemdev / modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+* 【2023-11-05】[shuaibiyy / awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
+* 【2023-11-05】[Loyalsoldier / v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.
+* 【2023-11-05】[githubvpn007 / Clash-for-Windows](https://github.com/githubvpn007/Clash-for-Windows) - Clash for Windows使用教程，Clash-for-Windows配置，Clash-for-Windows说明，Clash-for-Windows
+* 【2023-11-05】[tinkerhub / stackup-teamplate](https://github.com/tinkerhub/stackup-teamplate) - 
+* 【2023-11-05】[hq450 / fancyss_history_package](https://github.com/hq450/fancyss_history_package) - 科学上网插件的离线安装包储存在这里
+* 【2023-11-05】[stickfigure / blog](https://github.com/stickfigure/blog) - Jeff Schnitzer's Blog
+* 【2023-11-05】[sun0225SUN / sun0225SUN](https://github.com/sun0225SUN/sun0225SUN) - sun0225SUN's profile with 153 stars and 204 forks 🎉
 * 【2023-11-04】[tjunlp-lab / Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) - The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.
 * 【2023-11-04】[xsudoxx / OSCP](https://github.com/xsudoxx/OSCP) - 
 * 【2023-11-04】[Loyalsoldier / clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
