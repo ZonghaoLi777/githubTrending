@@ -210,6 +210,12 @@
 
 ## Java
 
+* 【2023-11-06】[openhab / openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB
+* 【2023-11-06】[LSPosed / LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
+* 【2023-11-06】[AutoMQ / automq-for-rocketmq](https://github.com/AutoMQ/automq-for-rocketmq) - A cloud native implementation for Apache RocketMQ 5.0
+* 【2023-11-06】[NekoX-Dev / NekoX](https://github.com/NekoX-Dev/NekoX) - A third-party Telegram android app.
+* 【2023-11-06】[FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+* 【2023-11-06】[dromara / RuoYi-Cloud-Plus](https://github.com/dromara/RuoYi-Cloud-Plus) - 重写RuoYi-Cloud所有功能 整合 SpringCloudAlibaba Dubbo3.0 Sa-Token Mybatis-Plus MQ OSS ES Xxl-Job Docker 全方位升级 定期同步
 * 【2023-11-05】[graphhopper / graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 * 【2023-11-05】[spring-cloud / spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) - A Gateway built on Spring Framework and Spring Boot providing routing and more.
 * 【2023-11-05】[GoogleCloudPlatform / java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples) - Java and Kotlin Code samples used on cloud.google.com
@@ -656,6 +662,16 @@
 
 ## Python
 
+* 【2023-11-06】[deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
+* 【2023-11-06】[pytube / pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+* 【2023-11-06】[tiangolo / sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+* 【2023-11-06】[vveg26 / chromego_merge](https://github.com/vveg26/chromego_merge) - 免费节点
+* 【2023-11-06】[ranaroussi / yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
+* 【2023-11-06】[jxnl / instructor](https://github.com/jxnl/instructor) - openai function calls for humans
+* 【2023-11-06】[PrefectHQ / marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
+* 【2023-11-06】[microsoft / CodeT](https://github.com/microsoft/CodeT) - 
+* 【2023-11-06】[lukas-blecher / LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+* 【2023-11-06】[DLLXW / data-science-competition](https://github.com/DLLXW/data-science-competition) - 该仓库用于记录作者本人参加的各大数据科学竞赛的获奖方案源码以及一些新比赛的原创baseline. 主要涵盖：kaggle, 阿里天池，华为云大赛校园赛，百度aistudio，和鲸社区，datafountain等
 * 【2023-11-05】[jianchang512 / pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音
 * 【2023-11-05】[spack / spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 * 【2023-11-05】[tigerlab-ai / tiger](https://github.com/tigerlab-ai/tiger) - Open Source LLM toolkit to build LLM applications. TigerRag (embedding, RAG), TigerTune (fine-tuning), TigerArmor (AI safety)
@@ -1275,6 +1291,14 @@
 
 ## Javascript
 
+* 【2023-11-06】[flybywiresim / aircraft](https://github.com/flybywiresim/aircraft) - The A32NX & A380X Project are community driven open source projects to create a free airbus aircraft in Microsoft Flight Simulator that is as close to reality as possible.
+* 【2023-11-06】[Hackl0us / SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
+* 【2023-11-06】[rolling-scopes-school / tasks](https://github.com/rolling-scopes-school/tasks) - 
+* 【2023-11-06】[sub-store-org / Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!
+* 【2023-11-06】[mifi / lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+* 【2023-11-06】[docmirror / dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+* 【2023-11-06】[gitdagray / react_redux_toolkit](https://github.com/gitdagray/react_redux_toolkit) - 
+* 【2023-11-06】[Z-Siqi / CFW-custom-made](https://github.com/Z-Siqi/CFW-custom-made) - Clash for Windows 机场专用版, 提供移除广告, 自定义广告, 移除更新版本
 * 【2023-11-05】[codrops / SlideshowAnimations](https://github.com/codrops/SlideshowAnimations) - A collection of ideas for slideshow animations.
 * 【2023-11-05】[vaxilu / x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 * 【2023-11-05】[sve1r / Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X) - 适用于 Quantumult X 规则整理集合. 所有内容源自 互联网,仅作为收集和整理
@@ -1776,6 +1800,9 @@
 
 ## Go
 
+* 【2023-11-06】[Kuingsmile / clash-core](https://github.com/Kuingsmile/clash-core) - backup of clash core
+* 【2023-11-06】[Ieooo / clash](https://github.com/Ieooo/clash) - fork from clash
+* 【2023-11-06】[championswimmer / onepixel_backend](https://github.com/championswimmer/onepixel_backend) - 
 * 【2023-11-05】[daeuniverse / dae](https://github.com/daeuniverse/dae) - A Linux high-performance transparent proxy solution based on eBPF.
 * 【2023-11-05】[v2rayA / v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 * 【2023-11-05】[MetaCubeX / Clash.Mini](https://github.com/MetaCubeX/Clash.Mini) - Clash.Mini
@@ -2263,6 +2290,9 @@
 
 ## C
 
+* 【2023-11-06】[mgba-emu / mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
+* 【2023-11-06】[ProtonVPN / android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
+* 【2023-11-06】[MicroLua / MicroLua](https://github.com/MicroLua/MicroLua) - Lua for the RP2040 microcontroller
 * 【2023-11-05】[ibireme / yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 * 【2023-11-05】[libusb / libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
 * 【2023-11-05】[libbpf / libbpf-bootstrap](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE
@@ -2668,6 +2698,10 @@
 
 ## C++
 
+* 【2023-11-06】[trojan-gfw / trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
+* 【2023-11-06】[FlaxEngine / FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
+* 【2023-11-06】[nefarius / ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+* 【2023-11-06】[ExpressLRS / ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications
 * 【2023-11-05】[Qv2ray / Qv2ray](https://github.com/Qv2ray/Qv2ray) - ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐
 * 【2023-11-05】[klzgrad / naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 * 【2023-11-05】[pxmkv / Balance-Tech](https://github.com/pxmkv/Balance-Tech) - Self Balancing Bicycle using LQR controller
@@ -3078,6 +3112,9 @@
 
 ## C#
 
+* 【2023-11-06】[FastEndpoints / FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.Net 6 and newer.
+* 【2023-11-06】[dorisoy / Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan) - Dorisoy.Pan 是基于.net core5的跨平台文档管理系统，实现了百度网盘的90% 功能，数据库运行在MS SQL 2012 / MySql8.0（或更高版本），您可以在Windows、Linux 或Mac上运行它,项目中的所有方法都是异步的,支持基于令牌身份验证,项目体系结构遵循标准的软件模式和最佳安全实践。源代码也是完全可定制和热插拔，清晰的体系结构使开发定制功能遵循任何业务需求。系统使用最新的Microsoft技术，高性能，稳定和安全
+* 【2023-11-06】[Valkirie / HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) - ControllerService
 * 【2023-11-05】[HMBSbige / ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
 * 【2023-11-05】[OPCFoundation / UA-.NETStandard](https://github.com/OPCFoundation/UA-.NETStandard) - OPC Unified Architecture .NET Standard
 * 【2023-11-05】[4sval / FModel](https://github.com/4sval/FModel) - Unreal Engine Archives Explorer
@@ -3473,6 +3510,11 @@
 
 ## Html
 
+* 【2023-11-06】[frainzy1477 / luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
+* 【2023-11-06】[twitter / twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
+* 【2023-11-06】[kevquirk / simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
+* 【2023-11-06】[rapid7 / metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
+* 【2023-11-06】[datacontract / datacontract-specification](https://github.com/datacontract/datacontract-specification) - The Data Contract Specification Repository
 * 【2023-11-05】[kevin-powell / css-parallax](https://github.com/kevin-powell/css-parallax) - 
 * 【2023-11-05】[anshuopinion / 10-Practice-Project-Html-CSS](https://github.com/anshuopinion/10-Practice-Project-Html-CSS) - HTML CSS 10 PRACTICE PROJECT Project that we are going to build in this complete practice course Project 1 - Tribute Website Project 2 - Job Application Project 3 - Parallax Wesbite Project 4 - Landing Page Project 5 - Restaurant Website Project 6 - Music Website Project 7 - Youtube Clone Project 8 - Javascript Documentation Project 9 - Blog Wes…
 * 【2023-11-04】[wowchemy / wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
@@ -3841,6 +3883,7 @@
 
 ## Css
 
+* 【2023-11-06】[ronggang / transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
 * 【2023-11-05】[An0nUD4Y / Evilginx2-Phishlets](https://github.com/An0nUD4Y/Evilginx2-Phishlets) - Evilginx3 Phishlets version (0.2.3 & above) Only For Testing/Learning Purposes
 * 【2023-11-05】[altoliaw3 / 112-1HW2](https://github.com/altoliaw3/112-1HW2) - 
 * 【2023-11-05】[azerothcore / wiki](https://github.com/azerothcore/wiki) - AzerothCore wiki based on Drassil Git-Wiki
@@ -4216,6 +4259,16 @@
 
 ## Unknown
 
+* 【2023-11-06】[DustinWin / clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版
+* 【2023-11-06】[EAimTY / tuic](https://github.com/EAimTY/tuic) - 
+* 【2023-11-06】[AndrewStetsenko / tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
+* 【2023-11-06】[chika0801 / Xray-examples](https://github.com/chika0801/Xray-examples) - 🚀Xray 配置示例⭐
+* 【2023-11-06】[cfwtf / clash_for_windows](https://github.com/cfwtf/clash_for_windows) - Fndroid/clash_for_windows_pkg/releases 最后备份文件
+* 【2023-11-06】[0x90n / InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
+* 【2023-11-06】[cfwbackup / clash_for_windows_pkg_backup](https://github.com/cfwbackup/clash_for_windows_pkg_backup) - Clash for Windows 最后版本安装包备份
+* 【2023-11-06】[rwaldron / idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* 【2023-11-06】[selierlin / Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 机场推荐/SSR V2ray节点订阅机场/镜像直连/工具推荐
+* 【2023-11-06】[Z-Siqi / Clash-for-Windows_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule) - Clash流媒体等策略组规则整合. Clash proxy rules. Make a website/media be proxied by a specific country server.
 * 【2023-11-05】[ibraheemdev / modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 * 【2023-11-05】[shuaibiyy / awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 * 【2023-11-05】[Loyalsoldier / v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.
