@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-11-07】[castorini / anserini](https://github.com/castorini/anserini) - Anserini is a Lucene toolkit for reproducible information retrieval research
+* 【2023-11-07】[M66B / FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
+* 【2023-11-07】[Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) - [Forge Mod] Building Tools and Aesthetic Technology
 * 【2023-11-06】[openhab / openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB
 * 【2023-11-06】[LSPosed / LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
 * 【2023-11-06】[AutoMQ / automq-for-rocketmq](https://github.com/AutoMQ/automq-for-rocketmq) - A cloud native implementation for Apache RocketMQ 5.0
@@ -662,6 +665,14 @@
 
 ## Python
 
+* 【2023-11-07】[google / jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+* 【2023-11-07】[MorvanZhou / Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学
+* 【2023-11-07】[yihong0618 / tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle) - Telegram bing bot DALL-E 3
+* 【2023-11-07】[microsoft / DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
+* 【2023-11-07】[aladdinpersson / Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning
+* 【2023-11-07】[kivy / python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
+* 【2023-11-07】[reactive-python / reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
+* 【2023-11-07】[drivendata / cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 * 【2023-11-06】[deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 * 【2023-11-06】[pytube / pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 * 【2023-11-06】[tiangolo / sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -1291,6 +1302,15 @@
 
 ## Javascript
 
+* 【2023-11-07】[LayerZero-Labs / solidity-examples](https://github.com/LayerZero-Labs/solidity-examples) - example contracts
+* 【2023-11-07】[advplyr / audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
+* 【2023-11-07】[pat-jj / TextbookKG](https://github.com/pat-jj/TextbookKG) - TxBKG - Knowledge Graph Generation for Any PDFs
+* 【2023-11-07】[koodo-reader / koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+* 【2023-11-07】[adrianhajdin / project_react_native_jobs](https://github.com/adrianhajdin/project_react_native_jobs) - 
+* 【2023-11-07】[USTC-Hackergame / hackergame2023-writeups](https://github.com/USTC-Hackergame/hackergame2023-writeups) - 中国科学技术大学第十届信息安全大赛的官方与非官方题解
+* 【2023-11-07】[elrebelde21 / NovaBot-MD](https://github.com/elrebelde21/NovaBot-MD) - ʜᴏʟᴀ 👋 ʙɪᴇɴᴠᴇɴɪᴅᴏ 💫 ᴀʟ ʀᴇᴘᴏsɪᴛᴏʀɪᴏ ᴏғɪᴄɪᴀʟ ᴅᴇʟ ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ, ᴇs ᴜɴ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ ғᴜɴᴄɪᴏɴᴀʟ ᴄᴏɴ ʟᴀ ᴠᴇʀsɪᴏɴ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ, ᴀǫᴜɪ sᴇ ʀᴇᴀʟɪᴢᴀʀᴀɴ ᴀᴄᴛᴜʟɪᴢᴀᴄɪᴏɴᴇs, sɪ ᴛᴇ ᴀɢʀᴀᴅᴀ ᴇʟ ʙᴏᴛ ᴍᴇ ᴘᴜᴇᴅᴇ ʀᴇɢᴀʟᴀs ᴜɴᴀ 🌟?, ᴇsᴘᴇʀᴏ ᴛᴇ ɢᴜsᴛᴇ 🤗
+* 【2023-11-07】[UnblockNeteaseMusic / server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
+* 【2023-11-07】[IvanHanloth / Easy-Send](https://github.com/IvanHanloth/Easy-Send) - 一个简单易用的跨设备、跨平台文件文本传输程序。
 * 【2023-11-06】[flybywiresim / aircraft](https://github.com/flybywiresim/aircraft) - The A32NX & A380X Project are community driven open source projects to create a free airbus aircraft in Microsoft Flight Simulator that is as close to reality as possible.
 * 【2023-11-06】[Hackl0us / SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 * 【2023-11-06】[rolling-scopes-school / tasks](https://github.com/rolling-scopes-school/tasks) - 
@@ -1800,6 +1820,11 @@
 
 ## Go
 
+* 【2023-11-07】[xmdhs / clash2singbox](https://github.com/xmdhs/clash2singbox) - 将 clash.meta 格式的配置文件或链接转换为 sing-box 格式
+* 【2023-11-07】[AlexxIT / go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+* 【2023-11-07】[portainer / portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+* 【2023-11-07】[techschool / simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go
+* 【2023-11-07】[bettercap / bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 * 【2023-11-06】[Kuingsmile / clash-core](https://github.com/Kuingsmile/clash-core) - backup of clash core
 * 【2023-11-06】[Ieooo / clash](https://github.com/Ieooo/clash) - fork from clash
 * 【2023-11-06】[championswimmer / onepixel_backend](https://github.com/championswimmer/onepixel_backend) - 
@@ -2290,6 +2315,8 @@
 
 ## C
 
+* 【2023-11-07】[ish-app / ish](https://github.com/ish-app/ish) - Linux shell for iOS
+* 【2023-11-07】[n64decomp / sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 * 【2023-11-06】[mgba-emu / mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 * 【2023-11-06】[ProtonVPN / android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 * 【2023-11-06】[MicroLua / MicroLua](https://github.com/MicroLua/MicroLua) - Lua for the RP2040 microcontroller
@@ -2698,6 +2725,11 @@
 
 ## C++
 
+* 【2023-11-07】[simdjson / simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
+* 【2023-11-07】[godotengine / godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
+* 【2023-11-07】[minetest / minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
+* 【2023-11-07】[SFML / SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
+* 【2023-11-07】[nillerusr / source-engine](https://github.com/nillerusr/source-engine) - Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
 * 【2023-11-06】[trojan-gfw / trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 * 【2023-11-06】[FlaxEngine / FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
 * 【2023-11-06】[nefarius / ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
@@ -3112,6 +3144,7 @@
 
 ## C#
 
+* 【2023-11-07】[Prowlarr / Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 * 【2023-11-06】[FastEndpoints / FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.Net 6 and newer.
 * 【2023-11-06】[dorisoy / Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan) - Dorisoy.Pan 是基于.net core5的跨平台文档管理系统，实现了百度网盘的90% 功能，数据库运行在MS SQL 2012 / MySql8.0（或更高版本），您可以在Windows、Linux 或Mac上运行它,项目中的所有方法都是异步的,支持基于令牌身份验证,项目体系结构遵循标准的软件模式和最佳安全实践。源代码也是完全可定制和热插拔，清晰的体系结构使开发定制功能遵循任何业务需求。系统使用最新的Microsoft技术，高性能，稳定和安全
 * 【2023-11-06】[Valkirie / HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) - ControllerService
@@ -3510,6 +3543,9 @@
 
 ## Html
 
+* 【2023-11-07】[wsvincent / awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
+* 【2023-11-07】[vking34 / books](https://github.com/vking34/books) - List of books for Software Engineer
+* 【2023-11-07】[gsanchezd / fdsw-github](https://github.com/gsanchezd/fdsw-github) - 
 * 【2023-11-06】[frainzy1477 / luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
 * 【2023-11-06】[twitter / twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 * 【2023-11-06】[kevquirk / simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
@@ -3883,6 +3919,8 @@
 
 ## Css
 
+* 【2023-11-07】[ratatui-org / ratatui-book](https://github.com/ratatui-org/ratatui-book) - Ratatui Documentation
+* 【2023-11-07】[apache / incubator](https://github.com/apache/incubator) - Apache Incubator Website
 * 【2023-11-06】[ronggang / transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
 * 【2023-11-05】[An0nUD4Y / Evilginx2-Phishlets](https://github.com/An0nUD4Y/Evilginx2-Phishlets) - Evilginx3 Phishlets version (0.2.3 & above) Only For Testing/Learning Purposes
 * 【2023-11-05】[altoliaw3 / 112-1HW2](https://github.com/altoliaw3/112-1HW2) - 
@@ -4259,6 +4297,15 @@
 
 ## Unknown
 
+* 【2023-11-07】[milanm / DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap by seniority level.
+* 【2023-11-07】[imran-parray / Mind-Maps](https://github.com/imran-parray/Mind-Maps) - Mind-Maps of Several Things
+* 【2023-11-07】[ritchieng / the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+* 【2023-11-07】[0x4D31 / awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
+* 【2023-11-07】[Semporia / Clash](https://github.com/Semporia/Clash) - Clash for Windows & ClashX Pro 自用节点订阅、分流规则、参考配置
+* 【2023-11-07】[sadanandpai / frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
+* 【2023-11-07】[DustinWin / clash-tutorials](https://github.com/DustinWin/clash-tutorials) - Clash 教程合集——安装、配置、自定义规则
+* 【2023-11-07】[OBenner / data-engineering-interview-questions](https://github.com/OBenner/data-engineering-interview-questions) - More than 2000+ Data engineer interview questions.
+* 【2023-11-07】[willwulfken / MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 * 【2023-11-06】[DustinWin / clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版
 * 【2023-11-06】[EAimTY / tuic](https://github.com/EAimTY/tuic) - 
 * 【2023-11-06】[AndrewStetsenko / tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
