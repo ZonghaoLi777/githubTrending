@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2023-11-08】[Hakky54 / certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
 * 【2023-11-07】[castorini / anserini](https://github.com/castorini/anserini) - Anserini is a Lucene toolkit for reproducible information retrieval research
 * 【2023-11-07】[M66B / FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 * 【2023-11-07】[Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) - [Forge Mod] Building Tools and Aesthetic Technology
@@ -665,6 +666,11 @@
 
 ## Python
 
+* 【2023-11-08】[01-ai / Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
+* 【2023-11-08】[kylesargent / ZeroNVS](https://github.com/kylesargent/ZeroNVS) - 
+* 【2023-11-08】[Genesis-Embodied-AI / RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen) - A generative and self-guided robotic agent that endlessly propose and master new skills.
+* 【2023-11-08】[thuml / iTransformer](https://github.com/thuml/iTransformer) - This is the official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".
+* 【2023-11-08】[KoeAI / LLVC](https://github.com/KoeAI/LLVC) - 
 * 【2023-11-07】[google / jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 * 【2023-11-07】[MorvanZhou / Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学
 * 【2023-11-07】[yihong0618 / tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle) - Telegram bing bot DALL-E 3
@@ -1302,6 +1308,12 @@
 
 ## Javascript
 
+* 【2023-11-08】[openspug / spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+* 【2023-11-08】[hiteshchoudhary / chai-backend](https://github.com/hiteshchoudhary/chai-backend) - A video series on chai aur code youtube channel
+* 【2023-11-08】[XaviaTeam / facebook-bot-chatgpt](https://github.com/XaviaTeam/facebook-bot-chatgpt) - 
+* 【2023-11-08】[rolling-scopes-school / core-js-numbers](https://github.com/rolling-scopes-school/core-js-numbers) - 
+* 【2023-11-08】[wix / Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
+* 【2023-11-08】[jgraph / drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 * 【2023-11-07】[LayerZero-Labs / solidity-examples](https://github.com/LayerZero-Labs/solidity-examples) - example contracts
 * 【2023-11-07】[advplyr / audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 * 【2023-11-07】[pat-jj / TextbookKG](https://github.com/pat-jj/TextbookKG) - TxBKG - Knowledge Graph Generation for Any PDFs
@@ -1820,6 +1832,8 @@
 
 ## Go
 
+* 【2023-11-08】[prometheus / blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
+* 【2023-11-08】[fatih / color](https://github.com/fatih/color) - Color package for Go (golang)
 * 【2023-11-07】[xmdhs / clash2singbox](https://github.com/xmdhs/clash2singbox) - 将 clash.meta 格式的配置文件或链接转换为 sing-box 格式
 * 【2023-11-07】[AlexxIT / go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 * 【2023-11-07】[portainer / portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -2315,6 +2329,12 @@
 
 ## C
 
+* 【2023-11-08】[enjoy-digital / litex](https://github.com/enjoy-digital/litex) - Build your hardware, easily!
+* 【2023-11-08】[tsl0922 / ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+* 【2023-11-08】[Nero22k / cve-2023-36802](https://github.com/Nero22k/cve-2023-36802) - Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver
+* 【2023-11-08】[elFarto / nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
+* 【2023-11-08】[sudo-project / sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
+* 【2023-11-08】[go-gl / glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 * 【2023-11-07】[ish-app / ish](https://github.com/ish-app/ish) - Linux shell for iOS
 * 【2023-11-07】[n64decomp / sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 * 【2023-11-06】[mgba-emu / mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
@@ -2725,6 +2745,13 @@
 
 ## C++
 
+* 【2023-11-08】[decoder-it / LocalPotato](https://github.com/decoder-it/LocalPotato) - 
+* 【2023-11-08】[polybar / polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+* 【2023-11-08】[assimp / assimp](https://github.com/assimp/assimp) - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
+* 【2023-11-08】[include-what-you-use / include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
+* 【2023-11-08】[archercreat / titan](https://github.com/archercreat/titan) - Titan is a VMProtect devirtualizer
+* 【2023-11-08】[ProjectPhysX / FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
+* 【2023-11-08】[HITSZ-OpenAuto / HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto) - 哈工大（深圳）自动化本科开源计划
 * 【2023-11-07】[simdjson / simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
 * 【2023-11-07】[godotengine / godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
 * 【2023-11-07】[minetest / minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
@@ -3144,6 +3171,9 @@
 
 ## C#
 
+* 【2023-11-08】[kontur-courses / challenge-tdd](https://github.com/kontur-courses/challenge-tdd) - 
+* 【2023-11-08】[dotnet-presentations / blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) - Blazor workshop
+* 【2023-11-08】[BluePointLilac / ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 * 【2023-11-07】[Prowlarr / Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 * 【2023-11-06】[FastEndpoints / FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.Net 6 and newer.
 * 【2023-11-06】[dorisoy / Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan) - Dorisoy.Pan 是基于.net core5的跨平台文档管理系统，实现了百度网盘的90% 功能，数据库运行在MS SQL 2012 / MySql8.0（或更高版本），您可以在Windows、Linux 或Mac上运行它,项目中的所有方法都是异步的,支持基于令牌身份验证,项目体系结构遵循标准的软件模式和最佳安全实践。源代码也是完全可定制和热插拔，清晰的体系结构使开发定制功能遵循任何业务需求。系统使用最新的Microsoft技术，高性能，稳定和安全
@@ -3543,6 +3573,9 @@
 
 ## Html
 
+* 【2023-11-08】[kenzok8 / small](https://github.com/kenzok8/small) - ssr passwall vssr bypass依赖
+* 【2023-11-08】[sussygamedeveloper / FNAF2](https://github.com/sussygamedeveloper/FNAF2) - FNAF 2 HTML5 PORT! (With Hacks)
+* 【2023-11-08】[Tikam02 / DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 * 【2023-11-07】[wsvincent / awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 * 【2023-11-07】[vking34 / books](https://github.com/vking34/books) - List of books for Software Engineer
 * 【2023-11-07】[gsanchezd / fdsw-github](https://github.com/gsanchezd/fdsw-github) - 
@@ -3919,6 +3952,8 @@
 
 ## Css
 
+* 【2023-11-08】[milenafelix / flowers](https://github.com/milenafelix/flowers) - IB: https://github.com/jeycaarce/flowers
+* 【2023-11-08】[zaadevofc / projects](https://github.com/zaadevofc/projects) - 
 * 【2023-11-07】[ratatui-org / ratatui-book](https://github.com/ratatui-org/ratatui-book) - Ratatui Documentation
 * 【2023-11-07】[apache / incubator](https://github.com/apache/incubator) - Apache Incubator Website
 * 【2023-11-06】[ronggang / transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
@@ -4297,6 +4332,12 @@
 
 ## Unknown
 
+* 【2023-11-08】[EvilAnne / lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity) - 《云安全攻防入门》教材
+* 【2023-11-08】[AnsonZnl / RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
+* 【2023-11-08】[Akshat-Jain / database-internals-notes](https://github.com/Akshat-Jain/database-internals-notes) - My chapter-wise notes for Database Internals by Alex Petrov.
+* 【2023-11-08】[JohnCrickett / SystemDesign](https://github.com/JohnCrickett/SystemDesign) - Useful resources on distributed system design.
+* 【2023-11-08】[bcamandone / Data_Analysis_SQL](https://github.com/bcamandone/Data_Analysis_SQL) - Este repositorio está dedicado a proyectos de análisis de datos utilizando lenguaje SQL.
+* 【2023-11-08】[tangwz / db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新）。
 * 【2023-11-07】[milanm / DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap by seniority level.
 * 【2023-11-07】[imran-parray / Mind-Maps](https://github.com/imran-parray/Mind-Maps) - Mind-Maps of Several Things
 * 【2023-11-07】[ritchieng / the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
