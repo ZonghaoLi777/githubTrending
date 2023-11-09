@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2023-11-09】[WadhahEssam / react-native-theme-switch-animation](https://github.com/WadhahEssam/react-native-theme-switch-animation) - A Plug & Play Animations for Switching (Dark/Light) Themes. 🌖
+* 【2023-11-09】[nashtech-garage / yas](https://github.com/nashtech-garage/yas) - YAS: Yet Another Shop, a sample microservices project in Java
 * 【2023-11-08】[Hakky54 / certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
 * 【2023-11-07】[castorini / anserini](https://github.com/castorini/anserini) - Anserini is a Lucene toolkit for reproducible information retrieval research
 * 【2023-11-07】[M66B / FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
@@ -666,6 +668,14 @@
 
 ## Python
 
+* 【2023-11-09】[openai / consistencydecoder](https://github.com/openai/consistencydecoder) - Consistency Distilled Diff VAE
+* 【2023-11-09】[fortra / impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
+* 【2023-11-09】[PyGithub / PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
+* 【2023-11-09】[microsoft / playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+* 【2023-11-09】[Giskard-AI / giskard](https://github.com/Giskard-AI/giskard) - 🐢 The testing framework for ML models, from tabular to LLMs
+* 【2023-11-09】[0-8-4 / miui-auto-tasks](https://github.com/0-8-4/miui-auto-tasks) - 一个自动化完成小米社区任务的脚本
+* 【2023-11-09】[LlmKira / Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own AssistantBot|🧀 Discord/Slack/Kook/Telegram |🍓 链式唤醒复刻 ChatGpt 架构 |⛓ Self-driven Chain Runner | 🪄 Send Message everywhere |🔖 Plugin Support | 🌻 sh & docker-compose | Good Practices of function-calling
+* 【2023-11-09】[yangjianxin1 / CLIP-Chinese](https://github.com/yangjianxin1/CLIP-Chinese) - 中文CLIP预训练模型
 * 【2023-11-08】[01-ai / Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 * 【2023-11-08】[kylesargent / ZeroNVS](https://github.com/kylesargent/ZeroNVS) - 
 * 【2023-11-08】[Genesis-Embodied-AI / RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen) - A generative and self-guided robotic agent that endlessly propose and master new skills.
@@ -1308,6 +1318,8 @@
 
 ## Javascript
 
+* 【2023-11-09】[langchain-ai / opengpts](https://github.com/langchain-ai/opengpts) - 
+* 【2023-11-09】[brianc / node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 * 【2023-11-08】[openspug / spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 * 【2023-11-08】[hiteshchoudhary / chai-backend](https://github.com/hiteshchoudhary/chai-backend) - A video series on chai aur code youtube channel
 * 【2023-11-08】[XaviaTeam / facebook-bot-chatgpt](https://github.com/XaviaTeam/facebook-bot-chatgpt) - 
@@ -1832,6 +1844,14 @@
 
 ## Go
 
+* 【2023-11-09】[krya-kryak / y-y-devops-trainings-cloud-1](https://github.com/krya-kryak/y-y-devops-trainings-cloud-1) - Домашнее задание для DevOps-тренировок в Яндексе, лекция "Облако. Кто виноват и что делать."
+* 【2023-11-09】[uber-go / goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
+* 【2023-11-09】[csyezheng / a2fa](https://github.com/csyezheng/a2fa) - a2fa is a command line tool for generating and validating one-time password. Its purpose is to get rid of phones and be able to authenticate easily.
+* 【2023-11-09】[SaumyajeetDas / CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ](https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ) - Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)
+* 【2023-11-09】[ddev / ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
+* 【2023-11-09】[integrations / terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
+* 【2023-11-09】[Zhouchaowen / golang-tutorial](https://github.com/Zhouchaowen/golang-tutorial) - Golang learning record
+* 【2023-11-09】[lyc8503 / sing-box-rules](https://github.com/lyc8503/sing-box-rules) - sing-box Geoip 与 Geosite 增强版规则, 移植自 v2ray-rules-dat
 * 【2023-11-08】[prometheus / blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 * 【2023-11-08】[fatih / color](https://github.com/fatih/color) - Color package for Go (golang)
 * 【2023-11-07】[xmdhs / clash2singbox](https://github.com/xmdhs/clash2singbox) - 将 clash.meta 格式的配置文件或链接转换为 sing-box 格式
@@ -2329,6 +2349,11 @@
 
 ## C
 
+* 【2023-11-09】[Cracked5pider / LdrLibraryEx](https://github.com/Cracked5pider/LdrLibraryEx) - A small x64 library to load dll's into memory.
+* 【2023-11-09】[id-Software / DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
+* 【2023-11-09】[ph1p / ikea-led-obegraensad](https://github.com/ph1p/ikea-led-obegraensad) - ESP32/Arduino hack for the ikea OBEGRÄNSAD led wall lamp
+* 【2023-11-09】[lone-lang / lone](https://github.com/lone-lang/lone) - The standalone Linux Lisp
+* 【2023-11-09】[NixOS / patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
 * 【2023-11-08】[enjoy-digital / litex](https://github.com/enjoy-digital/litex) - Build your hardware, easily!
 * 【2023-11-08】[tsl0922 / ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 * 【2023-11-08】[Nero22k / cve-2023-36802](https://github.com/Nero22k/cve-2023-36802) - Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver
@@ -2745,6 +2770,7 @@
 
 ## C++
 
+* 【2023-11-09】[Tripouille / libftTester](https://github.com/Tripouille/libftTester) - Tester for the libft project of 42 school
 * 【2023-11-08】[decoder-it / LocalPotato](https://github.com/decoder-it/LocalPotato) - 
 * 【2023-11-08】[polybar / polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 * 【2023-11-08】[assimp / assimp](https://github.com/assimp/assimp) - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
@@ -3171,6 +3197,10 @@
 
 ## C#
 
+* 【2023-11-09】[Tyrrrz / DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
+* 【2023-11-09】[CoreUnion / CoreShop](https://github.com/CoreUnion/CoreShop) - 基于 Asp.Net Core 7.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。
+* 【2023-11-09】[OkGoDoIt / OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
+* 【2023-11-09】[betalgo / openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E
 * 【2023-11-08】[kontur-courses / challenge-tdd](https://github.com/kontur-courses/challenge-tdd) - 
 * 【2023-11-08】[dotnet-presentations / blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) - Blazor workshop
 * 【2023-11-08】[BluePointLilac / ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
@@ -3573,6 +3603,10 @@
 
 ## Html
 
+* 【2023-11-09】[kubero-dev / ladder](https://github.com/kubero-dev/ladder) - Alternative to 12ft.io. Bypass paywalls with a proxy ladder and remove CORS headers from any URL
+* 【2023-11-09】[NebulaServices / Nebula](https://github.com/NebulaServices/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
+* 【2023-11-09】[sonic-net / SONiC](https://github.com/sonic-net/SONiC) - Landing page for Software for Open Networking in the Cloud (SONiC) - https://sonic-net.github.io/SONiC/
+* 【2023-11-09】[Atlas-OS / docs](https://github.com/Atlas-OS/docs) - Atlas documentation hosted on Cloudflare Pages using MkDocs
 * 【2023-11-08】[kenzok8 / small](https://github.com/kenzok8/small) - ssr passwall vssr bypass依赖
 * 【2023-11-08】[sussygamedeveloper / FNAF2](https://github.com/sussygamedeveloper/FNAF2) - FNAF 2 HTML5 PORT! (With Hacks)
 * 【2023-11-08】[Tikam02 / DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -3952,6 +3986,9 @@
 
 ## Css
 
+* 【2023-11-09】[IBM / plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
+* 【2023-11-09】[Code-Pop / Intro-to-Vue-3](https://github.com/Code-Pop/Intro-to-Vue-3) - Code for Vue Mastery's Intro to Vue 3 course:
+* 【2023-11-09】[brettjurgens / illinipikapp](https://github.com/brettjurgens/illinipikapp) - Website for Pi Kappa Phi Upsilon Chapter (Illinois)
 * 【2023-11-08】[milenafelix / flowers](https://github.com/milenafelix/flowers) - IB: https://github.com/jeycaarce/flowers
 * 【2023-11-08】[zaadevofc / projects](https://github.com/zaadevofc/projects) - 
 * 【2023-11-07】[ratatui-org / ratatui-book](https://github.com/ratatui-org/ratatui-book) - Ratatui Documentation
@@ -4332,6 +4369,15 @@
 
 ## Unknown
 
+* 【2023-11-09】[trungdq88 / Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
+* 【2023-11-09】[PaulWieland / ratgdo](https://github.com/PaulWieland/ratgdo) - 
+* 【2023-11-09】[akr3ch / BugBountyBooks](https://github.com/akr3ch/BugBountyBooks) - A collection of PDF/books about the modern web application security and bug bounty.
+* 【2023-11-09】[openai / openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
+* 【2023-11-09】[kelseyhightower / kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+* 【2023-11-09】[aniftyco / awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+* 【2023-11-09】[Olshansk / interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
+* 【2023-11-09】[mfaisalkhatri / Manual_Testing](https://github.com/mfaisalkhatri/Manual_Testing) - This repository contains the General Test Cases for performing Manual Testing on the Web/Mobile application. It also has Test cases related to API Testing. Templates related to Test Plan and BugBash are also updated.
+* 【2023-11-09】[kjfx / AppleID](https://github.com/kjfx/AppleID) - 美区apple id注册教学，苹果账号注册美国
 * 【2023-11-08】[EvilAnne / lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity) - 《云安全攻防入门》教材
 * 【2023-11-08】[AnsonZnl / RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
 * 【2023-11-08】[Akshat-Jain / database-internals-notes](https://github.com/Akshat-Jain/database-internals-notes) - My chapter-wise notes for Database Internals by Alex Petrov.
