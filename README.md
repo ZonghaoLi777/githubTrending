@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-11-10】[apereo / cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
+* 【2023-11-10】[open-telemetry / opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java
+* 【2023-11-10】[CyrilFeng / Q-calculator](https://github.com/CyrilFeng/Q-calculator) - 高性能优惠叠加计算框架
 * 【2023-11-09】[WadhahEssam / react-native-theme-switch-animation](https://github.com/WadhahEssam/react-native-theme-switch-animation) - A Plug & Play Animations for Switching (Dark/Light) Themes. 🌖
 * 【2023-11-09】[nashtech-garage / yas](https://github.com/nashtech-garage/yas) - YAS: Yet Another Shop, a sample microservices project in Java
 * 【2023-11-08】[Hakky54 / certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
@@ -668,6 +671,11 @@
 
 ## Python
 
+* 【2023-11-10】[chtmp223 / topicGPT](https://github.com/chtmp223/topicGPT) - Code & Prompts for TopicGPT paper (Pham et al. 2023)
+* 【2023-11-10】[locustio / locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
+* 【2023-11-10】[roboflow / webcamGPT](https://github.com/roboflow/webcamGPT) - webcamGPT - chat with video stream 💬 + 📸
+* 【2023-11-10】[tiangolo / full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+* 【2023-11-10】[MrSaighnal / GCR-Google-Calendar-RAT](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT) - Google Calendar RAT is a PoC of Command&Control over Google Calendar Events
 * 【2023-11-09】[openai / consistencydecoder](https://github.com/openai/consistencydecoder) - Consistency Distilled Diff VAE
 * 【2023-11-09】[fortra / impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 * 【2023-11-09】[PyGithub / PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
@@ -1318,6 +1326,9 @@
 
 ## Javascript
 
+* 【2023-11-10】[Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+* 【2023-11-10】[webrtc / samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
+* 【2023-11-10】[OAI / OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 * 【2023-11-09】[langchain-ai / opengpts](https://github.com/langchain-ai/opengpts) - 
 * 【2023-11-09】[brianc / node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 * 【2023-11-08】[openspug / spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
@@ -1844,6 +1855,9 @@
 
 ## Go
 
+* 【2023-11-10】[ko-build / ko](https://github.com/ko-build/ko) - Build and deploy Go applications
+* 【2023-11-10】[tsenart / vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+* 【2023-11-10】[uber-go / automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 * 【2023-11-09】[krya-kryak / y-y-devops-trainings-cloud-1](https://github.com/krya-kryak/y-y-devops-trainings-cloud-1) - Домашнее задание для DevOps-тренировок в Яндексе, лекция "Облако. Кто виноват и что делать."
 * 【2023-11-09】[uber-go / goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 * 【2023-11-09】[csyezheng / a2fa](https://github.com/csyezheng/a2fa) - a2fa is a command line tool for generating and validating one-time password. Its purpose is to get rid of phones and be able to authenticate easily.
@@ -2349,6 +2363,12 @@
 
 ## C
 
+* 【2023-11-10】[FeijiangHan / dead_code_analyzer](https://github.com/FeijiangHan/dead_code_analyzer) - Using DynamoRIO and XED to find redundant executions (Dead code)
+* 【2023-11-10】[fortra / No-Consolation](https://github.com/fortra/No-Consolation) - A BOF that runs unmanaged PEs inline
+* 【2023-11-10】[Battelle / movfuscator](https://github.com/Battelle/movfuscator) - The single instruction C compiler
+* 【2023-11-10】[containers / crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
+* 【2023-11-10】[ufrisk / pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
+* 【2023-11-10】[chiteroman / PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 * 【2023-11-09】[Cracked5pider / LdrLibraryEx](https://github.com/Cracked5pider/LdrLibraryEx) - A small x64 library to load dll's into memory.
 * 【2023-11-09】[id-Software / DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 * 【2023-11-09】[ph1p / ikea-led-obegraensad](https://github.com/ph1p/ikea-led-obegraensad) - ESP32/Arduino hack for the ikea OBEGRÄNSAD led wall lamp
@@ -2770,6 +2790,10 @@
 
 ## C++
 
+* 【2023-11-10】[KanatnikovMax / znanie-drevnix](https://github.com/KanatnikovMax/znanie-drevnix) - 
+* 【2023-11-10】[CoatiSoftware / Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
+* 【2023-11-10】[rapidsai / cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
+* 【2023-11-10】[ChunelFeng / CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的跨平台的C++线程池。欢迎 star & fork
 * 【2023-11-09】[Tripouille / libftTester](https://github.com/Tripouille/libftTester) - Tester for the libft project of 42 school
 * 【2023-11-08】[decoder-it / LocalPotato](https://github.com/decoder-it/LocalPotato) - 
 * 【2023-11-08】[polybar / polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -3197,6 +3221,10 @@
 
 ## C#
 
+* 【2023-11-10】[1Remote / 1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
+* 【2023-11-10】[S3cur3Th1sSh1t / SharpVeeamDecryptor](https://github.com/S3cur3Th1sSh1t/SharpVeeamDecryptor) - Decrypt Veeam database passwords
+* 【2023-11-10】[focus-creative-games / luban](https://github.com/focus-creative-games/luban) - luban是一个强大、易用、优雅、稳定的游戏配置解决方案。luban is a powerful, easy-to-use, elegant and stable game configuration solution.
+* 【2023-11-10】[jbogard / MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 * 【2023-11-09】[Tyrrrz / DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 * 【2023-11-09】[CoreUnion / CoreShop](https://github.com/CoreUnion/CoreShop) - 基于 Asp.Net Core 7.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。
 * 【2023-11-09】[OkGoDoIt / OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
@@ -3603,6 +3631,7 @@
 
 ## Html
 
+* 【2023-11-10】[istio / istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
 * 【2023-11-09】[kubero-dev / ladder](https://github.com/kubero-dev/ladder) - Alternative to 12ft.io. Bypass paywalls with a proxy ladder and remove CORS headers from any URL
 * 【2023-11-09】[NebulaServices / Nebula](https://github.com/NebulaServices/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
 * 【2023-11-09】[sonic-net / SONiC](https://github.com/sonic-net/SONiC) - Landing page for Software for Open Networking in the Cloud (SONiC) - https://sonic-net.github.io/SONiC/
@@ -3986,6 +4015,8 @@
 
 ## Css
 
+* 【2023-11-10】[learn-co-curriculum / phase-1-woof-woof-js-practice](https://github.com/learn-co-curriculum/phase-1-woof-woof-js-practice) - 
+* 【2023-11-10】[nbuntsch / examen-2](https://github.com/nbuntsch/examen-2) - 
 * 【2023-11-09】[IBM / plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 * 【2023-11-09】[Code-Pop / Intro-to-Vue-3](https://github.com/Code-Pop/Intro-to-Vue-3) - Code for Vue Mastery's Intro to Vue 3 course:
 * 【2023-11-09】[brettjurgens / illinipikapp](https://github.com/brettjurgens/illinipikapp) - Website for Pi Kappa Phi Upsilon Chapter (Illinois)
@@ -4369,6 +4400,13 @@
 
 ## Unknown
 
+* 【2023-11-10】[VinAIResearch / PhoGPT](https://github.com/VinAIResearch/PhoGPT) - PhoGPT: Generative Pre-training for Vietnamese
+* 【2023-11-10】[AgentOps-AI / BestGPTs](https://github.com/AgentOps-AI/BestGPTs) - Top ranked OpenAI GPTs
+* 【2023-11-10】[SaraiNoQ / readingKK](https://github.com/SaraiNoQ/readingKK) - kk天涯贴的阅读感想
+* 【2023-11-10】[ruesandora / Engram](https://github.com/ruesandora/Engram) - 
+* 【2023-11-10】[AiKirito / Clash_For_Windows_Ultra](https://github.com/AiKirito/Clash_For_Windows_Ultra) - A simple modified version
+* 【2023-11-10】[aardio / ImTip](https://github.com/aardio/ImTip) - 通用输入法状态跟踪提示，仅用两个字符就可提示中英、全半角、大小写、中英标点、多语言键盘布局等所有状态。
+* 【2023-11-10】[chika0801 / hysteria-install](https://github.com/chika0801/hysteria-install) - Hysteria 2 安装指南
 * 【2023-11-09】[trungdq88 / Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
 * 【2023-11-09】[PaulWieland / ratgdo](https://github.com/PaulWieland/ratgdo) - 
 * 【2023-11-09】[akr3ch / BugBountyBooks](https://github.com/akr3ch/BugBountyBooks) - A collection of PDF/books about the modern web application security and bug bounty.
