@@ -671,6 +671,16 @@
 
 ## Python
 
+* 【2023-11-11】[daveshap / OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - Early experiment to create fully autonomous agent swarms
+* 【2023-11-11】[roboflow / awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI Vision API 🔥
+* 【2023-11-11】[opendilab / LLMRiddles](https://github.com/opendilab/LLMRiddles) - Open-Source Reproduction/Demo of the LLM Riddles Game
+* 【2023-11-11】[GaiZhenbiao / ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+* 【2023-11-11】[OpenBMB / XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
+* 【2023-11-11】[JayZeeDesign / openai-experiments](https://github.com/JayZeeDesign/openai-experiments) - 
+* 【2023-11-11】[modelscope / modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
+* 【2023-11-11】[elebumm / RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
+* 【2023-11-11】[microsoft / sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) - [PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.
+* 【2023-11-11】[AIFSH / MyHeyGen](https://github.com/AIFSH/MyHeyGen) - 
 * 【2023-11-10】[chtmp223 / topicGPT](https://github.com/chtmp223/topicGPT) - Code & Prompts for TopicGPT paper (Pham et al. 2023)
 * 【2023-11-10】[locustio / locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 * 【2023-11-10】[roboflow / webcamGPT](https://github.com/roboflow/webcamGPT) - webcamGPT - chat with video stream 💬 + 📸
@@ -1326,6 +1336,10 @@
 
 ## Javascript
 
+* 【2023-11-11】[safak / nextadmin](https://github.com/safak/nextadmin) - 
+* 【2023-11-11】[lmsqueezy / nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - A Next.js billing app with Lemon Squeezy
+* 【2023-11-11】[playcanvas / engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+* 【2023-11-11】[wekan / wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/ only.
 * 【2023-11-10】[Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 * 【2023-11-10】[webrtc / samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 * 【2023-11-10】[OAI / OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -1855,6 +1869,9 @@
 
 ## Go
 
+* 【2023-11-11】[evmos / evmos](https://github.com/evmos/evmos) - Evmos is the first decentralized EVM chain on the Cosmos Network. It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.
+* 【2023-11-11】[gitpod-io / gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+* 【2023-11-11】[alpkeskin / mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 * 【2023-11-10】[ko-build / ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 * 【2023-11-10】[tsenart / vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 * 【2023-11-10】[uber-go / automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
@@ -2363,6 +2380,9 @@
 
 ## C
 
+* 【2023-11-11】[eclipse / paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
+* 【2023-11-11】[baidu / dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
+* 【2023-11-11】[Xilinx / XRT](https://github.com/Xilinx/XRT) - Xilinx Run Time for FPGA
 * 【2023-11-10】[FeijiangHan / dead_code_analyzer](https://github.com/FeijiangHan/dead_code_analyzer) - Using DynamoRIO and XED to find redundant executions (Dead code)
 * 【2023-11-10】[fortra / No-Consolation](https://github.com/fortra/No-Consolation) - A BOF that runs unmanaged PEs inline
 * 【2023-11-10】[Battelle / movfuscator](https://github.com/Battelle/movfuscator) - The single instruction C compiler
@@ -2790,6 +2810,9 @@
 
 ## C++
 
+* 【2023-11-11】[Abhishek-Saini / educational](https://github.com/Abhishek-Saini/educational) - Educational Codes
+* 【2023-11-11】[p-ranav / argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
+* 【2023-11-11】[fish-shell / fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 * 【2023-11-10】[KanatnikovMax / znanie-drevnix](https://github.com/KanatnikovMax/znanie-drevnix) - 
 * 【2023-11-10】[CoatiSoftware / Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 * 【2023-11-10】[rapidsai / cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
@@ -3221,6 +3244,11 @@
 
 ## C#
 
+* 【2023-11-11】[Coolapk-UWP / Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) - 一个基于 UWP 平台的第三方酷安客户端
+* 【2023-11-11】[Azure / iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project
+* 【2023-11-11】[RageAgainstThePixel / OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A Non-Official OpenAI RESTful API Client for dotnet
+* 【2023-11-11】[pythonnet / pythonnet](https://github.com/pythonnet/pythonnet) - Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
+* 【2023-11-11】[lysilver / KopSoftWms](https://github.com/lysilver/KopSoftWms) - KopSoft仓库管理系统
 * 【2023-11-10】[1Remote / 1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
 * 【2023-11-10】[S3cur3Th1sSh1t / SharpVeeamDecryptor](https://github.com/S3cur3Th1sSh1t/SharpVeeamDecryptor) - Decrypt Veeam database passwords
 * 【2023-11-10】[focus-creative-games / luban](https://github.com/focus-creative-games/luban) - luban是一个强大、易用、优雅、稳定的游戏配置解决方案。luban is a powerful, easy-to-use, elegant and stable game configuration solution.
@@ -3631,6 +3659,10 @@
 
 ## Html
 
+* 【2023-11-11】[microsoft / LLaVA-Med](https://github.com/microsoft/LLaVA-Med) - Large Language-and-Vision Assistant for BioMedicine, built towards multimodal GPT-4 level capabilities.
+* 【2023-11-11】[deep-learning-mit / staging](https://github.com/deep-learning-mit/staging) - 
+* 【2023-11-11】[knative / docs](https://github.com/knative/docs) - User documentation for Knative components.
+* 【2023-11-11】[genius-space / genius-lesson-project](https://github.com/genius-space/genius-lesson-project) - 
 * 【2023-11-10】[istio / istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
 * 【2023-11-09】[kubero-dev / ladder](https://github.com/kubero-dev/ladder) - Alternative to 12ft.io. Bypass paywalls with a proxy ladder and remove CORS headers from any URL
 * 【2023-11-09】[NebulaServices / Nebula](https://github.com/NebulaServices/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
@@ -4015,6 +4047,15 @@
 
 ## Css
 
+* 【2023-11-11】[wendywarren / customizing-bootstrap](https://github.com/wendywarren/customizing-bootstrap) - 
+* 【2023-11-11】[jlord / hello](https://github.com/jlord/hello) - [Fork-n-Go] A simple personal page. Demo:
+* 【2023-11-11】[EthicalSource / contributor_covenant](https://github.com/EthicalSource/contributor_covenant) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
+* 【2023-11-11】[antipachita / HTML-builder](https://github.com/antipachita/HTML-builder) - 
+* 【2023-11-11】[jennythinkful / pizza](https://github.com/jennythinkful/pizza) - 
+* 【2023-11-11】[datguypiko / Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
+* 【2023-11-11】[learning-software-engineering / learning-software-engineering.github.io](https://github.com/learning-software-engineering/learning-software-engineering.github.io) - 
+* 【2023-11-11】[mulingyuer / Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) - Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本
+* 【2023-11-11】[MeiK2333 / github-style](https://github.com/MeiK2333/github-style) - 
 * 【2023-11-10】[learn-co-curriculum / phase-1-woof-woof-js-practice](https://github.com/learn-co-curriculum/phase-1-woof-woof-js-practice) - 
 * 【2023-11-10】[nbuntsch / examen-2](https://github.com/nbuntsch/examen-2) - 
 * 【2023-11-09】[IBM / plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
@@ -4400,6 +4441,12 @@
 
 ## Unknown
 
+* 【2023-11-11】[creapunk / CLN17](https://github.com/creapunk/CLN17) - Compact closed-loop stepper motor driver designed for NEMA17 motors
+* 【2023-11-11】[mbzuai-oryx / groundingLMM](https://github.com/mbzuai-oryx/groundingLMM) - Grounding Large Multimodal Model (GLaMM), the first-of-its-kind model capable of generating natural language responses that are seamlessly integrated with object segmentation masks.
+* 【2023-11-11】[anoma / namada-testnets](https://github.com/anoma/namada-testnets) - Testnet configurations and coordination for the Namada network.
+* 【2023-11-11】[damo-vilab / i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl) - Official repo for I2VGen-XL: High-Quality Image-to-Video Synthesis Via Cascaded Diffusion Models
+* 【2023-11-11】[x1trap / websec-answers](https://github.com/x1trap/websec-answers) - Websec interview questions by tib3rius answered
+* 【2023-11-11】[kjfx / kjfx](https://github.com/kjfx/kjfx) - 2023机场推荐
 * 【2023-11-10】[VinAIResearch / PhoGPT](https://github.com/VinAIResearch/PhoGPT) - PhoGPT: Generative Pre-training for Vietnamese
 * 【2023-11-10】[AgentOps-AI / BestGPTs](https://github.com/AgentOps-AI/BestGPTs) - Top ranked OpenAI GPTs
 * 【2023-11-10】[SaraiNoQ / readingKK](https://github.com/SaraiNoQ/readingKK) - kk天涯贴的阅读感想
