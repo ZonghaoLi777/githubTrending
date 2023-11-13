@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-11-13】[geekxh / hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解 ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
+* 【2023-11-13】[jishenghua / jshERP](https://github.com/jishenghua/jshERP) - 华夏ERP基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
+* 【2023-11-13】[jellyfin / jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 * 【2023-11-12】[simplelocalize / simplelocalize-cli](https://github.com/simplelocalize/simplelocalize-cli) - Command-line tool for SimpleLocalize
 * 【2023-11-12】[DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * 【2023-11-12】[L-codes / Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg) - Neo-reGeorg is a project that seeks to aggressively refactor reGeorg
@@ -678,6 +681,13 @@
 
 ## Python
 
+* 【2023-11-13】[netease-youdao / EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
+* 【2023-11-13】[vinta / awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+* 【2023-11-13】[FlareSolverr / FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+* 【2023-11-13】[openai / plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
+* 【2023-11-13】[shiqiangw / iclr2024-scores](https://github.com/shiqiangw/iclr2024-scores) - 
+* 【2023-11-13】[YORG-AI / Open-Assistant](https://github.com/YORG-AI/Open-Assistant) - YORG Open Source Version
+* 【2023-11-13】[why2lyj / youxiang-Itchat](https://github.com/why2lyj/youxiang-Itchat) - 无视微信Web无法登录问题。获取淘宝优惠券、京东优惠券、拼多多（多多客）优惠券、苏宁易购优惠券、唯品会优惠券，通过接入淘宝联盟、京东联盟、拼多多（多多进宝）、苏宁联盟（苏宁推客）、唯品会及其对应的开放平台，获取优惠商品图片和对应商品信息，利用微信机器人推送到指定群聊。
 * 【2023-11-12】[ishan0102 / vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 * 【2023-11-12】[huggingface / diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 * 【2023-11-12】[edmund-code / muse-eeg](https://github.com/edmund-code/muse-eeg) - 
@@ -1349,6 +1359,14 @@
 
 ## Javascript
 
+* 【2023-11-13】[adrianhajdin / 3D_portfolio](https://github.com/adrianhajdin/3D_portfolio) - Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your skills and get a job!
+* 【2023-11-13】[AnchoringAI / anchoring-ai](https://github.com/AnchoringAI/anchoring-ai) - An open-source no-code tool for teams to collaborate on building, evaluating, and hosting applications leveraging GPT and other large language models. You could easily build and share LLM-powered apps, manage your budget and run batch jobs.
+* 【2023-11-13】[thiagokroger / battlesquare](https://github.com/thiagokroger/battlesquare) - Vanilla Javascript, mobile-friendly, turn-based strategy game
+* 【2023-11-13】[umnik1 / yaamp](https://github.com/umnik1/yaamp) - Yaamp — Аудио-плеер Winamp с интегрированным сервисом Яндекс.Музыка.
+* 【2023-11-13】[FeijiangHan / MFVP](https://github.com/FeijiangHan/MFVP) - Malware detection and visualization platform by CSU vis Lab (front-end version)
+* 【2023-11-13】[adam-golab / react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
+* 【2023-11-13】[PipedreamHQ / pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast. Free for developers.
+* 【2023-11-13】[ShirasawaSama / CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 * 【2023-11-12】[projectdiscovery / nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension) - Nuclei AI - Browser Extension for Rapid Nuclei Template Generation
 * 【2023-11-12】[studio-freight / lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
 * 【2023-11-12】[wechat-miniprogram / miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例
@@ -1889,6 +1907,16 @@
 
 ## Go
 
+* 【2023-11-13】[nlpodyssey / waveny](https://github.com/nlpodyssey/waveny) - Emulate guitar amps and pedals with deep learning, in Go.
+* 【2023-11-13】[inconshreveable / ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+* 【2023-11-13】[maliceio / malice](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
+* 【2023-11-13】[authelia / authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+* 【2023-11-13】[hajimehoshi / ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
+* 【2023-11-13】[Enelg52 / OffensiveGo](https://github.com/Enelg52/OffensiveGo) - Golang weaponization for red teamers.
+* 【2023-11-13】[alin-io / pkgstore](https://github.com/alin-io/pkgstore) - Package Proxy is an All in One server that handles Packages for NPM, PyPi, Docker/Containers
+* 【2023-11-13】[antonmedv / fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+* 【2023-11-13】[BigJk / crt](https://github.com/BigJk/crt) - Minimal terminal emulator for Bubbletea.
+* 【2023-11-13】[anlityli / chatait-free](https://github.com/anlityli/chatait-free) - 一套 golang + vue3 实现的chatgpt、midjourney的对话程序
 * 【2023-11-12】[cosmos / cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - ⛓️ A Framework for Building High Value Public Blockchains ✨
 * 【2023-11-12】[valyala / fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 * 【2023-11-12】[Melkeydev / go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
@@ -2405,6 +2433,8 @@
 
 ## C
 
+* 【2023-11-13】[fairyglade / ly](https://github.com/fairyglade/ly) - display manager with console UI
+* 【2023-11-13】[TeraTermProject / teraterm](https://github.com/TeraTermProject/teraterm) - 
 * 【2023-11-12】[php / php-src](https://github.com/php/php-src) - The PHP Interpreter
 * 【2023-11-12】[blender / blender](https://github.com/blender/blender) - Official mirror of Blender
 * 【2023-11-12】[xdp-project / xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) - XDP tutorial
@@ -2844,6 +2874,11 @@
 
 ## C++
 
+* 【2023-11-13】[SecretHQ / seal-cuda](https://github.com/SecretHQ/seal-cuda) - A GPU implementation of BFV/BGV/CKKS scheme, based on Microsoft SEAL.
+* 【2023-11-13】[arvidn / libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
+* 【2023-11-13】[doitsujin / dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+* 【2023-11-13】[mixxxdj / mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+* 【2023-11-13】[doongz / aics](https://github.com/doongz/aics) - 智能计算系统 AI Computing Systems 陈云霁
 * 【2023-11-12】[efchatz / pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
 * 【2023-11-11】[Abhishek-Saini / educational](https://github.com/Abhishek-Saini/educational) - Educational Codes
 * 【2023-11-11】[p-ranav / argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
@@ -3279,6 +3314,9 @@
 
 ## C#
 
+* 【2023-11-13】[MicaForEveryone / MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
+* 【2023-11-13】[krzys-h / UndertaleModTool](https://github.com/krzys-h/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other Game Maker: Studio games!)
+* 【2023-11-13】[TomGrobbe / vMenu](https://github.com/TomGrobbe/vMenu) - vMenu is a custom server sided trainer/menu, built using a custom version of NativeUI. It has full permissions support, so the server owner can decide who's allowed to do what.
 * 【2023-11-12】[ping11700 / LOLKit](https://github.com/ping11700/LOLKit) - One gift for all LOL gamers， League of Legends工具
 * 【2023-11-12】[AdminTest0 / SharpWxDump](https://github.com/AdminTest0/SharpWxDump) - 微信客户端取证，可获取用户个人信息(昵称/账号/手机/邮箱/数据库密钥(用来解密聊天记录))；支持获取多用户信息，不定期更新新版本偏移，目前支持所有新版本、正式版本
 * 【2023-11-12】[shibbo / Fushigi](https://github.com/shibbo/Fushigi) - An editor for Super Mario Bros. Wonder.
@@ -4090,6 +4128,9 @@
 
 ## Css
 
+* 【2023-11-13】[novoselrok / glance](https://github.com/novoselrok/glance) - Code at a glance. Highlight important parts of the code using embeddings and PageRank.
+* 【2023-11-13】[krsunm / Aurora](https://github.com/krsunm/Aurora) - Fantastic,easy using theme for v2b.
+* 【2023-11-13】[andreasgrafen / cascade](https://github.com/andreasgrafen/cascade) - A responsive One-Line CSS Theme for Firefox.
 * 【2023-11-12】[web-dev-open / pizza](https://github.com/web-dev-open/pizza) - 
 * 【2023-11-12】[cli-guidelines / cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 * 【2023-11-11】[wendywarren / customizing-bootstrap](https://github.com/wendywarren/customizing-bootstrap) - 
@@ -4486,6 +4527,15 @@
 
 ## Unknown
 
+* 【2023-11-13】[Mr-Un1k0d3r / .NetConfigLoader](https://github.com/Mr-Un1k0d3r/.NetConfigLoader) - .net config loader
+* 【2023-11-13】[UncensoredHiddenWiki / onion-links](https://github.com/UncensoredHiddenWiki/onion-links) - The Hidden Wiki
+* 【2023-11-13】[Anil-matcha / Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - A collection of major GPTS available in public
+* 【2023-11-13】[robbie-uiliams / youtube-view-bot](https://github.com/robbie-uiliams/youtube-view-bot) - YouTube Booster is a view bot software for almost free automatic increasing of views, likes, retention rate, subs, etc. for YouTube videos.
+* 【2023-11-13】[Imperatium / RobloxFPS](https://github.com/Imperatium/RobloxFPS) - Blox-Shader is a Roblox Shaders tool that enhances visuals. Feather Booster is a Roblox FPS booster, improving gameplay smoothness. FPS Unlocker removes FPS cap in Roblox for higher frame rates and smoother gameplay. Enhance visuals, boost FPS, and unlock frame rates with these applications.
+* 【2023-11-13】[ai-boost / Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
+* 【2023-11-13】[CHIANGEL / Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) - Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.
+* 【2023-11-13】[simplerhacking / Evilginx-Course](https://github.com/simplerhacking/Evilginx-Course) - Repository for uploading all resources for students enrolled in Simpler Hacking's Evilginx3 Course
+* 【2023-11-13】[gfwlist / gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 * 【2023-11-12】[Cyfrin / security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - 
 * 【2023-11-11】[creapunk / CLN17](https://github.com/creapunk/CLN17) - Compact closed-loop stepper motor driver designed for NEMA17 motors
 * 【2023-11-11】[mbzuai-oryx / groundingLMM](https://github.com/mbzuai-oryx/groundingLMM) - Grounding Large Multimodal Model (GLaMM), the first-of-its-kind model capable of generating natural language responses that are seamlessly integrated with object segmentation masks.
