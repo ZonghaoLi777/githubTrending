@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-11-14】[CodeCraftersCN / JDevKit](https://github.com/CodeCraftersCN/JDevKit) - JDevKit is a Java Dev Kit offering essential tools for streamlined development. It includes common components, WebCal (RFC5545) support, GUID generation, and JWT features. Designed to enhance efficiency across projects of all sizes.
+* 【2023-11-14】[MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) - Based Minecraft utility mod.
+* 【2023-11-14】[junit-team / junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
 * 【2023-11-13】[geekxh / hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解 ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 * 【2023-11-13】[jishenghua / jshERP](https://github.com/jishenghua/jshERP) - 华夏ERP基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
 * 【2023-11-13】[jellyfin / jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
@@ -681,6 +684,12 @@
 
 ## Python
 
+* 【2023-11-14】[kivy / kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+* 【2023-11-14】[walkxcode / dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
+* 【2023-11-14】[cocktailpeanut / mirror](https://github.com/cocktailpeanut/mirror) - 
+* 【2023-11-14】[python-telegram-bot / python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
+* 【2023-11-14】[LLaVA-VL / LLaVA-Plus-Codebase](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills
+* 【2023-11-14】[Zakkoree / woiden_extend](https://github.com/Zakkoree/woiden_extend) - woiden.id and hax.co.id auto extend
 * 【2023-11-13】[netease-youdao / EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 * 【2023-11-13】[vinta / awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 * 【2023-11-13】[FlareSolverr / FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -1359,6 +1368,12 @@
 
 ## Javascript
 
+* 【2023-11-14】[adambard / learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
+* 【2023-11-14】[Bogdan-Lyashenko / Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS) - Entire React code base explanation by visual block schemes (Stack version)
+* 【2023-11-14】[KingRan / KR](https://github.com/KingRan/KR) - 完整库，内部助力
+* 【2023-11-14】[PawanOsman / ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
+* 【2023-11-14】[shivaya-dav / DogeRat](https://github.com/shivaya-dav/DogeRat) - A multifunctional Telegram based Android RAT without port forwarding.
+* 【2023-11-14】[judygab / nextjs-portfolio](https://github.com/judygab/nextjs-portfolio) - portfolio website in nextjs 13
 * 【2023-11-13】[adrianhajdin / 3D_portfolio](https://github.com/adrianhajdin/3D_portfolio) - Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your skills and get a job!
 * 【2023-11-13】[AnchoringAI / anchoring-ai](https://github.com/AnchoringAI/anchoring-ai) - An open-source no-code tool for teams to collaborate on building, evaluating, and hosting applications leveraging GPT and other large language models. You could easily build and share LLM-powered apps, manage your budget and run batch jobs.
 * 【2023-11-13】[thiagokroger / battlesquare](https://github.com/thiagokroger/battlesquare) - Vanilla Javascript, mobile-friendly, turn-based strategy game
@@ -1907,6 +1922,9 @@
 
 ## Go
 
+* 【2023-11-14】[philippta / flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go
+* 【2023-11-14】[gocolly / colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+* 【2023-11-14】[xjasonlyu / tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 * 【2023-11-13】[nlpodyssey / waveny](https://github.com/nlpodyssey/waveny) - Emulate guitar amps and pedals with deep learning, in Go.
 * 【2023-11-13】[inconshreveable / ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 * 【2023-11-13】[maliceio / malice](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
@@ -2433,6 +2451,10 @@
 
 ## C
 
+* 【2023-11-14】[unikraft / unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
+* 【2023-11-14】[pimoroni / pimoroni-pico](https://github.com/pimoroni/pimoroni-pico) - Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.
+* 【2023-11-14】[hanwckf / immortalwrt-mt798x](https://github.com/hanwckf/immortalwrt-mt798x) - 
+* 【2023-11-14】[libimobiledevice / libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 * 【2023-11-13】[fairyglade / ly](https://github.com/fairyglade/ly) - display manager with console UI
 * 【2023-11-13】[TeraTermProject / teraterm](https://github.com/TeraTermProject/teraterm) - 
 * 【2023-11-12】[php / php-src](https://github.com/php/php-src) - The PHP Interpreter
@@ -2874,6 +2896,7 @@
 
 ## C++
 
+* 【2023-11-14】[obsproject / obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
 * 【2023-11-13】[SecretHQ / seal-cuda](https://github.com/SecretHQ/seal-cuda) - A GPU implementation of BFV/BGV/CKKS scheme, based on Microsoft SEAL.
 * 【2023-11-13】[arvidn / libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 * 【2023-11-13】[doitsujin / dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
@@ -3314,6 +3337,9 @@
 
 ## C#
 
+* 【2023-11-14】[reversedrooms / FurinaImpact](https://github.com/reversedrooms/FurinaImpact) - Server backend reimplementation for some anime game
+* 【2023-11-14】[ricardojoserf / WhoamiAlternatives](https://github.com/ricardojoserf/WhoamiAlternatives) - Different methods to get current username without using whoami
+* 【2023-11-14】[slyh / Cities2-Various-Mods](https://github.com/slyh/Cities2-Various-Mods) - Collection of mods for Cities: Skylines II
 * 【2023-11-13】[MicaForEveryone / MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
 * 【2023-11-13】[krzys-h / UndertaleModTool](https://github.com/krzys-h/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other Game Maker: Studio games!)
 * 【2023-11-13】[TomGrobbe / vMenu](https://github.com/TomGrobbe/vMenu) - vMenu is a custom server sided trainer/menu, built using a custom version of NativeUI. It has full permissions support, so the server owner can decide who's allowed to do what.
@@ -4128,6 +4154,8 @@
 
 ## Css
 
+* 【2023-11-14】[rime / home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
+* 【2023-11-14】[TryGhost / Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
 * 【2023-11-13】[novoselrok / glance](https://github.com/novoselrok/glance) - Code at a glance. Highlight important parts of the code using embeddings and PageRank.
 * 【2023-11-13】[krsunm / Aurora](https://github.com/krsunm/Aurora) - Fantastic,easy using theme for v2b.
 * 【2023-11-13】[andreasgrafen / cascade](https://github.com/andreasgrafen/cascade) - A responsive One-Line CSS Theme for Firefox.
@@ -4527,6 +4555,10 @@
 
 ## Unknown
 
+* 【2023-11-14】[fr0gger / Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
+* 【2023-11-14】[taranjeet / awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community
+* 【2023-11-14】[cyb3rmik3 / MDE-DFIR-Resources](https://github.com/cyb3rmik3/MDE-DFIR-Resources) - A curated list of resources for DFIR through Microsoft Defender for Endpoint leveraging kusto queries, powershell scripts, tools such as KAPE and THOR Cloud and more.
+* 【2023-11-14】[githubvpn007 / ProxyTool](https://github.com/githubvpn007/ProxyTool) - ShadowsocksR、 Shadowsocks、ClashR、vmess 、vpn、V2ray、Clash、V2ray 、V2rayN、Qv2ray、V2rayW、V2RayS、Mellow、V2rayX、V2rayU、ClashX、Kitsunebi、BifrostV、i2Ray 、Quantumult、Surge 4、winXray、Qv2ray、Kitsunebi、Trojan-Qt5、翻墙代理上网工具下载大全
 * 【2023-11-13】[Mr-Un1k0d3r / .NetConfigLoader](https://github.com/Mr-Un1k0d3r/.NetConfigLoader) - .net config loader
 * 【2023-11-13】[UncensoredHiddenWiki / onion-links](https://github.com/UncensoredHiddenWiki/onion-links) - The Hidden Wiki
 * 【2023-11-13】[Anil-matcha / Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - A collection of major GPTS available in public
