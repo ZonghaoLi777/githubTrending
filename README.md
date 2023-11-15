@@ -684,6 +684,11 @@
 
 ## Python
 
+* 【2023-11-15】[disler / multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
+* 【2023-11-15】[outlines-dev / outlines](https://github.com/outlines-dev/outlines) - Guided Text Generation
+* 【2023-11-15】[eriklindernoren / ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+* 【2023-11-15】[anasty17 / mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download torrents, mega, google drive, telegram document, any file/folder from rclone supported clouds and direct links + all yt-dlp supported sites, then upload them to google drive, telegram cloud or to one of rclone supported clouds
+* 【2023-11-15】[EleutherAI / lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of autoregressive language models.
 * 【2023-11-14】[kivy / kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 * 【2023-11-14】[walkxcode / dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
 * 【2023-11-14】[cocktailpeanut / mirror](https://github.com/cocktailpeanut/mirror) - 
@@ -1368,6 +1373,11 @@
 
 ## Javascript
 
+* 【2023-11-15】[chetanverma16 / react-portfolio-template](https://github.com/chetanverma16/react-portfolio-template) - Modern React Portfolio Template (FREE)
+* 【2023-11-15】[goldfire / howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
+* 【2023-11-15】[bilibili / flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
+* 【2023-11-15】[minimal-ui-kit / material-kit-react](https://github.com/minimal-ui-kit/material-kit-react) - Minimal Dashboard - build with React Material UI components.
+* 【2023-11-15】[scratchfoundation / scratch-gui](https://github.com/scratchfoundation/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
 * 【2023-11-14】[adambard / learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 * 【2023-11-14】[Bogdan-Lyashenko / Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS) - Entire React code base explanation by visual block schemes (Stack version)
 * 【2023-11-14】[KingRan / KR](https://github.com/KingRan/KR) - 完整库，内部助力
@@ -1922,6 +1932,10 @@
 
 ## Go
 
+* 【2023-11-15】[seaweedfs / seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+* 【2023-11-15】[casbin / casdoor](https://github.com/casbin/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
+* 【2023-11-15】[rhysd / actionlint](https://github.com/rhysd/actionlint) - Static checker for GitHub Actions workflow files
+* 【2023-11-15】[uber-go / mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language.
 * 【2023-11-14】[philippta / flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go
 * 【2023-11-14】[gocolly / colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 * 【2023-11-14】[xjasonlyu / tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
@@ -2451,6 +2465,12 @@
 
 ## C
 
+* 【2023-11-15】[umlaeute / v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
+* 【2023-11-15】[hathach / tinyusb](https://github.com/hathach/tinyusb) - An open source cross-platform USB stack for embedded system
+* 【2023-11-15】[gojue / ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
+* 【2023-11-15】[dkfans / keeperfx](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
+* 【2023-11-15】[OpenVPN / openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN is an open source VPN daemon
+* 【2023-11-15】[analogdevicesinc / no-OS](https://github.com/analogdevicesinc/no-OS) - Software drivers in C for systems without an operating system
 * 【2023-11-14】[unikraft / unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
 * 【2023-11-14】[pimoroni / pimoroni-pico](https://github.com/pimoroni/pimoroni-pico) - Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.
 * 【2023-11-14】[hanwckf / immortalwrt-mt798x](https://github.com/hanwckf/immortalwrt-mt798x) - 
@@ -2896,6 +2916,9 @@
 
 ## C++
 
+* 【2023-11-15】[OSGeo / gdal](https://github.com/OSGeo/gdal) - GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
+* 【2023-11-15】[uNetworking / uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
+* 【2023-11-15】[oneapi-src / oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 * 【2023-11-14】[obsproject / obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
 * 【2023-11-13】[SecretHQ / seal-cuda](https://github.com/SecretHQ/seal-cuda) - A GPU implementation of BFV/BGV/CKKS scheme, based on Microsoft SEAL.
 * 【2023-11-13】[arvidn / libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
@@ -3337,6 +3360,8 @@
 
 ## C#
 
+* 【2023-11-15】[mob-sakai / UIEffect](https://github.com/mob-sakai/UIEffect) - UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!
+* 【2023-11-15】[gitextensions / gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 * 【2023-11-14】[reversedrooms / FurinaImpact](https://github.com/reversedrooms/FurinaImpact) - Server backend reimplementation for some anime game
 * 【2023-11-14】[ricardojoserf / WhoamiAlternatives](https://github.com/ricardojoserf/WhoamiAlternatives) - Different methods to get current username without using whoami
 * 【2023-11-14】[slyh / Cities2-Various-Mods](https://github.com/slyh/Cities2-Various-Mods) - Collection of mods for Cities: Skylines II
@@ -3764,6 +3789,7 @@
 
 ## Html
 
+* 【2023-11-15】[airbnb / lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 * 【2023-11-12】[ruiduobao / gaode_MAP_CUN](https://github.com/ruiduobao/gaode_MAP_CUN) - 1
 * 【2023-11-12】[x-dr / chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 * 【2023-11-11】[microsoft / LLaVA-Med](https://github.com/microsoft/LLaVA-Med) - Large Language-and-Vision Assistant for BioMedicine, built towards multimodal GPT-4 level capabilities.
@@ -4154,6 +4180,10 @@
 
 ## Css
 
+* 【2023-11-15】[Training360 / html5-halado](https://github.com/Training360/html5-halado) - HTML5 haladó tanfolyam anyaga.
+* 【2023-11-15】[FilipJirsak-Czechitas / j2w-ukol06](https://github.com/FilipJirsak-Czechitas/j2w-ukol06) - Zadání úkolu č. 7.
+* 【2023-11-15】[astrosites / template](https://github.com/astrosites/template) - 
+* 【2023-11-15】[Codecademy / deploying-a-static-site-with-netlify-sample](https://github.com/Codecademy/deploying-a-static-site-with-netlify-sample) - 
 * 【2023-11-14】[rime / home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 * 【2023-11-14】[TryGhost / Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
 * 【2023-11-13】[novoselrok / glance](https://github.com/novoselrok/glance) - Code at a glance. Highlight important parts of the code using embeddings and PageRank.
@@ -4555,6 +4585,14 @@
 
 ## Unknown
 
+* 【2023-11-15】[pandora-next / deploy](https://github.com/pandora-next/deploy) - PandoraNext部署文档仓库。
+* 【2023-11-15】[iuricode / readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
+* 【2023-11-15】[piyushsachdeva / AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero) - 
+* 【2023-11-15】[EmbraceAGI / Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
+* 【2023-11-15】[RamiKrispin / awesome-ds-setting](https://github.com/RamiKrispin/awesome-ds-setting) - A tutorial for setting a new machine with core data science tools
+* 【2023-11-15】[Mosklia / gcc-hentai](https://github.com/Mosklia/gcc-hentai) - 让你的 GCC 变得更可爱！
+* 【2023-11-15】[OmarEhab007 / Data_Engineering_Mentorship](https://github.com/OmarEhab007/Data_Engineering_Mentorship) - Data engineering mentorship program
+* 【2023-11-15】[0xor0ne / awesome-list](https://github.com/0xor0ne/awesome-list) - Cybersecurity oriented awesome list
 * 【2023-11-14】[fr0gger / Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 * 【2023-11-14】[taranjeet / awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community
 * 【2023-11-14】[cyb3rmik3 / MDE-DFIR-Resources](https://github.com/cyb3rmik3/MDE-DFIR-Resources) - A curated list of resources for DFIR through Microsoft Defender for Endpoint leveraging kusto queries, powershell scripts, tools such as KAPE and THOR Cloud and more.
