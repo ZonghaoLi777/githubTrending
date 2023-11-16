@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-11-16】[javasmall / bigsai-algorithm](https://github.com/javasmall/bigsai-algorithm) - bigsai的数据结构与算法、LeetCode图解、剑指offer图解文章专栏，致力于最好懂的数据结构与算法专栏
+* 【2023-11-16】[MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+* 【2023-11-16】[jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 * 【2023-11-14】[CodeCraftersCN / JDevKit](https://github.com/CodeCraftersCN/JDevKit) - JDevKit is a Java Dev Kit offering essential tools for streamlined development. It includes common components, WebCal (RFC5545) support, GUID generation, and JWT features. Designed to enhance efficiency across projects of all sizes.
 * 【2023-11-14】[MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) - Based Minecraft utility mod.
 * 【2023-11-14】[junit-team / junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
@@ -684,6 +687,12 @@
 
 ## Python
 
+* 【2023-11-16】[dmlc / dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+* 【2023-11-16】[sockysec / Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
+* 【2023-11-16】[python / cpython](https://github.com/python/cpython) - The Python programming language
+* 【2023-11-16】[cloud804d / mirrors-pengzhile-pandora](https://github.com/cloud804d/mirrors-pengzhile-pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+* 【2023-11-16】[thewhiteh4t / FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
+* 【2023-11-16】[deepinsight / insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 * 【2023-11-15】[disler / multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
 * 【2023-11-15】[outlines-dev / outlines](https://github.com/outlines-dev/outlines) - Guided Text Generation
 * 【2023-11-15】[eriklindernoren / ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
@@ -1373,6 +1382,10 @@
 
 ## Javascript
 
+* 【2023-11-16】[FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+* 【2023-11-16】[plankanban / planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
+* 【2023-11-16】[dejwid / food-ordering](https://github.com/dejwid/food-ordering) - 
+* 【2023-11-16】[johnfactotum / foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 * 【2023-11-15】[chetanverma16 / react-portfolio-template](https://github.com/chetanverma16/react-portfolio-template) - Modern React Portfolio Template (FREE)
 * 【2023-11-15】[goldfire / howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 * 【2023-11-15】[bilibili / flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
@@ -1932,6 +1945,10 @@
 
 ## Go
 
+* 【2023-11-16】[MerlinKodo / clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
+* 【2023-11-16】[libp2p / go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
+* 【2023-11-16】[OwO-Network / DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
+* 【2023-11-16】[songquanpeng / wechat-server](https://github.com/songquanpeng/wechat-server) - 微信公众号的后端，为其他系统提供微信登录验证功能
 * 【2023-11-15】[seaweedfs / seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 * 【2023-11-15】[casbin / casdoor](https://github.com/casbin/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
 * 【2023-11-15】[rhysd / actionlint](https://github.com/rhysd/actionlint) - Static checker for GitHub Actions workflow files
@@ -2465,6 +2482,9 @@
 
 ## C
 
+* 【2023-11-16】[libbpf / libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
+* 【2023-11-16】[AprilRobotics / apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
+* 【2023-11-16】[Foundry376 / Mailspring](https://github.com/Foundry376/Mailspring) - 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 * 【2023-11-15】[umlaeute / v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
 * 【2023-11-15】[hathach / tinyusb](https://github.com/hathach/tinyusb) - An open source cross-platform USB stack for embedded system
 * 【2023-11-15】[gojue / ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
@@ -2916,6 +2936,12 @@
 
 ## C++
 
+* 【2023-11-16】[open-telemetry / opentelemetry-cpp](https://github.com/open-telemetry/opentelemetry-cpp) - The OpenTelemetry C++ Client
+* 【2023-11-16】[open-source-parsers / jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
+* 【2023-11-16】[cyberbotics / webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
+* 【2023-11-16】[facontidavide / PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
+* 【2023-11-16】[nuggslet / MGSM2Fix](https://github.com/nuggslet/MGSM2Fix) - A fix that adds pixel perfect scaling, scanlines and a script debugger to the original Metal Gear Solid within the Master Collection.
+* 【2023-11-16】[wangyu- / udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 * 【2023-11-15】[OSGeo / gdal](https://github.com/OSGeo/gdal) - GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
 * 【2023-11-15】[uNetworking / uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 * 【2023-11-15】[oneapi-src / oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
@@ -3360,6 +3386,7 @@
 
 ## C#
 
+* 【2023-11-16】[MonoGame / MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 * 【2023-11-15】[mob-sakai / UIEffect](https://github.com/mob-sakai/UIEffect) - UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!
 * 【2023-11-15】[gitextensions / gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 * 【2023-11-14】[reversedrooms / FurinaImpact](https://github.com/reversedrooms/FurinaImpact) - Server backend reimplementation for some anime game
@@ -3789,6 +3816,8 @@
 
 ## Html
 
+* 【2023-11-16】[bikashdev01 / Section-code](https://github.com/bikashdev01/Section-code) - 
+* 【2023-11-16】[goproxy / goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 * 【2023-11-15】[airbnb / lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 * 【2023-11-12】[ruiduobao / gaode_MAP_CUN](https://github.com/ruiduobao/gaode_MAP_CUN) - 1
 * 【2023-11-12】[x-dr / chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
@@ -4180,6 +4209,10 @@
 
 ## Css
 
+* 【2023-11-16】[wanteddev / wanted-sans](https://github.com/wanteddev/wanted-sans) - 곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul
+* 【2023-11-16】[cyz / ada-lovelace-page](https://github.com/cyz/ada-lovelace-page) - 
+* 【2023-11-16】[TheBridge-FullStackDeveloper / rick-and-morty-characters](https://github.com/TheBridge-FullStackDeveloper/rick-and-morty-characters) - 
+* 【2023-11-16】[romeojeremiah / javascript-projects-for-beginners](https://github.com/romeojeremiah/javascript-projects-for-beginners) - Repository for all (future) 100+ JavaScript projects for beginners created on JSBeginners.com.
 * 【2023-11-15】[Training360 / html5-halado](https://github.com/Training360/html5-halado) - HTML5 haladó tanfolyam anyaga.
 * 【2023-11-15】[FilipJirsak-Czechitas / j2w-ukol06](https://github.com/FilipJirsak-Czechitas/j2w-ukol06) - Zadání úkolu č. 7.
 * 【2023-11-15】[astrosites / template](https://github.com/astrosites/template) - 
@@ -4585,6 +4618,11 @@
 
 ## Unknown
 
+* 【2023-11-16】[mbeaudru / modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+* 【2023-11-16】[vectara / hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
+* 【2023-11-16】[devisasari / awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
+* 【2023-11-16】[vuejs / awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+* 【2023-11-16】[PJLab-ADG / GPT4V-AD-Exploration](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) - On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving
 * 【2023-11-15】[pandora-next / deploy](https://github.com/pandora-next/deploy) - PandoraNext部署文档仓库。
 * 【2023-11-15】[iuricode / readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
 * 【2023-11-15】[piyushsachdeva / AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero) - 
