@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2023-11-19】[dianping / cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
+* 【2023-11-19】[getActivity / EasyWindow](https://github.com/getActivity/EasyWindow) - Android 悬浮窗框架，好用不解释
 * 【2023-11-18】[onetable-io / onetable](https://github.com/onetable-io/onetable) - OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.
 * 【2023-11-18】[devsuperior / dslist-backend](https://github.com/devsuperior/dslist-backend) - 
 * 【2023-11-18】[jOOQ / jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
@@ -692,6 +694,13 @@
 
 ## Python
 
+* 【2023-11-19】[CVHub520 / X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
+* 【2023-11-19】[ShishirPatil / gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
+* 【2023-11-19】[wtfloris / hestia](https://github.com/wtfloris/hestia) - Hestia scrapes real estate websites for new rental listings
+* 【2023-11-19】[Alb-310 / Geogramint](https://github.com/Alb-310/Geogramint) - An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
+* 【2023-11-19】[jumpserver / jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
+* 【2023-11-19】[pandas-dev / pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+* 【2023-11-19】[datawhalechina / vced](https://github.com/datawhalechina/vced) - VCED 可以通过你的文字描述来自动识别视频中相符合的片段进行视频剪辑。该项目基于跨模态搜索与向量检索技术搭建，通过前后端分离的模式，帮助你快速的接触新一代搜索技术。
 * 【2023-11-18】[cbh123 / narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 * 【2023-11-18】[adap / flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 * 【2023-11-18】[DLR-RM / stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
@@ -1400,6 +1409,7 @@
 
 ## Javascript
 
+* 【2023-11-19】[JoeyGambler / youtube-ad-skip](https://github.com/JoeyGambler/youtube-ad-skip) - 
 * 【2023-11-18】[jerosoler / Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 * 【2023-11-18】[jsdoc / jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 * 【2023-11-18】[open-telemetry / opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) - The OpenTelemetry website and documentation
@@ -1969,6 +1979,10 @@
 
 ## Go
 
+* 【2023-11-19】[kubeshark / kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes
+* 【2023-11-19】[uber-go / nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
+* 【2023-11-19】[segmentio / kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
+* 【2023-11-19】[grafana / agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
 * 【2023-11-18】[Permify / permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
 * 【2023-11-18】[canonical / microcloud](https://github.com/canonical/microcloud) - Automated private cloud based on LXD, Ceph and OVN
 * 【2023-11-18】[teivah / 100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
@@ -2515,6 +2529,9 @@
 
 ## C
 
+* 【2023-11-19】[lambertjamesd / portal64](https://github.com/lambertjamesd/portal64) - A demake of Portal for the Nintendo 64
+* 【2023-11-19】[FWGS / xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine.
+* 【2023-11-19】[bellard / quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 * 【2023-11-18】[zetaloop / ExplorerPatcher](https://github.com/zetaloop/ExplorerPatcher) - ExplorerPatcher Chinese Localization - 在 Windows 11 上恢复高效的工作环境
 * 【2023-11-18】[meetecho / janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 * 【2023-11-18】[gnbdev / opengnb](https://github.com/gnbdev/opengnb) - GNB is open source de-centralized SDVN to achieve layer3 network via p2p with the ultimate capability of NAT Traversal.GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的SDVN。
@@ -2975,6 +2992,12 @@
 
 ## C++
 
+* 【2023-11-19】[Tencent / tgfx](https://github.com/Tencent/tgfx) - A lightweight 2D graphics library for rendering texts, geometries, and images with high-performance APIs that work across various platforms.
+* 【2023-11-19】[maxbbraun / llama4micro](https://github.com/maxbbraun/llama4micro) - A "large" language model running on a microcontroller
+* 【2023-11-19】[Tencent / libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
+* 【2023-11-19】[capnproto / capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
+* 【2023-11-19】[hoffstadt / DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+* 【2023-11-19】[ros-perception / vision_opencv](https://github.com/ros-perception/vision_opencv) - 
 * 【2023-11-18】[tandasat / CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427) - Report and exploit of CVE-2023-36427
 * 【2023-11-18】[COVESA / vsomeip](https://github.com/COVESA/vsomeip) - An implementation of Scalable service-Oriented MiddlewarE over IP
 * 【2023-11-18】[libigl / libigl](https://github.com/libigl/libigl) - Simple MPL-2.0-licensed C++ geometry processing library.
@@ -3431,6 +3454,9 @@
 
 ## C#
 
+* 【2023-11-19】[dotnet / winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
+* 【2023-11-19】[RHeavenStudio / HeavenStudio](https://github.com/RHeavenStudio/HeavenStudio) - (WIP) Fully playable, open source recreation of every Rhythm Heaven minigame with a built in level editor.
+* 【2023-11-19】[richlander / container-workshop](https://github.com/richlander/container-workshop) - Documents fundamental .NET Container workflows
 * 【2023-11-18】[mono / SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
 * 【2023-11-18】[qwqdanchun / Pillager](https://github.com/qwqdanchun/Pillager) - Pillager是一个适用于后渗透期间的信息收集工具
 * 【2023-11-18】[Azure-Samples / azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
@@ -3868,6 +3894,11 @@
 
 ## Html
 
+* 【2023-11-19】[jerryjliu / create_llama_projects](https://github.com/jerryjliu/create_llama_projects) - 
+* 【2023-11-19】[atelier-anchor / smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+* 【2023-11-19】[emilwallner / Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+* 【2023-11-19】[dragon731012 / -WORKING-bookmarklets-and-games](https://github.com/dragon731012/-WORKING-bookmarklets-and-games) - thanks guys so much for the stars and forks. over 60 working bookmarklets and games-please star and check out my discord server! Thanks! news: added cool cursor
+* 【2023-11-19】[yairEO / tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 * 【2023-11-18】[clong / DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 * 【2023-11-18】[steveruizok / perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 * 【2023-11-18】[ysx88 / openwrt-packages](https://github.com/ysx88/openwrt-packages) - OpenWrt 常用插件(含科学上网插件及依赖)
@@ -4267,6 +4298,8 @@
 
 ## Css
 
+* 【2023-11-19】[yudhiesh / devops-cc-week-2](https://github.com/yudhiesh/devops-cc-week-2) - 
+* 【2023-11-19】[the-mvm / the-mvm.github.io](https://github.com/the-mvm/the-mvm.github.io) - The Minimum Viable Model website and Jekyll theme.
 * 【2023-11-18】[UndeadSec / SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
 * 【2023-11-18】[lovefc / china_school_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
 * 【2023-11-18】[kyuuki / kyuuki.github.io](https://github.com/kyuuki/kyuuki.github.io) - 
@@ -4685,6 +4718,15 @@
 
 ## Unknown
 
+* 【2023-11-19】[lawrencesystems / Draw_IO_Diagrams](https://github.com/lawrencesystems/Draw_IO_Diagrams) - Diagrams used in my YouTube Videos
+* 【2023-11-19】[engenheiracoelho / curriculo](https://github.com/engenheiracoelho/curriculo) - Esse repositório tem o objetivo de te ajudar a criar um bom currículo
+* 【2023-11-19】[prakhar1989 / awesome-courses](https://github.com/prakhar1989/awesome-courses) - 📚 List of awesome university courses for learning Computer Science!
+* 【2023-11-19】[othneildrew / Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
+* 【2023-11-19】[christianversloot / machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com.
+* 【2023-11-19】[pepethefrog99 / fort-project](https://github.com/pepethefrog99/fort-project) - 
+* 【2023-11-19】[EaNt3Y / EaNt3Y-DEX-Triangular-Arbitrage-Bot-V4](https://github.com/EaNt3Y/EaNt3Y-DEX-Triangular-Arbitrage-Bot-V4) - Want to boost your returns? Our 100% JavaScript bot performs Triangular Arbitrage on DEX's for optimal profits. Open-source and user-friendly, get started today!
+* 【2023-11-19】[deezertidal / freevpn](https://github.com/deezertidal/freevpn) - 免费公益机场节点分享
+* 【2023-11-19】[ZGQ-inc / overthefirewall](https://github.com/ZGQ-inc/overthefirewall) - 覆盖全平台完全免费节点订阅机场推荐破解VPN软件分享
 * 【2023-11-18】[microsoft / hack-together-dotnet](https://github.com/microsoft/hack-together-dotnet) - HackTogether: The Microsoft .NET 8 Global Hack | Register, Hack, Win
 * 【2023-11-18】[lxfater / Awesome-GPTs](https://github.com/lxfater/Awesome-GPTs) - 1000+ GPTs and 10 categories. 80+ Leaked Prompt，Awesome，chatgpt，Ai，prompt
 * 【2023-11-18】[sujayadkesar / cybersecurity-resources](https://github.com/sujayadkesar/cybersecurity-resources) - Cybersecurity Resources
