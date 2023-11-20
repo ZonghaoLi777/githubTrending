@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-11-20】[TeamAmaze / AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
+* 【2023-11-20】[qguangyao / MySound](https://github.com/qguangyao/MySound) - A demo of playing notes written in Java
+* 【2023-11-20】[json-path / JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
 * 【2023-11-19】[dianping / cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 * 【2023-11-19】[getActivity / EasyWindow](https://github.com/getActivity/EasyWindow) - Android 悬浮窗框架，好用不解释
 * 【2023-11-18】[onetable-io / onetable](https://github.com/onetable-io/onetable) - OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.
@@ -694,6 +697,16 @@
 
 ## Python
 
+* 【2023-11-20】[protectai / ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
+* 【2023-11-20】[pytorch-labs / segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast) - A batched offline inference oriented version of segment-anything
+* 【2023-11-20】[spm81 / Quansheng_UV-K5](https://github.com/spm81/Quansheng_UV-K5) - Quansheng UV-K5
+* 【2023-11-20】[TheR1D / shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
+* 【2023-11-20】[Acly / krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
+* 【2023-11-20】[openai / spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
+* 【2023-11-20】[predibase / lorax](https://github.com/predibase/lorax) - Serve 100s of Fine-Tuned LLMs in Production for the Cost of 1
+* 【2023-11-20】[lastmile-ai / aiconfig](https://github.com/lastmile-ai/aiconfig) - aiconfig -- config-driven, source control friendly AI application development
+* 【2023-11-20】[deepfakes / faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
+* 【2023-11-20】[howie6879 / weekly](https://github.com/howie6879/weekly) - 老胡的周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 * 【2023-11-19】[CVHub520 / X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 * 【2023-11-19】[ShishirPatil / gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 * 【2023-11-19】[wtfloris / hestia](https://github.com/wtfloris/hestia) - Hestia scrapes real estate websites for new rental listings
@@ -1409,6 +1422,8 @@
 
 ## Javascript
 
+* 【2023-11-20】[actualbudget / actual-server](https://github.com/actualbudget/actual-server) - Actual's server
+* 【2023-11-20】[ed-roh / react-admin-dashboard](https://github.com/ed-roh/react-admin-dashboard) - Complete React Admin Dashboard
 * 【2023-11-19】[JoeyGambler / youtube-ad-skip](https://github.com/JoeyGambler/youtube-ad-skip) - 
 * 【2023-11-18】[jerosoler / Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 * 【2023-11-18】[jsdoc / jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
@@ -1979,6 +1994,9 @@
 
 ## Go
 
+* 【2023-11-20】[everywall / ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+* 【2023-11-20】[zyedidia / micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+* 【2023-11-20】[kubernetes / kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 * 【2023-11-19】[kubeshark / kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes
 * 【2023-11-19】[uber-go / nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
 * 【2023-11-19】[segmentio / kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
@@ -2529,6 +2547,9 @@
 
 ## C
 
+* 【2023-11-20】[ruby / prism](https://github.com/ruby/prism) - Prism Ruby parser
+* 【2023-11-20】[foobnix / LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
+* 【2023-11-20】[Perfare / Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) - Using Zygisk to dump il2cpp data at runtime
 * 【2023-11-19】[lambertjamesd / portal64](https://github.com/lambertjamesd/portal64) - A demake of Portal for the Nintendo 64
 * 【2023-11-19】[FWGS / xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine.
 * 【2023-11-19】[bellard / quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
@@ -2992,6 +3013,10 @@
 
 ## C++
 
+* 【2023-11-20】[CuarzoSoftware / Louvre](https://github.com/CuarzoSoftware/Louvre) - C++ library for building Wayland compositors.
+* 【2023-11-20】[changkun / modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+* 【2023-11-20】[f4exb / sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
+* 【2023-11-20】[xbmc / xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 * 【2023-11-19】[Tencent / tgfx](https://github.com/Tencent/tgfx) - A lightweight 2D graphics library for rendering texts, geometries, and images with high-performance APIs that work across various platforms.
 * 【2023-11-19】[maxbbraun / llama4micro](https://github.com/maxbbraun/llama4micro) - A "large" language model running on a microcontroller
 * 【2023-11-19】[Tencent / libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
@@ -3454,6 +3479,7 @@
 
 ## C#
 
+* 【2023-11-20】[marmust / internet-scanner](https://github.com/marmust/internet-scanner) - see the internet as a physical network of web pages
 * 【2023-11-19】[dotnet / winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
 * 【2023-11-19】[RHeavenStudio / HeavenStudio](https://github.com/RHeavenStudio/HeavenStudio) - (WIP) Fully playable, open source recreation of every Rhythm Heaven minigame with a built in level editor.
 * 【2023-11-19】[richlander / container-workshop](https://github.com/richlander/container-workshop) - Documents fundamental .NET Container workflows
@@ -3894,6 +3920,10 @@
 
 ## Html
 
+* 【2023-11-20】[thomasms / glastoselenium](https://github.com/thomasms/glastoselenium) - A bot for booking Glastonbury tickets using selenium
+* 【2023-11-20】[iptv-org / epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
+* 【2023-11-20】[HugoBlox / hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+* 【2023-11-20】[jonbarron / website](https://github.com/jonbarron/website) - 
 * 【2023-11-19】[jerryjliu / create_llama_projects](https://github.com/jerryjliu/create_llama_projects) - 
 * 【2023-11-19】[atelier-anchor / smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 * 【2023-11-19】[emilwallner / Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
@@ -4718,6 +4748,11 @@
 
 ## Unknown
 
+* 【2023-11-20】[mgmetehan / Mulakat-Sorulari](https://github.com/mgmetehan/Mulakat-Sorulari) - 
+* 【2023-11-20】[xizhengszhang / Leetcode_company_frequency](https://github.com/xizhengszhang/Leetcode_company_frequency) - Collection of leetcode company tag problems. Periodically updating.
+* 【2023-11-20】[prasadgujar / low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
+* 【2023-11-20】[izackwu / TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
+* 【2023-11-20】[K11MCH1 / AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - A repository for Skyline, Vita3K and Yuzu Android compatible Adreno drivers.
 * 【2023-11-19】[lawrencesystems / Draw_IO_Diagrams](https://github.com/lawrencesystems/Draw_IO_Diagrams) - Diagrams used in my YouTube Videos
 * 【2023-11-19】[engenheiracoelho / curriculo](https://github.com/engenheiracoelho/curriculo) - Esse repositório tem o objetivo de te ajudar a criar um bom currículo
 * 【2023-11-19】[prakhar1989 / awesome-courses](https://github.com/prakhar1989/awesome-courses) - 📚 List of awesome university courses for learning Computer Science!
