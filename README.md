@@ -210,6 +210,10 @@
 
 ## Java
 
+* 【2023-11-25】[WuKongOpenSource / Wukong_HRM](https://github.com/WuKongOpenSource/Wukong_HRM) - 悟空HRM人力资源管理系统-提供入职管理、招聘管理、绩效考核管理等一站式人力管理流程
+* 【2023-11-25】[WuKongOpenSource / WukongCRM-11.0-JAVA](https://github.com/WuKongOpenSource/WukongCRM-11.0-JAVA) - 悟空CRM-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离CRM系统
+* 【2023-11-25】[shenzepeng / middleground](https://github.com/shenzepeng/middleground) - 中台
+* 【2023-11-25】[react-native-image-picker / react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) - 🌄 A React Native module that allows you to use native UI to select media from the device library or directly from the camera.
 * 【2023-11-24】[pentaho / pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle
 * 【2023-11-23】[Sayi / poi-tl](https://github.com/Sayi/poi-tl) - Generate awesome word(docx) with template
 * 【2023-11-22】[oracle / graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
@@ -700,6 +704,12 @@
 
 ## Python
 
+* 【2023-11-25】[netbox-community / netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+* 【2023-11-25】[InternLM / InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - 
+* 【2023-11-25】[lllyasviel / ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
+* 【2023-11-25】[hao-ai-lab / LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding) - 
+* 【2023-11-25】[SkalskiP / awesome-foundation-and-multimodal-models](https://github.com/SkalskiP/awesome-foundation-and-multimodal-models) - 👁️ + 💬 + 🎧 = 🤖 Curated list of top foundation and multimodal models! [Paper + Code]
+* 【2023-11-25】[pyca / cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 * 【2023-11-24】[run-llama / rags](https://github.com/run-llama/rags) - 
 * 【2023-11-24】[ticarpi / jwt_tool](https://github.com/ticarpi/jwt_tool) - 🐍 A toolkit for testing, tweaking and cracking JSON Web Tokens
 * 【2023-11-24】[NeumTry / NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
@@ -1451,6 +1461,12 @@
 
 ## Javascript
 
+* 【2023-11-25】[radian-software / riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
+* 【2023-11-25】[XPandora / PhysGaussian](https://github.com/XPandora/PhysGaussian) - 
+* 【2023-11-25】[conanak99 / sample-gpt-local](https://github.com/conanak99/sample-gpt-local) - 
+* 【2023-11-25】[clientIO / joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
+* 【2023-11-25】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
+* 【2023-11-25】[anji-plus / report](https://github.com/anji-plus/report) - AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
 * 【2023-11-24】[Dong-learn9 / TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk) - TVBox自用接口
 * 【2023-11-24】[qist / tvbox](https://github.com/qist/tvbox) - FongMi影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 apk 下载地址: https://github.com/o0HalfLife0o/TVBoxOSC 选择q215613905 apk
 * 【2023-11-24】[markdown-it / markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -2036,6 +2052,9 @@
 
 ## Go
 
+* 【2023-11-25】[kubernetes-sigs / karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+* 【2023-11-25】[go-resty / resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
+* 【2023-11-25】[TykTechnologies / tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 * 【2023-11-24】[youshandefeiyang / LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect) - LiveRedirect
 * 【2023-11-24】[prometheus-community / windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
 * 【2023-11-24】[panjf2000 / ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
@@ -2602,6 +2621,10 @@
 
 ## C
 
+* 【2023-11-25】[azure-rtos / threadx](https://github.com/azure-rtos/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+* 【2023-11-25】[UncleRus / esp-idf-lib](https://github.com/UncleRus/esp-idf-lib) - Component library for ESP32-xx and ESP8266
+* 【2023-11-25】[EQMOD / EQM_OBDWEB](https://github.com/EQMOD/EQM_OBDWEB) - A WEB Based OBDII Dongle Platform using the ESP32 WROVER Module
+* 【2023-11-25】[antirez / botlib](https://github.com/antirez/botlib) - C Telegram bot framework
 * 【2023-11-24】[CANopenNode / CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
 * 【2023-11-24】[mcu-tools / mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers!
 * 【2023-11-24】[plantegg / programmer_case](https://github.com/plantegg/programmer_case) - 程序员案例集锦
@@ -3081,6 +3104,8 @@
 
 ## C++
 
+* 【2023-11-25】[spotify / voyager](https://github.com/spotify/voyager) - 🛰️ Voyager is an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.
+* 【2023-11-25】[eProsima / Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases.
 * 【2023-11-24】[endless-sky / endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 * 【2023-11-24】[Bill-Haku / kawaii-gcc](https://github.com/Bill-Haku/kawaii-gcc) - GCCコンパイラーを可愛くしましょう！Make your GCC compiler kawaii.
 * 【2023-11-24】[Green-bms / SmartBMS](https://github.com/Green-bms/SmartBMS) - Open source Smart Battery Management System
@@ -3557,6 +3582,11 @@
 
 ## C#
 
+* 【2023-11-25】[HandyOrg / HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
+* 【2023-11-25】[microsoft / vstest](https://github.com/microsoft/vstest) - Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
+* 【2023-11-25】[microsoft / WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
+* 【2023-11-25】[dorssel / usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
+* 【2023-11-25】[babalae / better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 🍨BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动派遣 | 一键强化 | 支持云原神
 * 【2023-11-24】[MicrosoftLearning / AI-102-AIEngineer](https://github.com/MicrosoftLearning/AI-102-AIEngineer) - Lab files for AI-102 - AI Engineer
 * 【2023-11-24】[cxfksword / jellyfin-plugin-danmu](https://github.com/cxfksword/jellyfin-plugin-danmu) - jellyfin弹幕自动下载插件
 * 【2023-11-23】[microsoft / playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
@@ -4004,6 +4034,9 @@
 
 ## Html
 
+* 【2023-11-25】[Terminus2049 / Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
+* 【2023-11-25】[NorthwoodsSoftware / GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+* 【2023-11-25】[QianMo / Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) - Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference
 * 【2023-11-24】[wang987742 / fanmingming](https://github.com/wang987742/fanmingming) - 
 * 【2023-11-24】[xyming108 / sulv-hugo-papermod](https://github.com/xyming108/sulv-hugo-papermod) - 👏🏻👏🏻 It is modified according to the papermod theme. The blogger's personal website：https://www.sulvblog.cn
 * 【2023-11-24】[shidahuilang / openwrt](https://github.com/shidahuilang/openwrt) - openwrt编译更新库X86-R2C-R2S-R4S-R5S-N1-小米MI系列等多机型全部适配OTA自动升级
@@ -4848,6 +4881,10 @@
 
 ## Unknown
 
+* 【2023-11-25】[teslamotors / roadster](https://github.com/teslamotors/roadster) - 2008-2012 Roadster Development and Diagnostic Software files
+* 【2023-11-25】[in28minutes / java-tutorial-for-beginners](https://github.com/in28minutes/java-tutorial-for-beginners) - Java Tutorial For Beginners with 500 Code Examples
+* 【2023-11-25】[DirtyHarryLYL / LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision) - Recent LLM-based CV and related works. Welcome to comment/contribute!
+* 【2023-11-25】[NexovaDev / UpdateHub](https://github.com/NexovaDev/UpdateHub) - UpdateHub is an app that simplifies updating software on your computer. A user-friendly interface allows you to quickly check for and install available updates for your operating system and applications. Keep your device running smoothly and securely with UpdateHub.
 * 【2023-11-24】[Morakito / Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译
 * 【2023-11-24】[S1ckB0y1337 / Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 * 【2023-11-24】[wcb1969 / iptv](https://github.com/wcb1969/iptv) - tv
