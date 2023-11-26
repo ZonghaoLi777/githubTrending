@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-11-26】[spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
+* 【2023-11-26】[hei-school / poja-even](https://github.com/hei-school/poja-even) - 
+* 【2023-11-26】[vladmihalcea / hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils) - The Hypersistence Utils library (previously known as Hibernate Types) gives you Spring and Hibernate utilities that can help you get the most out of your data access layer.
 * 【2023-11-25】[WuKongOpenSource / Wukong_HRM](https://github.com/WuKongOpenSource/Wukong_HRM) - 悟空HRM人力资源管理系统-提供入职管理、招聘管理、绩效考核管理等一站式人力管理流程
 * 【2023-11-25】[WuKongOpenSource / WukongCRM-11.0-JAVA](https://github.com/WuKongOpenSource/WukongCRM-11.0-JAVA) - 悟空CRM-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离CRM系统
 * 【2023-11-25】[shenzepeng / middleground](https://github.com/shenzepeng/middleground) - 中台
@@ -704,6 +707,12 @@
 
 ## Python
 
+* 【2023-11-26】[sh-lee-prml / HierSpeechpp](https://github.com/sh-lee-prml/HierSpeechpp) - The official implementation of HierSpeech++
+* 【2023-11-26】[hylarucoder / svd-webui](https://github.com/hylarucoder/svd-webui) - 
+* 【2023-11-26】[passivestar / quickmenu](https://github.com/passivestar/quickmenu) - Blender addon that simplifies access to useful operators and adds missing functionality
+* 【2023-11-26】[mail-in-a-box / mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+* 【2023-11-26】[teslamotors / light-show](https://github.com/teslamotors/light-show) - Tesla Light Show
+* 【2023-11-26】[jianchang512 / clone-voice](https://github.com/jianchang512/clone-voice) - 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 * 【2023-11-25】[netbox-community / netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 * 【2023-11-25】[InternLM / InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - 
 * 【2023-11-25】[lllyasviel / ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
@@ -1461,6 +1470,12 @@
 
 ## Javascript
 
+* 【2023-11-26】[bgstaal / multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+* 【2023-11-26】[friuns2 / BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
+* 【2023-11-26】[sampotts / plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+* 【2023-11-26】[google / zx](https://github.com/google/zx) - A tool for writing better scripts
+* 【2023-11-26】[di4b0lical / No-ADS-YouTube](https://github.com/di4b0lical/No-ADS-YouTube) - Skips all YouTube ads | undetectable | skips ads instantly - [ Unpatched Ad-Blocker ]
+* 【2023-11-26】[SheetJS / sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 * 【2023-11-25】[radian-software / riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
 * 【2023-11-25】[XPandora / PhysGaussian](https://github.com/XPandora/PhysGaussian) - 
 * 【2023-11-25】[conanak99 / sample-gpt-local](https://github.com/conanak99/sample-gpt-local) - 
@@ -2052,6 +2067,12 @@
 
 ## Go
 
+* 【2023-11-26】[jpillora / chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
+* 【2023-11-26】[ngoduykhanh / wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
+* 【2023-11-26】[teslamotors / vehicle-command](https://github.com/teslamotors/vehicle-command) - 
+* 【2023-11-26】[ipfs / kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+* 【2023-11-26】[kubernetes-sigs / metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+* 【2023-11-26】[nats-io / nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 * 【2023-11-25】[kubernetes-sigs / karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 * 【2023-11-25】[go-resty / resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 * 【2023-11-25】[TykTechnologies / tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
@@ -2621,6 +2642,7 @@
 
 ## C
 
+* 【2023-11-26】[pgbackrest / pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 * 【2023-11-25】[azure-rtos / threadx](https://github.com/azure-rtos/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
 * 【2023-11-25】[UncleRus / esp-idf-lib](https://github.com/UncleRus/esp-idf-lib) - Component library for ESP32-xx and ESP8266
 * 【2023-11-25】[EQMOD / EQM_OBDWEB](https://github.com/EQMOD/EQM_OBDWEB) - A WEB Based OBDII Dongle Platform using the ESP32 WROVER Module
@@ -3104,6 +3126,7 @@
 
 ## C++
 
+* 【2023-11-26】[cisco / openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 * 【2023-11-25】[spotify / voyager](https://github.com/spotify/voyager) - 🛰️ Voyager is an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.
 * 【2023-11-25】[eProsima / Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases.
 * 【2023-11-24】[endless-sky / endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
@@ -3582,6 +3605,8 @@
 
 ## C#
 
+* 【2023-11-26】[d2phap / ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+* 【2023-11-26】[GTA-ASM / SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 * 【2023-11-25】[HandyOrg / HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
 * 【2023-11-25】[microsoft / vstest](https://github.com/microsoft/vstest) - Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
 * 【2023-11-25】[microsoft / WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
@@ -4034,6 +4059,10 @@
 
 ## Html
 
+* 【2023-11-26】[wesbos / hot-tips](https://github.com/wesbos/hot-tips) - The code behind my hot tips
+* 【2023-11-26】[arcanis / secretsanta](https://github.com/arcanis/secretsanta) - Host secret santa without leaking your guests' informations 🎄
+* 【2023-11-26】[KG-Coding-with-Prashant-Sir / JavaScript_Complete_YouTube](https://github.com/KG-Coding-with-Prashant-Sir/JavaScript_Complete_YouTube) - 
+* 【2023-11-26】[Adamant-im / AIPs](https://github.com/Adamant-im/AIPs) - ADAMANT Improvement Proposal repository
 * 【2023-11-25】[Terminus2049 / Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
 * 【2023-11-25】[NorthwoodsSoftware / GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 * 【2023-11-25】[QianMo / Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) - Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference
@@ -4455,6 +4484,13 @@
 
 ## Css
 
+* 【2023-11-26】[mustbebuilt / javascript-objects-json-lab](https://github.com/mustbebuilt/javascript-objects-json-lab) - 
+* 【2023-11-26】[jeycaarce / message](https://github.com/jeycaarce/message) - 
+* 【2023-11-26】[EvaMarco / Bridging-the-Design-Dev-Gap-workshop](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop) - "Code your Penpot designs seamlessly in our workshop. Step-by-step exercises to reveal the pontential of the integration of design and development. Elevate your collaboration skills with Penpot."
+* 【2023-11-26】[Tab-SE / demobuilderportals](https://github.com/Tab-SE/demobuilderportals) - Portals built with the No-Code Embedded Demo Builder (emb-demo-builder.herokuapp.com)
+* 【2023-11-26】[mate-academy / react_todo-app](https://github.com/mate-academy/react_todo-app) - 
+* 【2023-11-26】[ippen / studydrive_downloader](https://github.com/ippen/studydrive_downloader) - Generate PDF links to download documents from Studydrive without paying Premium.
+* 【2023-11-26】[vnyoon / web-magic](https://github.com/vnyoon/web-magic) - 这个repo通过实际案例来演示如何运用HTML、CSS和JavaScript创建各种互动性、独特性、动感酷炫和视觉效果。
 * 【2023-11-24】[BitWalls-Sec / WhatsAppHacking](https://github.com/BitWalls-Sec/WhatsAppHacking) - A Script to Crash WhatsApp With Just a Single Text And Inject a Payload In App Format to Hack and Extract All WhatsApp Media Files.
 * 【2023-11-23】[gitdagray / js_acme_blogs](https://github.com/gitdagray/js_acme_blogs) - 
 * 【2023-11-23】[minghsun / simpleResponsiveSlide](https://github.com/minghsun/simpleResponsiveSlide) - 
@@ -4881,6 +4917,12 @@
 
 ## Unknown
 
+* 【2023-11-26】[awslabs / aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
+* 【2023-11-26】[cap-so / cap](https://github.com/cap-so/cap) - Beautiful, shareable screen recordings. Open-source and privacy-friendly.
+* 【2023-11-26】[Boese0601 / MagicDance](https://github.com/Boese0601/MagicDance) - MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer
+* 【2023-11-26】[kongkongyo / m3u8](https://github.com/kongkongyo/m3u8) - CCTV m3u8 流畅稳定直播源
+* 【2023-11-26】[Blackymas / NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code
+* 【2023-11-26】[youshandefeiyang / testvideo](https://github.com/youshandefeiyang/testvideo) - 肥羊的4K/8K超高清IPTV直播源&&直播代码仓库
 * 【2023-11-25】[teslamotors / roadster](https://github.com/teslamotors/roadster) - 2008-2012 Roadster Development and Diagnostic Software files
 * 【2023-11-25】[in28minutes / java-tutorial-for-beginners](https://github.com/in28minutes/java-tutorial-for-beginners) - Java Tutorial For Beginners with 500 Code Examples
 * 【2023-11-25】[DirtyHarryLYL / LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision) - Recent LLM-based CV and related works. Welcome to comment/contribute!
