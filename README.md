@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-03】[FongMi / CatVodSpider](https://github.com/FongMi/CatVodSpider) - 
+* 【2023-12-03】[awspring / spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS
+* 【2023-12-03】[weibocom / rill-flow](https://github.com/weibocom/rill-flow) - 
 * 【2023-12-01】[shenzepeng / album-system](https://github.com/shenzepeng/album-system) - 
 * 【2023-12-01】[bumptech / glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 * 【2023-12-01】[oracle / opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
@@ -714,6 +717,11 @@
 
 ## Python
 
+* 【2023-12-03】[pytorch-labs / gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
+* 【2023-12-03】[dangeng / visual_anagrams](https://github.com/dangeng/visual_anagrams) - Code for the paper "Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models"
+* 【2023-12-03】[microsoft / TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
+* 【2023-12-03】[google-deepmind / materials_discovery](https://github.com/google-deepmind/materials_discovery) - 
+* 【2023-12-03】[mlc-ai / mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 * 【2023-12-02】[autonomousvision / mip-splatting](https://github.com/autonomousvision/mip-splatting) - Mip-Splatting: Alias-free 3D Gaussian Splatting
 * 【2023-12-02】[open-mmlab / Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
 * 【2023-12-02】[Avaiga / taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
@@ -1510,6 +1518,8 @@
 
 ## Javascript
 
+* 【2023-12-03】[PavelDoGreat / WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
+* 【2023-12-03】[aquasecurity / cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 * 【2023-12-02】[shaka-project / shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 * 【2023-12-02】[vuejs / vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 * 【2023-12-02】[leochen-g / wechaty-web-panel](https://github.com/leochen-g/wechaty-web-panel) - Wechaty Web Panel 让你的wechaty机器人，快速接入web可视化操作面板，接入就是那么简单丝滑
@@ -2121,6 +2131,10 @@
 
 ## Go
 
+* 【2023-12-03】[anchore / grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
+* 【2023-12-03】[aquasecurity / kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+* 【2023-12-03】[coredns / coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
+* 【2023-12-03】[juicedata / juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 * 【2023-12-02】[kosmos-io / kosmos](https://github.com/kosmos-io/kosmos) - 
 * 【2023-12-02】[kubernetes-sigs / cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 * 【2023-12-02】[google / gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -2722,6 +2736,8 @@
 
 ## C
 
+* 【2023-12-03】[henrypp / simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
+* 【2023-12-03】[OP-TEE / optee_os](https://github.com/OP-TEE/optee_os) - Trusted side of the TEE
 * 【2023-12-02】[koekeishiya / skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 * 【2023-12-01】[VirusTotal / yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
@@ -3222,6 +3238,10 @@
 
 ## C++
 
+* 【2023-12-03】[IfcOpenShell / IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) - Open source IFC library and geometry engine
+* 【2023-12-03】[AlibabaResearch / AdvancedLiterateMachinery](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) - A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Alibaba DAMO Academy.
+* 【2023-12-03】[MaorSabag / TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller) - CPP AV/EDR Killer
+* 【2023-12-03】[marcoslucianops / DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
 * 【2023-12-02】[Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 * 【2023-12-02】[OpenAtomFoundation / pika](https://github.com/OpenAtomFoundation/pika) - Pika is a NoSQL database compatible with Redis developed by Qihoo's infrastructure team.
 * 【2023-12-02】[mysql / mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
@@ -3717,6 +3737,12 @@
 
 ## C#
 
+* 【2023-12-03】[dnGrep / dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
+* 【2023-12-03】[microsoft / MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity) - This repository is for the legacy Mixed Reality Toolkit (MRTK) v2. For the latest version of the MRTK please visit https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity
+* 【2023-12-03】[atteneder / glTFast](https://github.com/atteneder/glTFast) - Efficient glTF 3D import / export package for Unity
+* 【2023-12-03】[MonkSoul / Furion](https://github.com/MonkSoul/Furion) - Make .NET development easier, more versatile, and more popular.
+* 【2023-12-03】[MicrosoftLearning / AZ-204-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure) - AZ-204: Developing solutions for Microsoft Azure
+* 【2023-12-03】[dotnet / extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 * 【2023-12-02】[stayintarkov / StayInTarkov.Client](https://github.com/stayintarkov/StayInTarkov.Client) - 
 * 【2023-12-02】[AzureAD / microsoft-identity-web](https://github.com/AzureAD/microsoft-identity-web) - Helps creating protected web apps and web APIs with Microsoft identity platform and Azure AD B2C
 * 【2023-12-01】[scriban / scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
@@ -4184,6 +4210,13 @@
 
 ## Html
 
+* 【2023-12-03】[flutter / super_dash](https://github.com/flutter/super_dash) - 
+* 【2023-12-03】[cphxj123 / Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex) - dol北极星扩展
+* 【2023-12-03】[unfoldadmin / django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+* 【2023-12-03】[tc39 / proposal-module-declarations](https://github.com/tc39/proposal-module-declarations) - JavaScript Module Declarations
+* 【2023-12-03】[justin-himself / NVIDIA-VGPU-Driver-Archive](https://github.com/justin-himself/NVIDIA-VGPU-Driver-Archive) - This repository provides an archive for NVIDIA vGPU drivers.
+* 【2023-12-03】[USC-GVL / Agent-Driver](https://github.com/USC-GVL/Agent-Driver) - A Language Agent for Autonomous Driving
+* 【2023-12-03】[OWASP / www-project-ai-security-and-privacy-guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide) - OWASP Foundation Web Respository
 * 【2023-12-02】[kmille / freetar](https://github.com/kmille/freetar) - freetar - an alternative frontend for ultimate-guitar.com
 * 【2023-12-02】[mouredev / adeviento-web](https://github.com/mouredev/adeviento-web) - Proyecto web asociado al "Calendario de aDEViento" de la comunidad. Una actividad en la que del 1 al 24 de diciembre se sortea un regalo relacionado con el aprendizaje de programación y desarrollo de software.
 * 【2023-12-02】[kangtegong / collaboration](https://github.com/kangtegong/collaboration) - pull request 연습하세요 / practice pull request
@@ -4624,6 +4657,11 @@
 
 ## Css
 
+* 【2023-12-03】[Godiesc / firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
+* 【2023-12-03】[itscodenation / int-u3-project-23-24-starter-code](https://github.com/itscodenation/int-u3-project-23-24-starter-code) - 
+* 【2023-12-03】[carbon-design-system / carbon-tutorial-nextjs](https://github.com/carbon-design-system/carbon-tutorial-nextjs) - 
+* 【2023-12-03】[Mohanmaali144 / ShashwatProject](https://github.com/Mohanmaali144/ShashwatProject) - 
+* 【2023-12-03】[Preshy62 / skylineict-cohort31](https://github.com/Preshy62/skylineict-cohort31) - 
 * 【2023-12-02】[Jabir0 / K2-E-Commerce](https://github.com/Jabir0/K2-E-Commerce) - 
 * 【2023-12-02】[Muh-Ikbal / kelompok-3](https://github.com/Muh-Ikbal/kelompok-3) - 
 * 【2023-12-02】[TheBridge-FullStackDeveloper / fetch-async-await](https://github.com/TheBridge-FullStackDeveloper/fetch-async-await) - 
@@ -5080,6 +5118,10 @@
 
 ## Unknown
 
+* 【2023-12-03】[HumanAIGC / AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+* 【2023-12-03】[Alikhll / golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
+* 【2023-12-03】[Kaustubh-Natuskar / moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.
+* 【2023-12-03】[ydb-platform / ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 * 【2023-12-02】[tayllan / awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 * 【2023-12-02】[forpaindream / AltiumDesignerLibPkg-dream](https://github.com/forpaindream/AltiumDesignerLibPkg-dream) - 自制的AD封装库，基于AD20
 * 【2023-12-02】[lizhe00 / AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians) - Code of "Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling"
