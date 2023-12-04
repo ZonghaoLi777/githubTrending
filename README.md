@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2023-12-04】[s4kibs4mi / java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2023
 * 【2023-12-03】[FongMi / CatVodSpider](https://github.com/FongMi/CatVodSpider) - 
 * 【2023-12-03】[awspring / spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS
 * 【2023-12-03】[weibocom / rill-flow](https://github.com/weibocom/rill-flow) - 
@@ -717,6 +718,16 @@
 
 ## Python
 
+* 【2023-12-04】[unslothai / unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning
+* 【2023-12-04】[JayZeeDesign / research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autogen + GPTs - build a swarm AI researchers
+* 【2023-12-04】[VikParuchuri / marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+* 【2023-12-04】[cheshire-cat-ai / core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
+* 【2023-12-04】[Vchitect / LaVie](https://github.com/Vchitect/LaVie) - LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
+* 【2023-12-04】[microsoft / Olive](https://github.com/microsoft/Olive) - Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.
+* 【2023-12-04】[3b1b / manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+* 【2023-12-04】[Vchitect / SEINE](https://github.com/Vchitect/SEINE) - SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
+* 【2023-12-04】[Littlefean / SmartPython](https://github.com/Littlefean/SmartPython) - python小技巧系列源代码——来自b站视频
+* 【2023-12-04】[Fafa-DL / Image-Augmentation](https://github.com/Fafa-DL/Image-Augmentation) - Image augmentation for object detection, segmentation and classification
 * 【2023-12-03】[pytorch-labs / gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
 * 【2023-12-03】[dangeng / visual_anagrams](https://github.com/dangeng/visual_anagrams) - Code for the paper "Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models"
 * 【2023-12-03】[microsoft / TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
@@ -1518,6 +1529,13 @@
 
 ## Javascript
 
+* 【2023-12-04】[shadowcz007 / comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 
+* 【2023-12-04】[goabstract / Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+* 【2023-12-04】[qzz0518 / coss](https://github.com/qzz0518/coss) - 
+* 【2023-12-04】[AMAI-GmbH / AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
+* 【2023-12-04】[VincentGarreau / particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
+* 【2023-12-04】[caolan / async](https://github.com/caolan/async) - Async utilities for node and the browser
+* 【2023-12-04】[ikechan8370 / chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件
 * 【2023-12-03】[PavelDoGreat / WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 * 【2023-12-03】[aquasecurity / cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 * 【2023-12-02】[shaka-project / shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
@@ -2131,6 +2149,11 @@
 
 ## Go
 
+* 【2023-12-04】[google / syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
+* 【2023-12-04】[ViRb3 / wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+* 【2023-12-04】[Consensys / gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
+* 【2023-12-04】[bookstairs / bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
+* 【2023-12-04】[turbot / steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 * 【2023-12-03】[anchore / grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 * 【2023-12-03】[aquasecurity / kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 * 【2023-12-03】[coredns / coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -2736,6 +2759,9 @@
 
 ## C
 
+* 【2023-12-04】[yitter / IdGenerator](https://github.com/yitter/IdGenerator) - 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。
+* 【2023-12-04】[jakkra / ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
+* 【2023-12-04】[TelegramMessenger / Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 * 【2023-12-03】[henrypp / simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 * 【2023-12-03】[OP-TEE / optee_os](https://github.com/OP-TEE/optee_os) - Trusted side of the TEE
 * 【2023-12-02】[koekeishiya / skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -3238,6 +3264,12 @@
 
 ## C++
 
+* 【2023-12-04】[mudler / LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+* 【2023-12-04】[Warzone2100 / warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
+* 【2023-12-04】[meshtastic / firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
+* 【2023-12-04】[mltframework / shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
+* 【2023-12-04】[OpenTTD / OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
+* 【2023-12-04】[FastLED / FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
 * 【2023-12-03】[IfcOpenShell / IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) - Open source IFC library and geometry engine
 * 【2023-12-03】[AlibabaResearch / AdvancedLiterateMachinery](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) - A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Alibaba DAMO Academy.
 * 【2023-12-03】[MaorSabag / TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller) - CPP AV/EDR Killer
@@ -3737,6 +3769,8 @@
 
 ## C#
 
+* 【2023-12-04】[sinai-dev / UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
+* 【2023-12-04】[skydevil88 / XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PS、NS、EA Desktop & Origin、战网国际服、Epic、Riot Games下载加速。
 * 【2023-12-03】[dnGrep / dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
 * 【2023-12-03】[microsoft / MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity) - This repository is for the legacy Mixed Reality Toolkit (MRTK) v2. For the latest version of the MRTK please visit https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity
 * 【2023-12-03】[atteneder / glTFast](https://github.com/atteneder/glTFast) - Efficient glTF 3D import / export package for Unity
@@ -4210,6 +4244,8 @@
 
 ## Html
 
+* 【2023-12-04】[anonystick / anonystick](https://github.com/anonystick/anonystick) - 
+* 【2023-12-04】[Meekdai / Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 * 【2023-12-03】[flutter / super_dash](https://github.com/flutter/super_dash) - 
 * 【2023-12-03】[cphxj123 / Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex) - dol北极星扩展
 * 【2023-12-03】[unfoldadmin / django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
@@ -4657,6 +4693,8 @@
 
 ## Css
 
+* 【2023-12-04】[yandex-praktikum / slozhno-sosredotochitsya](https://github.com/yandex-praktikum/slozhno-sosredotochitsya) - Проект "Сложно сосредоточиться"
+* 【2023-12-04】[ShaifArfan / one-page-website-html-css-project](https://github.com/ShaifArfan/one-page-website-html-css-project) - This project is for html & css practice. We made this for youtube tutorial purpose.
 * 【2023-12-03】[Godiesc / firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
 * 【2023-12-03】[itscodenation / int-u3-project-23-24-starter-code](https://github.com/itscodenation/int-u3-project-23-24-starter-code) - 
 * 【2023-12-03】[carbon-design-system / carbon-tutorial-nextjs](https://github.com/carbon-design-system/carbon-tutorial-nextjs) - 
@@ -5118,6 +5156,11 @@
 
 ## Unknown
 
+* 【2023-12-04】[hacktivist123 / DevOps-Learning-Plan](https://github.com/hacktivist123/DevOps-Learning-Plan) - This is my DevOps learning plan for the year 2024
+* 【2023-12-04】[liuchong / awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps.
+* 【2023-12-04】[khangich / machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
+* 【2023-12-04】[YueChan / Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。
+* 【2023-12-04】[matheusfelipeog / beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 * 【2023-12-03】[HumanAIGC / AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 * 【2023-12-03】[Alikhll / golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 * 【2023-12-03】[Kaustubh-Natuskar / moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.
