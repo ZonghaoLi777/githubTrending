@@ -210,6 +210,11 @@
 
 ## Java
 
+* 【2023-12-05】[w2016561536 / android_virtual_cam](https://github.com/w2016561536/android_virtual_cam) - xposed安卓虚拟摄像头 android virtual camera on xposed hook
+* 【2023-12-05】[apache / netbeans](https://github.com/apache/netbeans) - Apache NetBeans
+* 【2023-12-05】[woheller69 / browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support
+* 【2023-12-05】[mapstruct / mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
+* 【2023-12-05】[portfolio-performance / portfolio](https://github.com/portfolio-performance/portfolio) - Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.
 * 【2023-12-04】[s4kibs4mi / java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2023
 * 【2023-12-03】[FongMi / CatVodSpider](https://github.com/FongMi/CatVodSpider) - 
 * 【2023-12-03】[awspring / spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS
@@ -718,6 +723,7 @@
 
 ## Python
 
+* 【2023-12-05】[avgupta456 / github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 * 【2023-12-04】[unslothai / unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning
 * 【2023-12-04】[JayZeeDesign / research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autogen + GPTs - build a swarm AI researchers
 * 【2023-12-04】[VikParuchuri / marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
@@ -1529,6 +1535,13 @@
 
 ## Javascript
 
+* 【2023-12-05】[popcorn-official / popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
+* 【2023-12-05】[andersontr15 / clean-code-javascript-es](https://github.com/andersontr15/clean-code-javascript-es) - Clean Code traducido al Español
+* 【2023-12-05】[LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+* 【2023-12-05】[pythongosssss / ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Enhancements & experiments for ComfyUI, mostly focusing on UI features
+* 【2023-12-05】[kska32 / ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
+* 【2023-12-05】[unconv / gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
+* 【2023-12-05】[JannisX11 / blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
 * 【2023-12-04】[shadowcz007 / comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 
 * 【2023-12-04】[goabstract / Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 * 【2023-12-04】[qzz0518 / coss](https://github.com/qzz0518/coss) - 
@@ -2149,6 +2162,12 @@
 
 ## Go
 
+* 【2023-12-05】[0xERR0R / blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+* 【2023-12-05】[ffuf / ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+* 【2023-12-05】[zitadel / oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+* 【2023-12-05】[siglens / siglens](https://github.com/siglens/siglens) - Observability at 100x Efficiency
+* 【2023-12-05】[tomnomnom / gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+* 【2023-12-05】[rqlite / rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 * 【2023-12-04】[google / syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
 * 【2023-12-04】[ViRb3 / wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 * 【2023-12-04】[Consensys / gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
@@ -2759,6 +2778,8 @@
 
 ## C
 
+* 【2023-12-05】[streetpea / chiaki4deck](https://github.com/streetpea/chiaki4deck) - Fork of Chiaki (Open Source Playstation Remote Play) with Enhancements for Steam Deck and Documentation around how to use
+* 【2023-12-05】[hashcat / hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 * 【2023-12-04】[yitter / IdGenerator](https://github.com/yitter/IdGenerator) - 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。
 * 【2023-12-04】[jakkra / ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
 * 【2023-12-04】[TelegramMessenger / Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
@@ -3769,6 +3790,11 @@
 
 ## C#
 
+* 【2023-12-05】[encse / adventofcode](https://github.com/encse/adventofcode) - 🎄 Advent of Code (2015-2023) in C#
+* 【2023-12-05】[DaXcess / lethalcompany-vr-plugin](https://github.com/DaXcess/lethalcompany-vr-plugin) - Collecting Scrap in VR
+* 【2023-12-05】[hanmin0822 / MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
+* 【2023-12-05】[markjprice / cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
+* 【2023-12-05】[ArchiDog1998 / RotationSolver](https://github.com/ArchiDog1998/RotationSolver) - Analyses combat information every frame and finds the best action.
 * 【2023-12-04】[sinai-dev / UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
 * 【2023-12-04】[skydevil88 / XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PS、NS、EA Desktop & Origin、战网国际服、Epic、Riot Games下载加速。
 * 【2023-12-03】[dnGrep / dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
@@ -4693,6 +4719,8 @@
 
 ## Css
 
+* 【2023-12-05】[mwidera / iac-labs](https://github.com/mwidera/iac-labs) - Infrastructure as Code exercises
+* 【2023-12-05】[DzarelDeveloper / ForYou](https://github.com/DzarelDeveloper/ForYou) - Message for you ( Crush )
 * 【2023-12-04】[yandex-praktikum / slozhno-sosredotochitsya](https://github.com/yandex-praktikum/slozhno-sosredotochitsya) - Проект "Сложно сосредоточиться"
 * 【2023-12-04】[ShaifArfan / one-page-website-html-css-project](https://github.com/ShaifArfan/one-page-website-html-css-project) - This project is for html & css practice. We made this for youtube tutorial purpose.
 * 【2023-12-03】[Godiesc / firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
@@ -5156,6 +5184,10 @@
 
 ## Unknown
 
+* 【2023-12-05】[wpzzz / blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) - 
+* 【2023-12-05】[greatfrontend / awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) - Curated front end system design resources for interviews and learning
+* 【2023-12-05】[ZiqiaoPeng / SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk) - This is the official source for our paper "SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis"
+* 【2023-12-05】[getsurfboard / surfboard](https://github.com/getsurfboard/surfboard) - 
 * 【2023-12-04】[hacktivist123 / DevOps-Learning-Plan](https://github.com/hacktivist123/DevOps-Learning-Plan) - This is my DevOps learning plan for the year 2024
 * 【2023-12-04】[liuchong / awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps.
 * 【2023-12-04】[khangich / machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
