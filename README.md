@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-06】[FasterXML / jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)
+* 【2023-12-06】[apache / ranger](https://github.com/apache/ranger) - Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond
+* 【2023-12-06】[geotools / geotools](https://github.com/geotools/geotools) - Official GeoTools repository
 * 【2023-12-05】[w2016561536 / android_virtual_cam](https://github.com/w2016561536/android_virtual_cam) - xposed安卓虚拟摄像头 android virtual camera on xposed hook
 * 【2023-12-05】[apache / netbeans](https://github.com/apache/netbeans) - Apache NetBeans
 * 【2023-12-05】[woheller69 / browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support
@@ -723,6 +726,11 @@
 
 ## Python
 
+* 【2023-12-06】[xaoyaoo / PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+* 【2023-12-06】[wearecaster / Above](https://github.com/wearecaster/Above) - Invisible network protocol sniffer
+* 【2023-12-06】[karpathy / minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+* 【2023-12-06】[lucidrains / meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
+* 【2023-12-06】[HumanAIGC / Cloth2Tex](https://github.com/HumanAIGC/Cloth2Tex) - Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On
 * 【2023-12-05】[avgupta456 / github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 * 【2023-12-04】[unslothai / unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning
 * 【2023-12-04】[JayZeeDesign / research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autogen + GPTs - build a swarm AI researchers
@@ -1535,6 +1543,10 @@
 
 ## Javascript
 
+* 【2023-12-06】[100xdevs-cohort-2 / assignments](https://github.com/100xdevs-cohort-2/assignments) - 
+* 【2023-12-06】[typicode / lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+* 【2023-12-06】[SudhanPlayz / Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
+* 【2023-12-06】[Stuk / jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 * 【2023-12-05】[popcorn-official / popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 * 【2023-12-05】[andersontr15 / clean-code-javascript-es](https://github.com/andersontr15/clean-code-javascript-es) - Clean Code traducido al Español
 * 【2023-12-05】[LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -2162,6 +2174,10 @@
 
 ## Go
 
+* 【2023-12-06】[gosom / google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
+* 【2023-12-06】[dub-flow / sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
+* 【2023-12-06】[containerd / nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+* 【2023-12-06】[nicoxiang / geektime-downloader](https://github.com/nicoxiang/geektime-downloader) - 极客时间课程下载器，支持下载极客时间专栏/视频课/每日一课/大厂实践/训练营视频
 * 【2023-12-05】[0xERR0R / blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 * 【2023-12-05】[ffuf / ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 * 【2023-12-05】[zitadel / oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -2778,6 +2794,15 @@
 
 ## C
 
+* 【2023-12-06】[aws / s2n-tls](https://github.com/aws/s2n-tls) - An implementation of the TLS/SSL protocols
+* 【2023-12-06】[mitxela / candle](https://github.com/mitxela/candle) - 
+* 【2023-12-06】[greenbone / openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition.
+* 【2023-12-06】[winsiderss / systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+* 【2023-12-06】[quelsolaar / makemake](https://github.com/quelsolaar/makemake) - 
+* 【2023-12-06】[tporadowski / redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
+* 【2023-12-06】[microsoft / react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
+* 【2023-12-06】[donato-fiore / TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
+* 【2023-12-06】[Xilinx / Vitis-Tutorials](https://github.com/Xilinx/Vitis-Tutorials) - Vitis In-Depth Tutorials
 * 【2023-12-05】[streetpea / chiaki4deck](https://github.com/streetpea/chiaki4deck) - Fork of Chiaki (Open Source Playstation Remote Play) with Enhancements for Steam Deck and Documentation around how to use
 * 【2023-12-05】[hashcat / hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 * 【2023-12-04】[yitter / IdGenerator](https://github.com/yitter/IdGenerator) - 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。
@@ -3285,6 +3310,8 @@
 
 ## C++
 
+* 【2023-12-06】[uNetworking / uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends 🤘
+* 【2023-12-06】[google / tcmalloc](https://github.com/google/tcmalloc) - 
 * 【2023-12-04】[mudler / LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 * 【2023-12-04】[Warzone2100 / warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
 * 【2023-12-04】[meshtastic / firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
@@ -3790,6 +3817,10 @@
 
 ## C#
 
+* 【2023-12-06】[dotnetcore / CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
+* 【2023-12-06】[discord-net / Discord.Net](https://github.com/discord-net/Discord.Net) - An unofficial .Net wrapper for the Discord API (https://discord.com/)
+* 【2023-12-06】[maniero / SOpt](https://github.com/maniero/SOpt) - Códigos soltos usados em respostas minhas no Stack Overflow em português
+* 【2023-12-06】[NethermindEth / nethermind](https://github.com/NethermindEth/nethermind) - A robust execution client for Ethereum node operators.
 * 【2023-12-05】[encse / adventofcode](https://github.com/encse/adventofcode) - 🎄 Advent of Code (2015-2023) in C#
 * 【2023-12-05】[DaXcess / lethalcompany-vr-plugin](https://github.com/DaXcess/lethalcompany-vr-plugin) - Collecting Scrap in VR
 * 【2023-12-05】[hanmin0822 / MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
@@ -4270,6 +4301,8 @@
 
 ## Html
 
+* 【2023-12-06】[madhuakula / kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
+* 【2023-12-06】[wundergraph / cosmo](https://github.com/wundergraph/cosmo) - The open-source alternative to Apollo GraphOS. Building, maintaining, and collaborating on GraphQL Federation at Scale.
 * 【2023-12-04】[anonystick / anonystick](https://github.com/anonystick/anonystick) - 
 * 【2023-12-04】[Meekdai / Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 * 【2023-12-03】[flutter / super_dash](https://github.com/flutter/super_dash) - 
@@ -4719,6 +4752,8 @@
 
 ## Css
 
+* 【2023-12-06】[darylsew / visualizer](https://github.com/darylsew/visualizer) - A Python/JS music visualizer.
+* 【2023-12-06】[nikhilsoftwareboy / Real-Estate-Listings-and-Property-Management-Website](https://github.com/nikhilsoftwareboy/Real-Estate-Listings-and-Property-Management-Website) - 
 * 【2023-12-05】[mwidera / iac-labs](https://github.com/mwidera/iac-labs) - Infrastructure as Code exercises
 * 【2023-12-05】[DzarelDeveloper / ForYou](https://github.com/DzarelDeveloper/ForYou) - Message for you ( Crush )
 * 【2023-12-04】[yandex-praktikum / slozhno-sosredotochitsya](https://github.com/yandex-praktikum/slozhno-sosredotochitsya) - Проект "Сложно сосредоточиться"
@@ -5184,6 +5219,9 @@
 
 ## Unknown
 
+* 【2023-12-06】[miketromba / highest-paying-software-companies](https://github.com/miketromba/highest-paying-software-companies) - The top 500 highest paying companies based on median software engineer total comp on levels.fyi as of 12/1/23.
+* 【2023-12-06】[DERE-ad2001 / Frida-Labs](https://github.com/DERE-ad2001/Frida-Labs) - The repo contains a series of challenges for learning Frida for Android Exploitation.
+* 【2023-12-06】[nomi-sec / PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub.⚠️Be careful Malware.
 * 【2023-12-05】[wpzzz / blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) - 
 * 【2023-12-05】[greatfrontend / awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) - Curated front end system design resources for interviews and learning
 * 【2023-12-05】[ZiqiaoPeng / SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk) - This is the official source for our paper "SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis"
