@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-07】[openzipkin / zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
+* 【2023-12-07】[LuckSiege / PictureSelector](https://github.com/LuckSiege/PictureSelector) - Picture Selector Library for Android or 图片选择器
+* 【2023-12-07】[material-components / material-components-android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
 * 【2023-12-06】[FasterXML / jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)
 * 【2023-12-06】[apache / ranger](https://github.com/apache/ranger) - Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond
 * 【2023-12-06】[geotools / geotools](https://github.com/geotools/geotools) - Official GeoTools repository
@@ -726,6 +729,13 @@
 
 ## Python
 
+* 【2023-12-07】[magic-research / magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+* 【2023-12-07】[state-spaces / mamba](https://github.com/state-spaces/mamba) - 
+* 【2023-12-07】[Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+* 【2023-12-07】[pre-commit / pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+* 【2023-12-07】[dchrastil / ScrapedIn](https://github.com/dchrastil/ScrapedIn) - A tool to scrape LinkedIn without API restrictions for data reconnaissance
+* 【2023-12-07】[chrisconlan / algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - Source code for Algorithmic Trading with Python (2020) by Chris Conlan
+* 【2023-12-07】[pinecone-io / canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
 * 【2023-12-06】[xaoyaoo / PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 * 【2023-12-06】[wearecaster / Above](https://github.com/wearecaster/Above) - Invisible network protocol sniffer
 * 【2023-12-06】[karpathy / minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
@@ -1543,6 +1553,8 @@
 
 ## Javascript
 
+* 【2023-12-07】[keshavgbpecdelhi / Web-Development](https://github.com/keshavgbpecdelhi/Web-Development) - Here you will find different web development mini projects which are made up of HTML, CSS & little bit of JavaScript. Do you have any such small project which is not already in the List!? 😄
+* 【2023-12-07】[cesiumlab / XbsjEarthUI](https://github.com/cesiumlab/XbsjEarthUI) - XbsjEarthUI是基于Cesium和EarthSDK的三维GIS/BIM的UI模板，可以基于此定制自己的三维App
 * 【2023-12-06】[100xdevs-cohort-2 / assignments](https://github.com/100xdevs-cohort-2/assignments) - 
 * 【2023-12-06】[typicode / lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 * 【2023-12-06】[SudhanPlayz / Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
@@ -2174,6 +2186,9 @@
 
 ## Go
 
+* 【2023-12-07】[cockroachdb / cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+* 【2023-12-07】[knative / serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
+* 【2023-12-07】[jvns / git-commit-folders](https://github.com/jvns/git-commit-folders) - 
 * 【2023-12-06】[gosom / google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
 * 【2023-12-06】[dub-flow / sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
 * 【2023-12-06】[containerd / nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -2794,6 +2809,11 @@
 
 ## C
 
+* 【2023-12-07】[lua / lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
+* 【2023-12-07】[eclipse-cyclonedds / cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) - Eclipse Cyclone DDS project
+* 【2023-12-07】[lwip-tcpip / lwip](https://github.com/lwip-tcpip/lwip) - lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git
+* 【2023-12-07】[stellar / stellar-core](https://github.com/stellar/stellar-core) - stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network
+* 【2023-12-07】[Kiprey / Skr_Learning](https://github.com/Kiprey/Skr_Learning) - 天问之路 - 学习笔记&学习周报。内容包括但不限于C++ STL、编译原理、LLVM IR Pass代码优化、CSAPP Lab、uCore操作系统等等。
 * 【2023-12-06】[aws / s2n-tls](https://github.com/aws/s2n-tls) - An implementation of the TLS/SSL protocols
 * 【2023-12-06】[mitxela / candle](https://github.com/mitxela/candle) - 
 * 【2023-12-06】[greenbone / openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition.
@@ -3310,6 +3330,9 @@
 
 ## C++
 
+* 【2023-12-07】[zeroasiccorp / switchboard](https://github.com/zeroasiccorp/switchboard) - Communication framework for RTL simulation and emulation.
+* 【2023-12-07】[mamba-org / mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
+* 【2023-12-07】[gperftools / gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 * 【2023-12-06】[uNetworking / uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends 🤘
 * 【2023-12-06】[google / tcmalloc](https://github.com/google/tcmalloc) - 
 * 【2023-12-04】[mudler / LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
@@ -3817,6 +3840,8 @@
 
 ## C#
 
+* 【2023-12-07】[hardkoded / puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Headless Chrome .NET API
+* 【2023-12-07】[SonarSource / sonar-scanner-msbuild](https://github.com/SonarSource/sonar-scanner-msbuild) - SonarScanner for .NET
 * 【2023-12-06】[dotnetcore / CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 * 【2023-12-06】[discord-net / Discord.Net](https://github.com/discord-net/Discord.Net) - An unofficial .Net wrapper for the Discord API (https://discord.com/)
 * 【2023-12-06】[maniero / SOpt](https://github.com/maniero/SOpt) - Códigos soltos usados em respostas minhas no Stack Overflow em português
@@ -4301,6 +4326,7 @@
 
 ## Html
 
+* 【2023-12-07】[TailAdmin / tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template) - Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements
 * 【2023-12-06】[madhuakula / kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 * 【2023-12-06】[wundergraph / cosmo](https://github.com/wundergraph/cosmo) - The open-source alternative to Apollo GraphOS. Building, maintaining, and collaborating on GraphQL Federation at Scale.
 * 【2023-12-04】[anonystick / anonystick](https://github.com/anonystick/anonystick) - 
@@ -4752,6 +4778,12 @@
 
 ## Css
 
+* 【2023-12-07】[nikhilsoftwareboy / Bing-code](https://github.com/nikhilsoftwareboy/Bing-code) - 
+* 【2023-12-07】[nusserstudios / tailbliss](https://github.com/nusserstudios/tailbliss) - TailBliss is a Hugo Starter theme built on TailwindCSS 3, and Alpine.JS.
+* 【2023-12-07】[ai / easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
+* 【2023-12-07】[tecg-dcc / js-tp-burger-menu](https://github.com/tecg-dcc/js-tp-burger-menu) - Un menu de navigation burger très simple pour les petits écrans - NIVEAU : facile
+* 【2023-12-07】[demo-projects / training_resources](https://github.com/demo-projects/training_resources) - assets for react training
+* 【2023-12-07】[tecg-dcc / js-tp-spread-operator](https://github.com/tecg-dcc/js-tp-spread-operator) - 
 * 【2023-12-06】[darylsew / visualizer](https://github.com/darylsew/visualizer) - A Python/JS music visualizer.
 * 【2023-12-06】[nikhilsoftwareboy / Real-Estate-Listings-and-Property-Management-Website](https://github.com/nikhilsoftwareboy/Real-Estate-Listings-and-Property-Management-Website) - 
 * 【2023-12-05】[mwidera / iac-labs](https://github.com/mwidera/iac-labs) - Infrastructure as Code exercises
@@ -5219,6 +5251,10 @@
 
 ## Unknown
 
+* 【2023-12-07】[ytongbai / LVM](https://github.com/ytongbai/LVM) - 
+* 【2023-12-07】[devv-ai / devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
+* 【2023-12-07】[keenanromain / AWS-SAA-C02-Study-Guide](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide) - How to become a certified AWS Solutions Architect
+* 【2023-12-07】[yonggekkk / sing-box](https://github.com/yonggekkk/sing-box) - Sing-box精装桶小白一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic5】：支持Argo隧道、多端口跳跃、域名+geosite分流、IP优先切换、自签/acme证书切换、节点TG推送，二维码、Clash-Meta，SFA/SFI/SFW三合一配置
 * 【2023-12-06】[miketromba / highest-paying-software-companies](https://github.com/miketromba/highest-paying-software-companies) - The top 500 highest paying companies based on median software engineer total comp on levels.fyi as of 12/1/23.
 * 【2023-12-06】[DERE-ad2001 / Frida-Labs](https://github.com/DERE-ad2001/Frida-Labs) - The repo contains a series of challenges for learning Frida for Android Exploitation.
 * 【2023-12-06】[nomi-sec / PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub.⚠️Be careful Malware.
