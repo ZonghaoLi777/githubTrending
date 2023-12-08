@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-08】[blossom-editor / blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
+* 【2023-12-08】[seculayer / AutoAPE-mrms](https://github.com/seculayer/AutoAPE-mrms) - AutoAPE(Advanced Perceptron Engine) - MRMS(Model Recommend Management Server)
+* 【2023-12-08】[smxiazi / xia_Liao](https://github.com/smxiazi/xia_Liao) - xia Liao（瞎料）burp插件 用于Windows在线进程/杀软识别 与 web渗透注册时，快速生成需要的资料用来填写，资料包含：姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出和生成弱口令字典等。
 * 【2023-12-07】[openzipkin / zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 * 【2023-12-07】[LuckSiege / PictureSelector](https://github.com/LuckSiege/PictureSelector) - Picture Selector Library for Android or 图片选择器
 * 【2023-12-07】[material-components / material-components-android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
@@ -729,6 +732,15 @@
 
 ## Python
 
+* 【2023-12-08】[JJTech0130 / pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
+* 【2023-12-08】[google / style-aligned](https://github.com/google/style-aligned) - Official code for "Style Aligned Image Generation via Shared Attention"
+* 【2023-12-08】[ise-uiuc / magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
+* 【2023-12-08】[SuperDuperDB / superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data.
+* 【2023-12-08】[google-deepmind / uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) - 
+* 【2023-12-08】[chroma-core / chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
+* 【2023-12-08】[spla-tam / SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM
+* 【2023-12-08】[Flode-Labs / vid2densepose](https://github.com/Flode-Labs/vid2densepose) - Convert your videos to densepose and use it on MagicAnimate
+* 【2023-12-08】[gaogaotiantian / pitch-visualizer](https://github.com/gaogaotiantian/pitch-visualizer) - Visualize pitch for a video
 * 【2023-12-07】[magic-research / magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
 * 【2023-12-07】[state-spaces / mamba](https://github.com/state-spaces/mamba) - 
 * 【2023-12-07】[Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
@@ -1553,6 +1565,12 @@
 
 ## Javascript
 
+* 【2023-12-08】[facebook / stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
+* 【2023-12-08】[decaporg / decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+* 【2023-12-08】[R-s0n / ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
+* 【2023-12-08】[dcloudio / uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
+* 【2023-12-08】[DogeNetwork / v4](https://github.com/DogeNetwork/v4) - End internet censorship instantly with Doge Unblocker, a powerful web proxy designed for customization and anonymity. (Please star)
+* 【2023-12-08】[typicode / husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 * 【2023-12-07】[keshavgbpecdelhi / Web-Development](https://github.com/keshavgbpecdelhi/Web-Development) - Here you will find different web development mini projects which are made up of HTML, CSS & little bit of JavaScript. Do you have any such small project which is not already in the List!? 😄
 * 【2023-12-07】[cesiumlab / XbsjEarthUI](https://github.com/cesiumlab/XbsjEarthUI) - XbsjEarthUI是基于Cesium和EarthSDK的三维GIS/BIM的UI模板，可以基于此定制自己的三维App
 * 【2023-12-06】[100xdevs-cohort-2 / assignments](https://github.com/100xdevs-cohort-2/assignments) - 
@@ -2186,6 +2204,13 @@
 
 ## Go
 
+* 【2023-12-08】[testcontainers / testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
+* 【2023-12-08】[devfullcycle / imersao16](https://github.com/devfullcycle/imersao16) - 
+* 【2023-12-08】[open-telemetry / opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
+* 【2023-12-08】[HavocFramework / Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
+* 【2023-12-08】[qax-os / excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+* 【2023-12-08】[aws / karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+* 【2023-12-08】[getkin / kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 * 【2023-12-07】[cockroachdb / cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 * 【2023-12-07】[knative / serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 * 【2023-12-07】[jvns / git-commit-folders](https://github.com/jvns/git-commit-folders) - 
@@ -2809,6 +2834,8 @@
 
 ## C
 
+* 【2023-12-08】[DoctorWkt / acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
+* 【2023-12-08】[losehu / uv-k5-firmware-chinese](https://github.com/losehu/uv-k5-firmware-chinese) - 全功能泉盛UV-K5/K6中文固件
 * 【2023-12-07】[lua / lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
 * 【2023-12-07】[eclipse-cyclonedds / cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) - Eclipse Cyclone DDS project
 * 【2023-12-07】[lwip-tcpip / lwip](https://github.com/lwip-tcpip/lwip) - lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git
@@ -3330,6 +3357,9 @@
 
 ## C++
 
+* 【2023-12-08】[wkhtmltopdf / wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+* 【2023-12-08】[strato-emu / strato](https://github.com/strato-emu/strato) - Run Nintendo Switch homebrew & games on your Android device!
+* 【2023-12-08】[microsoft / STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
 * 【2023-12-07】[zeroasiccorp / switchboard](https://github.com/zeroasiccorp/switchboard) - Communication framework for RTL simulation and emulation.
 * 【2023-12-07】[mamba-org / mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 * 【2023-12-07】[gperftools / gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
@@ -3840,6 +3870,8 @@
 
 ## C#
 
+* 【2023-12-08】[daem0nc0re / VectorKernel](https://github.com/daem0nc0re/VectorKernel) - PoCs for Kernel-mode rootkit techniques research.
+* 【2023-12-08】[NickeManarin / ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 * 【2023-12-07】[hardkoded / puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Headless Chrome .NET API
 * 【2023-12-07】[SonarSource / sonar-scanner-msbuild](https://github.com/SonarSource/sonar-scanner-msbuild) - SonarScanner for .NET
 * 【2023-12-06】[dotnetcore / CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
@@ -4326,6 +4358,10 @@
 
 ## Html
 
+* 【2023-12-08】[nikhilsoftwareboy / Apple-Clone](https://github.com/nikhilsoftwareboy/Apple-Clone) - 
+* 【2023-12-08】[nikhilsoftwareboy / Solid-Waste-Management-LPU](https://github.com/nikhilsoftwareboy/Solid-Waste-Management-LPU) - 
+* 【2023-12-08】[Skoolgq / Polaris](https://github.com/Skoolgq/Polaris) - The professional unblocked games site.
+* 【2023-12-08】[ganlanyuan / tiny-slider](https://github.com/ganlanyuan/tiny-slider) - Vanilla javascript slider for all purposes.
 * 【2023-12-07】[TailAdmin / tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template) - Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements
 * 【2023-12-06】[madhuakula / kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 * 【2023-12-06】[wundergraph / cosmo](https://github.com/wundergraph/cosmo) - The open-source alternative to Apollo GraphOS. Building, maintaining, and collaborating on GraphQL Federation at Scale.
@@ -4778,6 +4814,8 @@
 
 ## Css
 
+* 【2023-12-08】[elebumm / YouTubeAIExtension](https://github.com/elebumm/YouTubeAIExtension) - Chat with ANY of your favorite YouTube Videos!
+* 【2023-12-08】[data-engineering-community / data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 * 【2023-12-07】[nikhilsoftwareboy / Bing-code](https://github.com/nikhilsoftwareboy/Bing-code) - 
 * 【2023-12-07】[nusserstudios / tailbliss](https://github.com/nusserstudios/tailbliss) - TailBliss is a Hugo Starter theme built on TailwindCSS 3, and Alpine.JS.
 * 【2023-12-07】[ai / easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
@@ -5251,6 +5289,14 @@
 
 ## Unknown
 
+* 【2023-12-08】[sundowndev / hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
+* 【2023-12-08】[HumanAIGC / VividTalk](https://github.com/HumanAIGC/VividTalk) - VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior
+* 【2023-12-08】[heyOnuoha / Free-Fintech-Engineering-Bootcamp](https://github.com/heyOnuoha/Free-Fintech-Engineering-Bootcamp) - Free learning materials on Fintech Engineering!
+* 【2023-12-08】[Lissy93 / personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+* 【2023-12-08】[lkeab / gaussian-grouping](https://github.com/lkeab/gaussian-grouping) - Gaussian Grouping for open-world Anything reconstruction, segmentation and editing.
+* 【2023-12-08】[MlgmXyysd / Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
+* 【2023-12-08】[BookShared / BookShared](https://github.com/BookShared/BookShared) - 
+* 【2023-12-08】[wecooperate / iDefender](https://github.com/wecooperate/iDefender) - iDefender（冰盾 - 终端主动防御系统）
 * 【2023-12-07】[ytongbai / LVM](https://github.com/ytongbai/LVM) - 
 * 【2023-12-07】[devv-ai / devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 * 【2023-12-07】[keenanromain / AWS-SAA-C02-Study-Guide](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide) - How to become a certified AWS Solutions Architect
