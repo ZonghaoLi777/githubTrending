@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-09】[spring-projects / spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - Spring Authorization Server
+* 【2023-12-09】[googlesamples / mlkit](https://github.com/googlesamples/mlkit) - A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS
+* 【2023-12-09】[WuKongOpenSource / Wukong_nocode](https://github.com/WuKongOpenSource/Wukong_nocode) - 悟空无代码平台正式开源，通过悟空无代码平台开发工具，企业可自主地快速开发出适合企业需要的信息化系统，开发过程只需要业务人员参与，开发效率极高，维护性很强。
 * 【2023-12-08】[blossom-editor / blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 * 【2023-12-08】[seculayer / AutoAPE-mrms](https://github.com/seculayer/AutoAPE-mrms) - AutoAPE(Advanced Perceptron Engine) - MRMS(Model Recommend Management Server)
 * 【2023-12-08】[smxiazi / xia_Liao](https://github.com/smxiazi/xia_Liao) - xia Liao（瞎料）burp插件 用于Windows在线进程/杀软识别 与 web渗透注册时，快速生成需要的资料用来填写，资料包含：姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出和生成弱口令字典等。
@@ -732,6 +735,11 @@
 
 ## Python
 
+* 【2023-12-09】[ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
+* 【2023-12-09】[huggingface / optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
+* 【2023-12-09】[dsdanielpark / Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
+* 【2023-12-09】[zappa / Zappa](https://github.com/zappa/Zappa) - Serverless Python
+* 【2023-12-09】[duma-repo / ai_code_reader](https://github.com/duma-repo/ai_code_reader) - AI项目阅读器 by渡码
 * 【2023-12-08】[JJTech0130 / pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
 * 【2023-12-08】[google / style-aligned](https://github.com/google/style-aligned) - Official code for "Style Aligned Image Generation via Shared Attention"
 * 【2023-12-08】[ise-uiuc / magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
@@ -1565,6 +1573,11 @@
 
 ## Javascript
 
+* 【2023-12-09】[doublespeakgames / adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
+* 【2023-12-09】[h5bp / html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+* 【2023-12-09】[JetBrains / kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
+* 【2023-12-09】[cure53 / DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+* 【2023-12-09】[zfy666ci / ton-mint](https://github.com/zfy666ci/ton-mint) - 
 * 【2023-12-08】[facebook / stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 * 【2023-12-08】[decaporg / decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 * 【2023-12-08】[R-s0n / ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
@@ -2204,6 +2217,7 @@
 
 ## Go
 
+* 【2023-12-09】[kubernetes-sigs / kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 * 【2023-12-08】[testcontainers / testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
 * 【2023-12-08】[devfullcycle / imersao16](https://github.com/devfullcycle/imersao16) - 
 * 【2023-12-08】[open-telemetry / opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
@@ -2834,6 +2848,7 @@
 
 ## C
 
+* 【2023-12-09】[FeralInteractive / gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 * 【2023-12-08】[DoctorWkt / acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 * 【2023-12-08】[losehu / uv-k5-firmware-chinese](https://github.com/losehu/uv-k5-firmware-chinese) - 全功能泉盛UV-K5/K6中文固件
 * 【2023-12-07】[lua / lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
@@ -3357,6 +3372,12 @@
 
 ## C++
 
+* 【2023-12-09】[ml-explore / mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
+* 【2023-12-09】[tranek / GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.
+* 【2023-12-09】[OpenSalamander / salamander](https://github.com/OpenSalamander/salamander) - Open Salamander
+* 【2023-12-09】[google-deepmind / open_spiel](https://github.com/google-deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+* 【2023-12-09】[ml-explore / mlx-data](https://github.com/ml-explore/mlx-data) - Efficient framework-agnostic data loading
+* 【2023-12-09】[couchbase / fleece](https://github.com/couchbase/fleece) - A super-fast, compact, JSON-equivalent binary data format
 * 【2023-12-08】[wkhtmltopdf / wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 * 【2023-12-08】[strato-emu / strato](https://github.com/strato-emu/strato) - Run Nintendo Switch homebrew & games on your Android device!
 * 【2023-12-08】[microsoft / STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
@@ -3870,6 +3891,11 @@
 
 ## C#
 
+* 【2023-12-09】[homuler / MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe
+* 【2023-12-09】[microsoft / WPF-Samples](https://github.com/microsoft/WPF-Samples) - Repository for WPF related samples
+* 【2023-12-09】[bezzad / Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
+* 【2023-12-09】[silahian / VisualHFT](https://github.com/silahian/VisualHFT) - VisualHFT is a cutting-edge GUI platform for market analysis, focusing on real-time visualization of market microstructure. Built with WPF & C#, it displays key metrics like Limit Order Book dynamics and execution quality. Its modular design ensures adaptability for developers and traders, enabling tailored analytical solutions.
+* 【2023-12-09】[dotnetcore / Natasha](https://github.com/dotnetcore/Natasha) - 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue.
 * 【2023-12-08】[daem0nc0re / VectorKernel](https://github.com/daem0nc0re/VectorKernel) - PoCs for Kernel-mode rootkit techniques research.
 * 【2023-12-08】[NickeManarin / ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 * 【2023-12-07】[hardkoded / puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Headless Chrome .NET API
@@ -4358,6 +4384,11 @@
 
 ## Html
 
+* 【2023-12-09】[uo-ec607 / lectures](https://github.com/uo-ec607/lectures) - Lecture notes for EC 607
+* 【2023-12-09】[profRobsonPMartins / CodePark-01](https://github.com/profRobsonPMartins/CodePark-01) - REPOSIÇÃO - HTML/CSS
+* 【2023-12-09】[profRobsonPMartins / CodePark-02](https://github.com/profRobsonPMartins/CodePark-02) - REPOSIÇÃO - HTML/CSS
+* 【2023-12-09】[github / training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
+* 【2023-12-09】[grails / grails-core](https://github.com/grails/grails-core) - The Grails Web Application Framework
 * 【2023-12-08】[nikhilsoftwareboy / Apple-Clone](https://github.com/nikhilsoftwareboy/Apple-Clone) - 
 * 【2023-12-08】[nikhilsoftwareboy / Solid-Waste-Management-LPU](https://github.com/nikhilsoftwareboy/Solid-Waste-Management-LPU) - 
 * 【2023-12-08】[Skoolgq / Polaris](https://github.com/Skoolgq/Polaris) - The professional unblocked games site.
@@ -4814,6 +4845,7 @@
 
 ## Css
 
+* 【2023-12-09】[stilleshan / dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件. https://docker.ioiox.com
 * 【2023-12-08】[elebumm / YouTubeAIExtension](https://github.com/elebumm/YouTubeAIExtension) - Chat with ANY of your favorite YouTube Videos!
 * 【2023-12-08】[data-engineering-community / data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 * 【2023-12-07】[nikhilsoftwareboy / Bing-code](https://github.com/nikhilsoftwareboy/Bing-code) - 
@@ -5289,6 +5321,12 @@
 
 ## Unknown
 
+* 【2023-12-09】[waydabber / BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
+* 【2023-12-09】[xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
+* 【2023-12-09】[kleiton0x00 / Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet) - A cheat sheet that contains advanced queries for SQL Injection of all types.
+* 【2023-12-09】[devcontainers / spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
+* 【2023-12-09】[krishnaik06 / Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024) - 
+* 【2023-12-09】[showlab / VideoSwap](https://github.com/showlab/VideoSwap) - Code for VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence
 * 【2023-12-08】[sundowndev / hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 * 【2023-12-08】[HumanAIGC / VividTalk](https://github.com/HumanAIGC/VividTalk) - VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior
 * 【2023-12-08】[heyOnuoha / Free-Fintech-Engineering-Bootcamp](https://github.com/heyOnuoha/Free-Fintech-Engineering-Bootcamp) - Free learning materials on Fintech Engineering!
