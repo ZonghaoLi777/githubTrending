@@ -210,6 +210,10 @@
 
 ## Java
 
+* 【2023-12-11】[EngineHub / WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
+* 【2023-12-11】[PortSwigger / bambdas](https://github.com/PortSwigger/bambdas) - Bambdas collection for Burp Suite Professional and Community.
+* 【2023-12-11】[chiteroman / BootloaderSpoofer](https://github.com/chiteroman/BootloaderSpoofer) - Spoof locked bootloader on local attestations
+* 【2023-12-11】[anylineorg / anyline](https://github.com/anylineorg/anyline) - 基于spring生态的D-ORM,兼容各种数据库。动态注册切换数据源，生成或执行DDL/DML。读写元数据。常用于动态结构的场景,如:数据中台、可视化、低代码后台、SAAS、自定义表单、异构数据库迁移同步、物联网车联网数据处理、数据清洗、运行时自定义报表/查询条件/数据结构、爬虫数据解析等,只需要一个注解即可与springboot,mvc等框架项目完美整合。
 * 【2023-12-10】[frohoff / ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 * 【2023-12-10】[caoliang1918 / contact-center](https://github.com/caoliang1918/contact-center) - 智能呼叫中心系统 sip webrtc
 * 【2023-12-10】[shiyindaxiaojie / eden-architect](https://github.com/shiyindaxiaojie/eden-architect) - 自研应用框架，开箱即用，零侵入性接入，遵循 Spring 官方的模块化管理，保证业务依赖可选项。
@@ -738,6 +742,12 @@
 
 ## Python
 
+* 【2023-12-11】[facebookresearch / Pearl](https://github.com/facebookresearch/Pearl) - A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.
+* 【2023-12-11】[shariqfarooq123 / LooseControl](https://github.com/shariqfarooq123/LooseControl) - Lifting ControlNet for Generalized Depth Conditioning
+* 【2023-12-11】[PySimpleGUI / PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs
+* 【2023-12-11】[prs-eth / Marigold](https://github.com/prs-eth/Marigold) - Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
+* 【2023-12-11】[stanford-futuredata / megablocks](https://github.com/stanford-futuredata/megablocks) - 
+* 【2023-12-11】[howarder3 / ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/ChatGPT-Linebot-using-python-flask-on-vercel) - GPT-Linebot using python flask for vercel
 * 【2023-12-10】[facebookresearch / PurpleLlama](https://github.com/facebookresearch/PurpleLlama) - Set of tools to assess and improve LLM security.
 * 【2023-12-10】[havenhq / mamba-chat](https://github.com/havenhq/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
 * 【2023-12-10】[AIFSH / NativeSpeaker](https://github.com/AIFSH/NativeSpeaker) - make your Speaker talking as Native style with own voice！
@@ -1581,6 +1591,8 @@
 
 ## Javascript
 
+* 【2023-12-11】[Aylur / dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
+* 【2023-12-11】[libccy / noname](https://github.com/libccy/noname) - 
 * 【2023-12-10】[MostlyAdequate / mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 * 【2023-12-09】[doublespeakgames / adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 * 【2023-12-09】[h5bp / html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -2226,6 +2238,8 @@
 
 ## Go
 
+* 【2023-12-11】[Jguer / yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+* 【2023-12-11】[apecloud / kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
 * 【2023-12-10】[k0sproject / k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
 * 【2023-12-10】[cue-lang / cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 * 【2023-12-09】[kubernetes-sigs / kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
@@ -2859,6 +2873,10 @@
 
 ## C
 
+* 【2023-12-11】[esp32-open-mac / esp32-open-mac](https://github.com/esp32-open-mac/esp32-open-mac) - Reverse engineered wifi driver for the ESP32
+* 【2023-12-11】[MarlinFirmware / Configurations](https://github.com/MarlinFirmware/Configurations) - Configurations for Marlin Firmware
+* 【2023-12-11】[jarun / nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+* 【2023-12-11】[raspberrypi / rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 * 【2023-12-10】[research-virus / stuxnet](https://github.com/research-virus/stuxnet) - Public open-source code of malware Stuxnet (aka MyRTUs).
 * 【2023-12-10】[onyx-lang / onyx](https://github.com/onyx-lang/onyx) - A modern language for WebAssembly.
 * 【2023-12-10】[peng-zhihui / ElectronBot](https://github.com/peng-zhihui/ElectronBot) - 
@@ -3386,6 +3404,8 @@
 
 ## C++
 
+* 【2023-12-11】[CowNowK / AimStar](https://github.com/CowNowK/AimStar) - Free and open-source external cheat for CS2, written in C++
+* 【2023-12-11】[microsoft / DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
 * 【2023-12-10】[jmpoep / vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) - 
 * 【2023-12-10】[es3n1n / obfuscator](https://github.com/es3n1n/obfuscator) - Native code PE bin2bin obfuscator
 * 【2023-12-10】[SafeBreach-Labs / PoolParty](https://github.com/SafeBreach-Labs/PoolParty) - A set of fully-undetectable process injection techniques abusing Windows Thread Pools
@@ -3912,6 +3932,8 @@
 
 ## C#
 
+* 【2023-12-11】[builtbybel / Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The real Windows 11 Copilot
+* 【2023-12-11】[sharpbrowser / SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) - A full featured web-browser built using C# and CefSharp
 * 【2023-12-10】[VeriorPies / ParrelSync](https://github.com/VeriorPies/ParrelSync) - (Unity3D) Test multiplayer without building
 * 【2023-12-10】[standard-webhooks / standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification
 * 【2023-12-09】[homuler / MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe
@@ -4407,6 +4429,7 @@
 
 ## Html
 
+* 【2023-12-11】[javascript-tutorial / zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 * 【2023-12-10】[smartfoloo / platformer.io](https://github.com/smartfoloo/platformer.io) - The Best Place for Unblocked Games on Mars.
 * 【2023-12-09】[uo-ec607 / lectures](https://github.com/uo-ec607/lectures) - Lecture notes for EC 607
 * 【2023-12-09】[profRobsonPMartins / CodePark-01](https://github.com/profRobsonPMartins/CodePark-01) - REPOSIÇÃO - HTML/CSS
@@ -4869,6 +4892,7 @@
 
 ## Css
 
+* 【2023-12-11】[poole / lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
 * 【2023-12-10】[amyyalex / simple-contribution](https://github.com/amyyalex/simple-contribution) - This is a very simple project to help first-time contributors to easily participate in an open-source project.
 * 【2023-12-10】[pickle69420 / picklebox](https://github.com/pickle69420/picklebox) - PickleHub is a hub for students who are bored in school, contained in a bookmarklet!
 * 【2023-12-10】[FreeRDP / freerdp.github.io](https://github.com/FreeRDP/freerdp.github.io) - FreeRDP website
@@ -5348,6 +5372,9 @@
 
 ## Unknown
 
+* 【2023-12-11】[mli / paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
+* 【2023-12-11】[morrownr / USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
+* 【2023-12-11】[dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 * 【2023-12-10】[meri-nova / breaking-into-data-handbook](https://github.com/meri-nova/breaking-into-data-handbook) - Breaking Into Data Handbook
 * 【2023-12-10】[YuelangX / Gaussian-Head-Avatar](https://github.com/YuelangX/Gaussian-Head-Avatar) - Official repository for "Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians"
 * 【2023-12-10】[skysafe / reblog](https://github.com/skysafe/reblog) - SkySafe Miscellaneous Reverse Engineering Blog
