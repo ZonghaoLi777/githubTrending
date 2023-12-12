@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-12】[bitcoin-wallet / bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
+* 【2023-12-12】[Docile-Alligator / Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
+* 【2023-12-12】[openpilot-hub / devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij) - Your new coding buddy, designed exclusively for IntelliJ IDEA.
 * 【2023-12-11】[EngineHub / WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 * 【2023-12-11】[PortSwigger / bambdas](https://github.com/PortSwigger/bambdas) - Bambdas collection for Burp Suite Professional and Community.
 * 【2023-12-11】[chiteroman / BootloaderSpoofer](https://github.com/chiteroman/BootloaderSpoofer) - Spoof locked bootloader on local attestations
@@ -742,6 +745,15 @@
 
 ## Python
 
+* 【2023-12-12】[mapup / MapUp-Data-Assessment-F](https://github.com/mapup/MapUp-Data-Assessment-F) - 
+* 【2023-12-12】[linyiLYi / voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。
+* 【2023-12-12】[zhyever / PatchFusion](https://github.com/zhyever/PatchFusion) - An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation
+* 【2023-12-12】[SqueezeAILab / LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - LLMCompiler: An LLM Compiler for Parallel Function Calling
+* 【2023-12-12】[wilsonfreitas / awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+* 【2023-12-12】[Textualize / textual](https://github.com/Textualize/textual) - The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+* 【2023-12-12】[LTH14 / rcg](https://github.com/LTH14/rcg) - PyTorch implementation of RCG https://arxiv.org/abs/2312.03701
+* 【2023-12-12】[spyboy-productions / CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare
+* 【2023-12-12】[ydf0509 / funboost](https://github.com/ydf0509/funboost) - pip install funboost，python全功能分布式函数调度框架,。支持python所有类型的并发模式和全球一切知名消息队列中间件，python函数加速器，框架包罗万象，一统编程思维，兼容50% python编程业务场景，适用范围广。只需要一行代码即可分布式执行python一切函数。
 * 【2023-12-11】[facebookresearch / Pearl](https://github.com/facebookresearch/Pearl) - A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.
 * 【2023-12-11】[shariqfarooq123 / LooseControl](https://github.com/shariqfarooq123/LooseControl) - Lifting ControlNet for Generalized Depth Conditioning
 * 【2023-12-11】[PySimpleGUI / PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs
@@ -1591,6 +1603,10 @@
 
 ## Javascript
 
+* 【2023-12-12】[simple-icons / simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+* 【2023-12-12】[AsmrProg-YT / 100-days-of-javascript](https://github.com/AsmrProg-YT/100-days-of-javascript) - AsmrProg Youtube Channel 100 days of javascript codes collection
+* 【2023-12-12】[6dylan6 / jdpro](https://github.com/6dylan6/jdpro) - 
+* 【2023-12-12】[GTNewHorizons / GT-New-Horizons-Modpack](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack) - New Modpack with Gregtech, Thaumcraft and Witchery
 * 【2023-12-11】[Aylur / dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 * 【2023-12-11】[libccy / noname](https://github.com/libccy/noname) - 
 * 【2023-12-10】[MostlyAdequate / mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
@@ -2238,6 +2254,9 @@
 
 ## Go
 
+* 【2023-12-12】[chaseSpace / k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - 
+* 【2023-12-12】[Loyalsoldier / geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件 geoip.dat 和 MaxMind mmdb 格式文件 Country.mmdb。Enhanced edition of GeoIP files for V2Ray, Xray-core, Trojan-Go, Clash and Leaf, with replaced CN IPv4 CIDR available from ipip.net, appended CIDR lists and more.
+* 【2023-12-12】[wavetermdev / waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 * 【2023-12-11】[Jguer / yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 * 【2023-12-11】[apecloud / kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
 * 【2023-12-10】[k0sproject / k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
@@ -3404,6 +3423,10 @@
 
 ## C++
 
+* 【2023-12-12】[asset-group / 5ghoul-5g-nr-attacks](https://github.com/asset-group/5ghoul-5g-nr-attacks) - 
+* 【2023-12-12】[Greedysky / TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) - TTKMusicPlayer imitates Kugou UI, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、酷我音乐、酷狗音乐)
+* 【2023-12-12】[sqlitebrowser / sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+* 【2023-12-12】[justcallmekoko / ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 * 【2023-12-11】[CowNowK / AimStar](https://github.com/CowNowK/AimStar) - Free and open-source external cheat for CS2, written in C++
 * 【2023-12-11】[microsoft / DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
 * 【2023-12-10】[jmpoep / vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) - 
@@ -3932,6 +3955,11 @@
 
 ## C#
 
+* 【2023-12-12】[StockSharp / StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
+* 【2023-12-12】[shaked6540 / YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
+* 【2023-12-12】[99natmar99 / Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) - A tool to "Fix" Windows 11
+* 【2023-12-12】[Revolutionary-Games / Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
+* 【2023-12-12】[Proektsoftbg / Calcpad](https://github.com/Proektsoftbg/Calcpad) - Free and open source software for mathematical and engineering calculations.
 * 【2023-12-11】[builtbybel / Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The real Windows 11 Copilot
 * 【2023-12-11】[sharpbrowser / SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) - A full featured web-browser built using C# and CefSharp
 * 【2023-12-10】[VeriorPies / ParrelSync](https://github.com/VeriorPies/ParrelSync) - (Unity3D) Test multiplayer without building
@@ -4429,6 +4457,7 @@
 
 ## Html
 
+* 【2023-12-12】[dunglas / frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP
 * 【2023-12-11】[javascript-tutorial / zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 * 【2023-12-10】[smartfoloo / platformer.io](https://github.com/smartfoloo/platformer.io) - The Best Place for Unblocked Games on Mars.
 * 【2023-12-09】[uo-ec607 / lectures](https://github.com/uo-ec607/lectures) - Lecture notes for EC 607
@@ -4892,6 +4921,9 @@
 
 ## Css
 
+* 【2023-12-12】[yandex-praktikum / ono-tebe-nado](https://github.com/yandex-praktikum/ono-tebe-nado) - Проект "Оно тебе надо"
+* 【2023-12-12】[cropsync / CropSync](https://github.com/cropsync/CropSync) - CropSync is a user-friendly website designed to assist farmers in selecting the right crops for their fields and providing essential information throughout the farming process.
+* 【2023-12-12】[edurekacontent / dockerContent](https://github.com/edurekacontent/dockerContent) - 
 * 【2023-12-11】[poole / lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
 * 【2023-12-10】[amyyalex / simple-contribution](https://github.com/amyyalex/simple-contribution) - This is a very simple project to help first-time contributors to easily participate in an open-source project.
 * 【2023-12-10】[pickle69420 / picklebox](https://github.com/pickle69420/picklebox) - PickleHub is a hub for students who are bored in school, contained in a bookmarklet!
@@ -5372,6 +5404,11 @@
 
 ## Unknown
 
+* 【2023-12-12】[openbao / openbao](https://github.com/openbao/openbao) - 
+* 【2023-12-12】[AIoT-MLSys-Lab / Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) - Efficient Large Language Models: A Survey
+* 【2023-12-12】[paulmillr / encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
+* 【2023-12-12】[GT-RIPL / Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
+* 【2023-12-12】[NARUTOfzr / Cura-Neptune-TEST](https://github.com/NARUTOfzr/Cura-Neptune-TEST) - ELEGOO-FDM
 * 【2023-12-11】[mli / paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 * 【2023-12-11】[morrownr / USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 * 【2023-12-11】[dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
