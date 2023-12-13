@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-13】[Netflix / zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+* 【2023-12-13】[diffplug / spotless](https://github.com/diffplug/spotless) - Keep your code spotless
+* 【2023-12-13】[LibrePDF / OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository. ⛺
 * 【2023-12-12】[bitcoin-wallet / bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
 * 【2023-12-12】[Docile-Alligator / Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
 * 【2023-12-12】[openpilot-hub / devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij) - Your new coding buddy, designed exclusively for IntelliJ IDEA.
@@ -745,6 +748,12 @@
 
 ## Python
 
+* 【2023-12-13】[allenai / papermage](https://github.com/allenai/papermage) - library supporting NLP and CV research on scientific papers
+* 【2023-12-13】[cookiecutter / cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+* 【2023-12-13】[yformer / EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
+* 【2023-12-13】[guoqincode / AnimateAnyone-unofficial](https://github.com/guoqincode/AnimateAnyone-unofficial) - Unofficial Implementation of Animate Anyone
+* 【2023-12-13】[open-compass / MixtralKit](https://github.com/open-compass/MixtralKit) - A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI
+* 【2023-12-13】[rushter / MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 * 【2023-12-12】[mapup / MapUp-Data-Assessment-F](https://github.com/mapup/MapUp-Data-Assessment-F) - 
 * 【2023-12-12】[linyiLYi / voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。
 * 【2023-12-12】[zhyever / PatchFusion](https://github.com/zhyever/PatchFusion) - An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation
@@ -1603,6 +1612,12 @@
 
 ## Javascript
 
+* 【2023-12-13】[grommet / grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+* 【2023-12-13】[jhuckaby / Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
+* 【2023-12-13】[matter-labs / zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs) - zkSync Era Documentation
+* 【2023-12-13】[codeceptjs / CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
+* 【2023-12-13】[googleworkspace / apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
+* 【2023-12-13】[HabitRPG / habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 * 【2023-12-12】[simple-icons / simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 * 【2023-12-12】[AsmrProg-YT / 100-days-of-javascript](https://github.com/AsmrProg-YT/100-days-of-javascript) - AsmrProg Youtube Channel 100 days of javascript codes collection
 * 【2023-12-12】[6dylan6 / jdpro](https://github.com/6dylan6/jdpro) - 
@@ -2254,6 +2269,7 @@
 
 ## Go
 
+* 【2023-12-13】[databus23 / helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
 * 【2023-12-12】[chaseSpace / k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - 
 * 【2023-12-12】[Loyalsoldier / geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件 geoip.dat 和 MaxMind mmdb 格式文件 Country.mmdb。Enhanced edition of GeoIP files for V2Ray, Xray-core, Trojan-Go, Clash and Leaf, with replaced CN IPv4 CIDR available from ipip.net, appended CIDR lists and more.
 * 【2023-12-12】[wavetermdev / waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -2892,6 +2908,11 @@
 
 ## C
 
+* 【2023-12-13】[vedderb / bldc](https://github.com/vedderb/bldc) - The VESC motor control firmware
+* 【2023-12-13】[m0nad / Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
+* 【2023-12-13】[linux-can / can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
+* 【2023-12-13】[gspu / Coherent](https://github.com/gspu/Coherent) - Coherent OS
+* 【2023-12-13】[BUPT-OS / RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities. RROS = RTOS (Rust) + Linux (C).
 * 【2023-12-11】[esp32-open-mac / esp32-open-mac](https://github.com/esp32-open-mac/esp32-open-mac) - Reverse engineered wifi driver for the ESP32
 * 【2023-12-11】[MarlinFirmware / Configurations](https://github.com/MarlinFirmware/Configurations) - Configurations for Marlin Firmware
 * 【2023-12-11】[jarun / nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -3423,6 +3444,9 @@
 
 ## C++
 
+* 【2023-12-13】[MihailRis / VoxelEngine-Cpp](https://github.com/MihailRis/VoxelEngine-Cpp) - Minecraft-like game engine in C++ with OpenGL
+* 【2023-12-13】[ratgdo / esphome-ratgdo](https://github.com/ratgdo/esphome-ratgdo) - ratgdo for ESPHome
+* 【2023-12-13】[cartographer-project / cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 * 【2023-12-12】[asset-group / 5ghoul-5g-nr-attacks](https://github.com/asset-group/5ghoul-5g-nr-attacks) - 
 * 【2023-12-12】[Greedysky / TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) - TTKMusicPlayer imitates Kugou UI, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、酷我音乐、酷狗音乐)
 * 【2023-12-12】[sqlitebrowser / sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -3955,6 +3979,12 @@
 
 ## C#
 
+* 【2023-12-13】[SuxueCode / WechatBakTool](https://github.com/SuxueCode/WechatBakTool) - 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。
+* 【2023-12-13】[bchavez / Bogus](https://github.com/bchavez/Bogus) - 📇 A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+* 【2023-12-13】[MarimerLLC / csla](https://github.com/MarimerLLC/csla) - A home for your business logic in any .NET application.
+* 【2023-12-13】[microsoft / testfx](https://github.com/microsoft/testfx) - MSTest framework and adapter
+* 【2023-12-13】[AnnulusGames / BurstLinq](https://github.com/AnnulusGames/BurstLinq) - Extremely fast LINQ aggregation operations implementation optimized by Burst Compiler
+* 【2023-12-13】[aarthificial-unity / foundations](https://github.com/aarthificial-unity/foundations) - Source Code for Solomon's Link
 * 【2023-12-12】[StockSharp / StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
 * 【2023-12-12】[shaked6540 / YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
 * 【2023-12-12】[99natmar99 / Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) - A tool to "Fix" Windows 11
@@ -4457,6 +4487,10 @@
 
 ## Html
 
+* 【2023-12-13】[mattcone / markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
+* 【2023-12-13】[TencentARC / SmartEdit](https://github.com/TencentARC/SmartEdit) - 
+* 【2023-12-13】[jenkins-infra / jenkins.io](https://github.com/jenkins-infra/jenkins.io) - A static site for the Jenkins automation server
+* 【2023-12-13】[hello-world-1989 / temp](https://github.com/hello-world-1989/temp) - 完全免费vpn, 免费科学上网, 翻墙,科学上网,免费翻墙, 免费VPN,开源vpn, free vpn,好用VPN,好用梯子,白纸运动,白纸革命,分布式vpn,去中心化vpn,拆除防火墙, 拆墙运动
 * 【2023-12-12】[dunglas / frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP
 * 【2023-12-11】[javascript-tutorial / zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 * 【2023-12-10】[smartfoloo / platformer.io](https://github.com/smartfoloo/platformer.io) - The Best Place for Unblocked Games on Mars.
@@ -4921,6 +4955,12 @@
 
 ## Css
 
+* 【2023-12-13】[fdnd-task / fix-the-flow-ui-events](https://github.com/fdnd-task/fix-the-flow-ui-events) - Verschillende User Interface events uitproberen
+* 【2023-12-13】[ronaldchan333 / QR-Code-Scan](https://github.com/ronaldchan333/QR-Code-Scan) - 
+* 【2023-12-13】[QiShaoXuan / css_tricks](https://github.com/QiShaoXuan/css_tricks) - Some CSS tricks - 一些 CSS 常用样式
+* 【2023-12-13】[fleming-23 / DWEC_UNI4_PRAC1](https://github.com/fleming-23/DWEC_UNI4_PRAC1) - 
+* 【2023-12-13】[fajarnurwahid / adminhub](https://github.com/fajarnurwahid/adminhub) - Website ini merupakan hasil slicing dari Figma ke responsive website menggunakan HTML, CSS, dan JavaScript
+* 【2023-12-13】[creativetimofficial / argon-design-system-react](https://github.com/creativetimofficial/argon-design-system-react) - React version of Argon Design System
 * 【2023-12-12】[yandex-praktikum / ono-tebe-nado](https://github.com/yandex-praktikum/ono-tebe-nado) - Проект "Оно тебе надо"
 * 【2023-12-12】[cropsync / CropSync](https://github.com/cropsync/CropSync) - CropSync is a user-friendly website designed to assist farmers in selecting the right crops for their fields and providing essential information throughout the farming process.
 * 【2023-12-12】[edurekacontent / dockerContent](https://github.com/edurekacontent/dockerContent) - 
@@ -5404,6 +5444,12 @@
 
 ## Unknown
 
+* 【2023-12-13】[KovenYu / WonderJourney](https://github.com/KovenYu/WonderJourney) - 
+* 【2023-12-13】[Az0x7 / vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) - This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter
+* 【2023-12-13】[vvictoryuki / AnimateZero](https://github.com/vvictoryuki/AnimateZero) - Official PyTorch implementation for the paper "AnimateZero: Video Diffusion Models are Zero-Shot Image Animators"
+* 【2023-12-13】[showlab / X-Adapter](https://github.com/showlab/X-Adapter) - X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model
+* 【2023-12-13】[PeterGriffinJin / Awesome-Language-Model-on-Graphs](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) - A curated list of papers and resources based on "Large Language Models on Graphs: A Comprehensive Survey".
+* 【2023-12-13】[2439905184 / Galgame-Engine-Collect](https://github.com/2439905184/Galgame-Engine-Collect) - 关于视觉小说的一切，争取打造全网最全的资料库
 * 【2023-12-12】[openbao / openbao](https://github.com/openbao/openbao) - 
 * 【2023-12-12】[AIoT-MLSys-Lab / Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) - Efficient Large Language Models: A Survey
 * 【2023-12-12】[paulmillr / encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
