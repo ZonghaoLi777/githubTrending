@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-15】[airbnb / lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
+* 【2023-12-15】[Netflix / Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+* 【2023-12-15】[spring-projects / spring-data-examples](https://github.com/spring-projects/spring-data-examples) - Spring Data Example Projects
 * 【2023-12-14】[javastacks / spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice) - Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。
 * 【2023-12-14】[mainpropath / AI-SmartFuse-Framework](https://github.com/mainpropath/AI-SmartFuse-Framework) - 
 * 【2023-12-14】[j-easy / easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
@@ -753,6 +756,16 @@
 
 ## Python
 
+* 【2023-12-15】[microsoft / promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
+* 【2023-12-15】[cg123 / mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
+* 【2023-12-15】[mistralai / client-python](https://github.com/mistralai/client-python) - Python client library for Mistral AI platform
+* 【2023-12-15】[open-mmlab / mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
+* 【2023-12-15】[NVIDIA / GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) - Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
+* 【2023-12-15】[tlkh / asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
+* 【2023-12-15】[tgbot-collection / YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
+* 【2023-12-15】[brianfitzgerald / style_aligned_comfy](https://github.com/brianfitzgerald/style_aligned_comfy) - 
+* 【2023-12-15】[gitpython-developers / GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
+* 【2023-12-15】[triton-inference-server / server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 * 【2023-12-14】[krishnaik06 / The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials) - 
 * 【2023-12-14】[confident-ai / deepeval](https://github.com/confident-ai/deepeval) - The Evaluation Framework for LLMs
 * 【2023-12-14】[DevilXD / TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
@@ -1623,6 +1636,9 @@
 
 ## Javascript
 
+* 【2023-12-15】[elfvingralf / macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.
+* 【2023-12-15】[Zack995 / web3_script](https://github.com/Zack995/web3_script) - 
+* 【2023-12-15】[derekantrican / GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
 * 【2023-12-14】[morris / vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
 * 【2023-12-14】[Asfak00 / DSA-learning](https://github.com/Asfak00/DSA-learning) - It is a document repository. I'm learning DSA so I created this repository to note down all the things, that might benefit many others. In this repository, I have tried to cover all the important topics of data structures and algorithms.
 * 【2023-12-14】[in28minutes / spring-microservices-v2](https://github.com/in28minutes/spring-microservices-v2) - Microservices + Spring Boot 2 + Spring Cloud + Docker + Kubernetes - https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/. Latest Repo - http://github.com/in28minutes/spring-microservices-v3
@@ -2283,6 +2299,8 @@
 
 ## Go
 
+* 【2023-12-15】[nikolaydubina / go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
+* 【2023-12-15】[quic-go / quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
 * 【2023-12-14】[bricks-cloud / BricksLLM](https://github.com/bricks-cloud/BricksLLM) - Simplifying LLM ops in production
 * 【2023-12-14】[charmbracelet / huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
 * 【2023-12-14】[hakluke / hakrevdns](https://github.com/hakluke/hakrevdns) - Small, fast tool for performing reverse DNS lookups en masse.
@@ -2926,6 +2944,9 @@
 
 ## C
 
+* 【2023-12-15】[0xEr3bus / PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof) - A beacon object file implementation of PoolParty Process Injection Technique.
+* 【2023-12-15】[open62541 / open62541](https://github.com/open62541/open62541) - Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
+* 【2023-12-15】[hfiref0x / KDU](https://github.com/hfiref0x/KDU) - Kernel Driver Utility
 * 【2023-12-14】[openssh / openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 * 【2023-12-14】[TobyLobster / multiply_test](https://github.com/TobyLobster/multiply_test) - Comparing 6502 multiply routines
 * 【2023-12-14】[kamailio / kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
@@ -3468,6 +3489,11 @@
 
 ## C++
 
+* 【2023-12-15】[Mes0903 / Cpp-Miner](https://github.com/Mes0903/Cpp-Miner) - 
+* 【2023-12-15】[bambulab / BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab's 3D printers
+* 【2023-12-15】[chdb-io / chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
+* 【2023-12-15】[HKUST-Aerial-Robotics / VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
+* 【2023-12-15】[NVIDIA / cccl](https://github.com/NVIDIA/cccl) - CUDA C++ Core Libraries
 * 【2023-12-14】[lean-dojo / LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
 * 【2023-12-14】[YimMenu / YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
 * 【2023-12-14】[android / ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
@@ -4006,6 +4032,12 @@
 
 ## C#
 
+* 【2023-12-15】[dotnet / wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
+* 【2023-12-15】[CosmosOS / Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
+* 【2023-12-15】[microsoft / fhir-server](https://github.com/microsoft/fhir-server) - A service that implements the FHIR standard
+* 【2023-12-15】[fullstackhero / dotnet-webapi-starter-kit](https://github.com/fullstackhero/dotnet-webapi-starter-kit) - Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support.
+* 【2023-12-15】[LeagueTavern / fix-lcu-window](https://github.com/LeagueTavern/fix-lcu-window) - 解决《英雄联盟》客户端异常窗口大小的问题。
+* 【2023-12-15】[zhaopeiym / IoTClient.Examples](https://github.com/zhaopeiym/IoTClient.Examples) - 
 * 【2023-12-14】[DotNetNext / SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net aot ORM Fastest ORM Simple Easy Sqlite orm Oracle ORM Mysql Orm postgresql ORm SqlServer oRm 达梦 ORM 人大金仓 ORM 神通ORM C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb ,TDengine ORM,OceanBase orm,GaussDB orm ,Tidb orm Object/Relational Mapping
 * 【2023-12-14】[0x7c13 / Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 * 【2023-12-14】[CrazyZhang666 / GTA5OnlineTools](https://github.com/CrazyZhang666/GTA5OnlineTools) - GTA5线上小助手
@@ -4519,6 +4551,7 @@
 
 ## Html
 
+* 【2023-12-15】[observablehq / plot](https://github.com/observablehq/plot) - Observable Plot: a concise API for exploratory data visualization
 * 【2023-12-14】[netnr / kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
 * 【2023-12-13】[mattcone / markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 * 【2023-12-13】[TencentARC / SmartEdit](https://github.com/TencentARC/SmartEdit) - 
@@ -4988,6 +5021,9 @@
 
 ## Css
 
+* 【2023-12-15】[Mozilla-Ocho / Memory-Cache](https://github.com/Mozilla-Ocho/Memory-Cache) - MemoryCache is an experimental development project to turn a local desktop environment into an on-device AI agent
+* 【2023-12-15】[isbendiyarovanezrin / ShoppingCart](https://github.com/isbendiyarovanezrin/ShoppingCart) - Shopping Cart 🛒
+* 【2023-12-15】[themepark-dev / theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 * 【2023-12-14】[jtriley-eth / the-ethereum-virtual-machine](https://github.com/jtriley-eth/the-ethereum-virtual-machine) - 
 * 【2023-12-14】[Gozargah / gozargah.github.io](https://github.com/Gozargah/gozargah.github.io) - 
 * 【2023-12-14】[QNetITQ / WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme/Style for manual customization
@@ -5480,6 +5516,10 @@
 
 ## Unknown
 
+* 【2023-12-15】[krishnaik06 / Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) - 
+* 【2023-12-15】[sczhou / Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) - Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution
+* 【2023-12-15】[waf-bypass-maker / waf-community-bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses) - 
+* 【2023-12-15】[valeman / awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
 * 【2023-12-14】[wy876 / POC](https://github.com/wy876/POC) - 2023HW漏洞整理，收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了100多个poc/exp
 * 【2023-12-14】[dreamoving / dreamoving-project](https://github.com/dreamoving/dreamoving-project) - Official implementation of DreaMoving
 * 【2023-12-14】[libin9iOak / ja-netfilter-all](https://github.com/libin9iOak/ja-netfilter-all) - 
