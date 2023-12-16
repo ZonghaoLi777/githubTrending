@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2023-12-16】[barry-ran / QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 * 【2023-12-15】[airbnb / lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
 * 【2023-12-15】[Netflix / Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 * 【2023-12-15】[spring-projects / spring-data-examples](https://github.com/spring-projects/spring-data-examples) - Spring Data Example Projects
@@ -756,6 +757,14 @@
 
 ## Python
 
+* 【2023-12-16】[threestudio-project / threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation.
+* 【2023-12-16】[Ucas-HaoranWei / Vary](https://github.com/Ucas-HaoranWei/Vary) - Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.
+* 【2023-12-16】[cvlab-columbia / zero123](https://github.com/cvlab-columbia/zero123) - Zero-1-to-3: Zero-shot One Image to 3D Object (ICCV 2023)
+* 【2023-12-16】[Xunzi-LLM-of-Chinese-classics / XunziALLM](https://github.com/Xunzi-LLM-of-Chinese-classics/XunziALLM) - 
+* 【2023-12-16】[OpenLLMAI / OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - A Ray-based High-performance RLHF framework (for large models)
+* 【2023-12-16】[microsoft / Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
+* 【2023-12-16】[isocpp / CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+* 【2023-12-16】[Frica01 / WeChat-mass-msg](https://github.com/Frica01/WeChat-mass-msg) - 微信自动发送信息，微信群发消息，Windows系统微信客户端（PC端
 * 【2023-12-15】[microsoft / promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 * 【2023-12-15】[cg123 / mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
 * 【2023-12-15】[mistralai / client-python](https://github.com/mistralai/client-python) - Python client library for Mistral AI platform
@@ -1636,6 +1645,9 @@
 
 ## Javascript
 
+* 【2023-12-16】[sfter / evm-inscription-mint](https://github.com/sfter/evm-inscription-mint) - 兼容 evm 的铭文 Mint 工具
+* 【2023-12-16】[BruceMacD / chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
+* 【2023-12-16】[quarkape / free-canvas](https://github.com/quarkape/free-canvas) - 一键免费下载标小智和标智客两个网站的高清无水印海报或LOGO，支持自动裁剪
 * 【2023-12-15】[elfvingralf / macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.
 * 【2023-12-15】[Zack995 / web3_script](https://github.com/Zack995/web3_script) - 
 * 【2023-12-15】[derekantrican / GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
@@ -2299,6 +2311,9 @@
 
 ## Go
 
+* 【2023-12-16】[Snowflake-Labs / terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake) - Terraform provider for managing Snowflake accounts
+* 【2023-12-16】[expr-lang / expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
+* 【2023-12-16】[dgraph-io / badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 * 【2023-12-15】[nikolaydubina / go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 * 【2023-12-15】[quic-go / quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
 * 【2023-12-14】[bricks-cloud / BricksLLM](https://github.com/bricks-cloud/BricksLLM) - Simplifying LLM ops in production
@@ -2944,6 +2959,12 @@
 
 ## C
 
+* 【2023-12-16】[DummrenDuck / cgame](https://github.com/DummrenDuck/cgame) - 
+* 【2023-12-16】[rockchip-linux / rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
+* 【2023-12-16】[rochus-keller / CspChan](https://github.com/rochus-keller/CspChan) - A pure C (-std=c89) implementation of Go channels, including blocking and non-blocking selects.
+* 【2023-12-16】[ku1ik / stderred](https://github.com/ku1ik/stderred) - stderr in red
+* 【2023-12-16】[airockchip / rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) - 
+* 【2023-12-16】[QuantFabric / XAPI](https://github.com/QuantFabric/XAPI) - 第三方库，包括SPDLog日志库、HPSocket通信框架、YAML-CPP解析库、CTP柜台API、REM柜台API、YD柜台API、ConcurrentQueue并发队列、OES柜台API。
 * 【2023-12-15】[0xEr3bus / PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof) - A beacon object file implementation of PoolParty Process Injection Technique.
 * 【2023-12-15】[open62541 / open62541](https://github.com/open62541/open62541) - Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
 * 【2023-12-15】[hfiref0x / KDU](https://github.com/hfiref0x/KDU) - Kernel Driver Utility
@@ -3489,6 +3510,8 @@
 
 ## C++
 
+* 【2023-12-16】[j-hc / zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
+* 【2023-12-16】[QuantFabric / XMonitor](https://github.com/QuantFabric/XMonitor) - XMonitor监控客户端，拖拽式插件架构，提供Market、Monitor、EventLog、Permission、RiskJudge、OrderManager插件，不同插件可以拖拽至不同屏幕分屏显示。
 * 【2023-12-15】[Mes0903 / Cpp-Miner](https://github.com/Mes0903/Cpp-Miner) - 
 * 【2023-12-15】[bambulab / BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab's 3D printers
 * 【2023-12-15】[chdb-io / chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
@@ -4032,6 +4055,8 @@
 
 ## C#
 
+* 【2023-12-16】[atom0s / Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
+* 【2023-12-16】[msdart / layerzero-zksync-scroll-zora-aio-tools](https://github.com/msdart/layerzero-zksync-scroll-zora-aio-tools) - Full free software with beautiful gui!
 * 【2023-12-15】[dotnet / wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 * 【2023-12-15】[CosmosOS / Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 * 【2023-12-15】[microsoft / fhir-server](https://github.com/microsoft/fhir-server) - A service that implements the FHIR standard
@@ -5021,6 +5046,10 @@
 
 ## Css
 
+* 【2023-12-16】[shanjairaj7 / openweathermap](https://github.com/shanjairaj7/openweathermap) - 
+* 【2023-12-16】[SteamDatabase / GameTracking-CS2](https://github.com/SteamDatabase/GameTracking-CS2) - 📥 Game Tracker: Counter-Strike 2
+* 【2023-12-16】[lomzik / lomzik.github.com](https://github.com/lomzik/lomzik.github.com) - 
+* 【2023-12-16】[AbyssServices / Abyss-Web](https://github.com/AbyssServices/Abyss-Web) - Abyss is an advanced proxy service that provides modern unblocking for all users who use it.
 * 【2023-12-15】[Mozilla-Ocho / Memory-Cache](https://github.com/Mozilla-Ocho/Memory-Cache) - MemoryCache is an experimental development project to turn a local desktop environment into an on-device AI agent
 * 【2023-12-15】[isbendiyarovanezrin / ShoppingCart](https://github.com/isbendiyarovanezrin/ShoppingCart) - Shopping Cart 🛒
 * 【2023-12-15】[themepark-dev / theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -5516,6 +5545,14 @@
 
 ## Unknown
 
+* 【2023-12-16】[HumanAIGC / OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
+* 【2023-12-16】[Mint-Blockchain / mint-brandkit](https://github.com/Mint-Blockchain/mint-brandkit) - 
+* 【2023-12-16】[ujjwalkarn / Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
+* 【2023-12-16】[ruesandora / Eclipse](https://github.com/ruesandora/Eclipse) - 
+* 【2023-12-16】[ml-tooling / best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+* 【2023-12-16】[VladimirYugay / Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - 
+* 【2023-12-16】[InstantID / InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds
+* 【2023-12-16】[vavkamil / awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
 * 【2023-12-15】[krishnaik06 / Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) - 
 * 【2023-12-15】[sczhou / Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) - Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution
 * 【2023-12-15】[waf-bypass-maker / waf-community-bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses) - 
