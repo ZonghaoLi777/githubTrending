@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2023-12-18】[hneemann / Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
+* 【2023-12-18】[alibaba / transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
 * 【2023-12-17】[conductor-oss / conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine.
 * 【2023-12-17】[mrniko / netty-socketio](https://github.com/mrniko/netty-socketio) - Socket.IO server implemented on Java. Realtime java framework
 * 【2023-12-17】[bitisanop / CryptoExchange_TradingPlatform_CoinExchange](https://github.com/bitisanop/CryptoExchange_TradingPlatform_CoinExchange) - Bitisan|BlockchainExchange|ExchangePlatform|CryptocurrencyTrading|区块链|交易所|永续合约|币币兑换
@@ -760,6 +762,13 @@
 
 ## Python
 
+* 【2023-12-18】[microsoft / promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
+* 【2023-12-18】[ccxt / ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+* 【2023-12-18】[OpenBB-finance / OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
+* 【2023-12-18】[Fadi002 / de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
+* 【2023-12-18】[resemble-ai / resemble-enhance](https://github.com/resemble-ai/resemble-enhance) - AI powered speech denoising and enhancement
+* 【2023-12-18】[soimort / you-get](https://github.com/soimort/you-get) - ⏬ Dumb downloader that scrapes the web
+* 【2023-12-18】[Stability-AI / stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 * 【2023-12-17】[yihong0618 / tg_bot_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
 * 【2023-12-17】[chatanywhere / GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 * 【2023-12-17】[kadirnar / whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀
@@ -1658,6 +1667,9 @@
 
 ## Javascript
 
+* 【2023-12-18】[0x01010110 / corecfxs](https://github.com/0x01010110/corecfxs) - 
+* 【2023-12-18】[DIYgod / DPlayer](https://github.com/DIYgod/DPlayer) - 🍭 Wow, such a lovely HTML5 danmaku video player
+* 【2023-12-18】[pulsar-edit / pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 * 【2023-12-17】[fosatech / STK-Sweep](https://github.com/fosatech/STK-Sweep) - Public STK-Sweep repo.
 * 【2023-12-16】[sfter / evm-inscription-mint](https://github.com/sfter/evm-inscription-mint) - 兼容 evm 的铭文 Mint 工具
 * 【2023-12-16】[BruceMacD / chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
@@ -2325,6 +2337,9 @@
 
 ## Go
 
+* 【2023-12-18】[lkarlslund / ldapnomnom](https://github.com/lkarlslund/ldapnomnom) - Quietly and anonymously bruteforce Active Directory usernames at insane speeds from Domain Controllers by (ab)using LDAP Ping requests (cLDAP)
+* 【2023-12-18】[gophish / gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+* 【2023-12-18】[PRC20 / PRC20Miner](https://github.com/PRC20/PRC20Miner) - Blockchain PRC20 Mining Tool
 * 【2023-12-17】[google / generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI
 * 【2023-12-17】[btcsuite / btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
 * 【2023-12-17】[jwping / wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
@@ -2976,6 +2991,9 @@
 
 ## C
 
+* 【2023-12-18】[paxo-phone / PaxOS-8](https://github.com/paxo-phone/PaxOS-8) - Code source du système d'exploitation du PaxoPhone
+* 【2023-12-18】[adafruit / Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library) - Adafruit GFX graphics core Arduino library, this is the 'core' class that all our other graphics libraries derive from
+* 【2023-12-18】[SpacehuhnTech / esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 * 【2023-12-17】[SiliconLabs / gecko_sdk](https://github.com/SiliconLabs/gecko_sdk) - The Gecko SDK (GSDK) combines all Silicon Labs 32-bit IoT product software development kits (SDKs) based on Gecko Platform into a single, integrated SDK.
 * 【2023-12-16】[DummrenDuck / cgame](https://github.com/DummrenDuck/cgame) - 
 * 【2023-12-16】[rockchip-linux / rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
@@ -3528,6 +3546,7 @@
 
 ## C++
 
+* 【2023-12-18】[NixOS / nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 * 【2023-12-17】[GPUOpen-LibrariesAndSDKs / FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK) - The main repository for the FidelityFX SDK.
 * 【2023-12-16】[j-hc / zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
 * 【2023-12-16】[QuantFabric / XMonitor](https://github.com/QuantFabric/XMonitor) - XMonitor监控客户端，拖拽式插件架构，提供Market、Monitor、EventLog、Permission、RiskJudge、OrderManager插件，不同插件可以拖拽至不同屏幕分屏显示。
@@ -4074,6 +4093,8 @@
 
 ## C#
 
+* 【2023-12-18】[ihm-tswow / Links-Awakening-DX-HD](https://github.com/ihm-tswow/Links-Awakening-DX-HD) - Unaffiliated fork off https://linksawakeningdxhd.itch.io/links-awakening-dx-hd
+* 【2023-12-18】[EugeneSunrise / reWASD](https://github.com/EugeneSunrise/reWASD) - reWASD Source Code And Crack
 * 【2023-12-17】[tjackenpacken / taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 * 【2023-12-16】[atom0s / Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 * 【2023-12-16】[msdart / layerzero-zksync-scroll-zora-aio-tools](https://github.com/msdart/layerzero-zksync-scroll-zora-aio-tools) - Full free software with beautiful gui!
@@ -4596,6 +4617,9 @@
 
 ## Html
 
+* 【2023-12-18】[rammcodes / Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
+* 【2023-12-18】[webtutorialsw / css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) - 
+* 【2023-12-18】[kh-kim / arxiv-translator](https://github.com/kh-kim/arxiv-translator) - 
 * 【2023-12-17】[X-LANCE / StoryTTS](https://github.com/X-LANCE/StoryTTS) - https://goarsenal.github.io/StoryTTS/
 * 【2023-12-17】[tabler / tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * 【2023-12-17】[soulteary / forever-coolshell](https://github.com/soulteary/forever-coolshell) - 酷壳 - CoolShell 电子存档，🕯️ 谨纪念和保存陈皓先生的公开的技术分享内容，感恩皓叔对中文互联网，尤其是技术领域无私的分享。
@@ -5570,6 +5594,10 @@
 
 ## Unknown
 
+* 【2023-12-18】[gpakosz / .tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+* 【2023-12-18】[ossu / math](https://github.com/ossu/math) - 🧮 Path to a free self-taught education in Mathematics!
+* 【2023-12-18】[engineermali / Crypto-Wallet-Cracker-Stealer-2023](https://github.com/engineermali/Crypto-Wallet-Cracker-Stealer-2023) - Crypto Wallet Cracker - software for automated crypto wallet stealing and cracking!
+* 【2023-12-18】[kyleisah / Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers!
 * 【2023-12-17】[bleedline / aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
 * 【2023-12-17】[piglei / one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 * 【2023-12-17】[riscv / learn](https://github.com/riscv/learn) - Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc.
