@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-19】[gz-yami / mall4cloud](https://github.com/gz-yami/mall4cloud) - ⭐️⭐️⭐️微服务商城系统 springcloud微服务商城 小程序商城
+* 【2023-12-19】[exteraSquad / exteraGram](https://github.com/exteraSquad/exteraGram) - Telegram client based on Android sources with new features
+* 【2023-12-19】[Mino260806 / MessengerPro](https://github.com/Mino260806/MessengerPro) - A mod that enhances Facebook Messenger with loads of powerful features !
 * 【2023-12-18】[hneemann / Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 * 【2023-12-18】[alibaba / transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
 * 【2023-12-17】[conductor-oss / conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine.
@@ -762,6 +765,12 @@
 
 ## Python
 
+* 【2023-12-19】[StevenBlack / hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+* 【2023-12-19】[ethereum / EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
+* 【2023-12-19】[apple / ml-sigma-reparam](https://github.com/apple/ml-sigma-reparam) - 
+* 【2023-12-19】[WZMIAOMIAO / deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - deep learning for image processing including classification and object-detection etc.
+* 【2023-12-19】[ANG13T / skytrack](https://github.com/ANG13T/skytrack) - skytrack is a planespotting and aircraft OSINT tool made using Python 🛩🔍
+* 【2023-12-19】[zsokami / ACL4SSR](https://github.com/zsokami/ACL4SSR) - 自定义 订阅转换 配置转换 规则转换 的远程配置，自带旗帜 emoji 添加逻辑。修改自 ACL4SSR_Online_Full.ini
 * 【2023-12-18】[microsoft / promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 * 【2023-12-18】[ccxt / ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 * 【2023-12-18】[OpenBB-finance / OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
@@ -1667,6 +1676,7 @@
 
 ## Javascript
 
+* 【2023-12-19】[shradha-khapra / JavaScriptSeries](https://github.com/shradha-khapra/JavaScriptSeries) - 
 * 【2023-12-18】[0x01010110 / corecfxs](https://github.com/0x01010110/corecfxs) - 
 * 【2023-12-18】[DIYgod / DPlayer](https://github.com/DIYgod/DPlayer) - 🍭 Wow, such a lovely HTML5 danmaku video player
 * 【2023-12-18】[pulsar-edit / pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
@@ -2337,6 +2347,9 @@
 
 ## Go
 
+* 【2023-12-19】[francoismichel / ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
+* 【2023-12-19】[lichti / whats-spoofing](https://github.com/lichti/whats-spoofing) - Whatsapp Exploit to spoofing impersonate of reply message
+* 【2023-12-19】[gokcehan / lf](https://github.com/gokcehan/lf) - Terminal file manager
 * 【2023-12-18】[lkarlslund / ldapnomnom](https://github.com/lkarlslund/ldapnomnom) - Quietly and anonymously bruteforce Active Directory usernames at insane speeds from Domain Controllers by (ab)using LDAP Ping requests (cLDAP)
 * 【2023-12-18】[gophish / gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 * 【2023-12-18】[PRC20 / PRC20Miner](https://github.com/PRC20/PRC20Miner) - Blockchain PRC20 Mining Tool
@@ -3546,6 +3559,8 @@
 
 ## C++
 
+* 【2023-12-19】[atcoder / ac-library](https://github.com/atcoder/ac-library) - AtCoder Library
+* 【2023-12-19】[kamyu104 / LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2968 LeetCode Problems (Weekly Update)
 * 【2023-12-18】[NixOS / nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 * 【2023-12-17】[GPUOpen-LibrariesAndSDKs / FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK) - The main repository for the FidelityFX SDK.
 * 【2023-12-16】[j-hc / zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
@@ -4093,6 +4108,10 @@
 
 ## C#
 
+* 【2023-12-19】[NebulaModTeam / nebula](https://github.com/NebulaModTeam/nebula) - A multiplayer mod for the game Dyson Sphere Program
+* 【2023-12-19】[stakira / OpenUtau](https://github.com/stakira/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
+* 【2023-12-19】[amantinband / clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications 🧹
+* 【2023-12-19】[mkitto / fsll](https://github.com/mkitto/fsll) - A Simplified Chinese localization patch for Fallout Shelter pc.
 * 【2023-12-18】[ihm-tswow / Links-Awakening-DX-HD](https://github.com/ihm-tswow/Links-Awakening-DX-HD) - Unaffiliated fork off https://linksawakeningdxhd.itch.io/links-awakening-dx-hd
 * 【2023-12-18】[EugeneSunrise / reWASD](https://github.com/EugeneSunrise/reWASD) - reWASD Source Code And Crack
 * 【2023-12-17】[tjackenpacken / taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
@@ -4617,6 +4636,7 @@
 
 ## Html
 
+* 【2023-12-19】[devopshobbies / docker-templates](https://github.com/devopshobbies/docker-templates) - ✨ Docker samples for all languages
 * 【2023-12-18】[rammcodes / Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
 * 【2023-12-18】[webtutorialsw / css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) - 
 * 【2023-12-18】[kh-kim / arxiv-translator](https://github.com/kh-kim/arxiv-translator) - 
@@ -5093,6 +5113,8 @@
 
 ## Css
 
+* 【2023-12-19】[OlieWu / tinawina](https://github.com/OlieWu/tinawina) - A webpage for ma girlfriend
+* 【2023-12-19】[34306 / iPA](https://github.com/34306/iPA) - iPA Saved
 * 【2023-12-17】[tovifun / VivalArc](https://github.com/tovifun/VivalArc) - With just a few tweaks, you can give Vivaldi that cool Arc vibe
 * 【2023-12-17】[thoughtworks / build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.
 * 【2023-12-16】[shanjairaj7 / openweathermap](https://github.com/shanjairaj7/openweathermap) - 
@@ -5594,6 +5616,9 @@
 
 ## Unknown
 
+* 【2023-12-19】[tuteng / Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
+* 【2023-12-19】[fboldewin / YARA_Detection_Engineering](https://github.com/fboldewin/YARA_Detection_Engineering) - Detection Engineering with YARA
+* 【2023-12-19】[awesome-foss / awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 * 【2023-12-18】[gpakosz / .tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 * 【2023-12-18】[ossu / math](https://github.com/ossu/math) - 🧮 Path to a free self-taught education in Mathematics!
 * 【2023-12-18】[engineermali / Crypto-Wallet-Cracker-Stealer-2023](https://github.com/engineermali/Crypto-Wallet-Cracker-Stealer-2023) - Crypto Wallet Cracker - software for automated crypto wallet stealing and cracking!
