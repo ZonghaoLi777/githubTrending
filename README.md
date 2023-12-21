@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2023-12-21】[thingsboard / tbmq](https://github.com/thingsboard/tbmq) - Open-source MQTT broker - facilitates MQTT client connectivity, message publishing, and distribution among subscribers.
+* 【2023-12-21】[alibaba / fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 * 【2023-12-20】[Consensys / teku](https://github.com/Consensys/teku) - Java Implementation of the Ethereum 2.0 Beacon Chain
 * 【2023-12-20】[apache / incubator-seata](https://github.com/apache/incubator-seata) - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * 【2023-12-19】[gz-yami / mall4cloud](https://github.com/gz-yami/mall4cloud) - ⭐️⭐️⭐️微服务商城系统 springcloud微服务商城 小程序商城
@@ -767,6 +769,13 @@
 
 ## Python
 
+* 【2023-12-21】[gpt-engineer-org / gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+* 【2023-12-21】[bytedance / ImageDream](https://github.com/bytedance/ImageDream) - The code releasing for https://image-dream.github.io/
+* 【2023-12-21】[hutaiHang / Faster-Diffusion](https://github.com/hutaiHang/Faster-Diffusion) - Official implementation of "Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models"
+* 【2023-12-21】[PaddlePaddle / PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
+* 【2023-12-21】[myshell-ai / OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell
+* 【2023-12-21】[hosir-web3 / EVM_inscription](https://github.com/hosir-web3/EVM_inscription) - This script is designed to facilitate the batch creation of inscriptions on Ethereum Virtual Machine (EVM)-compatible blockchains.
+* 【2023-12-21】[HACK-THE-WORLD / IDAPluginList](https://github.com/HACK-THE-WORLD/IDAPluginList) - IDA插件集合，含项目名称及项目地址，每日定时Clone项目。
 * 【2023-12-20】[microsoft / LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 * 【2023-12-20】[florestefano1975 / comfyui-portrait-master](https://github.com/florestefano1975/comfyui-portrait-master) - 
 * 【2023-12-20】[aleju / imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
@@ -1685,6 +1694,13 @@
 
 ## Javascript
 
+* 【2023-12-21】[immerjs / immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
+* 【2023-12-21】[ajaxorg / ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+* 【2023-12-21】[NVlabs / FoundationPose](https://github.com/NVlabs/FoundationPose) - FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects
+* 【2023-12-21】[motdotla / dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
+* 【2023-12-21】[wenda-LLM / wenda](https://github.com/wenda-LLM/wenda) - 闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题
+* 【2023-12-21】[moshang-xc / lottery](https://github.com/moshang-xc/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
+* 【2023-12-21】[juliangarnier / anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 * 【2023-12-20】[sfter / cias-mint](https://github.com/sfter/cias-mint) - Celestia(tia) 公链铭文 cias mint 脚本
 * 【2023-12-20】[ezshine / AwesomeSites](https://github.com/ezshine/AwesomeSites) - every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.
 * 【2023-12-20】[OptimalBits / bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
@@ -2359,6 +2375,8 @@
 
 ## Go
 
+* 【2023-12-21】[distribution / distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
+* 【2023-12-21】[protocolbuffers / protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
 * 【2023-12-20】[celestiaorg / celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk
 * 【2023-12-19】[francoismichel / ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
 * 【2023-12-19】[lichti / whats-spoofing](https://github.com/lichti/whats-spoofing) - Whatsapp Exploit to spoofing impersonate of reply message
@@ -3017,6 +3035,8 @@
 
 ## C
 
+* 【2023-12-21】[wasm3 / wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
+* 【2023-12-21】[zhenrong-wang / hpc-now](https://github.com/zhenrong-wang/hpc-now) - A Cross-Platform, Multi-Cloud High-Performance Computing Platform
 * 【2023-12-20】[stephane / libmodbus](https://github.com/stephane/libmodbus) - A Modbus library for Linux, Mac OS, FreeBSD and Windows
 * 【2023-12-20】[cboxdoerfer / fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 * 【2023-12-20】[cbwang505 / unicorn-whpx](https://github.com/cbwang505/unicorn-whpx) - 跨平台模拟执行unicorn框架基于Qemu的TCG模式(Tiny Code Generator),以无硬件虚拟化支持方式实现全系统的虚拟化,支持跨平台和架构的CPU指令模拟,本文讨论是一款笔者的实验性项目采用Windows Hypervisor Platform虚拟机模式提供了另一种CPU指令的模拟方式,在保持原有unicorn导出接口不变的情况下,采用Hyper-v支持带硬件虚拟化支持的Windows Hypervisor Platform API接口扩展了底层CPU模拟环境实现,支持X86指令集二进制程序模拟平台和调试器.
@@ -3577,6 +3597,10 @@
 
 ## C++
 
+* 【2023-12-21】[Librum-Reader / Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
+* 【2023-12-21】[keith2018 / SoftGLRender](https://github.com/keith2018/SoftGLRender) - Tiny C++ Software Renderer / Rasterizer, and implements OpenGL and Vulkan renderers for comparison
+* 【2023-12-21】[cagnulein / qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) - Zwift bridge for smart treadmills and bike/cyclette
+* 【2023-12-21】[mapeditor / tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 * 【2023-12-20】[Nukem9 / dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
 * 【2023-12-20】[BlackINT3 / OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 * 【2023-12-20】[arangodb / arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
@@ -4133,6 +4157,13 @@
 
 ## C#
 
+* 【2023-12-21】[NLog / NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
+* 【2023-12-21】[Taiizor / ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor) - ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-focused.
+* 【2023-12-21】[khellang / Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
+* 【2023-12-21】[sqlkata / querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
+* 【2023-12-21】[AlexanderPro / SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
+* 【2023-12-21】[fdonnet / ubik_accounting](https://github.com/fdonnet/ubik_accounting) - Double entry accounting app in Net 8
+* 【2023-12-21】[liuke-wuhan / ZuAnBot](https://github.com/liuke-wuhan/ZuAnBot) - 祖安助手：英雄联盟（League Of Legends）一键喷人，LOL游戏和客户端中可用。只为反击喷子！
 * 【2023-12-19】[NebulaModTeam / nebula](https://github.com/NebulaModTeam/nebula) - A multiplayer mod for the game Dyson Sphere Program
 * 【2023-12-19】[stakira / OpenUtau](https://github.com/stakira/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 * 【2023-12-19】[amantinband / clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications 🧹
@@ -4661,6 +4692,12 @@
 
 ## Html
 
+* 【2023-12-21】[solidjs / solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
+* 【2023-12-21】[mdbootstrap / TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
+* 【2023-12-21】[SexyBeast233 / SecBooks](https://github.com/SexyBeast233/SecBooks) - 安全类各家文库大乱斗
+* 【2023-12-21】[tc39 / ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
+* 【2023-12-21】[ionic-team / ionic-docs](https://github.com/ionic-team/ionic-docs) - 
+* 【2023-12-21】[imrk51 / CEH-v11-Study-Guide](https://github.com/imrk51/CEH-v11-Study-Guide) - 
 * 【2023-12-20】[leanprover-community / mathematics_in_lean](https://github.com/leanprover-community/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
 * 【2023-12-20】[halo-dev / theme-earth](https://github.com/halo-dev/theme-earth) - Halo 2.0 的默认主题
 * 【2023-12-20】[liu673cn / bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
@@ -5141,6 +5178,10 @@
 
 ## Css
 
+* 【2023-12-21】[ABPozharliev19 / 11th-grade-azure-static-web-app](https://github.com/ABPozharliev19/11th-grade-azure-static-web-app) - 
+* 【2023-12-21】[jdan / 98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
+* 【2023-12-21】[DasLampe / KluftBoerse](https://github.com/DasLampe/KluftBoerse) - Plattform zum Tauschen von alten Kluften der DPSG. (outdated)
+* 【2023-12-21】[cesurvmnc / navidad](https://github.com/cesurvmnc/navidad) - 
 * 【2023-12-20】[BuilderIO / hydration-overlay](https://github.com/BuilderIO/hydration-overlay) - Overlay for hydration errors with explicit diff between renders.
 * 【2023-12-20】[github / actions-learning-pathway](https://github.com/github/actions-learning-pathway) - Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.
 * 【2023-12-20】[saucelabs / the-internet](https://github.com/saucelabs/the-internet) - An example application that captures prominent and ugly functionality found on the web. Perfect for writing automated acceptance tests against.
@@ -5648,6 +5689,10 @@
 
 ## Unknown
 
+* 【2023-12-21】[chinesehuazhou / python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容
+* 【2023-12-21】[michaelliao / learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
+* 【2023-12-21】[Ishanoshada / GDorks](https://github.com/Ishanoshada/GDorks) - Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )
+* 【2023-12-21】[qianguyihao / blog-list](https://github.com/qianguyihao/blog-list) - 中文博客琅琊榜，只收录精品独立博客
 * 【2023-12-20】[ActiveVisionLab / Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world Resources
 * 【2023-12-20】[IterateAI / OpenThreatDetection](https://github.com/IterateAI/OpenThreatDetection) - Iterate.ai has open-sourced a powerful Weapons Detection AI software. The AI was trained on about 100 live guns, plus 20,000 videos of robberies and threats involving weapons. Our engineers taught the AI to detect guns, knives, kevlar vests, and robbery masks.
 * 【2023-12-20】[Jackpopc / CS-Books-Store](https://github.com/Jackpopc/CS-Books-Store) - 你想要的计算机经典书籍，这里都有！
