@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-22】[micronaut-projects / micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
+* 【2023-12-22】[resilience4j / resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
+* 【2023-12-22】[davidfantasy / mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对mybatis-plus-generator进行封装，通过Web UI快速生成兼容Spring boot，mybatis-plus框架的各类业务代码
 * 【2023-12-21】[thingsboard / tbmq](https://github.com/thingsboard/tbmq) - Open-source MQTT broker - facilitates MQTT client connectivity, message publishing, and distribution among subscribers.
 * 【2023-12-21】[alibaba / fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 * 【2023-12-20】[Consensys / teku](https://github.com/Consensys/teku) - Java Implementation of the Ethereum 2.0 Beacon Chain
@@ -769,6 +772,10 @@
 
 ## Python
 
+* 【2023-12-22】[microsoft / PubSec-Info-Assistant](https://github.com/microsoft/PubSec-Info-Assistant) - Information Assistant, built with Azure OpenAI Service, Industry Accelerator
+* 【2023-12-22】[open-mmlab / mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab Pose Estimation Toolbox and Benchmark.
+* 【2023-12-22】[d2l-ai / d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
+* 【2023-12-22】[andrew-codechimp / HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices
 * 【2023-12-21】[gpt-engineer-org / gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 * 【2023-12-21】[bytedance / ImageDream](https://github.com/bytedance/ImageDream) - The code releasing for https://image-dream.github.io/
 * 【2023-12-21】[hutaiHang / Faster-Diffusion](https://github.com/hutaiHang/Faster-Diffusion) - Official implementation of "Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models"
@@ -1694,6 +1701,8 @@
 
 ## Javascript
 
+* 【2023-12-22】[lxieyang / chrome-extension-boilerplate-react](https://github.com/lxieyang/chrome-extension-boilerplate-react) - A Chrome Extensions boilerplate using React 18 and Webpack 5.
+* 【2023-12-22】[nodeWechat / wechat4u](https://github.com/nodeWechat/wechat4u) - 微信 wechat web 网页版接口的 JavaScript 实现，兼容Node和浏览器，微信机器人
 * 【2023-12-21】[immerjs / immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 * 【2023-12-21】[ajaxorg / ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 * 【2023-12-21】[NVlabs / FoundationPose](https://github.com/NVlabs/FoundationPose) - FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects
@@ -2375,6 +2384,9 @@
 
 ## Go
 
+* 【2023-12-22】[RUB-NDS / Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) - This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper "Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation".
+* 【2023-12-22】[GhostTroops / scan4all](https://github.com/GhostTroops/scan4all) - Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+* 【2023-12-22】[k8sgpt-ai / k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 * 【2023-12-21】[distribution / distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 * 【2023-12-21】[protocolbuffers / protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
 * 【2023-12-20】[celestiaorg / celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk
@@ -3035,6 +3047,9 @@
 
 ## C
 
+* 【2023-12-22】[SJTU-IPADS / PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+* 【2023-12-22】[webui-dev / webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
+* 【2023-12-22】[Rythorndoran / PageTableHook](https://github.com/Rythorndoran/PageTableHook) - 
 * 【2023-12-21】[wasm3 / wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 * 【2023-12-21】[zhenrong-wang / hpc-now](https://github.com/zhenrong-wang/hpc-now) - A Cross-Platform, Multi-Cloud High-Performance Computing Platform
 * 【2023-12-20】[stephane / libmodbus](https://github.com/stephane/libmodbus) - A Modbus library for Linux, Mac OS, FreeBSD and Windows
@@ -3597,6 +3612,7 @@
 
 ## C++
 
+* 【2023-12-22】[34736384 / genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
 * 【2023-12-21】[Librum-Reader / Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 * 【2023-12-21】[keith2018 / SoftGLRender](https://github.com/keith2018/SoftGLRender) - Tiny C++ Software Renderer / Rasterizer, and implements OpenGL and Vulkan renderers for comparison
 * 【2023-12-21】[cagnulein / qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) - Zwift bridge for smart treadmills and bike/cyclette
@@ -4692,6 +4708,7 @@
 
 ## Html
 
+* 【2023-12-22】[linkedin / dph-framework](https://github.com/linkedin/dph-framework) - 
 * 【2023-12-21】[solidjs / solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 * 【2023-12-21】[mdbootstrap / TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 * 【2023-12-21】[SexyBeast233 / SecBooks](https://github.com/SexyBeast233/SecBooks) - 安全类各家文库大乱斗
@@ -5178,6 +5195,8 @@
 
 ## Css
 
+* 【2023-12-22】[Ritika-Agrawal811 / css-and-js-code-snippets](https://github.com/Ritika-Agrawal811/css-and-js-code-snippets) - A collection of real-life code snippets written in CSS and JavaScript for every web development project.
+* 【2023-12-22】[creativetimofficial / black-dashboard-react](https://github.com/creativetimofficial/black-dashboard-react) - 
 * 【2023-12-21】[ABPozharliev19 / 11th-grade-azure-static-web-app](https://github.com/ABPozharliev19/11th-grade-azure-static-web-app) - 
 * 【2023-12-21】[jdan / 98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 * 【2023-12-21】[DasLampe / KluftBoerse](https://github.com/DasLampe/KluftBoerse) - Plattform zum Tauschen von alten Kluften der DPSG. (outdated)
@@ -5689,6 +5708,14 @@
 
 ## Unknown
 
+* 【2023-12-22】[borusyak / are213](https://github.com/borusyak/are213) - PhD Applied Econometrics class taught at UC Berkeley
+* 【2023-12-22】[mesquidar / ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
+* 【2023-12-22】[mjhea0 / awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
+* 【2023-12-22】[cccmag / aidult](https://github.com/cccmag/aidult) - AI 成人雜誌
+* 【2023-12-22】[shieldfy / API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
+* 【2023-12-22】[mouredev / roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Retos de programación 2024. Muy pronto...
+* 【2023-12-22】[Arthurzhangsheng / CodeFormer_GUI](https://github.com/Arthurzhangsheng/CodeFormer_GUI) - CodeFormer人脸清晰化工具图形界面版，自带环境解压即用
+* 【2023-12-22】[xfhy / Android-Notes](https://github.com/xfhy/Android-Notes) - ✍🏻 关注基础知识，打造优质Android博客
 * 【2023-12-21】[chinesehuazhou / python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容
 * 【2023-12-21】[michaelliao / learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
 * 【2023-12-21】[Ishanoshada / GDorks](https://github.com/Ishanoshada/GDorks) - Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )
