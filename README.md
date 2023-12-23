@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2023-12-23】[keycloak / keycloak-quickstarts](https://github.com/keycloak/keycloak-quickstarts) - 
 * 【2023-12-22】[micronaut-projects / micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 * 【2023-12-22】[resilience4j / resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
 * 【2023-12-22】[davidfantasy / mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对mybatis-plus-generator进行封装，通过Web UI快速生成兼容Spring boot，mybatis-plus框架的各类业务代码
@@ -772,6 +773,10 @@
 
 ## Python
 
+* 【2023-12-23】[johnma2006 / mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
+* 【2023-12-23】[CircleRadon / Osprey](https://github.com/CircleRadon/Osprey) - The code for "Osprey: Pixel Understanding with Visual Instruction Tuning"
+* 【2023-12-23】[JOY6IX9INE / OperaGX-Discord-Promo-Gen](https://github.com/JOY6IX9INE/OperaGX-Discord-Promo-Gen) - This Is A Discord X OperaGx Nitro Promo Generator
+* 【2023-12-23】[K3YOMI / Wall-of-Flippers](https://github.com/K3YOMI/Wall-of-Flippers) - Wall of Flippers is designed to find Flipper Zero devices using BLE (Bluetooth Low Energy)
 * 【2023-12-22】[microsoft / PubSec-Info-Assistant](https://github.com/microsoft/PubSec-Info-Assistant) - Information Assistant, built with Azure OpenAI Service, Industry Accelerator
 * 【2023-12-22】[open-mmlab / mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab Pose Estimation Toolbox and Benchmark.
 * 【2023-12-22】[d2l-ai / d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
@@ -1701,6 +1706,10 @@
 
 ## Javascript
 
+* 【2023-12-23】[vanila-io / wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
+* 【2023-12-23】[vitozyf / lucky-draw](https://github.com/vitozyf/lucky-draw) - 年会抽奖程序
+* 【2023-12-23】[DuendeSoftware / IdentityServer](https://github.com/DuendeSoftware/IdentityServer) - The most flexible and standards-compliant OpenID Connect and OAuth 2.x framework for ASP.NET Core
+* 【2023-12-23】[vanjs-org / van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 * 【2023-12-22】[lxieyang / chrome-extension-boilerplate-react](https://github.com/lxieyang/chrome-extension-boilerplate-react) - A Chrome Extensions boilerplate using React 18 and Webpack 5.
 * 【2023-12-22】[nodeWechat / wechat4u](https://github.com/nodeWechat/wechat4u) - 微信 wechat web 网页版接口的 JavaScript 实现，兼容Node和浏览器，微信机器人
 * 【2023-12-21】[immerjs / immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
@@ -2384,6 +2393,8 @@
 
 ## Go
 
+* 【2023-12-23】[urfave / cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+* 【2023-12-23】[deweizhu / bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
 * 【2023-12-22】[RUB-NDS / Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) - This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper "Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation".
 * 【2023-12-22】[GhostTroops / scan4all](https://github.com/GhostTroops/scan4all) - Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 * 【2023-12-22】[k8sgpt-ai / k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
@@ -3047,6 +3058,9 @@
 
 ## C
 
+* 【2023-12-23】[bitcoin-core / secp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for EC operations on curve secp256k1
+* 【2023-12-23】[OpenStickCommunity / GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - 
+* 【2023-12-23】[s0ngidong3 / TPM-SPOOFER](https://github.com/s0ngidong3/TPM-SPOOFER) - 
 * 【2023-12-22】[SJTU-IPADS / PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 * 【2023-12-22】[webui-dev / webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 * 【2023-12-22】[Rythorndoran / PageTableHook](https://github.com/Rythorndoran/PageTableHook) - 
@@ -3612,6 +3626,8 @@
 
 ## C++
 
+* 【2023-12-23】[Krypteria / AtlasLdr](https://github.com/Krypteria/AtlasLdr) - Reflective x64 PE/DLL Loader implemented using Dynamic Indirect Syscalls
+* 【2023-12-23】[bdring / FluidNC](https://github.com/bdring/FluidNC) - The next generation of motion control firmware
 * 【2023-12-22】[34736384 / genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
 * 【2023-12-21】[Librum-Reader / Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 * 【2023-12-21】[keith2018 / SoftGLRender](https://github.com/keith2018/SoftGLRender) - Tiny C++ Software Renderer / Rasterizer, and implements OpenGL and Vulkan renderers for comparison
@@ -4173,6 +4189,8 @@
 
 ## C#
 
+* 【2023-12-23】[SebLague / Tiny-Chess-Bot-Challenge-Results](https://github.com/SebLague/Tiny-Chess-Bot-Challenge-Results) - 
+* 【2023-12-23】[chr233 / ASFEnhance](https://github.com/chr233/ASFEnhance) - ASF增强插件 / External commands for ASF
 * 【2023-12-21】[NLog / NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
 * 【2023-12-21】[Taiizor / ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor) - ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-focused.
 * 【2023-12-21】[khellang / Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
@@ -4708,6 +4726,9 @@
 
 ## Html
 
+* 【2023-12-23】[hunar4321 / particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
+* 【2023-12-23】[coreui / coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 17 admin template based on Bootstrap 5
+* 【2023-12-23】[Balackburn / Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 * 【2023-12-22】[linkedin / dph-framework](https://github.com/linkedin/dph-framework) - 
 * 【2023-12-21】[solidjs / solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 * 【2023-12-21】[mdbootstrap / TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
@@ -5195,6 +5216,7 @@
 
 ## Css
 
+* 【2023-12-23】[hyperweek / mx3-revamped](https://github.com/hyperweek/mx3-revamped) - mx3 revamped!
 * 【2023-12-22】[Ritika-Agrawal811 / css-and-js-code-snippets](https://github.com/Ritika-Agrawal811/css-and-js-code-snippets) - A collection of real-life code snippets written in CSS and JavaScript for every web development project.
 * 【2023-12-22】[creativetimofficial / black-dashboard-react](https://github.com/creativetimofficial/black-dashboard-react) - 
 * 【2023-12-21】[ABPozharliev19 / 11th-grade-azure-static-web-app](https://github.com/ABPozharliev19/11th-grade-azure-static-web-app) - 
@@ -5708,6 +5730,11 @@
 
 ## Unknown
 
+* 【2023-12-23】[gpt-engineer-org / gptengineer.app](https://github.com/gpt-engineer-org/gptengineer.app) - Rapid prototyping of web apps using plain english 👶🤖
+* 【2023-12-23】[ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - This repository contains low level design resources to improve coding skills and prepare for interviews.
+* 【2023-12-23】[yetzt / null-island](https://github.com/yetzt/null-island) - A design reflection about the representation of missing values.
+* 【2023-12-23】[taishi-i / awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
+* 【2023-12-23】[pseudoyu / yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 * 【2023-12-22】[borusyak / are213](https://github.com/borusyak/are213) - PhD Applied Econometrics class taught at UC Berkeley
 * 【2023-12-22】[mesquidar / ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
 * 【2023-12-22】[mjhea0 / awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
