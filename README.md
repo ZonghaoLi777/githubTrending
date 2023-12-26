@@ -784,6 +784,10 @@
 
 ## Python
 
+* 【2023-12-26】[Hillobar / Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
+* 【2023-12-26】[sympy / sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
+* 【2023-12-26】[atomicals / atomicals-electrumx](https://github.com/atomicals/atomicals-electrumx) - Electrumx Atomicals Indexer Server
+* 【2023-12-26】[Gourieff / comfyui-reactor-node](https://github.com/Gourieff/comfyui-reactor-node) - Fast and Simple Face Swap Extension Node for ComfyUI
 * 【2023-12-25】[mnotgod96 / AppAgent](https://github.com/mnotgod96/AppAgent) - A novel LLM-based multimodal agent framework designed to operate smartphone applications
 * 【2023-12-25】[VikParuchuri / texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown
 * 【2023-12-25】[leeyuentuen / polestar_api](https://github.com/leeyuentuen/polestar_api) - Polestar Api - Home Assistant Component
@@ -1731,6 +1735,10 @@
 
 ## Javascript
 
+* 【2023-12-26】[you-dont-need / You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
+* 【2023-12-26】[zeon-studio / hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and TailwindCSS that will save you hours of work.
+* 【2023-12-26】[betaflight / betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware
+* 【2023-12-26】[kovacsv / Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 * 【2023-12-25】[heyman / heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 * 【2023-12-25】[casibase / casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
 * 【2023-12-25】[fluid-dev / hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - 🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
@@ -2426,6 +2434,12 @@
 
 ## Go
 
+* 【2023-12-26】[maypok86 / otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends
+* 【2023-12-26】[OffchainLabs / nitro](https://github.com/OffchainLabs/nitro) - Nitro goes vroom and fixes everything
+* 【2023-12-26】[BishopFox / jsluice](https://github.com/BishopFox/jsluice) - Extract URLs, paths, secrets, and other interesting bits from JavaScript
+* 【2023-12-26】[mislav / hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
+* 【2023-12-26】[mathaou / termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
+* 【2023-12-26】[overflowy / spongebob-cli](https://github.com/overflowy/spongebob-cli) - SpongeBob delivered straight from your terminal
 * 【2023-12-25】[lc / gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 * 【2023-12-25】[ArtalkJS / Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
 * 【2023-12-25】[junegunn / fzf](https://github.com/junegunn/fzf) - 🌸 A command-line fuzzy finder
@@ -3101,6 +3115,7 @@
 
 ## C
 
+* 【2023-12-26】[ExistentialAudio / BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 * 【2023-12-25】[kindawindytoday / M](https://github.com/kindawindytoday/M) - new dynamically-loading tool for "园什“
 * 【2023-12-25】[FluidSynth / fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
 * 【2023-12-25】[codenocold / dgm](https://github.com/codenocold/dgm) - 
@@ -3674,6 +3689,9 @@
 
 ## C++
 
+* 【2023-12-26】[Z3Prover / z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
+* 【2023-12-26】[Pagghiu / SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) - Sane C++ Libraries
+* 【2023-12-26】[cemu-project / Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 * 【2023-12-25】[glKarin / com.n0n3m4.diii4a](https://github.com/glKarin/com.n0n3m4.diii4a) - idTech4A++, DOOM III/Quake 4/Prey(2006) for Android, based on n0n3m4's DIII4A.
 * 【2023-12-24】[infiniflow / infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search
 * 【2023-12-24】[microsoft / Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
@@ -4244,6 +4262,7 @@
 
 ## C#
 
+* 【2023-12-26】[qmk / qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 * 【2023-12-25】[CFPAOrg / Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) - A language package for Minecraft Mods.
 * 【2023-12-25】[builtbybel / Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
 * 【2023-12-24】[Stratus-Security / Subdominator](https://github.com/Stratus-Security/Subdominator) - The Internets #1 Subdomain Takeover Tool
@@ -4789,6 +4808,9 @@
 
 ## Html
 
+* 【2023-12-26】[Spandan-Madan / DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
+* 【2023-12-26】[0atman / noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
+* 【2023-12-26】[yoninazarathy / MathematicalEngineeringDeepLearning](https://github.com/yoninazarathy/MathematicalEngineeringDeepLearning) - Material for The Mathematical Engineering of Deep Learning. See https://deeplearningmath.org
 * 【2023-12-25】[jmortega / python-pentesting](https://github.com/jmortega/python-pentesting) - python-pentesting-tool
 * 【2023-12-25】[rough-stuff / rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 * 【2023-12-24】[MetaMask / metamask-sdk](https://github.com/MetaMask/metamask-sdk) - The simplest yet most secure way to connect your blockchain-based applications to millions of MetaMask Wallet users.
@@ -5802,6 +5824,11 @@
 
 ## Unknown
 
+* 【2023-12-26】[JShollaj / awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) - A curated list of Large Language Model (LLM) Interpretability resources.
+* 【2023-12-26】[kindawindytoday / Minty-Releases](https://github.com/kindawindytoday/Minty-Releases) - 
+* 【2023-12-26】[guoqincode / Focus-on-Your-Instruction](https://github.com/guoqincode/Focus-on-Your-Instruction) - Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation
+* 【2023-12-26】[checkcheckzz / system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
+* 【2023-12-26】[osurf / nzdy](https://github.com/osurf/nzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
 * 【2023-12-25】[Enraged-Rabbit-Community / ERCF_v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2) - Community designed ERCF v2
 * 【2023-12-25】[OpenTexture / Paint3D](https://github.com/OpenTexture/Paint3D) - Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models, a no lighting baked texture generative model
 * 【2023-12-25】[ruesandora / Pryzm](https://github.com/ruesandora/Pryzm) - 
