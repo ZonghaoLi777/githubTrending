@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2023-12-28】[justauth / JustAuth](https://github.com/justauth/JustAuth) - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
 * 【2023-12-25】[00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
 * 【2023-12-25】[ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - Make HyperOS Great Again!
 * 【2023-12-25】[wuyouzhuguli / SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
@@ -784,6 +785,7 @@
 
 ## Python
 
+* 【2023-12-28】[prowler-cloud / prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.
 * 【2023-12-26】[Hillobar / Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 * 【2023-12-26】[sympy / sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 * 【2023-12-26】[atomicals / atomicals-electrumx](https://github.com/atomicals/atomicals-electrumx) - Electrumx Atomicals Indexer Server
@@ -1735,6 +1737,8 @@
 
 ## Javascript
 
+* 【2023-12-28】[rphlr / 42-Evals](https://github.com/rphlr/42-Evals) - A curated collection of official 42 School evaluation sheets 📄✅, complete with a user-friendly web interface for streamlined navigation and self-assessment. 🖥️🚀 Explore, prepare, and excel in your peer evaluations. For the full experience, visit my web page!
+* 【2023-12-28】[naveeddogar / KING-MD](https://github.com/naveeddogar/KING-MD) - A Multi Device WhatsApp Bot Create By Naveed Dogar 🍁
 * 【2023-12-26】[you-dont-need / You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 * 【2023-12-26】[zeon-studio / hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and TailwindCSS that will save you hours of work.
 * 【2023-12-26】[betaflight / betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware
@@ -2434,6 +2438,11 @@
 
 ## Go
 
+* 【2023-12-28】[xrpinals / XrpinalsMintTool](https://github.com/xrpinals/XrpinalsMintTool) - 
+* 【2023-12-28】[goreleaser / goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+* 【2023-12-28】[ConnectAI-E / feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+* 【2023-12-28】[coroot / coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
+* 【2023-12-28】[duke-git / lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 * 【2023-12-26】[maypok86 / otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends
 * 【2023-12-26】[OffchainLabs / nitro](https://github.com/OffchainLabs/nitro) - Nitro goes vroom and fixes everything
 * 【2023-12-26】[BishopFox / jsluice](https://github.com/BishopFox/jsluice) - Extract URLs, paths, secrets, and other interesting bits from JavaScript
@@ -3115,6 +3124,9 @@
 
 ## C
 
+* 【2023-12-28】[KpwnZ / Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool) - A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.5
+* 【2023-12-28】[proh14 / ptext](https://github.com/proh14/ptext) - A nano like text editor built with pure C
+* 【2023-12-28】[lizongying / my-tv](https://github.com/lizongying/my-tv) - 安卓电视直播软件，内置直播源
 * 【2023-12-26】[ExistentialAudio / BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 * 【2023-12-25】[kindawindytoday / M](https://github.com/kindawindytoday/M) - new dynamically-loading tool for "园什“
 * 【2023-12-25】[FluidSynth / fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
@@ -4262,6 +4274,10 @@
 
 ## C#
 
+* 【2023-12-28】[ks233 / ja-learner](https://github.com/ks233/ja-learner) - 📖简易日语学习 / 视觉小说阅读辅助工具
+* 【2023-12-28】[LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
+* 【2023-12-28】[AnnulusGames / LitMotion](https://github.com/AnnulusGames/LitMotion) - Lightning-fast and Zero Allocation Tween Library for Unity.
+* 【2023-12-28】[sim0n00ps / OF-DL](https://github.com/sim0n00ps/OF-DL) - C# console app to download all of the media from Onlyfans accounts with DRM video downloading support
 * 【2023-12-26】[qmk / qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 * 【2023-12-25】[CFPAOrg / Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) - A language package for Minecraft Mods.
 * 【2023-12-25】[builtbybel / Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
@@ -5306,6 +5322,7 @@
 
 ## Css
 
+* 【2023-12-28】[sunyctf / css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
 * 【2023-12-25】[elifgazioglu / doyouwannagooutwithme](https://github.com/elifgazioglu/doyouwannagooutwithme) - 
 * 【2023-12-25】[eazybytes / spring](https://github.com/eazybytes/spring) - Spring, SpringBoot, JPA, Hibernate : Zero To Master - Code Examples
 * 【2023-12-25】[cndiandian / zuanbot.com](https://github.com/cndiandian/zuanbot.com) - 骂人宝典（祖安语录）
@@ -5824,6 +5841,8 @@
 
 ## Unknown
 
+* 【2023-12-28】[hua1995116 / indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 独立开发者出海
+* 【2023-12-28】[x-Ai / BurpSuite](https://github.com/x-Ai/BurpSuite) - Burp Suite loader version --> ∞
 * 【2023-12-26】[JShollaj / awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) - A curated list of Large Language Model (LLM) Interpretability resources.
 * 【2023-12-26】[kindawindytoday / Minty-Releases](https://github.com/kindawindytoday/Minty-Releases) - 
 * 【2023-12-26】[guoqincode / Focus-on-Your-Instruction](https://github.com/guoqincode/Focus-on-Your-Instruction) - Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation
