@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-29】[Tencent / matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
+* 【2023-12-29】[yudaocode / SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+* 【2023-12-29】[baomidou / generator](https://github.com/baomidou/generator) - Any Code generator
 * 【2023-12-28】[justauth / JustAuth](https://github.com/justauth/JustAuth) - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
 * 【2023-12-25】[00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
 * 【2023-12-25】[ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - Make HyperOS Great Again!
@@ -785,6 +788,14 @@
 
 ## Python
 
+* 【2023-12-29】[xinghaochen / TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
+* 【2023-12-29】[marticliment / WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+* 【2023-12-29】[yangxy / PASD](https://github.com/yangxy/PASD) - 
+* 【2023-12-29】[WangRongsheng / Aurora](https://github.com/WangRongsheng/Aurora) - Aurora is a [Chinese Version] MoE model. Aurora is a further work based on Mixtral-8x7B, which activates the chat capability of the model's Chinese open domain.
+* 【2023-12-29】[minimaxir / simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
+* 【2023-12-29】[microsoft / ics-forensics-tools](https://github.com/microsoft/ics-forensics-tools) - Microsoft ICSpector (ICS Forensics Tools framework) is an open-source forensics framework that enables the analysis of Industrial PLC metadata and project files.
+* 【2023-12-29】[RunaCapital / awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+* 【2023-12-29】[ihmily / DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、Tiktok、快手、虎牙、斗鱼、B站、小红书等平台直播录制，抓取多平台直播源地址，抖音无水印解析，快手无水印解析
 * 【2023-12-28】[prowler-cloud / prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.
 * 【2023-12-26】[Hillobar / Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 * 【2023-12-26】[sympy / sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
@@ -1737,6 +1748,10 @@
 
 ## Javascript
 
+* 【2023-12-29】[shyamtawli / devFind](https://github.com/shyamtawli/devFind) - devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
+* 【2023-12-29】[vuejs / vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
+* 【2023-12-29】[hexojs / hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+* 【2023-12-29】[react-grid-layout / react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 * 【2023-12-28】[rphlr / 42-Evals](https://github.com/rphlr/42-Evals) - A curated collection of official 42 School evaluation sheets 📄✅, complete with a user-friendly web interface for streamlined navigation and self-assessment. 🖥️🚀 Explore, prepare, and excel in your peer evaluations. For the full experience, visit my web page!
 * 【2023-12-28】[naveeddogar / KING-MD](https://github.com/naveeddogar/KING-MD) - A Multi Device WhatsApp Bot Create By Naveed Dogar 🍁
 * 【2023-12-26】[you-dont-need / You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -2438,6 +2453,9 @@
 
 ## Go
 
+* 【2023-12-29】[hyperledger / fabric-samples](https://github.com/hyperledger/fabric-samples) - Samples for Hyperledger Fabric
+* 【2023-12-29】[kubevela / kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
+* 【2023-12-29】[anthdm / hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang
 * 【2023-12-28】[xrpinals / XrpinalsMintTool](https://github.com/xrpinals/XrpinalsMintTool) - 
 * 【2023-12-28】[goreleaser / goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 * 【2023-12-28】[ConnectAI-E / feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
@@ -3124,6 +3142,10 @@
 
 ## C
 
+* 【2023-12-29】[hrvach / deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
+* 【2023-12-29】[netero1010 / EDRSilencer](https://github.com/netero1010/EDRSilencer) - A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
+* 【2023-12-29】[Aleksoid1978 / MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
+* 【2023-12-29】[MaJerle / stm32f429](https://github.com/MaJerle/stm32f429) - Keil projects and libraries for STM32F4xx devices
 * 【2023-12-28】[KpwnZ / Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool) - A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.5
 * 【2023-12-28】[proh14 / ptext](https://github.com/proh14/ptext) - A nano like text editor built with pure C
 * 【2023-12-28】[lizongying / my-tv](https://github.com/lizongying/my-tv) - 安卓电视直播软件，内置直播源
@@ -3701,6 +3723,7 @@
 
 ## C++
 
+* 【2023-12-29】[kroma-network / tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU
 * 【2023-12-26】[Z3Prover / z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 * 【2023-12-26】[Pagghiu / SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) - Sane C++ Libraries
 * 【2023-12-26】[cemu-project / Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
@@ -4274,6 +4297,10 @@
 
 ## C#
 
+* 【2023-12-29】[EllanJiang / GameFramework](https://github.com/EllanJiang/GameFramework) - This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.
+* 【2023-12-29】[toniebox-reverse-engineering / teddy](https://github.com/toniebox-reverse-engineering/teddy) - With this tool you can dump existing files for the famous audio box or create custom ones.
+* 【2023-12-29】[BornToBeRoot / NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+* 【2023-12-29】[starik222 / BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - 
 * 【2023-12-28】[ks233 / ja-learner](https://github.com/ks233/ja-learner) - 📖简易日语学习 / 视觉小说阅读辅助工具
 * 【2023-12-28】[LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 * 【2023-12-28】[AnnulusGames / LitMotion](https://github.com/AnnulusGames/LitMotion) - Lightning-fast and Zero Allocation Tween Library for Unity.
@@ -4824,6 +4851,10 @@
 
 ## Html
 
+* 【2023-12-29】[OpenMDAO / om-Aviary](https://github.com/OpenMDAO/om-Aviary) - 
+* 【2023-12-29】[swisskyrepo / InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
+* 【2023-12-29】[kbtxwer / IELTS](https://github.com/kbtxwer/IELTS) - 剑桥雅思
+* 【2023-12-29】[ProbiusOfficial / Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
 * 【2023-12-26】[Spandan-Madan / DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 * 【2023-12-26】[0atman / noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 * 【2023-12-26】[yoninazarathy / MathematicalEngineeringDeepLearning](https://github.com/yoninazarathy/MathematicalEngineeringDeepLearning) - Material for The Mathematical Engineering of Deep Learning. See https://deeplearningmath.org
@@ -5322,6 +5353,8 @@
 
 ## Css
 
+* 【2023-12-29】[heliboo / hai](https://github.com/heliboo/hai) - 
+* 【2023-12-29】[apache / apache-website-template](https://github.com/apache/apache-website-template) - Apache Website Template
 * 【2023-12-28】[sunyctf / css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
 * 【2023-12-25】[elifgazioglu / doyouwannagooutwithme](https://github.com/elifgazioglu/doyouwannagooutwithme) - 
 * 【2023-12-25】[eazybytes / spring](https://github.com/eazybytes/spring) - Spring, SpringBoot, JPA, Hibernate : Zero To Master - Code Examples
@@ -5841,6 +5874,14 @@
 
 ## Unknown
 
+* 【2023-12-29】[Meroser / IPTV](https://github.com/Meroser/IPTV) - 湖南电信、移动、联通组播源，IPv6源，完善的台标，几近完美的EPG节目预告[强迫症福音]
+* 【2023-12-29】[Moexin / IPTV](https://github.com/Moexin/IPTV) - MyIPTV
+* 【2023-12-29】[ConnectAI-E / Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
+* 【2023-12-29】[louisfb01 / start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2023 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+* 【2023-12-29】[hoalongnatsu / Dockerfile](https://github.com/hoalongnatsu/Dockerfile) - Dockerfile for many programming languages
+* 【2023-12-29】[A-poc / RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
+* 【2023-12-29】[mustvlad / ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
+* 【2023-12-29】[wainshine / Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) - 中文人名语料库。人名生成器。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。可用于中文分词、人名实体识别。
 * 【2023-12-28】[hua1995116 / indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 独立开发者出海
 * 【2023-12-28】[x-Ai / BurpSuite](https://github.com/x-Ai/BurpSuite) - Burp Suite loader version --> ∞
 * 【2023-12-26】[JShollaj / awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) - A curated list of Large Language Model (LLM) Interpretability resources.
