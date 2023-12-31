@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2023-12-31】[Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
+* 【2023-12-31】[The-Aether-Team / The-Aether](https://github.com/The-Aether-Team/The-Aether) - The original "The Aether" mod, rewritten and ported to modern Minecraft versions.
+* 【2023-12-31】[apache / incubator-fury](https://github.com/apache/incubator-fury) - A blazing fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2023-12-29】[Tencent / matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 * 【2023-12-29】[yudaocode / SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 * 【2023-12-29】[baomidou / generator](https://github.com/baomidou/generator) - Any Code generator
@@ -788,6 +791,15 @@
 
 ## Python
 
+* 【2023-12-31】[KwaiKEG / KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs).
+* 【2023-12-31】[emadshanab / Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection) - Nuclei Templates Collection
+* 【2023-12-31】[ModelTC / lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
+* 【2023-12-31】[minghanqin / LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting"
+* 【2023-12-31】[jiawei-ren / dreamgaussian4d](https://github.com/jiawei-ren/dreamgaussian4d) - [arXiv 2023] DreamGaussian4D: Generative 4D Gaussian Splatting
+* 【2023-12-31】[EricGuo5513 / momask-codes](https://github.com/EricGuo5513/momask-codes) - Official implementation of "MoMask: Generative Masked Modeling of 3D Human Motions"
+* 【2023-12-31】[inventree / InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
+* 【2023-12-31】[EnVision-Research / Generalizable-BEV](https://github.com/EnVision-Research/Generalizable-BEV) - 
+* 【2023-12-31】[TencentARC / MotionCtrl](https://github.com/TencentARC/MotionCtrl) - 
 * 【2023-12-29】[xinghaochen / TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
 * 【2023-12-29】[marticliment / WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 * 【2023-12-29】[yangxy / PASD](https://github.com/yangxy/PASD) - 
@@ -1748,6 +1760,12 @@
 
 ## Javascript
 
+* 【2023-12-31】[talebook / talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
+* 【2023-12-31】[SoilLabs / Solana-Foam](https://github.com/SoilLabs/Solana-Foam) - Foam mint and claim script
+* 【2023-12-31】[koajs / koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
+* 【2023-12-31】[DustinBrett / daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
+* 【2023-12-31】[feathericons / feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
+* 【2023-12-31】[ajaxorg / ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
 * 【2023-12-29】[shyamtawli / devFind](https://github.com/shyamtawli/devFind) - devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
 * 【2023-12-29】[vuejs / vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 * 【2023-12-29】[hexojs / hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -2453,6 +2471,15 @@
 
 ## Go
 
+* 【2023-12-31】[anthdm / ffaas](https://github.com/anthdm/ffaas) - Fast function as a service platform powered by WASM
+* 【2023-12-31】[jesseduffield / lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+* 【2023-12-31】[aaamoon / copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 将Github Copilot Chat请求转换为ChatGPT请求，免费使用GPT-4模型
+* 【2023-12-31】[kube-logging / logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes
+* 【2023-12-31】[linhx / tbmk](https://github.com/linhx/tbmk) - A commands bookmark for terminal 🔖
+* 【2023-12-31】[anfragment / zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+* 【2023-12-31】[uber / cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+* 【2023-12-31】[mongodb / mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
+* 【2023-12-31】[etcd-io / bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 * 【2023-12-29】[hyperledger / fabric-samples](https://github.com/hyperledger/fabric-samples) - Samples for Hyperledger Fabric
 * 【2023-12-29】[kubevela / kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 * 【2023-12-29】[anthdm / hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang
@@ -3142,6 +3169,10 @@
 
 ## C
 
+* 【2023-12-31】[stacksmashing / tamarin-c](https://github.com/stacksmashing/tamarin-c) - A tool to explore USB-C on Apple devices using the Tamarin C Hardware.
+* 【2023-12-31】[flowdriveai / flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
+* 【2023-12-31】[sekigon-gonnoc / Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040).
+* 【2023-12-31】[TsudaKageyu / minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 * 【2023-12-29】[hrvach / deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 * 【2023-12-29】[netero1010 / EDRSilencer](https://github.com/netero1010/EDRSilencer) - A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
 * 【2023-12-29】[Aleksoid1978 / MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
@@ -4297,6 +4328,11 @@
 
 ## C#
 
+* 【2023-12-31】[mayuki / Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
+* 【2023-12-31】[phongnguyend / Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 8 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 17, React 18, Vue 3, BFF with YARP, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Rate Limiting, Cloud Services (Azure, AWS, Google)...
+* 【2023-12-31】[ic3w0lf22 / Roblox-Account-Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager) - Application that allows you to add multiple accounts into one application allowing you to easily play on alt accounts without having to change accounts
+* 【2023-12-31】[sunnamed434 / BitMono](https://github.com/sunnamed434/BitMono) - Unlock new level of security with BitMono. Advanced code obfuscation that protects your intellectual property like never before. Try now!
+* 【2023-12-31】[mgth / LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
 * 【2023-12-29】[EllanJiang / GameFramework](https://github.com/EllanJiang/GameFramework) - This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.
 * 【2023-12-29】[toniebox-reverse-engineering / teddy](https://github.com/toniebox-reverse-engineering/teddy) - With this tool you can dump existing files for the famous audio box or create custom ones.
 * 【2023-12-29】[BornToBeRoot / NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
@@ -4851,6 +4887,11 @@
 
 ## Html
 
+* 【2023-12-31】[cipher387 / linux-for-OSINT-21-day](https://github.com/cipher387/linux-for-OSINT-21-day) - In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".
+* 【2023-12-31】[jerry-git / learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
+* 【2023-12-31】[vishaltewatia / code](https://github.com/vishaltewatia/code) - 
+* 【2023-12-31】[uiverse-io / galaxy](https://github.com/uiverse-io/galaxy) - 🚀 3500+ UI elements! Community-made and free to use. Made with either CSS or Tailwind.
+* 【2023-12-31】[dromara / payment-spring-boot](https://github.com/dromara/payment-spring-boot) - 微信支付V3支付，支持微信优惠券，代金券、商家券、公众号支付、微信小程序支付、分账、支付分、商家券、合单支付、先享卡、电商收付通等全部微信支付功能API，同时满足服务商、商户开发需求。一键集成，上手快，欢迎star。
 * 【2023-12-29】[OpenMDAO / om-Aviary](https://github.com/OpenMDAO/om-Aviary) - 
 * 【2023-12-29】[swisskyrepo / InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
 * 【2023-12-29】[kbtxwer / IELTS](https://github.com/kbtxwer/IELTS) - 剑桥雅思
@@ -5353,6 +5394,12 @@
 
 ## Css
 
+* 【2023-12-31】[vishaltewatia / propose-your-gf](https://github.com/vishaltewatia/propose-your-gf) - 
+* 【2023-12-31】[shayne / hwinfo-streamdeck](https://github.com/shayne/hwinfo-streamdeck) - Monitor sensor readings with this HWiNFO64 Stream Deck Plugin
+* 【2023-12-31】[JulietaUla / Montserrat](https://github.com/JulietaUla/Montserrat) - 
+* 【2023-12-31】[gohugoio / hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
+* 【2023-12-31】[mattstratton / castanet](https://github.com/mattstratton/castanet) - A podcast-oriented theme for Hugo
+* 【2023-12-31】[andrewnicols / moodle-atto_htmlplus](https://github.com/andrewnicols/moodle-atto_htmlplus) - HTMLPlus plugin for Atto
 * 【2023-12-29】[heliboo / hai](https://github.com/heliboo/hai) - 
 * 【2023-12-29】[apache / apache-website-template](https://github.com/apache/apache-website-template) - Apache Website Template
 * 【2023-12-28】[sunyctf / css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
@@ -5874,6 +5921,16 @@
 
 ## Unknown
 
+* 【2023-12-31】[kuchin / awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+* 【2023-12-31】[cuda-mode / resource-stream](https://github.com/cuda-mode/resource-stream) - CUDA related news and material links
+* 【2023-12-31】[successfulstudy / promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the year across various intriguing domains. 🌐
+* 【2023-12-31】[zijie0 / HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
+* 【2023-12-31】[OwshenNetwork / genesis](https://github.com/OwshenNetwork/genesis) - Owshen rewards and airdrops
+* 【2023-12-31】[gnuton / asuswrt-merlin.ng](https://github.com/gnuton/asuswrt-merlin.ng) - Extends the support of Asus Merlin firmware to more routers
+* 【2023-12-31】[owainlewis / awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+* 【2023-12-31】[mrdbourke / machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
+* 【2023-12-31】[enaqx / awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+* 【2023-12-31】[pyloong / pythonic-project-guidelines](https://github.com/pyloong/pythonic-project-guidelines) - Set of guidelines and structure of a Python project.
 * 【2023-12-29】[Meroser / IPTV](https://github.com/Meroser/IPTV) - 湖南电信、移动、联通组播源，IPv6源，完善的台标，几近完美的EPG节目预告[强迫症福音]
 * 【2023-12-29】[Moexin / IPTV](https://github.com/Moexin/IPTV) - MyIPTV
 * 【2023-12-29】[ConnectAI-E / Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
