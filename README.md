@@ -210,6 +210,10 @@
 
 ## Java
 
+* 【2024-01-02】[QuantumBadger / RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
+* 【2024-01-02】[spring-projects / spring-modulith](https://github.com/spring-projects/spring-modulith) - Modular applications with Spring Boot
+* 【2024-01-02】[sparrowwallet / sparrow](https://github.com/sparrowwallet/sparrow) - Desktop Bitcoin Wallet focused on security and privacy. Free and open source.
+* 【2024-01-02】[netease-im / camellia](https://github.com/netease-im/camellia) - Camellia provide easy-to-use server toolkits, such as: redis proxy、delay queue、id gen、hot key and more
 * 【2024-01-01】[cBioPortal / cbioportal](https://github.com/cBioPortal/cbioportal) - cBioPortal for Cancer Genomics
 * 【2024-01-01】[Hongmiao0207 / chatgpt-java](https://github.com/Hongmiao0207/chatgpt-java) - ChatGPT Java, it supports some of OpenAI's official interfaces (all interfaces will be supported in the future) and provides a conversational mode based on command-line chat.
 * 【2024-01-01】[jhy / jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
@@ -795,6 +799,13 @@
 
 ## Python
 
+* 【2024-01-02】[tyxsspa / AnyText](https://github.com/tyxsspa/AnyText) - 
+* 【2024-01-02】[theOneAndOnlyOne / BeReel](https://github.com/theOneAndOnlyOne/BeReel) - Generate a custom timelapse of all your memories from BeReal
+* 【2024-01-02】[joaomdmoura / crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
+* 【2024-01-02】[alibaba / animate-anything](https://github.com/alibaba/animate-anything) - Fine-Grained Open Domain Image Animation with Motion Guidance
+* 【2024-01-02】[ManimCommunity / manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
+* 【2024-01-02】[keephq / keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
+* 【2024-01-02】[panaverse / learn-generative-ai](https://github.com/panaverse/learn-generative-ai) - Learn Cloud Applied Generative AI Engineering (GenEng) using OpenAI, Gemini, Streamlit, Containers, Serverless, Postgres, LangChain, Pinecone, and Next.js
 * 【2024-01-01】[dvmazur / mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 * 【2024-01-01】[DLYuanGod / TinyGPT-V](https://github.com/DLYuanGod/TinyGPT-V) - TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones
 * 【2024-01-01】[RootKit-Org / AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - World's Best AI Aimbot - CS2, Valorant, Fortnite, APEX, every game
@@ -1773,6 +1784,7 @@
 
 ## Javascript
 
+* 【2024-01-02】[Lyfhael / DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
 * 【2024-01-01】[Universidade-Livre / rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
 * 【2024-01-01】[safak / next14-tutorial](https://github.com/safak/next14-tutorial) - 
 * 【2024-01-01】[ordinals-wallet / bellscriptions](https://github.com/ordinals-wallet/bellscriptions) - 
@@ -2491,6 +2503,8 @@
 
 ## Go
 
+* 【2024-01-02】[kubernetes-sigs / kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+* 【2024-01-02】[csnewman / dextk](https://github.com/csnewman/dextk) - Android dex file parser in Go
 * 【2024-01-01】[amir20 / dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 * 【2024-01-01】[FiloSottile / age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
@@ -3193,6 +3207,9 @@
 
 ## C
 
+* 【2024-01-02】[swaywm / sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+* 【2024-01-02】[ThirteenAG / GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) - This project aims to fix or address some issues in Grand Theft Auto IV Complete Edition
+* 【2024-01-02】[AlexGalhardo / Software-Engineering](https://github.com/AlexGalhardo/Software-Engineering) - Learning Software Engineering 🐢
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 * 【2023-12-31】[stacksmashing / tamarin-c](https://github.com/stacksmashing/tamarin-c) - A tool to explore USB-C on Apple devices using the Tamarin C Hardware.
 * 【2023-12-31】[flowdriveai / flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
@@ -3779,6 +3796,8 @@
 
 ## C++
 
+* 【2024-01-02】[thelastoutpostworkshop / gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer) - GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards
+* 【2024-01-02】[hackerhouse-opensource / WMIProcessWatcher](https://github.com/hackerhouse-opensource/WMIProcessWatcher) - A CIA tradecraft technique to asynchronously detect when a process is created using WMI.
 * 【2024-01-01】[hackerhouse-opensource / SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) - Patching "signtool.exe" to accept expired certificates for code-signing.
 * 【2024-01-01】[scummvm / scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
@@ -4356,6 +4375,13 @@
 
 ## C#
 
+* 【2024-01-02】[lay295 / TwitchDownloader](https://github.com/lay295/TwitchDownloader) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay
+* 【2024-01-02】[digitalinnovationone / trilha-net-fundamentos-desafio](https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio) - Desafio de projeto .NET Fundamentos - DIO
+* 【2024-01-02】[Interkarma / daggerfall-unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of Daggerfall in the Unity engine
+* 【2024-01-02】[R-Vaccari / bannerlord-banner-kings](https://github.com/R-Vaccari/bannerlord-banner-kings) - 
+* 【2024-01-02】[KaylinOwO / Project-Apparatus](https://github.com/KaylinOwO/Project-Apparatus) - A Lethal Company cheat based on Infinite Company
+* 【2024-01-02】[recyclarr / recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
+* 【2024-01-02】[Lunatic-Works / Nova](https://github.com/Lunatic-Works/Nova) - Programmer-friendly framework for visual novels (VN) / text-based adventure games (AVG) on Unity
 * 【2024-01-01】[Fragtality / DynamicLOD](https://github.com/Fragtality/DynamicLOD) - 
 * 【2024-01-01】[builtbybel / WhatsPC](https://github.com/builtbybel/WhatsPC) - What to do with your Toaster?
 * 【2024-01-01】[BunyaPineTree / LethalCompany_ModelReplacementAPI](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI) - 
@@ -4918,6 +4944,8 @@
 
 ## Html
 
+* 【2024-01-02】[NianBroken / Firework_Simulator](https://github.com/NianBroken/Firework_Simulator) - 烟花模拟器，一个模拟放烟花的网页，基于Firework Simulator v2的二次修改，我仅作翻译处理以及其他优化
+* 【2024-01-02】[FreeCAD / FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
 * 【2024-01-01】[nndl / nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
 * 【2024-01-01】[gurusabarish / hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 * 【2024-01-01】[Carlettoh / NotebooksProcesamientoIA](https://github.com/Carlettoh/NotebooksProcesamientoIA) - Notebooks realizados durante la asignatura de procesamiento de imagen por IA
@@ -5428,6 +5456,11 @@
 
 ## Css
 
+* 【2024-01-02】[vicwomg / pikaraoke](https://github.com/vicwomg/pikaraoke) - Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux
+* 【2024-01-02】[jaysomani / firstspot](https://github.com/jaysomani/firstspot) - FirstSpot an heven for travellers who love to travel all around the world
+* 【2024-01-02】[thinkingjimmy / Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
+* 【2024-01-02】[akshu20791 / apachewebsite](https://github.com/akshu20791/apachewebsite) - 
+* 【2024-01-02】[CodeCompleteYT / react-portfolio](https://github.com/CodeCompleteYT/react-portfolio) - 
 * 【2024-01-01】[reduxjs / redux-essentials-example-app](https://github.com/reduxjs/redux-essentials-example-app) - Example app for the Redux Essentials tutorial
 * 【2024-01-01】[codewithsadee / portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
 * 【2024-01-01】[TWBug / GoldCardHenge](https://github.com/TWBug/GoldCardHenge) - 
@@ -5958,6 +5991,9 @@
 
 ## Unknown
 
+* 【2024-01-02】[VictorEijkhout / TheArtofHPC_pdfs](https://github.com/VictorEijkhout/TheArtofHPC_pdfs) - All pdfs of Victor Eijkhout's Art of HPC books and courses
+* 【2024-01-02】[linuxadi / 40k-nuclei-templates](https://github.com/linuxadi/40k-nuclei-templates) - 40,000+ Nuclei templates for security scanning and detection across diverse web applications and services
+* 【2024-01-02】[jschuh / klipper-macros](https://github.com/jschuh/klipper-macros) - A collection of useful macros for the Klipper 3D printer firmware
 * 【2024-01-01】[Tongji-KGLLM / RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) - 
 * 【2024-01-01】[ossu / bioinformatics](https://github.com/ossu/bioinformatics) - 🔬 Path to a free self-taught education in Bioinformatics!
 * 【2024-01-01】[Archmage83 / tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
