@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-01-04】[apache / avro](https://github.com/apache/avro) - Apache Avro is a data serialization system.
 * 【2024-01-03】[gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 * 【2024-01-03】[IntellectualSites / PlotSquared](https://github.com/IntellectualSites/PlotSquared) - PlotSquared - Reinventing the plotworld
 * 【2024-01-02】[QuantumBadger / RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
@@ -801,6 +802,11 @@
 
 ## Python
 
+* 【2024-01-04】[aurelio-labs / semantic-router](https://github.com/aurelio-labs/semantic-router) - 
+* 【2024-01-04】[wenquanlu / HandRefiner](https://github.com/wenquanlu/HandRefiner) - 
+* 【2024-01-04】[Meituan-AutoML / MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices
+* 【2024-01-04】[OpenMotionLab / MotionGPT](https://github.com/OpenMotionLab/MotionGPT) - [NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
+* 【2024-01-04】[lucidrains / vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 * 【2024-01-03】[yihong0618 / gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
 * 【2024-01-03】[jekalmin / extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 * 【2024-01-03】[langroid / langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
@@ -1789,6 +1795,7 @@
 
 ## Javascript
 
+* 【2024-01-04】[pysunday / rs-reverse](https://github.com/pysunday/rs-reverse) - 瑞数,rs,rsvmp,瑞数逆向,逆向,瑞数反爬虫,website reverse engineering
 * 【2024-01-03】[UdaraJay / Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
 * 【2024-01-02】[Lyfhael / DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
 * 【2024-01-01】[Universidade-Livre / rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
@@ -2509,6 +2516,7 @@
 
 ## Go
 
+* 【2024-01-04】[golangci / golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 * 【2024-01-03】[projectdiscovery / subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 * 【2024-01-03】[assimon / epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
 * 【2024-01-03】[projectdiscovery / katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
@@ -3216,6 +3224,9 @@
 
 ## C
 
+* 【2024-01-04】[PureKFD / PureKFD](https://github.com/PureKFD/PureKFD) - A KFD Focused Package Manager that supports 14.0-16.6.1!
+* 【2024-01-04】[GStreamer / gstreamer](https://github.com/GStreamer/gstreamer) - GStreamer open-source multimedia framework
+* 【2024-01-04】[ioi / isolate](https://github.com/ioi/isolate) - Sandbox for securely executing untrusted programs
 * 【2024-01-03】[Gnucash / gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
 * 【2024-01-03】[0015 / ThatProject](https://github.com/0015/ThatProject) - *That Project's project repository
 * 【2024-01-03】[Ralim / IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
@@ -3810,6 +3821,7 @@
 
 ## C++
 
+* 【2024-01-04】[canonical / multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 * 【2024-01-03】[praydog / UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4/5)
 * 【2024-01-03】[geode-sdk / geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding toolkit
 * 【2024-01-03】[TobyAdd / GDH](https://github.com/TobyAdd/GDH) - Cheat menu for Geometry Dash. Powered by ImGui
@@ -4962,6 +4974,7 @@
 
 ## Html
 
+* 【2024-01-04】[devikumavath / 27-frontend-project](https://github.com/devikumavath/27-frontend-project) - 
 * 【2024-01-03】[ShoroukAziz / notion_widgets](https://github.com/ShoroukAziz/notion_widgets) - A set of HTML widgets that could be embedded into Notion.so https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
 * 【2024-01-03】[tech2etc / Build-and-Deploy-Ecommerce-Website](https://github.com/tech2etc/Build-and-Deploy-Ecommerce-Website) - Learn How To Make Full Responsive Ecommerce Website Using HTML CSS & JavaScript. This is a free HTML CSS JavaScript Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step.
 * 【2024-01-02】[NianBroken / Firework_Simulator](https://github.com/NianBroken/Firework_Simulator) - 烟花模拟器，一个模拟放烟花的网页，基于Firework Simulator v2的二次修改，我仅作翻译处理以及其他优化
@@ -5476,6 +5489,10 @@
 
 ## Css
 
+* 【2024-01-04】[BootstrapDash / star-admin2-free-admin-template](https://github.com/BootstrapDash/star-admin2-free-admin-template) - Star-Admin-2- Free-Bootstrap-Admin-Template
+* 【2024-01-04】[sheryislive / sundown](https://github.com/sheryislive/sundown) - 
+* 【2024-01-04】[supun-io / jekyll-theme-leaf](https://github.com/supun-io/jekyll-theme-leaf) - Leaf - Jekyll Theme
+* 【2024-01-04】[wowthemesnet / mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
 * 【2024-01-03】[JAYESHBATRA / Virtuo-Learn](https://github.com/JAYESHBATRA/Virtuo-Learn) - Virtuo Learn is a platform that provides immersive learning experiences like never before. It offers simulations, 3D visualizations, customized quizzes, doubt engine, and videos, all in one place.
 * 【2024-01-02】[vicwomg / pikaraoke](https://github.com/vicwomg/pikaraoke) - Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux
 * 【2024-01-02】[jaysomani / firstspot](https://github.com/jaysomani/firstspot) - FirstSpot an heven for travellers who love to travel all around the world
@@ -6012,6 +6029,12 @@
 
 ## Unknown
 
+* 【2024-01-04】[chiteroman / Reprogram-TEE-on-Qualcomm-devices](https://github.com/chiteroman/Reprogram-TEE-on-Qualcomm-devices) - Guide to reprogram the TEE on Qualcomm devices to fix lost attestation keys
+* 【2024-01-04】[HACKE-RC / awesome-reversing](https://github.com/HACKE-RC/awesome-reversing) - A collection of resources to learn Reverse Engineering from start!
+* 【2024-01-04】[blindma1den / Programming-Skills-Level0](https://github.com/blindma1den/Programming-Skills-Level0) - This repository contains a series of entry-level exercises that can be solved in any programming language. The purpose of these exercises is to develop your programming logic. This repository is the first in a series of more exercises to improve your programming skills.
+* 【2024-01-04】[anisurrahman072 / React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide) - React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥
+* 【2024-01-04】[Coder-World04 / Time-Series-Analysis-and-Forecasting](https://github.com/Coder-World04/Time-Series-Analysis-and-Forecasting) - This repository contains everything you need to become proficient in Time Series Analysis and Forecasting
+* 【2024-01-04】[ihebski / A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries) - RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.
 * 【2024-01-03】[kevinchwong / leetcode-intensive](https://github.com/kevinchwong/leetcode-intensive) - Leetcode Intensive tutorial and study guide generated by llama-index, networkx, scikit-learn and pydantic
 * 【2024-01-03】[nahamsec / Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
 * 【2024-01-02】[VictorEijkhout / TheArtofHPC_pdfs](https://github.com/VictorEijkhout/TheArtofHPC_pdfs) - All pdfs of Victor Eijkhout's Art of HPC books and courses
