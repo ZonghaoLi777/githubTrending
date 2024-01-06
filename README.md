@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-01-06】[eazybytes / microservices](https://github.com/eazybytes/microservices) - Microservices With Spring, Docker, Kubernetes - Code Examples
 * 【2024-01-04】[apache / avro](https://github.com/apache/avro) - Apache Avro is a data serialization system.
 * 【2024-01-03】[gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 * 【2024-01-03】[IntellectualSites / PlotSquared](https://github.com/IntellectualSites/PlotSquared) - PlotSquared - Reinventing the plotworld
@@ -802,6 +803,12 @@
 
 ## Python
 
+* 【2024-01-06】[guoqincode / Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone) - Unofficial Implementation of Animate Anyone
+* 【2024-01-06】[InternLM / tutorial](https://github.com/InternLM/tutorial) - 
+* 【2024-01-06】[microsoft / Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
+* 【2024-01-06】[pratyushasharma / laser](https://github.com/pratyushasharma/laser) - The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
+* 【2024-01-06】[allenai / unified-io-2](https://github.com/allenai/unified-io-2) - 
+* 【2024-01-06】[pre-commit / pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * 【2024-01-05】[ali-vilab / dreamtalk](https://github.com/ali-vilab/dreamtalk) - Official implementations for paper: DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models
 * 【2024-01-05】[Frrrrrrrrank / auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.
 * 【2024-01-05】[zju3dv / EasyVolcap](https://github.com/zju3dv/EasyVolcap) - EasyVolcap: Accelerating Neural Volumetric Video Research
@@ -1802,6 +1809,11 @@
 
 ## Javascript
 
+* 【2024-01-06】[speer-technologies / aircall](https://github.com/speer-technologies/aircall) - Frontend Hiring Challenge
+* 【2024-01-06】[ether / etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+* 【2024-01-06】[ai / nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* 【2024-01-06】[TechForPalestine / boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset) - 
+* 【2024-01-06】[pinojs / pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 * 【2024-01-05】[rolling-scopes-school / clean-code-s1e1](https://github.com/rolling-scopes-school/clean-code-s1e1) - 
 * 【2024-01-05】[GoogleChrome / web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 * 【2024-01-05】[dmscode / Obsidian-Templates](https://github.com/dmscode/Obsidian-Templates) - 我在 Obsidian 中用的各种模板（Dataview，Templater，QuickAdd）
@@ -2526,6 +2538,7 @@
 
 ## Go
 
+* 【2024-01-06】[qiwentaidi / Slack](https://github.com/qiwentaidi/Slack) - 一款Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等
 * 【2024-01-05】[zhu327 / gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
 * 【2024-01-05】[knadh / listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 * 【2024-01-05】[trzsz / trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an alternative to openssh client, supports trzsz (trz / tsz), batch login, remember password, etc.
@@ -3238,6 +3251,11 @@
 
 ## C
 
+* 【2024-01-06】[attractivechaos / plb2](https://github.com/attractivechaos/plb2) - A programming language benchmark
+* 【2024-01-06】[XProger / OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
+* 【2024-01-06】[rodarima / libwa](https://github.com/rodarima/libwa) - WhatsApp C library
+* 【2024-01-06】[NVIDIA / open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
+* 【2024-01-06】[cs50 / libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
 * 【2024-01-05】[leaningktower / Analog-GPS-data-receiver](https://github.com/leaningktower/Analog-GPS-data-receiver) - An full analog GPS receiver using discrete rf components and TinyFPGA
 * 【2024-01-04】[PureKFD / PureKFD](https://github.com/PureKFD/PureKFD) - A KFD Focused Package Manager that supports 14.0-16.6.1!
 * 【2024-01-04】[GStreamer / gstreamer](https://github.com/GStreamer/gstreamer) - GStreamer open-source multimedia framework
@@ -3836,6 +3854,10 @@
 
 ## C++
 
+* 【2024-01-06】[ktock / container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
+* 【2024-01-06】[GregoryCannon / StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
+* 【2024-01-06】[hackerhouse-opensource / Stinger](https://github.com/hackerhouse-opensource/Stinger) - CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.
+* 【2024-01-06】[J-JLucas / SCM](https://github.com/J-JLucas/SCM) - 
 * 【2024-01-05】[ratgdo / homekit-ratgdo](https://github.com/ratgdo/homekit-ratgdo) - A native HomeKit implementation of a Security+ 2.0 garage door controller based on ratgdo hardware
 * 【2024-01-04】[canonical / multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 * 【2024-01-03】[praydog / UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4/5)
@@ -4420,6 +4442,8 @@
 
 ## C#
 
+* 【2024-01-06】[oskardudycz / EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
+* 【2024-01-06】[dotnetcore / DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
 * 【2024-01-05】[metatube-community / jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube) - MetaTube Plugin for Jellyfin/Emby
 * 【2024-01-05】[LagrangeDev / Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 * 【2024-01-03】[subhra74 / xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
@@ -4992,6 +5016,8 @@
 
 ## Html
 
+* 【2024-01-06】[netease-youdao / QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
+* 【2024-01-06】[alexeygrigorev / data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 * 【2024-01-05】[tpn / pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 * 【2024-01-05】[Dreamlinerm / Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ & Hotstar and Crunchyroll. Streaming enhanced
 * 【2024-01-05】[oxalorg / sakura](https://github.com/oxalorg/sakura) - 🌸 a minimal css framework/theme.
@@ -6055,6 +6081,9 @@
 
 ## Unknown
 
+* 【2024-01-06】[zju3dv / street_gaussians](https://github.com/zju3dv/street_gaussians) - Code for "Street Gaussians for Modeling Dynamic Urban Scenes"
+* 【2024-01-06】[sbilly / awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+* 【2024-01-06】[geerlingguy / ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 * 【2024-01-05】[Jack-bo1220 / Awesome-Remote-Sensing-Foundation-Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models) - 
 * 【2024-01-05】[android / architecture-templates](https://github.com/android/architecture-templates) - 
 * 【2024-01-05】[MiAO-AI-Lab / LARP](https://github.com/MiAO-AI-Lab/LARP) - 
