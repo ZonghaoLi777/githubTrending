@@ -803,6 +803,16 @@
 
 ## Python
 
+* 【2024-01-07】[facebookresearch / audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
+* 【2024-01-07】[MarkFzp / act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN
+* 【2024-01-07】[bclavie / RAGatouille](https://github.com/bclavie/RAGatouille) - 
+* 【2024-01-07】[tonyzhaozh / aloha](https://github.com/tonyzhaozh/aloha) - 
+* 【2024-01-07】[mosaicml / llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
+* 【2024-01-07】[jupyter / docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
+* 【2024-01-07】[jianchang512 / stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式
+* 【2024-01-07】[Upsetin / noss-mint-script](https://github.com/Upsetin/noss-mint-script) - noss auto mint scirpt.
+* 【2024-01-07】[stanford-futuredata / ColBERT](https://github.com/stanford-futuredata/ColBERT) - Stanford ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22)
+* 【2024-01-07】[MayoBlueSky / My-Actions](https://github.com/MayoBlueSky/My-Actions) - 爱奇艺会员,腾讯视频,哔哩哔哩,百度,各类签到
 * 【2024-01-06】[guoqincode / Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone) - Unofficial Implementation of Animate Anyone
 * 【2024-01-06】[InternLM / tutorial](https://github.com/InternLM/tutorial) - 
 * 【2024-01-06】[microsoft / Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
@@ -1809,6 +1819,9 @@
 
 ## Javascript
 
+* 【2024-01-07】[gaearon / overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
+* 【2024-01-07】[hiteshchoudhary / react-english](https://github.com/hiteshchoudhary/react-english) - A fun react series in future
+* 【2024-01-07】[lucide-icons / lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 * 【2024-01-06】[speer-technologies / aircall](https://github.com/speer-technologies/aircall) - Frontend Hiring Challenge
 * 【2024-01-06】[ether / etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 * 【2024-01-06】[ai / nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -2538,6 +2551,7 @@
 
 ## Go
 
+* 【2024-01-07】[ubuygold / go-noss](https://github.com/ubuygold/go-noss) - 
 * 【2024-01-06】[qiwentaidi / Slack](https://github.com/qiwentaidi/Slack) - 一款Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等
 * 【2024-01-05】[zhu327 / gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
 * 【2024-01-05】[knadh / listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -3251,6 +3265,9 @@
 
 ## C
 
+* 【2024-01-07】[openwch / arduino_core_ch32](https://github.com/openwch/arduino_core_ch32) - Core library for CH32duino
+* 【2024-01-07】[spotify / sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.
+* 【2024-01-07】[pjreddie / darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 * 【2024-01-06】[attractivechaos / plb2](https://github.com/attractivechaos/plb2) - A programming language benchmark
 * 【2024-01-06】[XProger / OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
 * 【2024-01-06】[rodarima / libwa](https://github.com/rodarima/libwa) - WhatsApp C library
@@ -3854,6 +3871,7 @@
 
 ## C++
 
+* 【2024-01-07】[wpilibsuite / allwpilib](https://github.com/wpilibsuite/allwpilib) - Official Repository of WPILibJ and WPILibC
 * 【2024-01-06】[ktock / container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 * 【2024-01-06】[GregoryCannon / StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
 * 【2024-01-06】[hackerhouse-opensource / Stinger](https://github.com/hackerhouse-opensource/Stinger) - CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.
@@ -4442,6 +4460,8 @@
 
 ## C#
 
+* 【2024-01-07】[microsoft / teams-ai](https://github.com/microsoft/teams-ai) - SDK focused on building AI based applications and extensions for Microsoft Teams.
+* 【2024-01-07】[buybackoff / 1brc](https://github.com/buybackoff/1brc) - 
 * 【2024-01-06】[oskardudycz / EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
 * 【2024-01-06】[dotnetcore / DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
 * 【2024-01-05】[metatube-community / jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube) - MetaTube Plugin for Jellyfin/Emby
@@ -5016,6 +5036,7 @@
 
 ## Html
 
+* 【2024-01-07】[Maclinz / JS_CSS_PortfolioProject](https://github.com/Maclinz/JS_CSS_PortfolioProject) - 
 * 【2024-01-06】[netease-youdao / QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
 * 【2024-01-06】[alexeygrigorev / data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 * 【2024-01-05】[tpn / pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
@@ -5536,6 +5557,13 @@
 
 ## Css
 
+* 【2024-01-07】[adamschwartz / magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
+* 【2024-01-07】[l-hammer / You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
+* 【2024-01-07】[altoliaw3 / 112-1QZ2](https://github.com/altoliaw3/112-1QZ2) - 
+* 【2024-01-07】[tuananh1406 / my-wedding-page](https://github.com/tuananh1406/my-wedding-page) - 
+* 【2024-01-07】[devchallenges-io / responsive-web-starter](https://github.com/devchallenges-io/responsive-web-starter) - 
+* 【2024-01-07】[netology-code / bjs-diplom](https://github.com/netology-code/bjs-diplom) - Дипломное задание к курсу «Основы JavaScript»
+* 【2024-01-07】[yasagit-2 / ichiyasaGitSample](https://github.com/yasagit-2/ichiyasaGitSample) - 『いちばんやさしいGit&GitHubの教本』のサンプルプロジェクトです。
 * 【2024-01-05】[OpenClassrooms-Student-Center / P12_Front-end](https://github.com/OpenClassrooms-Student-Center/P12_Front-end) - 
 * 【2024-01-05】[Rahulvaishnav9 / Login-Page](https://github.com/Rahulvaishnav9/Login-Page) - Follow my instagram account for more content
 * 【2024-01-05】[Rysera-Innovations / Rysera-web](https://github.com/Rysera-Innovations/Rysera-web) - 
@@ -6081,6 +6109,11 @@
 
 ## Unknown
 
+* 【2024-01-07】[bleedline / Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.
+* 【2024-01-07】[leicemag / Javdb-Top250](https://github.com/leicemag/Javdb-Top250) - Javdb.com top 250 movies collection
+* 【2024-01-07】[youngyangyang04 / kama-DesignPattern](https://github.com/youngyangyang04/kama-DesignPattern) - 卡码网-23种设计模式精讲，每种设计模式都配套代码练习题，支持 Java，CPP，Python，Go
+* 【2024-01-07】[oneman233 / seu-master](https://github.com/oneman233/seu-master) - 东南大学研究生课程资料整理
+* 【2024-01-07】[OfficeDev / Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) - Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!
 * 【2024-01-06】[zju3dv / street_gaussians](https://github.com/zju3dv/street_gaussians) - Code for "Street Gaussians for Modeling Dynamic Urban Scenes"
 * 【2024-01-06】[sbilly / awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 * 【2024-01-06】[geerlingguy / ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
