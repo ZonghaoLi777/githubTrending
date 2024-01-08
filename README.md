@@ -210,6 +210,11 @@
 
 ## Java
 
+* 【2024-01-08】[kingtaeyeon / equity-calculator](https://github.com/kingtaeyeon/equity-calculator) - 权益计算框架
+* 【2024-01-08】[rememberber / WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
+* 【2024-01-08】[skinny85 / jilt](https://github.com/skinny85/jilt) - Java annotation processor for auto-generating Builder (including Type-Safe Builder) classes
+* 【2024-01-08】[UniversalMediaServer / UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
+* 【2024-01-08】[herodotus-ecosystem / dante-cloud-athena](https://github.com/herodotus-ecosystem/dante-cloud-athena) - Dante Cloud is an enterprise level Microservices architecture and service capability development platform. It is a multi tenant Microservices solution that adopts the domain driven model (DDD) design idea, fully embraces Spring Authorization Server, is based on OAuth2.1 protocol, and supports the authentication of Smart TV, IoT and other IoT device
 * 【2024-01-06】[eazybytes / microservices](https://github.com/eazybytes/microservices) - Microservices With Spring, Docker, Kubernetes - Code Examples
 * 【2024-01-04】[apache / avro](https://github.com/apache/avro) - Apache Avro is a data serialization system.
 * 【2024-01-03】[gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
@@ -803,6 +808,10 @@
 
 ## Python
 
+* 【2024-01-08】[ali-vilab / i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl) - Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models
+* 【2024-01-08】[VILA-Lab / ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
+* 【2024-01-08】[home-assistant / operating-system](https://github.com/home-assistant/operating-system) - 🔰 Home Assistant Operating System
+* 【2024-01-08】[tconbeer / harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 * 【2024-01-07】[facebookresearch / audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
 * 【2024-01-07】[MarkFzp / act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN
 * 【2024-01-07】[bclavie / RAGatouille](https://github.com/bclavie/RAGatouille) - 
@@ -1819,6 +1828,11 @@
 
 ## Javascript
 
+* 【2024-01-08】[wukko / cobalt](https://github.com/wukko/cobalt) - save what you love
+* 【2024-01-08】[FastForwardTeam / FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
+* 【2024-01-08】[enricoros / big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
+* 【2024-01-08】[iongpt / LLM-for-Whatsapp](https://github.com/iongpt/LLM-for-Whatsapp) - WhatsApp client with LLM integration. It support OpenAI API and also local LLMs
+* 【2024-01-08】[judygab / web-dev-projects](https://github.com/judygab/web-dev-projects) - Projects repo for tutorials for my YouTube Channel
 * 【2024-01-07】[gaearon / overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 * 【2024-01-07】[hiteshchoudhary / react-english](https://github.com/hiteshchoudhary/react-english) - A fun react series in future
 * 【2024-01-07】[lucide-icons / lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -3265,6 +3279,8 @@
 
 ## C
 
+* 【2024-01-08】[joncampbell123 / dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
+* 【2024-01-08】[cpq / bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - A bare metal programming guide (ARM microcontrollers)
 * 【2024-01-07】[openwch / arduino_core_ch32](https://github.com/openwch/arduino_core_ch32) - Core library for CH32duino
 * 【2024-01-07】[spotify / sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.
 * 【2024-01-07】[pjreddie / darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
@@ -3871,6 +3887,10 @@
 
 ## C++
 
+* 【2024-01-08】[janhq / nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI. OpenAI-compatible API
+* 【2024-01-08】[YosysHQ / yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
+* 【2024-01-08】[yuzu-emu / yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
+* 【2024-01-08】[X-Profiler / xprofiler](https://github.com/X-Profiler/xprofiler) - 🌀An addon for node.js, which supporting output performance log and real-time profiling through sampling.
 * 【2024-01-07】[wpilibsuite / allwpilib](https://github.com/wpilibsuite/allwpilib) - Official Repository of WPILibJ and WPILibC
 * 【2024-01-06】[ktock / container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 * 【2024-01-06】[GregoryCannon / StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
@@ -4460,6 +4480,8 @@
 
 ## C#
 
+* 【2024-01-08】[akkadotnet / akka.net](https://github.com/akkadotnet/akka.net) - Canonical actor model implementation for .NET with local + distributed actors in C# and F#.
+* 【2024-01-08】[dmcxblue / SharpGhostTask](https://github.com/dmcxblue/SharpGhostTask) - A C# port from Invoke-GhostTask
 * 【2024-01-07】[microsoft / teams-ai](https://github.com/microsoft/teams-ai) - SDK focused on building AI based applications and extensions for Microsoft Teams.
 * 【2024-01-07】[buybackoff / 1brc](https://github.com/buybackoff/1brc) - 
 * 【2024-01-06】[oskardudycz / EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
@@ -5036,6 +5058,10 @@
 
 ## Html
 
+* 【2024-01-08】[avinash201199 / Portfolio-Collection](https://github.com/avinash201199/Portfolio-Collection) - This repository contains collection of portfolio's .
+* 【2024-01-08】[diminDDL / ProPico](https://github.com/diminDDL/ProPico) - An RP2040 dev board improving on aspects of the pi pico
+* 【2024-01-08】[ethen8181 / machine-learning](https://github.com/ethen8181/machine-learning) - 🌎 machine learning tutorials (mainly in Python3)
+* 【2024-01-08】[qiye45 / wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具
 * 【2024-01-07】[Maclinz / JS_CSS_PortfolioProject](https://github.com/Maclinz/JS_CSS_PortfolioProject) - 
 * 【2024-01-06】[netease-youdao / QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
 * 【2024-01-06】[alexeygrigorev / data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
@@ -6109,6 +6135,14 @@
 
 ## Unknown
 
+* 【2024-01-08】[ProgrammingHero1 / portfolio-resources](https://github.com/ProgrammingHero1/portfolio-resources) - 
+* 【2024-01-08】[menyifang / En3D](https://github.com/menyifang/En3D) - Official implementation of "En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data"
+* 【2024-01-08】[yeahhub / Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
+* 【2024-01-08】[krishnaik06 / Roadmap-To-Become-Data-Analyst-2024](https://github.com/krishnaik06/Roadmap-To-Become-Data-Analyst-2024) - 
+* 【2024-01-08】[epiresdasilva / aws-minecraft-server](https://github.com/epiresdasilva/aws-minecraft-server) - An easy and fast way to create your own Minecraft Server.
+* 【2024-01-08】[zjunlp / LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read Papers on LLM Agents.
+* 【2024-01-08】[TheOneStudioLLC / Mac-Recorder](https://github.com/TheOneStudioLLC/Mac-Recorder) - Ultimate Recording App for MacOS
+* 【2024-01-08】[WeMakeDevs / roadmaps](https://github.com/WeMakeDevs/roadmaps) - This repository contains the list of communities and job portals you can join and apply to.
 * 【2024-01-07】[bleedline / Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.
 * 【2024-01-07】[leicemag / Javdb-Top250](https://github.com/leicemag/Javdb-Top250) - Javdb.com top 250 movies collection
 * 【2024-01-07】[youngyangyang04 / kama-DesignPattern](https://github.com/youngyangyang04/kama-DesignPattern) - 卡码网-23种设计模式精讲，每种设计模式都配套代码练习题，支持 Java，CPP，Python，Go
