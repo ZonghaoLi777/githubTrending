@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-01-10】[HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 * 【2024-01-09】[Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 * 【2024-01-09】[Eanya-Tonic / CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 央视浏览器，一款基于tv.cctv.com的简易电视直播收看软件，用于方便的在机顶盒上收看央视节目
 * 【2024-01-09】[bitcoinj / bitcoinj](https://github.com/bitcoinj/bitcoinj) - A library for working with Bitcoin
@@ -812,6 +813,10 @@
 
 ## Python
 
+* 【2024-01-10】[netease-youdao / BCEmbedding](https://github.com/netease-youdao/BCEmbedding) - Netease Youdao's open-source embedding and reranker models for RAG products.
+* 【2024-01-10】[laixintao / flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
+* 【2024-01-10】[hummingbot / hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
+* 【2024-01-10】[Farama-Foundation / Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 * 【2024-01-09】[skfolio / skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn
 * 【2024-01-09】[Bing-su / adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
 * 【2024-01-09】[reddelexc / hackerone-reports](https://github.com/reddelexc/hackerone-reports) - Top disclosed reports from HackerOne
@@ -1839,6 +1844,11 @@
 
 ## Javascript
 
+* 【2024-01-10】[phaserjs / phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* 【2024-01-10】[Everduin94 / better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
+* 【2024-01-10】[GAIR-NLP / MathPile](https://github.com/GAIR-NLP/MathPile) - Generative AI for Math: MathPile
+* 【2024-01-10】[mschwarzmueller / nextjs-complete-guide-course-resources](https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources) - Course resources for my "NextJS - The Complete Guide" course (https://acad.link/nextjs)
+* 【2024-01-10】[michalsnik / aos](https://github.com/michalsnik/aos) - Animate on scroll library
 * 【2024-01-09】[bytedance / xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 * 【2024-01-09】[adrianhajdin / docker-course](https://github.com/adrianhajdin/docker-course) - Full Modern Docker Course
 * 【2024-01-09】[MagicMirrorOrg / MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
@@ -2579,6 +2589,7 @@
 
 ## Go
 
+* 【2024-01-10】[anthdm / raptor](https://github.com/anthdm/raptor) - Create, Deploy, and Run your applications on the edge
 * 【2024-01-09】[DrDonk / unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
 * 【2024-01-09】[jincheng9 / go-tutorial](https://github.com/jincheng9/go-tutorial) - Go learning materials，涵盖基础、中级和高级教程
 * 【2024-01-07】[ubuygold / go-noss](https://github.com/ubuygold/go-noss) - 
@@ -3295,6 +3306,13 @@
 
 ## C
 
+* 【2024-01-10】[hrtowii / Serotonin](https://github.com/hrtowii/Serotonin) - 
+* 【2024-01-10】[cc65 / cc65](https://github.com/cc65/cc65) - cc65 - a freeware C compiler for 6502 based systems
+* 【2024-01-10】[n0xa / m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
+* 【2024-01-10】[sysprog21 / shecc](https://github.com/sysprog21/shecc) - A self-hosting and educational C optimizing compiler
+* 【2024-01-10】[awslabs / amazon-kinesis-video-streams-webrtc-sdk-c](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c) - Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.
+* 【2024-01-10】[memtest86plus / memtest86plus](https://github.com/memtest86plus/memtest86plus) - Official repo for Memtest86+
+* 【2024-01-10】[veo / nginx_shell](https://github.com/veo/nginx_shell) - nginx WebShell/内存马，更优雅的nignx backdoor
 * 【2024-01-09】[rswier / swieros](https://github.com/rswier/swieros) - A tiny hand crafted CPU emulator, C compiler, and Operating System
 * 【2024-01-08】[joncampbell123 / dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 * 【2024-01-08】[cpq / bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - A bare metal programming guide (ARM microcontrollers)
@@ -5606,6 +5624,12 @@
 
 ## Css
 
+* 【2024-01-10】[zhuxinlang / zhuxinlang.github.io](https://github.com/zhuxinlang/zhuxinlang.github.io) - 
+* 【2024-01-10】[vishaltewatia / Impress-your-crush](https://github.com/vishaltewatia/Impress-your-crush) - 
+* 【2024-01-10】[Rasxtt / perdon](https://github.com/Rasxtt/perdon) - 
+* 【2024-01-10】[ankitects / anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
+* 【2024-01-10】[s8sg / goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
+* 【2024-01-10】[felipeAguiarCode / js-music-keyboard-virtual](https://github.com/felipeAguiarCode/js-music-keyboard-virtual) - A musical keyboard virtual make with JS Vanilla
 * 【2024-01-09】[promptdesk / promptdesk](https://github.com/promptdesk/promptdesk) - Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).
 * 【2024-01-09】[PlusInsta / discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
 * 【2024-01-07】[adamschwartz / magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
@@ -6160,6 +6184,11 @@
 
 ## Unknown
 
+* 【2024-01-10】[ProgrammingHero1 / B9A1-New-Year-New-Mission](https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission) - 
+* 【2024-01-10】[Human3DAIGC / Make-A-Character](https://github.com/Human3DAIGC/Make-A-Character) - Official repo for Make-A-Character: High Quality Text-to-3D Character Generation within Minutes
+* 【2024-01-10】[blindma1den / Programming-Skills-Level1](https://github.com/blindma1den/Programming-Skills-Level1) - 
+* 【2024-01-10】[abhisheknaiidu / awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+* 【2024-01-10】[TencentARC / LLaMA-Pro](https://github.com/TencentARC/LLaMA-Pro) - Progressive LLaMA with Block Expansion.
 * 【2024-01-09】[CASRAI-CRedIT / Dictionary](https://github.com/CASRAI-CRedIT/Dictionary) - CASRAI Credit Dictionary of Elements
 * 【2024-01-09】[wearecaster / MITMonster](https://github.com/wearecaster/MITMonster) - A monster cheatsheet on MITM attacks
 * 【2024-01-09】[wangschang / web3.0](https://github.com/wangschang/web3.0) - web3.0知识整理 web3.0知识 web3.0学习资料
