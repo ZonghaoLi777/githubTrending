@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-01-11】[allure-framework / allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
+* 【2024-01-11】[kdn251 / interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 * 【2024-01-10】[HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 * 【2024-01-09】[Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 * 【2024-01-09】[Eanya-Tonic / CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 央视浏览器，一款基于tv.cctv.com的简易电视直播收看软件，用于方便的在机顶盒上收看央视节目
@@ -813,6 +815,12 @@
 
 ## Python
 
+* 【2024-01-11】[plotly / plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python ✨ This project now includes Plotly Express!
+* 【2024-01-11】[langchain-ai / langgraph](https://github.com/langchain-ai/langgraph) - 
+* 【2024-01-11】[hpcaitech / SwiftInfer](https://github.com/hpcaitech/SwiftInfer) - Efficient AI Inference & Serving
+* 【2024-01-11】[openedx / edx-platform](https://github.com/openedx/edx-platform) - The Open edX LMS & Studio, powering education sites around the world!
+* 【2024-01-11】[kyegomez / MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
+* 【2024-01-11】[AtsushiSakai / PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 * 【2024-01-10】[netease-youdao / BCEmbedding](https://github.com/netease-youdao/BCEmbedding) - Netease Youdao's open-source embedding and reranker models for RAG products.
 * 【2024-01-10】[laixintao / flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 * 【2024-01-10】[hummingbot / hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
@@ -1844,6 +1852,7 @@
 
 ## Javascript
 
+* 【2024-01-11】[IsmaelMartinez / teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 * 【2024-01-10】[phaserjs / phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * 【2024-01-10】[Everduin94 / better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 * 【2024-01-10】[GAIR-NLP / MathPile](https://github.com/GAIR-NLP/MathPile) - Generative AI for Math: MathPile
@@ -2589,6 +2598,7 @@
 
 ## Go
 
+* 【2024-01-11】[AnalogJ / scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 * 【2024-01-10】[anthdm / raptor](https://github.com/anthdm/raptor) - Create, Deploy, and Run your applications on the edge
 * 【2024-01-09】[DrDonk / unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
 * 【2024-01-09】[jincheng9 / go-tutorial](https://github.com/jincheng9/go-tutorial) - Go learning materials，涵盖基础、中级和高级教程
@@ -3306,6 +3316,11 @@
 
 ## C
 
+* 【2024-01-11】[bmax121 / KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
+* 【2024-01-11】[mineek / Serotonin](https://github.com/mineek/Serotonin) - 
+* 【2024-01-11】[libjpeg-turbo / libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - Main libjpeg-turbo repository
+* 【2024-01-11】[ossc-db / pg_rman](https://github.com/ossc-db/pg_rman) - Backup and restore management tool for PostgreSQL
+* 【2024-01-11】[FelixKratz / SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 * 【2024-01-10】[hrtowii / Serotonin](https://github.com/hrtowii/Serotonin) - 
 * 【2024-01-10】[cc65 / cc65](https://github.com/cc65/cc65) - cc65 - a freeware C compiler for 6502 based systems
 * 【2024-01-10】[n0xa / m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
@@ -4517,6 +4532,14 @@
 
 ## C#
 
+* 【2024-01-11】[BC-SECURITY / Moriarty](https://github.com/BC-SECURITY/Moriarty) - 
+* 【2024-01-11】[1357310795 / MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
+* 【2024-01-11】[nicsure / QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
+* 【2024-01-11】[digitalinnovationone / trilha-net-poo-desafio](https://github.com/digitalinnovationone/trilha-net-poo-desafio) - 
+* 【2024-01-11】[CommunityToolkit / dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
+* 【2024-01-11】[lisongkun / HyggeImaotai](https://github.com/lisongkun/HyggeImaotai) - i茅台app接口自动化csharp wpf实现,挂机windows服务器每日自动预约, (╯°□°）╯︵ ┻━┻ 预约启动！
+* 【2024-01-11】[digitalinnovationone / trilha-net-testes-unitarios-desafio](https://github.com/digitalinnovationone/trilha-net-testes-unitarios-desafio) - 
+* 【2024-01-11】[ShirasawaSama / CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 * 【2024-01-09】[blackarrowsec / Handly](https://github.com/blackarrowsec/Handly) - Abuse leaked token handles.
 * 【2024-01-09】[rogerfar / rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 * 【2024-01-09】[dremin / RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
@@ -5624,6 +5647,10 @@
 
 ## Css
 
+* 【2024-01-11】[Akifyss / obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
+* 【2024-01-11】[opencodeiiita / Collaborative-Web-2023](https://github.com/opencodeiiita/Collaborative-Web-2023) - This project is made to showcase what OpenCode 23' is all about. Made by the contributors for the contributors.
+* 【2024-01-11】[guaguaguaxia / weekly_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
+* 【2024-01-11】[arthurbm / instapets](https://github.com/arthurbm/instapets) - 
 * 【2024-01-10】[zhuxinlang / zhuxinlang.github.io](https://github.com/zhuxinlang/zhuxinlang.github.io) - 
 * 【2024-01-10】[vishaltewatia / Impress-your-crush](https://github.com/vishaltewatia/Impress-your-crush) - 
 * 【2024-01-10】[Rasxtt / perdon](https://github.com/Rasxtt/perdon) - 
@@ -6184,6 +6211,12 @@
 
 ## Unknown
 
+* 【2024-01-11】[matro7sh / BypassAV](https://github.com/matro7sh/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR
+* 【2024-01-11】[ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
+* 【2024-01-11】[yanirs / established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
+* 【2024-01-11】[EvilGreys / Hide-CobaltStrike](https://github.com/EvilGreys/Hide-CobaltStrike) - Hide your CobaltStrike PRO
+* 【2024-01-11】[LSPosed / LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) - 
+* 【2024-01-11】[github / copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 * 【2024-01-10】[ProgrammingHero1 / B9A1-New-Year-New-Mission](https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission) - 
 * 【2024-01-10】[Human3DAIGC / Make-A-Character](https://github.com/Human3DAIGC/Make-A-Character) - Official repo for Make-A-Character: High Quality Text-to-3D Character Generation within Minutes
 * 【2024-01-10】[blindma1den / Programming-Skills-Level1](https://github.com/blindma1den/Programming-Skills-Level1) - 
