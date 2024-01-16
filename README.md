@@ -210,6 +210,10 @@
 
 ## Java
 
+* 【2024-01-16】[linlinjava / litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+* 【2024-01-16】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
+* 【2024-01-16】[PhilippC / keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+* 【2024-01-16】[itwanger / paicoding](https://github.com/itwanger/paicoding) - ⭐️一款好用又强大的开源社区，基于 Spring Boot、MyBatis-Plus、MySQL、Redis、ElasticSearch、MongoDB、Docker、RabbitMQ 等主流技术栈，附详细教程，包括Java、Spring、MySQL、Redis、微服务&分布式、消息队列等核心知识点。学编程，就上技术派😁。
 * 【2024-01-15】[xCollateral / VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
 * 【2024-01-15】[MCRcortex / nvidium](https://github.com/MCRcortex/nvidium) - Fast minecraft rendering backend for sodium (nvidia only)
 * 【2024-01-15】[Mahmud0808 / ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - Express yourself with colors
@@ -821,6 +825,12 @@
 
 ## Python
 
+* 【2024-01-16】[Vozec / CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) - This repository presents a proof-of-concept of CVE-2023-7028
+* 【2024-01-16】[lazyprogrammer / machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
+* 【2024-01-16】[HaujetZhao / CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - CapsWriter 的离线版，一个好用的 PC 端的语音输入工具
+* 【2024-01-16】[DougDougGithub / Babagaboosh](https://github.com/DougDougGithub/Babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
+* 【2024-01-16】[tony9402 / baekjoon](https://github.com/tony9402/baekjoon) - 코딩테스트 대비 문제집(Baekjoon Online Judge)
+* 【2024-01-16】[trustedsec / social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 * 【2024-01-15】[MooreThreads / Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) - 
 * 【2024-01-15】[VikParuchuri / surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
 * 【2024-01-15】[EstrellaXD / Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
@@ -1882,6 +1892,9 @@
 
 ## Javascript
 
+* 【2024-01-16】[Starlk7 / Magiceden-Launchpad-Bot](https://github.com/Starlk7/Magiceden-Launchpad-Bot) - Bot for mint on Magiceden Launchpad in Solana and BTC networks
+* 【2024-01-16】[LNReader / lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
+* 【2024-01-16】[YouTransfer / YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 * 【2024-01-15】[lockfale / OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 * 【2024-01-15】[PrismarineJS / mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 * 【2024-01-15】[NoneDay / CellReport](https://github.com/NoneDay/CellReport) - CellReport 是一个netcore实现的、以复杂统计报表为核心目标的制作、运行工具。支持数据看板、大屏制作。你可以使用数据库、excel文件、api服务、已有报表等为数据源，通过内置的集合函数组织数据，以类excel界面设计最终呈现结果。
@@ -2637,6 +2650,13 @@
 
 ## Go
 
+* 【2024-01-16】[dutchcoders / transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+* 【2024-01-16】[loxilb-io / loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
+* 【2024-01-16】[zero-proxy / zero-proxy](https://github.com/zero-proxy/zero-proxy) - 最轻量、高效、透明、稳定的多币种矿池代理、矿池中转。支持 BTC, ETC, RVN, NicaHash, XNA, ETHW, Ergo 等币种。自定义抽水账号及比例，高性能数据中转算法，无任何share损耗。具有高效的抽水算法，保证精确抽水。支持多端口监听及多矿池连接，同时接入3000+矿机性能稳定且不掉线。The lightest, most efficient, transparent, and stable multi-cryptocurrency mining pool proxy.
+* 【2024-01-16】[synctv-org / synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video, long-distance relationship
+* 【2024-01-16】[tmrts / go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
+* 【2024-01-16】[Azure / azqr](https://github.com/Azure/azqr) - Azure Quick Review
+* 【2024-01-16】[peak / s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 * 【2024-01-15】[openziti / zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 * 【2024-01-15】[yqchilde / wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
 * 【2024-01-15】[xiaoyi510 / rustdesk-api-server](https://github.com/xiaoyi510/rustdesk-api-server) - RustDesk Api Server
@@ -3363,6 +3383,7 @@
 
 ## C
 
+* 【2024-01-16】[mwpenny / portal64-still-alive](https://github.com/mwpenny/portal64-still-alive) - A demake of Portal for the Nintendo 64
 * 【2024-01-15】[yshui / picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 * 【2024-01-14】[EpicGames / raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 * 【2024-01-14】[tenclass / mvisor](https://github.com/tenclass/mvisor) - A mini x86 hypervisor
@@ -3993,6 +4014,7 @@
 
 ## C++
 
+* 【2024-01-16】[Stellarium / stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * 【2024-01-15】[Seneca-244200 / OOP-Workshops](https://github.com/Seneca-244200/OOP-Workshops) - 
 * 【2024-01-15】[s-kachroo / SamsungPractice](https://github.com/s-kachroo/SamsungPractice) - Problems for Samsung Research Institute, India - 3 hours Online Test.
 * 【2024-01-15】[m417z / CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC) - Privilege escalation using the XAML diagnostics API (CVE-2023-36003)
@@ -4598,6 +4620,10 @@
 
 ## C#
 
+* 【2024-01-16】[undreamai / LLMUnity](https://github.com/undreamai/LLMUnity) - Integrate LLM models in Unity!
+* 【2024-01-16】[glzr-io / glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
+* 【2024-01-16】[0xthirteen / SharpRDP](https://github.com/0xthirteen/SharpRDP) - Remote Desktop Protocol .NET Console Application for Authenticated Command Execution
+* 【2024-01-16】[GeneralLibrary / GeneralUpdate](https://github.com/GeneralLibrary/GeneralUpdate) - My ship looks old, who can help me upgrade it.
 * 【2024-01-15】[Squidex / squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
 * 【2024-01-15】[microsoft / xbox-multiplayer-analysis-tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool) - Xbox Multiplayer Analysis Tool is a network traffic capturing tool to aid in the debugging of Xbox services issues and other network traffic from both a PC and Xbox development console.
 * 【2024-01-14】[shimat / opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
@@ -5194,6 +5220,9 @@
 
 ## Html
 
+* 【2024-01-16】[Sha1rholder / use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
+* 【2024-01-16】[kevin-powell / funky-nav](https://github.com/kevin-powell/funky-nav) - 
+* 【2024-01-16】[iinc0gnit0 / BlackPhish](https://github.com/iinc0gnit0/BlackPhish) - 🔱 [ Phishing Made Easy ] 🔱 (In Beta)
 * 【2024-01-15】[Chr1skyy / Egzamin-Zawodowy-E14-EE09-INF03](https://github.com/Chr1skyy/Egzamin-Zawodowy-E14-EE09-INF03) - 
 * 【2024-01-15】[EricksonAtHome / blackeye](https://github.com/EricksonAtHome/blackeye) - BLACKEYE v2.0 | New Phishing tool with localtunnel
 * 【2024-01-14】[mawerty / Is-Prime](https://github.com/mawerty/Is-Prime) - O(1) Algorithm to check if number is prime that works in 95%+ cases.
@@ -5726,6 +5755,8 @@
 
 ## Css
 
+* 【2024-01-16】[moelzanaty3 / react-18-workshop](https://github.com/moelzanaty3/react-18-workshop) - The Boat you need to master React 18
+* 【2024-01-16】[Corrupteddisk / SpotifycloneWeb](https://github.com/Corrupteddisk/SpotifycloneWeb) - I'm trying to make a clone of Spotify using HTML,CSS,Javascript.
 * 【2024-01-15】[vishaltewatia / Thankyoubook](https://github.com/vishaltewatia/Thankyoubook) - 
 * 【2024-01-14】[shelcia / dynamic-portfolio](https://github.com/shelcia/dynamic-portfolio) - Dynamic Portfolio helps you create simple websites by just filling out forms.
 * 【2024-01-14】[HansNewbie / hansnewbie.github.io](https://github.com/HansNewbie/hansnewbie.github.io) - My page to list stuff that I kind of make as hobby 😄
@@ -6301,6 +6332,14 @@
 
 ## Unknown
 
+* 【2024-01-16】[KAIST-VICLab / FMA-Net](https://github.com/KAIST-VICLab/FMA-Net) - 
+* 【2024-01-16】[Learn-with-Sumit / rnext](https://github.com/Learn-with-Sumit/rnext) - Central Code Repository - Reactive Accelerator React-Next.js course by Learn with Sumit
+* 【2024-01-16】[razetime / ngn-k-tutorial](https://github.com/razetime/ngn-k-tutorial) - An ngn/k tutorial.
+* 【2024-01-16】[tachiyomiorg / tachiyomi-preview](https://github.com/tachiyomiorg/tachiyomi-preview) - Tachiyomi preview build repo.
+* 【2024-01-16】[lfranke / TRIPS](https://github.com/lfranke/TRIPS) - 
+* 【2024-01-16】[pluja / awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+* 【2024-01-16】[daniloraisi / go-ahead](https://github.com/daniloraisi/go-ahead) - Projeto Go Ahead
+* 【2024-01-16】[Rem0o / FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 * 【2024-01-15】[danielmiessler / fabric](https://github.com/danielmiessler/fabric) - An AI Augmentation framework for helping people integrate AI into their lives.
 * 【2024-01-15】[cloudcommunity / Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 * 【2024-01-15】[rolik1337 / CryptoTradeAI](https://github.com/rolik1337/CryptoTradeAI) - Detailed installation guide for this software is available on my Telegram
