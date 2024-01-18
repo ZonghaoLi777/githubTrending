@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-01-18】[aliyunvideo / MONE_demo_opensource_android](https://github.com/aliyunvideo/MONE_demo_opensource_android) - 阿里视频云终端SDK UI组件及demo
 * 【2024-01-17】[isHarryh / Ark-Pets](https://github.com/isHarryh/Ark-Pets) - Arknights Desktop Pets | 明日方舟桌宠
 * 【2024-01-16】[linlinjava / litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 * 【2024-01-16】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
@@ -826,6 +827,12 @@
 
 ## Python
 
+* 【2024-01-18】[marcnewlin / hi_my_name_is_keyboard](https://github.com/marcnewlin/hi_my_name_is_keyboard) - 
+* 【2024-01-18】[fishaudio / fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
+* 【2024-01-18】[Andre0512 / hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages.
+* 【2024-01-18】[xaitax / SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.
+* 【2024-01-18】[piddnad / DDColor](https://github.com/piddnad/DDColor) - [ICCV 2023] Official implementation of "DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders"
+* 【2024-01-18】[EmbraceAGI / LangGPT](https://github.com/EmbraceAGI/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 * 【2024-01-17】[microsoft / JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 * 【2024-01-17】[drunkdream / weread-exporter](https://github.com/drunkdream/weread-exporter) - 将微信读书中的书籍导出成epub、pdf、mobi等格式
 * 【2024-01-17】[BRlkl / AGI-Samantha](https://github.com/BRlkl/AGI-Samantha) - AGI has been achieved externally
@@ -1896,6 +1903,9 @@
 
 ## Javascript
 
+* 【2024-01-18】[module-federation / module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
+* 【2024-01-18】[postmanlabs / newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
+* 【2024-01-18】[isanchop / stuhack](https://github.com/isanchop/stuhack) - Chrome extension for studocu premium free
 * 【2024-01-16】[Starlk7 / Magiceden-Launchpad-Bot](https://github.com/Starlk7/Magiceden-Launchpad-Bot) - Bot for mint on Magiceden Launchpad in Solana and BTC networks
 * 【2024-01-16】[LNReader / lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 * 【2024-01-16】[YouTransfer / YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
@@ -2654,6 +2664,7 @@
 
 ## Go
 
+* 【2024-01-18】[JoyalAJohney / Realtime-Distributed-Chat](https://github.com/JoyalAJohney/Realtime-Distributed-Chat) - High throughput 🚀 low latency - realtime chat built in Go and React ❤️
 * 【2024-01-17】[FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 * 【2024-01-16】[dutchcoders / transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 * 【2024-01-16】[loxilb-io / loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
@@ -3388,6 +3399,9 @@
 
 ## C
 
+* 【2024-01-18】[TheWover / donut](https://github.com/TheWover/donut) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
+* 【2024-01-18】[ginsudev / YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) - The best tweak for YouTube Music iOS.
+* 【2024-01-18】[Seneca-144100 / IPC-Workshops](https://github.com/Seneca-144100/IPC-Workshops) - 
 * 【2024-01-17】[limine-bootloader / limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.
 * 【2024-01-17】[c22dev / Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner and Superviser for TrollStore
 * 【2024-01-17】[amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
@@ -4025,6 +4039,7 @@
 
 ## C++
 
+* 【2024-01-18】[eclipse-iceoryx / iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - Eclipse iceoryx™ - true zero-copy inter-process-communication
 * 【2024-01-17】[Wh04m1001 / CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) - 
 * 【2024-01-17】[ThePhD / sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 * 【2024-01-17】[interpretml / interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
@@ -4638,6 +4653,7 @@
 
 ## C#
 
+* 【2024-01-18】[bflattened / bflat](https://github.com/bflattened/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 * 【2024-01-17】[ariacom / Seal-Report](https://github.com/ariacom/Seal-Report) - Open Database Reporting Tool (.Net)
 * 【2024-01-17】[DeEpinGh0st / WindowsBaselineAssistant](https://github.com/DeEpinGh0st/WindowsBaselineAssistant) - Windows安全基线核查加固助手
 * 【2024-01-17】[Adamant-im / adamant-notificationService](https://github.com/Adamant-im/adamant-notificationService) - ADAMANT push Notification Service for iOS Messenger app
@@ -5243,6 +5259,7 @@
 
 ## Html
 
+* 【2024-01-18】[iuricode / recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimento
 * 【2024-01-17】[BitgetLimited / v3-bitget-api-sdk](https://github.com/BitgetLimited/v3-bitget-api-sdk) - 
 * 【2024-01-17】[Mr-xn / Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
 * 【2024-01-16】[Sha1rholder / use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
@@ -5780,6 +5797,14 @@
 
 ## Css
 
+* 【2024-01-18】[KubeDev / kube-news](https://github.com/KubeDev/kube-news) - 
+* 【2024-01-18】[rolling-scopes-school / HTML-builder](https://github.com/rolling-scopes-school/HTML-builder) - 
+* 【2024-01-18】[AI-ANK / C3-Voice-Assistant-UI](https://github.com/AI-ANK/C3-Voice-Assistant-UI) - 
+* 【2024-01-18】[Rahulvaishnav9 / Login-Page-Again](https://github.com/Rahulvaishnav9/Login-Page-Again) - 
+* 【2024-01-18】[danihek / Themecord](https://github.com/danihek/Themecord) - Discord theme will always match your wallpaper!
+* 【2024-01-18】[digitalinnovationone / js-emoji-memory-game](https://github.com/digitalinnovationone/js-emoji-memory-game) - Um jogo da memória criado com JS Vanilla
+* 【2024-01-18】[learntocloud / learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
+* 【2024-01-18】[framgia / framgia.github.io](https://github.com/framgia/framgia.github.io) - 
 * 【2024-01-17】[codedamn-classrooms / react-vite-playground](https://github.com/codedamn-classrooms/react-vite-playground) - 
 * 【2024-01-17】[Sriparno08 / Openpedia](https://github.com/Sriparno08/Openpedia) - The Open Source Guide!
 * 【2024-01-17】[swarnade / webdesign-switch](https://github.com/swarnade/webdesign-switch) - An Website Where Develop can Copy The Design Of Various Button And Implement It In Their Site
@@ -6363,6 +6388,11 @@
 
 ## Unknown
 
+* 【2024-01-18】[darknet-onion-links / darknet-onion-links-catalog](https://github.com/darknet-onion-links/darknet-onion-links-catalog) - TOR DARKENET
+* 【2024-01-18】[1003715231 / gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.
+* 【2024-01-18】[lzw-lzw / LEGO](https://github.com/lzw-lzw/LEGO) - LEGO:Language-Enhanced Multi-modal Grounding Model
+* 【2024-01-18】[pilsonguitars / centrifugalDustSeparator](https://github.com/pilsonguitars/centrifugalDustSeparator) - Centrifugal Dust Separator
+* 【2024-01-18】[ruesandora / BEVM](https://github.com/ruesandora/BEVM) - 
 * 【2024-01-17】[danieldurnea / FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 * 【2024-01-17】[Haxxnet / Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 * 【2024-01-17】[Wechat-ggGitHub / Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
