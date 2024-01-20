@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-01-20】[houbb / sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
+* 【2024-01-20】[mymagicpower / AIAS](https://github.com/mymagicpower/AIAS) - AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。
 * 【2024-01-19】[86dbs / dbsyncer](https://github.com/86dbs/dbsyncer) - DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
 * 【2024-01-18】[aliyunvideo / MONE_demo_opensource_android](https://github.com/aliyunvideo/MONE_demo_opensource_android) - 阿里视频云终端SDK UI组件及demo
 * 【2024-01-17】[isHarryh / Ark-Pets](https://github.com/isHarryh/Ark-Pets) - Arknights Desktop Pets | 明日方舟桌宠
@@ -828,6 +830,15 @@
 
 ## Python
 
+* 【2024-01-20】[google-deepmind / alphageometry](https://github.com/google-deepmind/alphageometry) - 
+* 【2024-01-20】[VRSEN / agency-swarm](https://github.com/VRSEN/agency-swarm) - 
+* 【2024-01-20】[sgl-project / sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
+* 【2024-01-20】[apple / ml-aim](https://github.com/apple/ml-aim) - This repository provides the code and model checkpoints of the research paper: Scalable Pre-training of Large Autoregressive Image Models
+* 【2024-01-20】[Ciphey / Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+* 【2024-01-20】[ZHO-ZHO-ZHO / ComfyUI-PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker) - Unofficial implementation of PhotoMaker for ComfyUI
+* 【2024-01-20】[msd0pe-1 / cve-maker](https://github.com/msd0pe-1/cve-maker) - Tool to find CVEs and Exploits.
+* 【2024-01-20】[hitsz-ids / synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator) - 专注于结构化表格数据快速生成合成数据的组件
+* 【2024-01-20】[KasperskyLab / iShutdown](https://github.com/KasperskyLab/iShutdown) - 
 * 【2024-01-19】[RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 * 【2024-01-19】[gnuboard / g6](https://github.com/gnuboard/g6) - 
 * 【2024-01-19】[can-kat / cstealer](https://github.com/can-kat/cstealer) - [BIG UPDATE] A discord token grabber, crypto wallet stealer, cookie stealer, password stealer, file stealer etc. app written in Python.
@@ -1907,6 +1918,10 @@
 
 ## Javascript
 
+* 【2024-01-20】[suyalcinkaya / onur.dev](https://github.com/suyalcinkaya/onur.dev) - ✦ My personal website built using Next.js, Tailwind CSS, shadcn/ui, Contentful, Raindrop, Supabase and deployed on Vercel.
+* 【2024-01-20】[31b4 / Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
+* 【2024-01-20】[aFarkas / lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+* 【2024-01-20】[nhn / tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 * 【2024-01-19】[kleampa / not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 * 【2024-01-19】[Shopify / eng-intern-assessment-react](https://github.com/Shopify/eng-intern-assessment-react) - A Starter repo for Shopify React Intern assessments
 * 【2024-01-19】[MrXujiang / h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.
@@ -2675,6 +2690,8 @@
 
 ## Go
 
+* 【2024-01-20】[yeasy / docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+* 【2024-01-20】[bufbuild / protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate
 * 【2024-01-19】[arpitbbhayani / database-fundamentals](https://github.com/arpitbbhayani/database-fundamentals) - Prototype implementations of database internal concepts and algorithms.
 * 【2024-01-19】[nicocha30 / ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 * 【2024-01-19】[kffl / speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable, yet predictable network latency 🌐⏳
@@ -3414,6 +3431,9 @@
 
 ## C
 
+* 【2024-01-20】[kparc / ksimple](https://github.com/kparc/ksimple) - bare minimum atw-style interpreter for learning purposes
+* 【2024-01-20】[janoglezcampos / llvm-yx-callobfuscator](https://github.com/janoglezcampos/llvm-yx-callobfuscator) - LLVM plugin to transparently apply stack spoofing and indirect syscalls to Windows x64 native calls at compile time.
+* 【2024-01-20】[google / sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * 【2024-01-19】[sched-ext / scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 * 【2024-01-19】[SecWiki / windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits Windows平台提权漏洞集合
 * 【2024-01-19】[buzzm / postgresbson](https://github.com/buzzm/postgresbson) - postgres support for BSON
@@ -4057,6 +4077,7 @@
 
 ## C++
 
+* 【2024-01-20】[inferflow / inferflow](https://github.com/inferflow/inferflow) - Inferflow is an efficient and highly configurable inference engine for large language models (LLMs).
 * 【2024-01-19】[apple / foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 * 【2024-01-19】[JakubMelka / PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
 * 【2024-01-18】[eclipse-iceoryx / iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - Eclipse iceoryx™ - true zero-copy inter-process-communication
@@ -4673,6 +4694,8 @@
 
 ## C#
 
+* 【2024-01-20】[HaveIBeenPwned / PwnedPasswordsDownloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) - A tool to download all Pwned Passwords hash ranges and save them offline so they can be used without a dependency on the k-anonymity API
+* 【2024-01-20】[Sophia-Community / SophiApp](https://github.com/Sophia-Community/SophiApp) - ⚡ The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 * 【2024-01-18】[bflattened / bflat](https://github.com/bflattened/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 * 【2024-01-17】[ariacom / Seal-Report](https://github.com/ariacom/Seal-Report) - Open Database Reporting Tool (.Net)
 * 【2024-01-17】[DeEpinGh0st / WindowsBaselineAssistant](https://github.com/DeEpinGh0st/WindowsBaselineAssistant) - Windows安全基线核查加固助手
@@ -5279,6 +5302,10 @@
 
 ## Html
 
+* 【2024-01-20】[alura-es-cursos / 2034-logica-programacion-1](https://github.com/alura-es-cursos/2034-logica-programacion-1) - Curso de lógica de programación 1 - Alura Latam
+* 【2024-01-20】[bmacGTPM / 361-Spring-2024](https://github.com/bmacGTPM/361-Spring-2024) - 
+* 【2024-01-20】[samber / awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
+* 【2024-01-20】[OCA / project](https://github.com/OCA/project) - Odoo Project Management and Services Company Addons
 * 【2024-01-19】[rvaidun / befake](https://github.com/rvaidun/befake) - view bereals without posting your own :)
 * 【2024-01-19】[cstate / cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 * 【2024-01-19】[vasturiano / react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
@@ -5820,6 +5847,13 @@
 
 ## Css
 
+* 【2024-01-20】[msys2 / msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
+* 【2024-01-20】[UPay-USDT / USDT-Payment-Gateway](https://github.com/UPay-USDT/USDT-Payment-Gateway) - UPay - USDT Payment Gateway (USDT 收款支付网关)
+* 【2024-01-20】[Comfy-Themes / Discord](https://github.com/Comfy-Themes/Discord) - Stay comfy while talking to your friends
+* 【2024-01-20】[openscholar / starterkit](https://github.com/openscholar/starterkit) - starterkit
+* 【2024-01-20】[Abhinav-26 / DevOps-Projects](https://github.com/Abhinav-26/DevOps-Projects) - The repository contains beginner friendly DevOps projects for automating stuffs using DevOps concepts.
+* 【2024-01-20】[creativetimofficial / argon-dashboard-asp-net](https://github.com/creativetimofficial/argon-dashboard-asp-net) - Start your development with a Bootstrap 4 Admin Dashboard built for ASP.NET Core framework, the newest go-to technology from Microsoft for top companies.
+* 【2024-01-20】[liangjingkanji / DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 * 【2024-01-19】[CodeSpace-Academy / sdf-student-projects](https://github.com/CodeSpace-Academy/sdf-student-projects) - 
 * 【2024-01-19】[monstrousdev / themes](https://github.com/monstrousdev/themes) - Discord themes
 * 【2024-01-18】[KubeDev / kube-news](https://github.com/KubeDev/kube-news) - 
@@ -6413,6 +6447,12 @@
 
 ## Unknown
 
+* 【2024-01-20】[Vaibhavs10 / open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) - 
+* 【2024-01-20】[Lucaslhm / Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
+* 【2024-01-20】[xiaohucode / yidaRule](https://github.com/xiaohucode/yidaRule) - yida规则仓库
+* 【2024-01-20】[ashishps1 / awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - This repository contains tips and resources to prepare for behavioral interviews.
+* 【2024-01-20】[alsyundawy / Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer & Activited Microsoft Office For MacOS
+* 【2024-01-20】[guiqui / k8Studio](https://github.com/guiqui/k8Studio) - K8 Studio
 * 【2024-01-19】[Ostorlab / KEV](https://github.com/Ostorlab/KEV) - Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
 * 【2024-01-19】[quoctinnguyen8 / Clean-Code---Tieng-Viet](https://github.com/quoctinnguyen8/Clean-Code---Tieng-Viet) - Clean Code Tiếng Việt: Bản dịch 6 chương đầu từ quyển "Clean Code - A Handbook of Agile Software Craftsmanship" - Robert C. Martin et. al.
 * 【2024-01-19】[wgwang / awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型
