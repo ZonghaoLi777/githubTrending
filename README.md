@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2024-01-25】[jinho-yoo-jack / wanted-preonboarding-challenge-backend-16](https://github.com/jinho-yoo-jack/wanted-preonboarding-challenge-backend-16) - 원티드 프리온보딩 백엔드 챌린지 사전과제
+* 【2024-01-25】[GaoSSR / OnePRO](https://github.com/GaoSSR/OnePRO) - 轻量级算法驱动优惠叠加器
+* 【2024-01-25】[awsdocs / aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide) - Supplementary resources for the AWS Lambda Developer Guide
 * 【2024-01-24】[apache / commons-lang](https://github.com/apache/commons-lang) - Apache Commons Lang
 * 【2024-01-23】[spring-guides / gs-rest-service](https://github.com/spring-guides/gs-rest-service) - Building a RESTful Web Service :: Learn how to create a RESTful web service with Spring.
 * 【2024-01-23】[xspanger3770 / GlobalQuake](https://github.com/xspanger3770/GlobalQuake) - Experimental application for monitoring earthquakes world-wide in near real time. Capable of issuing its own earthquake early warnings (EEW).
@@ -835,6 +838,12 @@
 
 ## Python
 
+* 【2024-01-25】[LiheYoung / Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data
+* 【2024-01-25】[xNul / palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
+* 【2024-01-25】[sqlalchemy / sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
+* 【2024-01-25】[crowsonkb / k-diffusion](https://github.com/crowsonkb/k-diffusion) - Karras et al. (2022) diffusion models for PyTorch
+* 【2024-01-25】[InternLM / HuixiangDou](https://github.com/InternLM/HuixiangDou) - HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance
+* 【2024-01-25】[NattKh / PalWorld-Tools](https://github.com/NattKh/PalWorld-Tools) - 
 * 【2024-01-24】[lucidrains / self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch) - Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI
 * 【2024-01-24】[MzeroMiko / VMamba](https://github.com/MzeroMiko/VMamba) - VMamba: Visual State Space Models
 * 【2024-01-24】[GloriousEggroll / ULWGL](https://github.com/GloriousEggroll/ULWGL) - Unified Linux Wine Game Launcher
@@ -1951,6 +1960,8 @@
 
 ## Javascript
 
+* 【2024-01-25】[plasma-umass / scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
+* 【2024-01-25】[fouber / lottery](https://github.com/fouber/lottery) - 年会抽奖程序
 * 【2024-01-24】[tj / commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 * 【2024-01-24】[huanghanzhilian / c-shopping](https://github.com/huanghanzhilian/c-shopping) - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
 * 【2024-01-24】[artilleryio / artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
@@ -2735,6 +2746,8 @@
 
 ## Go
 
+* 【2024-01-25】[ffenix113 / zigbee_home](https://github.com/ffenix113/zigbee_home) - Project to provide functionality similar to ESPHome but for Zigbee instead of WiFi for nRF52
+* 【2024-01-25】[litmuschaos / litmus](https://github.com/litmuschaos/litmus) - Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
 * 【2024-01-24】[goravel / goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 * 【2024-01-23】[apernet / OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
 * 【2024-01-23】[singchia / geminio](https://github.com/singchia/geminio) - ♊️ An application layer networking framework with rpc, bidirectional-rpc, multiplexer, raw-io and client-server consistency. 一个Go的应用层网络编程库，支持消息和确认、RPC、双向RPC、多路复用、多会话管理等
@@ -3484,6 +3497,11 @@
 
 ## C
 
+* 【2024-01-25】[RedSiege / GraphStrike](https://github.com/RedSiege/GraphStrike) - Cobalt Strike HTTPS beaconing over Microsoft Graph API
+* 【2024-01-25】[Maldev-Academy / RemoteTLSCallbackInjection](https://github.com/Maldev-Academy/RemoteTLSCallbackInjection) - Utilizing TLS callbacks to execute a payload without spawning any threads in a remote process
+* 【2024-01-25】[the-tcpdump-group / libpcap](https://github.com/the-tcpdump-group/libpcap) - the LIBpcap interface to various kernel packet capture mechanism
+* 【2024-01-25】[osqzss / gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) - Software-Defined GPS Signal Simulator
+* 【2024-01-25】[Nassim-Asrir / ZDI-24-020](https://github.com/Nassim-Asrir/ZDI-24-020) - 
 * 【2024-01-24】[openucx / ucx](https://github.com/openucx/ucx) - Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 * 【2024-01-22】[Awesome-HarmonyOS / HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 * 【2024-01-21】[AnonymousAAArdvark / qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
@@ -4761,6 +4779,9 @@
 
 ## C#
 
+* 【2024-01-25】[dusrdev / Sharpify](https://github.com/dusrdev/Sharpify) - A collection of high performance language extensions for C#
+* 【2024-01-25】[UglyToad / PdfPig](https://github.com/UglyToad/PdfPig) - Read and extract text and other content from PDFs in C# (port of PDFBox)
+* 【2024-01-25】[ardalis / Specification](https://github.com/ardalis/Specification) - Base class with tests for adding specifications to a DDD model
 * 【2024-01-24】[Mapsui / Mapsui](https://github.com/Mapsui/Mapsui) - Mapsui is a .NET Map component for: MAUI, WPF, Avalonia, Uno, Blazor, WinUI, Xamarin and Eto
 * 【2024-01-24】[t1m0thyj / WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows 10
 * 【2024-01-24】[mattpannella / pupdate](https://github.com/mattpannella/pupdate) - Pupdate - A thing for updating your Analogue Pocket
@@ -5383,6 +5404,8 @@
 
 ## Html
 
+* 【2024-01-25】[vovannat / darknet-markets-links](https://github.com/vovannat/darknet-markets-links) - A verified list of darknet markets and services with links for educational reference.
+* 【2024-01-25】[novice88 / jetbra](https://github.com/novice88/jetbra) - An activation tool for jetbrains family products,including plugins
 * 【2024-01-24】[expressjs / expressjs.com](https://github.com/expressjs/expressjs.com) - 
 * 【2024-01-22】[alura-es-cursos / js-curso-2](https://github.com/alura-es-cursos/js-curso-2) - 
 * 【2024-01-22】[nicknochnack / MLTradingBot](https://github.com/nicknochnack/MLTradingBot) - 
@@ -5933,6 +5956,7 @@
 
 ## Css
 
+* 【2024-01-25】[alura-cursos / spotify-imersao](https://github.com/alura-cursos/spotify-imersao) - 
 * 【2024-01-24】[alura-es-cursos / 2035-logica-programacion-2](https://github.com/alura-es-cursos/2035-logica-programacion-2) - Curso de lógica de programación 2 - Alura Latam
 * 【2024-01-24】[100xdevs-cohort-2 / paytm](https://github.com/100xdevs-cohort-2/paytm) - 
 * 【2024-01-24】[eliyantosarage / font-awesome-pro](https://github.com/eliyantosarage/font-awesome-pro) - CDN Font Awesome Pro v6.5.1 for Dekstop & Web
@@ -6542,6 +6566,11 @@
 
 ## Unknown
 
+* 【2024-01-25】[mayaracardoso / spotify-imersao](https://github.com/mayaracardoso/spotify-imersao) - 
+* 【2024-01-25】[ai-boost / awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.
+* 【2024-01-25】[drshahizan / SLR-FC](https://github.com/drshahizan/SLR-FC) - Systematic Literature Review (SLR) Using AI
+* 【2024-01-25】[janvinsha / gooutwithme](https://github.com/janvinsha/gooutwithme) - 
+* 【2024-01-25】[NVIDIAGameWorks / rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime
 * 【2024-01-24】[mozilla / platform-tilt](https://github.com/mozilla/platform-tilt) - Tracking issues which disadvantage Firefox relative to first-party browsers on major software platforms.
 * 【2024-01-24】[aigc3d / motionshop](https://github.com/aigc3d/motionshop) - MotionShop: An application of replacing the human motion in the video with a virtual 3D human
 * 【2024-01-24】[DaoD / INTERS](https://github.com/DaoD/INTERS) - This is the repository for our paper "INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning"
