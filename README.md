@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-01-28】[assertj / assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
 * 【2024-01-27】[Ishan-sinha / DSA-for-SDE-interview](https://github.com/Ishan-sinha/DSA-for-SDE-interview) - This repository is aimed to contain all the questions required for SDE interview preparation from data structures and algorithms.
 * 【2024-01-25】[jinho-yoo-jack / wanted-preonboarding-challenge-backend-16](https://github.com/jinho-yoo-jack/wanted-preonboarding-challenge-backend-16) - 원티드 프리온보딩 백엔드 챌린지 사전과제
 * 【2024-01-25】[GaoSSR / OnePRO](https://github.com/GaoSSR/OnePRO) - 轻量级算法驱动优惠叠加器
@@ -839,6 +840,8 @@
 
 ## Python
 
+* 【2024-01-28】[cheahjs / palworld-save-tools](https://github.com/cheahjs/palworld-save-tools) - Tools for converting PalWorld .sav files to JSON and back
+* 【2024-01-28】[Mihaiii / llm_steer](https://github.com/Mihaiii/llm_steer) - Steer LLM outputs towards a certain topic/subject and enhance response capabilities using activation engineering by adding steering vectors
 * 【2024-01-27】[assafelovic / gpt-newspaper](https://github.com/assafelovic/gpt-newspaper) - 
 * 【2024-01-26】[YangLing0818 / RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster) - Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)
 * 【2024-01-26】[lamini-ai / prompt-engineering-open-llms](https://github.com/lamini-ai/prompt-engineering-open-llms) - 
@@ -1971,6 +1974,11 @@
 
 ## Javascript
 
+* 【2024-01-28】[lencx / Noi](https://github.com/lencx/Noi) - 🦄 AI + Tools + Plugins + Community
+* 【2024-01-28】[bpmn-io / bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
+* 【2024-01-28】[slackapi / slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action!
+* 【2024-01-28】[TheBeastLT / torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) - 
+* 【2024-01-28】[Keywos / rule](https://github.com/Keywos/rule) - Surge or Loon JavaScript
 * 【2024-01-27】[goenning / google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 * 【2024-01-27】[AlreadyBored / node-nodejs-basics](https://github.com/AlreadyBored/node-nodejs-basics) - 
 * 【2024-01-27】[mysqljs / mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
@@ -2764,6 +2772,10 @@
 
 ## Go
 
+* 【2024-01-28】[eosphoros-ai / liteio](https://github.com/eosphoros-ai/liteio) - LiteIO is a cloud-native block device service that uses multiple storage engines, including SPDK and LVM, to achieve high performance. It is specifically designed for Kubernetes in a hyper-converged architecture, allowing for block device provisioning across the entire cluster.
+* 【2024-01-28】[gorcon / rcon-cli](https://github.com/gorcon/rcon-cli) - RCON client for executing queries on game server.
+* 【2024-01-28】[projectdiscovery / interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
+* 【2024-01-28】[noovertime7 / kubemanage](https://github.com/noovertime7/kubemanage) - kubemanage是使用go+vue3开发的一款云原生运维平台，功能包括但不限于Kubernetes多集群管理、CMDB、Devops，可作为企业二次开发的模板，新手入门的学习项目
 * 【2024-01-26】[projectdiscovery / cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
 * 【2024-01-26】[boyter / scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 * 【2024-01-26】[ollama / ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
@@ -3518,6 +3530,8 @@
 
 ## C
 
+* 【2024-01-28】[henrypp / memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
+* 【2024-01-28】[rhboot / shim](https://github.com/rhboot/shim) - UEFI shim loader
 * 【2024-01-27】[floesen / EventLogCrasher](https://github.com/floesen/EventLogCrasher) - 
 * 【2024-01-27】[libdriver / bmp280](https://github.com/libdriver/bmp280) - BMP280 full function driver library for general MCU and Linux.
 * 【2024-01-27】[pschatzmann / arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
@@ -4181,6 +4195,7 @@
 
 ## C++
 
+* 【2024-01-28】[zodiacon / QuickAsm](https://github.com/zodiacon/QuickAsm) - 
 * 【2024-01-27】[localcc / PalworldModdingKit](https://github.com/localcc/PalworldModdingKit) - A modding kit for Palworld
 * 【2024-01-27】[radj307 / ARRCON](https://github.com/radj307/ARRCON) - Lightweight Source RCON client that works on Windows, macOS, & Linux.
 * 【2024-01-26】[swordbluesword / PalWorld-NetCrack](https://github.com/swordbluesword/PalWorld-NetCrack) - 
@@ -4810,6 +4825,8 @@
 
 ## C#
 
+* 【2024-01-28】[rmcrackan / Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
+* 【2024-01-28】[setchi / FancyScrollView](https://github.com/setchi/FancyScrollView) - [Unity] Scroll view component that can implement highly flexible animations.
 * 【2024-01-27】[shr670377723 / CommunityServer-master](https://github.com/shr670377723/CommunityServer-master) - 
 * 【2024-01-27】[sebastienros / jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
 * 【2024-01-27】[ddakebono / PalworldRcon](https://github.com/ddakebono/PalworldRcon) - Simple WPF/.net 7 Rcon tool for Palworld Dedicated Servers
@@ -5439,6 +5456,9 @@
 
 ## Html
 
+* 【2024-01-28】[Shivraj-Chavan / DigitalAnalogCLock](https://github.com/Shivraj-Chavan/DigitalAnalogCLock) - 
+* 【2024-01-28】[addyosmani / essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns) - Repo for my 'Learning JavaScript Design Patterns' book
+* 【2024-01-28】[vidio-boy / Eaglercraft1.8.8](https://github.com/vidio-boy/Eaglercraft1.8.8) - Eaglercraft 1.8.8 javascript runtime. Multiplayer worlds available. Customizable profile, skins, settings, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available.
 * 【2024-01-27】[lumiere-video / lumiere-video.github.io](https://github.com/lumiere-video/lumiere-video.github.io) - 
 * 【2024-01-27】[Corgea / retriever](https://github.com/Corgea/retriever) - Secure secret sharing through the browser using web crypto. No server required!
 * 【2024-01-26】[huangjch526 / IFAST_official](https://github.com/huangjch526/IFAST_official) - 
@@ -5995,6 +6015,10 @@
 
 ## Css
 
+* 【2024-01-28】[tcmmichaelb139 / obsidian-tokyonight](https://github.com/tcmmichaelb139/obsidian-tokyonight) - Tokyo Night theme for Obsidian
+* 【2024-01-28】[Ritwika-14 / CoupEarn](https://github.com/Ritwika-14/CoupEarn) - Earn by selling your unused coupons.
+* 【2024-01-28】[calcom / font](https://github.com/calcom/font) - The home for our Cal Sans font.
+* 【2024-01-28】[NightProxy / Night](https://github.com/NightProxy/Night) - Night is a speeding proxy with several customizable features and easy deployment.
 * 【2024-01-27】[shr670377723 / CMSSYSTEM](https://github.com/shr670377723/CMSSYSTEM) - 
 * 【2024-01-27】[devcows / hugo-universal-theme](https://github.com/devcows/hugo-universal-theme) - Universal theme for Hugo, it stands out with its clean design and elegant typography.
 * 【2024-01-27】[ironhack-labs / lab-js-countdown](https://github.com/ironhack-labs/lab-js-countdown) - 
@@ -6611,6 +6635,9 @@
 
 ## Unknown
 
+* 【2024-01-28】[burpheart / Palworld-Reverse-Note](https://github.com/burpheart/Palworld-Reverse-Note) - Palworld SAVE Reverse Note / 幻兽帕鲁逆向笔记
+* 【2024-01-28】[passivestar / godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot minimal editor theme
+* 【2024-01-28】[mozilla / gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 * 【2024-01-27】[Anil-matcha / Top-GPTs](https://github.com/Anil-matcha/Top-GPTs) - Run popular GPTs without the need for ChatGPT Plus subscription
 * 【2024-01-27】[microsoft / AI-Chat-App-Hack](https://github.com/microsoft/AI-Chat-App-Hack) - HackTogether: The Microsoft Python Chatbot Hack | Register, Hack, Win
 * 【2024-01-26】[praveen1994dec / Knowledge_Base](https://github.com/praveen1994dec/Knowledge_Base) - This repository all all the tools related documents for your reference
