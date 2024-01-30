@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-01-30】[MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 * 【2024-01-28】[assertj / assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
 * 【2024-01-27】[Ishan-sinha / DSA-for-SDE-interview](https://github.com/Ishan-sinha/DSA-for-SDE-interview) - This repository is aimed to contain all the questions required for SDE interview preparation from data structures and algorithms.
 * 【2024-01-25】[jinho-yoo-jack / wanted-preonboarding-challenge-backend-16](https://github.com/jinho-yoo-jack/wanted-preonboarding-challenge-backend-16) - 원티드 프리온보딩 백엔드 챌린지 사전과제
@@ -840,6 +841,11 @@
 
 ## Python
 
+* 【2024-01-30】[Fanghua-Yu / SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild
+* 【2024-01-30】[aitrepreneur / INSTID](https://github.com/aitrepreneur/INSTID) - 
+* 【2024-01-30】[video-db / StreamRAG](https://github.com/video-db/StreamRAG) - Video Search and Streaming Agent 🕵️‍♂️
+* 【2024-01-30】[sczhou / CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+* 【2024-01-30】[wxywb / history_rag](https://github.com/wxywb/history_rag) - 
 * 【2024-01-29】[Ucas-HaoranWei / Vary-toy](https://github.com/Ucas-HaoranWei/Vary-toy) - Official code implementation of Vary-toy (Small Language Model Meets with Reinforced Vision Vocabulary)
 * 【2024-01-29】[simonw / llm](https://github.com/simonw/llm) - Access large language models from the command-line
 * 【2024-01-29】[zhuyiche / llava-phi](https://github.com/zhuyiche/llava-phi) - 
@@ -1980,6 +1986,8 @@
 
 ## Javascript
 
+* 【2024-01-30】[0x648 / luna-ai](https://github.com/0x648/luna-ai) - Luna AI - 全自动的 AI 直播系统
+* 【2024-01-30】[getsomecat / GetSomeCats](https://github.com/getsomecat/GetSomeCats) - 
 * 【2024-01-29】[amin4139 / share_file](https://github.com/amin4139/share_file) - 
 * 【2024-01-29】[chrisgoringe / cg-use-everywhere](https://github.com/chrisgoringe/cg-use-everywhere) - 
 * 【2024-01-29】[BretFisher / udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Docker Mastery Udemy course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
@@ -2783,6 +2791,11 @@
 
 ## Go
 
+* 【2024-01-30】[deanxv / coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理discord-bot，api调用coze-bot
+* 【2024-01-30】[markbates / goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
+* 【2024-01-30】[opusb / tpclash2](https://github.com/opusb/tpclash2) - 
+* 【2024-01-30】[bjdgyc / anylink](https://github.com/bjdgyc/anylink) - AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。
+* 【2024-01-30】[vdjagilev / nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
 * 【2024-01-29】[Hoshinonyaruko / palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
 * 【2024-01-29】[gwuhaolin / lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 * 【2024-01-28】[eosphoros-ai / liteio](https://github.com/eosphoros-ai/liteio) - LiteIO is a cloud-native block device service that uses multiple storage engines, including SPDK and LVM, to achieve high performance. It is specifically designed for Kubernetes in a hyper-converged architecture, allowing for block device provisioning across the entire cluster.
@@ -3543,6 +3556,8 @@
 
 ## C
 
+* 【2024-01-30】[KaisenAmin / c_std](https://github.com/KaisenAmin/c_std) - Implementation of C++ standard libraries in C
+* 【2024-01-30】[OpenIntelWireless / itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS
 * 【2024-01-29】[duck-sec / CVE-2023-28252-Compiled-exe](https://github.com/duck-sec/CVE-2023-28252-Compiled-exe) - A modification to fortra's CVE-2023-28252 exploit, compiled to exe
 * 【2024-01-29】[amd / xdna-driver](https://github.com/amd/xdna-driver) - 
 * 【2024-01-28】[henrypp / memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
@@ -4210,6 +4225,7 @@
 
 ## C++
 
+* 【2024-01-30】[cp-algorithms / cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
 * 【2024-01-29】[XRPLF / rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
 * 【2024-01-29】[SourMesen / Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, PCE, SMS/GG) for Windows, Linux and macOS
 * 【2024-01-29】[AlexanderDzhoganov / ComfyTextures](https://github.com/AlexanderDzhoganov/ComfyTextures) - Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models
@@ -4843,6 +4859,8 @@
 
 ## C#
 
+* 【2024-01-30】[am1goo / bloodseeker-unity](https://github.com/am1goo/bloodseeker-unity) - Easy-as-dumb toolkit to prevent any malicious injections in your Android app. Beware of cheaters!
+* 【2024-01-30】[jaquadro / NBTExplorer](https://github.com/jaquadro/NBTExplorer) - A graphical NBT editor for all Minecraft NBT data sources
 * 【2024-01-29】[FalconForceTeam / SOAPHound](https://github.com/FalconForceTeam/SOAPHound) - SOAPHound is a custom-developed .NET data collector tool which can be used to enumerate Active Directory environments via the Active Directory Web Services (ADWS) protocol.
 * 【2024-01-28】[rmcrackan / Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
 * 【2024-01-28】[setchi / FancyScrollView](https://github.com/setchi/FancyScrollView) - [Unity] Scroll view component that can implement highly flexible animations.
@@ -5475,6 +5493,11 @@
 
 ## Html
 
+* 【2024-01-30】[vnglst / pong-wars](https://github.com/vnglst/pong-wars) - 
+* 【2024-01-30】[arttoolkit / arttoolkit.github.io](https://github.com/arttoolkit/arttoolkit.github.io) - A RedTeam Toolkit
+* 【2024-01-30】[bitcoinbook / bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
+* 【2024-01-30】[rg35xx-cfw / rg35xx-cfw.github.io](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io) - RG35XX Custom Firmware Documentation
+* 【2024-01-30】[builtbybel / CoMachina](https://github.com/builtbybel/CoMachina) - 🤖🔥Your everyday local companion (inspired by Microsoft Copilot)
 * 【2024-01-29】[kanton-bern / hellodata-be](https://github.com/kanton-bern/hellodata-be) - The Open-Source Enterprise Data Platform in a single Portal
 * 【2024-01-29】[nota-lang / bene](https://github.com/nota-lang/bene) - An EPUB Reading System
 * 【2024-01-28】[Shivraj-Chavan / DigitalAnalogCLock](https://github.com/Shivraj-Chavan/DigitalAnalogCLock) - 
@@ -6036,6 +6059,7 @@
 
 ## Css
 
+* 【2024-01-30】[smolnp / IPTVru](https://github.com/smolnp/IPTVru) - IPTV лист на русском
 * 【2024-01-29】[kepano / flexoki-obsidian](https://github.com/kepano/flexoki-obsidian) - An inky color scheme for Obsidian
 * 【2024-01-29】[kenngigz / App-For-PC](https://github.com/kenngigz/App-For-PC) - App For Edit Photo And Video
 * 【2024-01-28】[tcmmichaelb139 / obsidian-tokyonight](https://github.com/tcmmichaelb139/obsidian-tokyonight) - Tokyo Night theme for Obsidian
@@ -6658,6 +6682,11 @@
 
 ## Unknown
 
+* 【2024-01-30】[Coder-World04 / Complete-Data-Analytics-with-Projects](https://github.com/Coder-World04/Complete-Data-Analytics-with-Projects) - This repository contains everything you need to become proficient in Data Analytics
+* 【2024-01-30】[BrodyYoung / awesome-admin](https://github.com/BrodyYoung/awesome-admin) - Awesome Admin Template. 优秀的后台管理框架
+* 【2024-01-30】[ssantosv / WSL-Handbook](https://github.com/ssantosv/WSL-Handbook) - Guía definitiva para Windows Subsystem for Linux
+* 【2024-01-30】[karnotxyz / avail-campaign-listing](https://github.com/karnotxyz/avail-campaign-listing) - 
+* 【2024-01-30】[quozd / awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 * 【2024-01-29】[gaganode / gaga_android_sdk](https://github.com/gaganode/gaga_android_sdk) - gaga_android_sdk
 * 【2024-01-29】[cmsc330spring24 / cmsc330spring24](https://github.com/cmsc330spring24/cmsc330spring24) - 
 * 【2024-01-29】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
