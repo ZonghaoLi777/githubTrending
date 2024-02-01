@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-02-01】[polymorphicshade / Tubular](https://github.com/polymorphicshade/Tubular) - 
+* 【2024-02-01】[mqttsnet / thinglinks](https://github.com/mqttsnet/thinglinks) - a high-performance, high-throughput, and highly scalable IoT platform! A single instance can support millions of connections. It offers powerful custom extension capabilities. Built with Netty as the communication layer component, it supports plugin-based development and integration!
 * 【2024-01-31】[theonedev / onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 * 【2024-01-30】[MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 * 【2024-01-28】[assertj / assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
@@ -842,6 +844,9 @@
 
 ## Python
 
+* 【2024-02-01】[PKU-YuanGroup / MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - Mixture-of-Experts for Large Vision-Language Models
+* 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
+* 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 * 【2024-01-31】[InkboxSoftware / excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 * 【2024-01-31】[kyegomez / MORPHEUS-1](https://github.com/kyegomez/MORPHEUS-1) - Implementation of "MORPHEUS-1" from Prophetic AI and "The world’s first multi-modal generative ultrasonic transformer designed to induce and stabilize lucid dreams. "
 * 【2024-01-31】[explodinggradients / ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
@@ -1991,6 +1996,10 @@
 
 ## Javascript
 
+* 【2024-02-01】[toolkit-for-ynab / toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+* 【2024-02-01】[cookpete / react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
+* 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
+* 【2024-02-01】[WilliamXu96 / ABP-MicroService](https://github.com/WilliamXu96/ABP-MicroService) - 基于abp微服务架构的低代码平台
 * 【2024-01-30】[0x648 / luna-ai](https://github.com/0x648/luna-ai) - Luna AI - 全自动的 AI 直播系统
 * 【2024-01-30】[getsomecat / GetSomeCats](https://github.com/getsomecat/GetSomeCats) - 
 * 【2024-01-29】[amin4139 / share_file](https://github.com/amin4139/share_file) - 
@@ -3562,6 +3571,8 @@
 
 ## C
 
+* 【2024-02-01】[chrismaltby / gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
+* 【2024-02-01】[boku7 / azureOutlookC2](https://github.com/boku7/azureOutlookC2) - Azure Outlook Command & Control (C2) - Remotely control a compromised Windows Device from your Outlook mailbox. Threat Emulation Tool for North Korean APT InkySquid / ScarCruft / APT37. TTP: Use Microsoft Graph API for C2 Operations.
 * 【2024-01-31】[analogdevicesinc / linux](https://github.com/analogdevicesinc/linux) - Linux kernel variant from Analog Devices; see README.md for details
 * 【2024-01-31】[Cracked5pider / Stardust](https://github.com/Cracked5pider/Stardust) - A modern 64-bit position independent implant template
 * 【2024-01-31】[tianocore / edk2-platforms](https://github.com/tianocore/edk2-platforms) - EDK II sample platform branches and tags
@@ -4234,6 +4245,9 @@
 
 ## C++
 
+* 【2024-02-01】[VeroFess / PalWorld-Server-Unoffical-Api](https://github.com/VeroFess/PalWorld-Server-Unoffical-Api) - A PalWorld Server API like minecraft bukkit, not finish yet
+* 【2024-02-01】[microsoft / vcpkg-tool](https://github.com/microsoft/vcpkg-tool) - Components of microsoft/vcpkg's binary.
+* 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 * 【2024-01-30】[cp-algorithms / cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
 * 【2024-01-29】[XRPLF / rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
 * 【2024-01-29】[SourMesen / Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, PCE, SMS/GG) for Windows, Linux and macOS
@@ -4868,6 +4882,11 @@
 
 ## C#
 
+* 【2024-02-01】[KirosHan / Palworld-server-protector-DotNet](https://github.com/KirosHan/Palworld-server-protector-DotNet) - Palworld幻兽帕鲁服务端守护+存档备份+内存监控+优雅重启+Rcon指令
+* 【2024-02-01】[elastic / apm-agent-dotnet](https://github.com/elastic/apm-agent-dotnet) - Elastic APM .NET Agent
+* 【2024-02-01】[mayuki / Rin](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core
+* 【2024-02-01】[victorfrye / microsoftgraveyard](https://github.com/victorfrye/microsoftgraveyard) - 🪦 The virtual graveyard for all products killed by Microsoft
+* 【2024-02-01】[open-rpa / openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
 * 【2024-01-31】[rasta-mouse / CsWhispers](https://github.com/rasta-mouse/CsWhispers) - Source generator to add D/Invoke and indirect syscall methods to a C# project.
 * 【2024-01-30】[am1goo / bloodseeker-unity](https://github.com/am1goo/bloodseeker-unity) - Easy-as-dumb toolkit to prevent any malicious injections in your Android app. Beware of cheaters!
 * 【2024-01-30】[jaquadro / NBTExplorer](https://github.com/jaquadro/NBTExplorer) - A graphical NBT editor for all Minecraft NBT data sources
@@ -6071,6 +6090,9 @@
 
 ## Css
 
+* 【2024-02-01】[AsmrProg-YT / Responsive-Music-Website](https://github.com/AsmrProg-YT/Responsive-Music-Website) - AsmrProg Youtube Channel Responsive Music Platform Design Source Code
+* 【2024-02-01】[TykTechnologies / tyk-dev-portal-quickstart](https://github.com/TykTechnologies/tyk-dev-portal-quickstart) - 
+* 【2024-02-01】[wancheng / forgetwall](https://github.com/wancheng/forgetwall) - a simple python blog
 * 【2024-01-31】[HoanghoDev / slider_1](https://github.com/HoanghoDev/slider_1) - 
 * 【2024-01-31】[MakerSpace-FRI-UTAustin / App2-HelloWorld](https://github.com/MakerSpace-FRI-UTAustin/App2-HelloWorld) - 
 * 【2024-01-31】[HashimThePassionate / django-for-absolute-beginners](https://github.com/HashimThePassionate/django-for-absolute-beginners) - Step by Step to Master Django
@@ -6698,6 +6720,13 @@
 
 ## Unknown
 
+* 【2024-02-01】[zksync / credo](https://github.com/zksync/credo) - 
+* 【2024-02-01】[redskycyber / Cloud-Security](https://github.com/redskycyber/Cloud-Security) - This Repo serves as a collection of shared security and penetration testing resources for the cloud.
+* 【2024-02-01】[Elfiinaa / ConfigFiles](https://github.com/Elfiinaa/ConfigFiles) - 
+* 【2024-02-01】[VB10 / staj_2024](https://github.com/VB10/staj_2024) - Yazılım alanında staj arayan gençlerin tek bir ses olup doğru alanda staj bulduğu repo
+* 【2024-02-01】[seifrajhi / awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools
+* 【2024-02-01】[B3o / GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt / Collect the prompt of GPTS
+* 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 * 【2024-01-31】[xlucn / oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
 * 【2024-01-31】[yuankong666 / Ultimate-RAT-Collection](https://github.com/yuankong666/Ultimate-RAT-Collection) - For educational purposes only, samples of old & new malware builders including screenshots!
 * 【2024-01-31】[HowProgrammingWorks / SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
