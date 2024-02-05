@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-02-05】[arduino / Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
+* 【2024-02-05】[apple / pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 * 【2024-02-04】[liyupi / yuzi-generator](https://github.com/liyupi/yuzi-generator) - 基于 React + Spring Boot + Picocli + 对象存储的代码生成器共享平台，又分为 3 个循序渐进的子项目：基于命令行的本地代码生成器 + 代码生成器制作工具 + 在线代码生成器平台。实践 Java 命令行应用开发、FreeMarker 模板引擎、多种设计模式、对象存储、十几种优化方法、复杂业务的拆解和系统设计、分布式任务调度系统、Vert.x 响应式编程等
 * 【2024-02-02】[xuchengsheng / wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - wx-dump-4j是一款基于Java开发的微信数据分析工具。它不仅可以准确显示您的好友数、群聊数和当日的消息总量，还提供了过去15天内的每日消息统计功能，让您清晰了解自己的社交活跃度。此外它还能够识别并展示最近一个月内与您互动最频繁的前10位联系人。它还支持导出微信的聊天记录、联系人和群聊信息，甚至可以查看超过三天限制的朋友圈历史记录。
 * 【2024-02-01】[polymorphicshade / Tubular](https://github.com/polymorphicshade/Tubular) - 
@@ -846,6 +848,14 @@
 
 ## Python
 
+* 【2024-02-05】[AbanteAI / rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
+* 【2024-02-05】[allenai / dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
+* 【2024-02-05】[allenai / open-instruct](https://github.com/allenai/open-instruct) - 
+* 【2024-02-05】[pallets / flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+* 【2024-02-05】[qtile / qtile](https://github.com/qtile/qtile) - 🍪 A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
+* 【2024-02-05】[allenai / OLMo-Eval](https://github.com/allenai/OLMo-Eval) - Evaluation suite for LLMs
+* 【2024-02-05】[JimLiu / gpt-games](https://github.com/JimLiu/gpt-games) - Build games with GPT
+* 【2024-02-05】[tuya / tuya-smart-life](https://github.com/tuya/tuya-smart-life) - Tuya Smart Life Home Assistant Integration
 * 【2024-02-04】[OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
 * 【2024-02-04】[allenai / OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 * 【2024-02-04】[Sanster / IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -2015,6 +2025,8 @@
 
 ## Javascript
 
+* 【2024-02-05】[sugarlabs / musicblocks](https://github.com/sugarlabs/musicblocks) - Music Blocks -- A musical microworld
+* 【2024-02-05】[tastejs / todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
 * 【2024-02-04】[alphagov / govuk-frontend](https://github.com/alphagov/govuk-frontend) - GOV.UK Frontend contains the code you need to start building a user interface for government platforms and services.
 * 【2024-02-04】[josStorer / chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 * 【2024-02-04】[mattboldt / typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
@@ -2832,6 +2844,7 @@
 
 ## Go
 
+* 【2024-02-05】[ava-labs / avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
 * 【2024-02-04】[snyk / leaky-vessels-static-detector](https://github.com/snyk/leaky-vessels-static-detector) - Static detection tool for runc and Docker "Leaky Vessels" vulnerabilities
 * 【2024-02-04】[glasskube / glasskube](https://github.com/glasskube/glasskube) - 🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and get automatic updates via a central public package repository.
 * 【2024-02-04】[gofireflyio / aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
@@ -3607,6 +3620,9 @@
 
 ## C
 
+* 【2024-02-05】[dankamongmen / notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
+* 【2024-02-05】[fmyyss / XNU_KERNEL_RESEARCH](https://github.com/fmyyss/XNU_KERNEL_RESEARCH) - 
+* 【2024-02-05】[karlstav / cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 * 【2024-02-04】[codeplea / genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
 * 【2024-02-04】[dgllghr / stanchion](https://github.com/dgllghr/stanchion) - A SQLite extension that brings column-oriented tables to SQLite
 * 【2024-02-04】[xCuri0 / ReBarUEFI](https://github.com/xCuri0/ReBarUEFI) - Resizable BAR for (almost) any UEFI system
@@ -4289,6 +4305,7 @@
 
 ## C++
 
+* 【2024-02-05】[finalburnneo / FBNeo](https://github.com/finalburnneo/FBNeo) - FinalBurn Neo - We are Team FBNeo.
 * 【2024-02-04】[versatica / mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 * 【2024-02-03】[bpftrace / bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 * 【2024-02-02】[RyuZhihao123 / CoralRugosity](https://github.com/RyuZhihao123/CoralRugosity) - A C++ software for coral rugosity computation (made for HKUST VGD).
@@ -4929,6 +4946,9 @@
 
 ## C#
 
+* 【2024-02-05】[vitoplantamura / HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals) - List of stories removed from the Hacker News Front Page, updated in real time.
+* 【2024-02-05】[TCKingCeryn / Darktide-40K-Unity-FullBody-FPS-Controller](https://github.com/TCKingCeryn/Darktide-40K-Unity-FullBody-FPS-Controller) - A completely refactored, Open Source Full Body FPS Controller. Inspired by Darktide and DISHONORED/ Dark Messiah, uses TWO armatures to layer Generic "Arms-Only" FPS Animations, without losing any of the "Full-Body" Animations underneath.
+* 【2024-02-05】[mpvnet-player / mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
 * 【2024-02-04】[jamesmh / coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
 * 【2024-02-04】[npgsql / npgsql](https://github.com/npgsql/npgsql) - Npgsql is the .NET data provider for PostgreSQL.
 * 【2024-02-03】[vallettasoftware / boilerplate-dotnet](https://github.com/vallettasoftware/boilerplate-dotnet) - A multifunctional enterprise HTTP API project template based on modern approaches and the latest version of .NET 8.
@@ -5579,6 +5599,7 @@
 
 ## Html
 
+* 【2024-02-05】[janraasch / hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 * 【2024-02-04】[lukin / keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
 * 【2024-02-04】[codrops / StickySections](https://github.com/codrops/StickySections) - Some ideas of how sticky sections can be animated while exiting the viewport.
 * 【2024-02-04】[tc39 / proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
@@ -6791,6 +6812,9 @@
 
 ## Unknown
 
+* 【2024-02-05】[abc123info / Struts2VulsScanTools](https://github.com/abc123info/Struts2VulsScanTools) - Struts2全版本漏洞检测工具 by:ABC_123
+* 【2024-02-05】[shivscaler / Nodejs-30-Days-Challenge-Scaler-Topics](https://github.com/shivscaler/Nodejs-30-Days-Challenge-Scaler-Topics) - 
+* 【2024-02-05】[Awesome-Windows / Awesome](https://github.com/Awesome-Windows/Awesome) - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
 * 【2024-02-04】[cmhungsteve / Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 * 【2024-02-04】[goldcoders / DSA](https://github.com/goldcoders/DSA) - Free Premium Books For Learning Data Structure and Algorithm
 * 【2024-02-04】[iggredible / Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
