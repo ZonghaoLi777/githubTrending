@@ -851,6 +851,12 @@
 
 ## Python
 
+* 【2024-02-07】[google / oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
+* 【2024-02-07】[FujiwaraChoki / MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviepPy.
+* 【2024-02-07】[segmind / segmoe](https://github.com/segmind/segmoe) - 
+* 【2024-02-07】[d60 / twikit](https://github.com/d60/twikit) - Twitter API wrapper for Python with **no API key required** | Without api key | Free | Twitter scraper | Twitter Bot
+* 【2024-02-07】[octaviovillegas / Curso_de_ingreso_PYTHON](https://github.com/octaviovillegas/Curso_de_ingreso_PYTHON) - Curso de ingreso en PYTHON
+* 【2024-02-07】[Stock-Fund / XCrawler](https://github.com/Stock-Fund/XCrawler) - 轻量型A股爬虫项目
 * 【2024-02-06】[nomic-ai / contrastors](https://github.com/nomic-ai/contrastors) - Train Models Contrastively in Pytorch
 * 【2024-02-06】[arcee-ai / mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 * 【2024-02-06】[Open-Wine-Components / ULWGL-launcher](https://github.com/Open-Wine-Components/ULWGL-launcher) - 
@@ -2033,6 +2039,9 @@
 
 ## Javascript
 
+* 【2024-02-07】[GovindCodes / ValentineWish](https://github.com/GovindCodes/ValentineWish) - Wish Valentine's Day to Your loved ones like a Nerd.
+* 【2024-02-07】[givanz / VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
+* 【2024-02-07】[gulpjs / gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 * 【2024-02-06】[burakorkmez / mern-chat-app](https://github.com/burakorkmez/mern-chat-app) - Real Time Chat App | MERN && Socket.io && JWT
 * 【2024-02-05】[sugarlabs / musicblocks](https://github.com/sugarlabs/musicblocks) - Music Blocks -- A musical microworld
 * 【2024-02-05】[tastejs / todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
@@ -2853,6 +2862,7 @@
 
 ## Go
 
+* 【2024-02-07】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 * 【2024-02-06】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 * 【2024-02-05】[ava-labs / avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
 * 【2024-02-04】[snyk / leaky-vessels-static-detector](https://github.com/snyk/leaky-vessels-static-detector) - Static detection tool for runc and Docker "Leaky Vessels" vulnerabilities
@@ -3630,6 +3640,9 @@
 
 ## C
 
+* 【2024-02-07】[stacksmashing / pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) - A simple, very experimental TPM sniffer for LPC bus
+* 【2024-02-07】[ARM-software / arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
+* 【2024-02-07】[umutsevdi / wear-pico](https://github.com/umutsevdi/wear-pico) - An open source Smartwatch firmware written in C for the Raspberry Pi Pico
 * 【2024-02-05】[dankamongmen / notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 * 【2024-02-05】[fmyyss / XNU_KERNEL_RESEARCH](https://github.com/fmyyss/XNU_KERNEL_RESEARCH) - 
 * 【2024-02-05】[karlstav / cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
@@ -4315,6 +4328,7 @@
 
 ## C++
 
+* 【2024-02-07】[libjxl / libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 * 【2024-02-05】[finalburnneo / FBNeo](https://github.com/finalburnneo/FBNeo) - FinalBurn Neo - We are Team FBNeo.
 * 【2024-02-04】[versatica / mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 * 【2024-02-03】[bpftrace / bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
@@ -5611,6 +5625,7 @@
 
 ## Html
 
+* 【2024-02-07】[chenzomi12 / DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 * 【2024-02-06】[jgm / djot](https://github.com/jgm/djot) - A light markup language
 * 【2024-02-05】[janraasch / hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 * 【2024-02-04】[lukin / keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
@@ -6828,6 +6843,10 @@
 
 ## Unknown
 
+* 【2024-02-07】[majidrezarahnavard / way_of_freedom](https://github.com/majidrezarahnavard/way_of_freedom) - methods to access free internet
+* 【2024-02-07】[JeffSackmann / tennis_atp](https://github.com/JeffSackmann/tennis_atp) - ATP Tennis Rankings, Results, and Stats
+* 【2024-02-07】[web-platform-tests / interop](https://github.com/web-platform-tests/interop) - web-platform-tests Interop project
+* 【2024-02-07】[BetterBench / BetterBench-Shop](https://github.com/BetterBench/BetterBench-Shop) - BetterBench 的面包多小店
 * 【2024-02-06】[3b1b / captions](https://github.com/3b1b/captions) - transcripts and captions for 3blue1brown videos
 * 【2024-02-06】[W01fh4cker / LearnJavaMemshellFromZero](https://github.com/W01fh4cker/LearnJavaMemshellFromZero) - 【原创】完全零基础从0到1掌握Java内存马，公众号：追梦信安
 * 【2024-02-06】[G-U-N / AnimateLCM](https://github.com/G-U-N/AnimateLCM) - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning
