@@ -210,6 +210,11 @@
 
 ## Java
 
+* 【2024-02-11】[eclipse / jkube](https://github.com/eclipse/jkube) - Build and Deploy java applications on Kubernetes
+* 【2024-02-11】[Hicores / QTool](https://github.com/Hicores/QTool) - QQ工具模块
+* 【2024-02-11】[bepass-org / oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
+* 【2024-02-11】[FernandoMatusseMatusse / hwid-spoofer](https://github.com/FernandoMatusseMatusse/hwid-spoofer) - #1 HWID spoofer for ANY game
+* 【2024-02-11】[Aliucord / Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 * 【2024-02-10】[Slimefun / Slimefun4](https://github.com/Slimefun/Slimefun4) - Slimefun 4 - A unique Spigot/Paper plugin that looks and feels like a modpack. We've been giving you backpacks, jetpacks, reactors and much more since 2013.
 * 【2024-02-10】[rocketseat-education / nlw-expert-java](https://github.com/rocketseat-education/nlw-expert-java) - 
 * 【2024-02-10】[jithrew / PantryMate](https://github.com/jithrew/PantryMate) - PantryMate is an application designed for efficient and user-friendly management of household pantries, aimed at reducing food waste and improving organization.
@@ -858,6 +863,11 @@
 
 ## Python
 
+* 【2024-02-11】[3DTopia / LGM](https://github.com/3DTopia/LGM) - LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.
+* 【2024-02-11】[ndleah / python-mini-project](https://github.com/ndleah/python-mini-project) - 🙌 Welcome open-source Python mini-project contributions!
+* 【2024-02-11】[RhinoSecurityLabs / cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+* 【2024-02-11】[rougier / numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
+* 【2024-02-11】[Python-World / python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 * 【2024-02-10】[GoogleCloudPlatform / localllm](https://github.com/GoogleCloudPlatform/localllm) - 
 * 【2024-02-10】[time-series-foundation-models / lag-llama](https://github.com/time-series-foundation-models/lag-llama) - 
 * 【2024-02-10】[Vahe1994 / AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf
@@ -2067,6 +2077,8 @@
 
 ## Javascript
 
+* 【2024-02-11】[awslabs / llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+* 【2024-02-11】[mochajs / mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 * 【2024-02-10】[snyk-workshops / EH-Patch-Todo-App](https://github.com/snyk-workshops/EH-Patch-Todo-App) - 
 * 【2024-02-10】[midudev / tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
 * 【2024-02-10】[MorpheusAIs / Morpheus](https://github.com/MorpheusAIs/Morpheus) - Morpheus - A Network For Powering Smart Agents - Compute + Code + Capital + Community
@@ -2900,6 +2912,7 @@
 
 ## Go
 
+* 【2024-02-11】[hashicorp / hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 * 【2024-02-10】[ahmetb / kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 * 【2024-02-09】[go-acme / lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 * 【2024-02-09】[kubewharf / kubeadmiral](https://github.com/kubewharf/kubeadmiral) - Multi-Cluster Kubernetes Orchestration
@@ -3683,6 +3696,7 @@
 
 ## C
 
+* 【2024-02-11】[cyberus-technology / virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - VirtualBox with KVM Backend
 * 【2024-02-10】[Xre0uS / MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
 * 【2024-02-10】[agvxov / cursed_c](https://github.com/agvxov/cursed_c) - An attempt to create the worst C program ever by repeatedly abusing obscure features. See c.c for the core code. Note that there were no version restraints imposed and extensions are also included.
 * 【2024-02-09】[tsoding / raylib.js](https://github.com/tsoding/raylib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript
@@ -4381,6 +4395,7 @@
 
 ## C++
 
+* 【2024-02-11】[RobotLocomotion / drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
 * 【2024-02-10】[geoffdavis / esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection
 * 【2024-02-09】[stacksmashing / LPCClocklessAnalyzer](https://github.com/stacksmashing/LPCClocklessAnalyzer) - A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.
 * 【2024-02-09】[CN-annotation-team / leveldb-chinese-annotated](https://github.com/CN-annotation-team/leveldb-chinese-annotated) - leveldb chinese annotation
@@ -5035,6 +5050,10 @@
 
 ## C#
 
+* 【2024-02-11】[rocketseat-education / nlw-expert-c-sharp](https://github.com/rocketseat-education/nlw-expert-c-sharp) - An auction system API
+* 【2024-02-11】[vletoux / pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
+* 【2024-02-11】[reqnroll / Reqnroll](https://github.com/reqnroll/Reqnroll) - Open-source Cucumber-style BDD test automation framework for .NET.
+* 【2024-02-11】[jstrosch / learning-malware-analysis](https://github.com/jstrosch/learning-malware-analysis) - This repository contains sample programs that mimick behavior found in real-world malware. The goal is to provide source code that can be compiled and used for learning purposes, without having to worry about handling live malware.
 * 【2024-02-09】[EvilGreys / Disable-Windows-Defender-](https://github.com/EvilGreys/Disable-Windows-Defender-) - Disable Windows Defender (+ UAC Bypass, + Upgrade to SYSTEM)
 * 【2024-02-09】[microsoft / AdaptiveCards](https://github.com/microsoft/AdaptiveCards) - A new way for developers to exchange card content in a common and consistent way.
 * 【2024-02-09】[kikipoulet / SukiUI](https://github.com/kikipoulet/SukiUI) - UI Theme for AvaloniaUI
@@ -5697,6 +5716,8 @@
 
 ## Html
 
+* 【2024-02-11】[AeolusUX / ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS) - Community Maintained Image of ArkOS for the RetroBox Console / Game Station / Game Consoie R35S / R36S / PowKiddy RGB20S
+* 【2024-02-11】[krishnakumarsekar / awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
 * 【2024-02-10】[nikhilmwarrier / jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper) - Generate a scorecard for JEE using NTA's answer keys
 * 【2024-02-10】[CUHK-TCSS1089 / 2023PolyU-Astron-project](https://github.com/CUHK-TCSS1089/2023PolyU-Astron-project) - 
 * 【2024-02-09】[git-disl / PokeLLMon](https://github.com/git-disl/PokeLLMon) - PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models
@@ -6282,6 +6303,9 @@
 
 ## Css
 
+* 【2024-02-11】[heryyy / bunga-buat-gift](https://github.com/heryyy/bunga-buat-gift) - Virtual flowers
+* 【2024-02-11】[JessicaaSun / randomly-moving-button](https://github.com/JessicaaSun/randomly-moving-button) - 
+* 【2024-02-11】[DilemmaGX / shields-maker](https://github.com/DilemmaGX/shields-maker) - Make and preview simple static badges url, html, markdown scripts for non-programmer users
 * 【2024-02-10】[diydiagnostics / App2-HelloWorld2024](https://github.com/diydiagnostics/App2-HelloWorld2024) - 
 * 【2024-02-09】[vishaltewatia / Rose-Day](https://github.com/vishaltewatia/Rose-Day) - 
 * 【2024-02-09】[yforku / template](https://github.com/yforku/template) - Template
@@ -6928,6 +6952,11 @@
 
 ## Unknown
 
+* 【2024-02-11】[jixserver / free-for-dev](https://github.com/jixserver/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* 【2024-02-11】[aishwaryanr / awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+* 【2024-02-11】[BurningC4 / Chinese-IPTV](https://github.com/BurningC4/Chinese-IPTV) - Chinese CCTV List (IPV4)
+* 【2024-02-11】[jphall663 / awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome responsible machine learning resources.
+* 【2024-02-11】[cpp-best-practices / cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 * 【2024-02-10】[ruesandora / mangata-AVS](https://github.com/ruesandora/mangata-AVS) - 
 * 【2024-02-10】[speedyapply / swe-college-jobs](https://github.com/speedyapply/swe-college-jobs) - The most comprehensive SWE internship & new graduate job list on GitHub.
 * 【2024-02-10】[dwisiswant0 / awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
