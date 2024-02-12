@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2024-02-12】[dunwu / db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
+* 【2024-02-12】[syncthing / syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
+* 【2024-02-12】[youtube / api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 * 【2024-02-11】[eclipse / jkube](https://github.com/eclipse/jkube) - Build and Deploy java applications on Kubernetes
 * 【2024-02-11】[Hicores / QTool](https://github.com/Hicores/QTool) - QQ工具模块
 * 【2024-02-11】[bepass-org / oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
@@ -863,6 +866,13 @@
 
 ## Python
 
+* 【2024-02-12】[magicbear / palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit) - PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc...
+* 【2024-02-12】[EvanZhuang / MetaTree](https://github.com/EvanZhuang/MetaTree) - Official implementation of MetaTree: Learning a Decision Tree Algorithm with Transformers
+* 【2024-02-12】[uclaml / SPIN](https://github.com/uclaml/SPIN) - The official implementation of Self-Play Fine-Tuning (SPIN)
+* 【2024-02-12】[barry-far / V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
+* 【2024-02-12】[optuna / optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
+* 【2024-02-12】[al-one / hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
+* 【2024-02-12】[linsomniac / spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
 * 【2024-02-11】[3DTopia / LGM](https://github.com/3DTopia/LGM) - LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.
 * 【2024-02-11】[ndleah / python-mini-project](https://github.com/ndleah/python-mini-project) - 🙌 Welcome open-source Python mini-project contributions!
 * 【2024-02-11】[RhinoSecurityLabs / cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
@@ -2077,6 +2087,11 @@
 
 ## Javascript
 
+* 【2024-02-12】[sangammukherjee / 25-reactjs-interview-projects](https://github.com/sangammukherjee/25-reactjs-interview-projects) - 
+* 【2024-02-12】[kunaltyagi9 / MERN-Stack-Projects](https://github.com/kunaltyagi9/MERN-Stack-Projects) - 
+* 【2024-02-12】[mozilla / rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
+* 【2024-02-12】[citizenfx / cfx-server-data](https://github.com/citizenfx/cfx-server-data) - Data repository for CitizenFX servers.
+* 【2024-02-12】[Yue-plus / hexo-theme-arknights](https://github.com/Yue-plus/hexo-theme-arknights) - 明日方舟罗德岛阵营的 Hexo 主题，支持数学公式、Valine&Gitalk&Waline评论系统、Mermaid图表
 * 【2024-02-11】[awslabs / llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 * 【2024-02-11】[mochajs / mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 * 【2024-02-10】[snyk-workshops / EH-Patch-Todo-App](https://github.com/snyk-workshops/EH-Patch-Todo-App) - 
@@ -2912,6 +2927,10 @@
 
 ## Go
 
+* 【2024-02-12】[inoxlang / inox](https://github.com/inoxlang/inox) - 🛡️ Inox is your shield against complexity in full-stack development.
+* 【2024-02-12】[YouROK / TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
+* 【2024-02-12】[reviewdog / reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+* 【2024-02-12】[danielgtaylor / huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3
 * 【2024-02-11】[hashicorp / hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 * 【2024-02-10】[ahmetb / kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 * 【2024-02-09】[go-acme / lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
@@ -3696,6 +3715,8 @@
 
 ## C
 
+* 【2024-02-12】[branc116 / brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
+* 【2024-02-12】[PSP-Archive / ARK-4](https://github.com/PSP-Archive/ARK-4) - Custom Firmware for the PSP and PS Vita.
 * 【2024-02-11】[cyberus-technology / virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - VirtualBox with KVM Backend
 * 【2024-02-10】[Xre0uS / MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
 * 【2024-02-10】[agvxov / cursed_c](https://github.com/agvxov/cursed_c) - An attempt to create the worst C program ever by repeatedly abusing obscure features. See c.c for the core code. Note that there were no version restraints imposed and extensions are also included.
@@ -4395,6 +4416,10 @@
 
 ## C++
 
+* 【2024-02-12】[hyprwm / hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.
+* 【2024-02-12】[ValveSoftware / openvr](https://github.com/ValveSoftware/openvr) - OpenVR SDK
+* 【2024-02-12】[letscontrolit / ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
+* 【2024-02-12】[visualboyadvance-m / visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 * 【2024-02-11】[RobotLocomotion / drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
 * 【2024-02-10】[geoffdavis / esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection
 * 【2024-02-09】[stacksmashing / LPCClocklessAnalyzer](https://github.com/stacksmashing/LPCClocklessAnalyzer) - A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.
@@ -5050,6 +5075,10 @@
 
 ## C#
 
+* 【2024-02-12】[unity3d-jp / Project_TCC](https://github.com/unity3d-jp/Project_TCC) - TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.
+* 【2024-02-12】[microsoft / CsWin32](https://github.com/microsoft/CsWin32) - A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.
+* 【2024-02-12】[VRPirates / rookie](https://github.com/VRPirates/rookie) - 
+* 【2024-02-12】[thexeondev / WutheringWaves](https://github.com/thexeondev/WutheringWaves) - Wuthering Waves ps (0.8.2)
 * 【2024-02-11】[rocketseat-education / nlw-expert-c-sharp](https://github.com/rocketseat-education/nlw-expert-c-sharp) - An auction system API
 * 【2024-02-11】[vletoux / pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 * 【2024-02-11】[reqnroll / Reqnroll](https://github.com/reqnroll/Reqnroll) - Open-source Cucumber-style BDD test automation framework for .NET.
@@ -5716,6 +5745,8 @@
 
 ## Html
 
+* 【2024-02-12】[andriipaziuk / valentine](https://github.com/andriipaziuk/valentine) - 
+* 【2024-02-12】[Bionus / imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 * 【2024-02-11】[AeolusUX / ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS) - Community Maintained Image of ArkOS for the RetroBox Console / Game Station / Game Consoie R35S / R36S / PowKiddy RGB20S
 * 【2024-02-11】[krishnakumarsekar / awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
 * 【2024-02-10】[nikhilmwarrier / jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper) - Generate a scorecard for JEE using NTA's answer keys
@@ -6303,6 +6334,7 @@
 
 ## Css
 
+* 【2024-02-12】[Narmis-E / hyprland-dots](https://github.com/Narmis-E/hyprland-dots) - My dotfiles for my hyprland installs
 * 【2024-02-11】[heryyy / bunga-buat-gift](https://github.com/heryyy/bunga-buat-gift) - Virtual flowers
 * 【2024-02-11】[JessicaaSun / randomly-moving-button](https://github.com/JessicaaSun/randomly-moving-button) - 
 * 【2024-02-11】[DilemmaGX / shields-maker](https://github.com/DilemmaGX/shields-maker) - Make and preview simple static badges url, html, markdown scripts for non-programmer users
@@ -6952,6 +6984,9 @@
 
 ## Unknown
 
+* 【2024-02-12】[TekkenOverlay / TekkenOverlay](https://github.com/TekkenOverlay/TekkenOverlay) - 
+* 【2024-02-12】[Dimbreath / StarRailData](https://github.com/Dimbreath/StarRailData) - Repository containing the data for the game Honkai: Star Rail.
+* 【2024-02-12】[Abdess / retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 * 【2024-02-11】[jixserver / free-for-dev](https://github.com/jixserver/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * 【2024-02-11】[aishwaryanr / awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 * 【2024-02-11】[BurningC4 / Chinese-IPTV](https://github.com/BurningC4/Chinese-IPTV) - Chinese CCTV List (IPV4)
