@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-02-15】[Chipppppppppp / LIME](https://github.com/Chipppppppppp/LIME) - 
 * 【2024-02-14】[pinterest / psc](https://github.com/pinterest/psc) - PubSubClient (PSC)
 * 【2024-02-14】[HuanCheng65 / TiebaLite](https://github.com/HuanCheng65/TiebaLite) - 贴吧 Lite
 * 【2024-02-14】[x-falcon / Virtual-Hosts](https://github.com/x-falcon/Virtual-Hosts) - hosts for android,implement by vpn mode,supports wildcard DNS records
@@ -873,6 +874,9 @@
 
 ## Python
 
+* 【2024-02-15】[justakazh / sicat](https://github.com/justakazh/sicat) - The useful exploit finder
+* 【2024-02-15】[ncbi / GeneGPT](https://github.com/ncbi/GeneGPT) - Code and data for GeneGPT.
+* 【2024-02-15】[BAAI-DCAI / Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
 * 【2024-02-14】[pantsbuild / pants](https://github.com/pantsbuild/pants) - The Pants Build System
 * 【2024-02-14】[ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 * 【2024-02-14】[Textualize / toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -2108,6 +2112,9 @@
 
 ## Javascript
 
+* 【2024-02-15】[Lunakepio / Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
+* 【2024-02-15】[DzarelDeveloper / HappyValentine](https://github.com/DzarelDeveloper/HappyValentine) - 
+* 【2024-02-15】[Dogfalo / materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 * 【2024-02-14】[zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 * 【2024-02-14】[discuitnet / discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 * 【2024-02-14】[11ty / eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -3748,6 +3755,7 @@
 
 ## C
 
+* 【2024-02-15】[NLnetLabs / unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 * 【2024-02-14】[portapack-mayhem / mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
 * 【2024-02-14】[opa334 / Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 * 【2024-02-13】[wojciech-graj / doom-ascii](https://github.com/wojciech-graj/doom-ascii) - DooM in the terminal!
@@ -4453,6 +4461,7 @@
 
 ## C++
 
+* 【2024-02-15】[SteveMacenski / slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
 * 【2024-02-14】[willem-pennings / balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
 * 【2024-02-14】[arplaboratory / learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.
 * 【2024-02-14】[e2002 / yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
@@ -5118,6 +5127,7 @@
 
 ## C#
 
+* 【2024-02-15】[builtbybel / BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The Copilot rebel
 * 【2024-02-14】[fiddyschmitt / SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
 * 【2024-02-14】[vchelaru / FlatRedBall](https://github.com/vchelaru/FlatRedBall) - Cross-platform 2D game engine focused on ultimate productivity built in .NET
 * 【2024-02-14】[ZiggyCreatures / FusionCache](https://github.com/ZiggyCreatures/FusionCache) - FusionCache is an easy to use, fast and robust cache with advanced resiliency features and an optional distributed 2nd level.
@@ -5794,6 +5804,8 @@
 
 ## Html
 
+* 【2024-02-15】[amankapilak / Ask-Her-Out](https://github.com/amankapilak/Ask-Her-Out) - 
+* 【2024-02-15】[asynchronousJavascriptor / level2](https://github.com/asynchronousJavascriptor/level2) - 
 * 【2024-02-14】[byquangthanh / valentine.github.io](https://github.com/byquangthanh/valentine.github.io) - Will you be my valentine project for my girlfriend
 * 【2024-02-14】[balta-io / carnacode-balta-2024-desafio-01](https://github.com/balta-io/carnacode-balta-2024-desafio-01) - 
 * 【2024-02-14】[noob-hackers / seeu](https://github.com/noob-hackers/seeu) - SeeU is a camera hacking tool which is used to hack selfie camera of devices....
@@ -6388,6 +6400,14 @@
 
 ## Css
 
+* 【2024-02-15】[mabelolivera10 / floresamarillasycorazones](https://github.com/mabelolivera10/floresamarillasycorazones) - 
+* 【2024-02-15】[mabelolivera10 / cartaprogramadores](https://github.com/mabelolivera10/cartaprogramadores) - 
+* 【2024-02-15】[KiKaraage / ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look from Windows to Firefox. No waitlist, no registration needed ✨
+* 【2024-02-15】[YCLA-Coding / webreels](https://github.com/YCLA-Coding/webreels) - 
+* 【2024-02-15】[hossaini-f / css-envelope-letter-animation](https://github.com/hossaini-f/css-envelope-letter-animation) - Animated Envelope Animation Using CSS and HTML
+* 【2024-02-15】[Set-Creative-Studio / cube-boilerplate](https://github.com/Set-Creative-Studio/cube-boilerplate) - A simple CUBE CSS boilerplate for Set Studio
+* 【2024-02-15】[hedyorg / hedy](https://github.com/hedyorg/hedy) - Hedy is a gradual programming language to teach children programming. Gradual languages use different language levels, where each level adds new concepts and syntactic complexity. At the end of the Hedy level sequence, kids master a subset of syntactically valid Python.
+* 【2024-02-15】[cascadefox / cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
 * 【2024-02-14】[AlexxAdrian / heart_letter](https://github.com/AlexxAdrian/heart_letter) - letter of hearts to give as a gift
 * 【2024-02-13】[picocss / pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 * 【2024-02-13】[availproject / availproject.github.io](https://github.com/availproject/availproject.github.io) - Official Documentation for the Avail Project.
@@ -7044,6 +7064,11 @@
 
 ## Unknown
 
+* 【2024-02-15】[thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+* 【2024-02-15】[daveshap / PostLaborEconomics](https://github.com/daveshap/PostLaborEconomics) - Collaborative book to promote the idea of Post Labor Economics
+* 【2024-02-15】[Nothing-Developer-Programme / Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
+* 【2024-02-15】[noislabs / randdrop-snapshots](https://github.com/noislabs/randdrop-snapshots) - 
+* 【2024-02-15】[alexngn / intro-to-system-design](https://github.com/alexngn/intro-to-system-design) - A repository for system design resources.
 * 【2024-02-14】[andrewekhalel / MLQuestions](https://github.com/andrewekhalel/MLQuestions) - Machine Learning and Computer Vision Engineer - Technical Interview Questions
 * 【2024-02-14】[bjrjk / CVE-2022-4262](https://github.com/bjrjk/CVE-2022-4262) - Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.
 * 【2024-02-14】[MiRO92 / uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
