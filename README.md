@@ -879,6 +879,7 @@
 
 ## Python
 
+* 【2024-02-20】[tw93 / tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
 * 【2024-02-19】[google / magika](https://github.com/google/magika) - Detect file content types with deep learning
 * 【2024-02-19】[facebookresearch / DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 * 【2024-02-19】[xaitax / CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) - Microsoft-Outlook-Remote-Code-Execution-Vulnerability
@@ -2138,6 +2139,8 @@
 
 ## Javascript
 
+* 【2024-02-20】[mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
+* 【2024-02-20】[catsats / backpack_exchange](https://github.com/catsats/backpack_exchange) - backpack 刷交易量 JavaScript 只刷sol/usdc
 * 【2024-02-19】[malvinval / scammer-revenge](https://github.com/malvinval/scammer-revenge) - 
 * 【2024-02-19】[xxxily / hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
 * 【2024-02-19】[thoughtbot / administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
@@ -4522,6 +4525,7 @@
 
 ## C++
 
+* 【2024-02-20】[chancerly / jtik](https://github.com/chancerly/jtik) - Dynamic java method hook for Android，Implemented by jvmti
 * 【2024-02-19】[ros-perception / image_pipeline](https://github.com/ros-perception/image_pipeline) - An image processing pipeline for ROS.
 * 【2024-02-19】[xenia-project / xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 * 【2024-02-18】[dosbox-staging / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
@@ -5195,6 +5199,8 @@
 
 ## C#
 
+* 【2024-02-20】[Sh3lldon / FullBypass](https://github.com/Sh3lldon/FullBypass) - A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a FullLanguage PowerShell reverse shell. Feel free to modiy and DM if you find some bugs :)
+* 【2024-02-20】[Ali10555 / FakeRopeSimulation](https://github.com/Ali10555/FakeRopeSimulation) - Creates a fake simulated rope, connecting between 2 point.
 * 【2024-02-19】[nilaoda / N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 * 【2024-02-18】[milanm / DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse) - Most common Design Patterns you need to know, with examples in C#.
 * 【2024-02-18】[JasperFx / wolverine](https://github.com/JasperFx/wolverine) - Next Generation .NET Command and Message Bus
@@ -5880,6 +5886,7 @@
 
 ## Html
 
+* 【2024-02-20】[capjamesg / cv-book-svg](https://github.com/capjamesg/cv-book-svg) - Turn an image of a bookshelf into an interactive SVG.
 * 【2024-02-19】[dupontgu / qr-file-share](https://github.com/dupontgu/qr-file-share) - Share small files from an offline source using only a QR code
 * 【2024-02-19】[solygambas / html-css-javascript-projects](https://github.com/solygambas/html-css-javascript-projects) - 100+ mini web projects using HTML, CSS and JavaScript.
 * 【2024-02-18】[dmtrKovalenko / cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
@@ -6484,6 +6491,7 @@
 
 ## Css
 
+* 【2024-02-20】[rishabhnmishra / Portfolio-Website-Template](https://github.com/rishabhnmishra/Portfolio-Website-Template) - 
 * 【2024-02-19】[bmFtZQ / edge-frfox](https://github.com/bmFtZQ/edge-frfox) - A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
 * 【2024-02-19】[Zarbalou / ilyass-port](https://github.com/Zarbalou/ilyass-port) - 
 * 【2024-02-19】[SoftUni / Programming-Basics-Book-Python-BG](https://github.com/SoftUni/Programming-Basics-Book-Python-BG) - Textbook for the "Programming Basics" course @ SoftUni (Python, Bulgarian)
