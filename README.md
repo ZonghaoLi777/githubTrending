@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-02-24】[matevip / matecloud](https://github.com/matevip/matecloud) - 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 2.7.0、 Spring Cloud 2021、Spring Cloud Alibaba 2021、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
+* 【2024-02-24】[smart-cloud / smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于springboot && springcloud的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志&&sql日志切面打印、分表分库分布式事务、国际化语言等
 * 【2024-02-22】[longerye / im-chat](https://github.com/longerye/im-chat) - Fake wechat chat
 * 【2024-02-17】[swagger-api / swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 * 【2024-02-16】[Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
@@ -880,6 +882,11 @@
 
 ## Python
 
+* 【2024-02-24】[google / gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
+* 【2024-02-24】[mtkarimi / smart-resident-guard](https://github.com/mtkarimi/smart-resident-guard) - 
+* 【2024-02-24】[soufianetahiri / Anxun-isoon](https://github.com/soufianetahiri/Anxun-isoon) - I-SOON/Anxun leak related stuff
+* 【2024-02-24】[Chocapikk / CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600) - Unauthenticated Remote Code Execution – Bricks <= 1.9.6
+* 【2024-02-24】[mandiant / capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 * 【2024-02-23】[levihsu / OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - Official implementation of OOTDiffusion
 * 【2024-02-23】[Vchitect / Latte](https://github.com/Vchitect/Latte) - Latte: Latent Diffusion Transformer for Video Generation.
 * 【2024-02-23】[encode / httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
@@ -2153,6 +2160,12 @@
 
 ## Javascript
 
+* 【2024-02-24】[facebook / react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets
+* 【2024-02-24】[Maher-Zubair / SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) - A Premium Whatsapp Bot Loaded With Features
+* 【2024-02-24】[lavanet / docs](https://github.com/lavanet/docs) - The open-source repo for docs.lavanet.xyz
+* 【2024-02-24】[brentvollebregt / auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) - Converts .py to .exe using a simple graphical interface
+* 【2024-02-24】[maboloshi / github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
+* 【2024-02-24】[nightwatchjs / nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 * 【2024-02-23】[AIGODLIKE / AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation) - A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
 * 【2024-02-23】[openchatai / OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 * 【2024-02-23】[kenwheeler / slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
@@ -3838,6 +3851,7 @@
 
 ## C
 
+* 【2024-02-24】[ofiwg / libfabric](https://github.com/ofiwg/libfabric) - Open Fabric Interfaces
 * 【2024-02-23】[tvlad1234 / linux-ch32v003](https://github.com/tvlad1234/linux-ch32v003) - Linux on a $0.15 RISC-V microcontroller
 * 【2024-02-22】[BojanJurca / Esp32_oscilloscope](https://github.com/BojanJurca/Esp32_oscilloscope) - ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them
 * 【2024-02-21】[microsoft / Sora](https://github.com/microsoft/Sora) - The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.
@@ -4554,6 +4568,7 @@
 
 ## C++
 
+* 【2024-02-24】[google / gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 * 【2024-02-23】[ValveSoftware / steam-audio](https://github.com/ValveSoftware/steam-audio) - Steam Audio
 * 【2024-02-23】[0voice / introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。
 * 【2024-02-23】[geeksblabla / blanat](https://github.com/geeksblabla/blanat) - Blanat: BlaBlaConf 2024 Coding Challenge
@@ -5234,6 +5249,7 @@
 
 ## C#
 
+* 【2024-02-24】[octokit / octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * 【2024-02-23】[DynamoDS / Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design
 * 【2024-02-23】[GlitchEnzo / NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
 * 【2024-02-23】[mlcsec / FormThief](https://github.com/mlcsec/FormThief) - Spoofing desktop login applications with WinForms and WPF
@@ -5930,6 +5946,8 @@
 
 ## Html
 
+* 【2024-02-24】[taniagd / Ejercicios-Intro-HTML---CH38](https://github.com/taniagd/Ejercicios-Intro-HTML---CH38) - 
+* 【2024-02-24】[kawika-git / wechatAPI](https://github.com/kawika-git/wechatAPI) - 该项目提供了一套强大的微信 API 和 Hook 工具，旨在增强微信的可定制性和开放性，支持多种功能扩展和自定义应用。
 * 【2024-02-23】[bradtraversy / property-pulse](https://github.com/bradtraversy/property-pulse) - Next.js app for listing and searching rental properties
 * 【2024-02-23】[Shploop / Blooket-Cheats](https://github.com/Shploop/Blooket-Cheats) - The best blooket hacks you could find! (Repost of 05Konz’s pls no hate). https://05konz.github.io/Blooket-Cheats/
 * 【2024-02-22】[VDIGPKU / GALA3D](https://github.com/VDIGPKU/GALA3D) - 
@@ -6542,6 +6560,9 @@
 
 ## Css
 
+* 【2024-02-24】[K-Daksh / Exitlag](https://github.com/K-Daksh/Exitlag) - 
+* 【2024-02-24】[SwiftGGTeam / the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+* 【2024-02-24】[uwidcit / info1601a1](https://github.com/uwidcit/info1601a1) - 
 * 【2024-02-23】[HyperPlay-Gaming / hyperplay-desktop-client](https://github.com/HyperPlay-Gaming/hyperplay-desktop-client) - The HyperPlay desktop app
 * 【2024-02-23】[statick88 / lista-compras-svelte](https://github.com/statick88/lista-compras-svelte) - 
 * 【2024-02-22】[kazemnejad / jekyll-course-website-template](https://github.com/kazemnejad/jekyll-course-website-template) - Feature-rich and easy-to-use Jekyll website template for academic courses
@@ -7231,6 +7252,8 @@
 
 ## Unknown
 
+* 【2024-02-24】[OpenMOSS / AnyGPT](https://github.com/OpenMOSS/AnyGPT) - Code for "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling"
+* 【2024-02-24】[Yakima-Teng / memo](https://github.com/Yakima-Teng/memo) - 👻 程序员备忘录，记录了WEB程序员常用的知识点，方便温故知新，自我成长，无惧前端面试。有单页版、多页版、PDF版，并且提供了安卓、Windows等客户端。
 * 【2024-02-23】[systemdesign42 / system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet
 * 【2024-02-23】[weijunext / indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
 * 【2024-02-23】[mttaggart / I-S00N](https://github.com/mttaggart/I-S00N) - Anxun Shanghai (I-SOON) Data Dump Translations (PII Redacted)
