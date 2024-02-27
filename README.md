@@ -883,6 +883,11 @@
 
 ## Python
 
+* 【2024-02-27】[czbag / scroll](https://github.com/czbag/scroll) - Скрипт по работе со Scroll
+* 【2024-02-27】[Frimkron / mud-pi](https://github.com/Frimkron/mud-pi) - A simple MUD server in Python, for teaching purposes, which could be run on a Raspberry Pi
+* 【2024-02-27】[Eladlev / AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
+* 【2024-02-27】[dnakov / r2d2](https://github.com/dnakov/r2d2) - 🤖🏴‍☠️ radare2 plugin for GPT-4 🦜. Solve crackmes automatically 🪄
+* 【2024-02-27】[hoochanlon / hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 * 【2024-02-26】[OpenCodeInterpreter / OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - 
 * 【2024-02-26】[tin-ka / Prometheus](https://github.com/tin-ka/Prometheus) - Very powerful stealer + miner + rat + keylogger
 * 【2024-02-25】[WongKinYiu / yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
@@ -3052,6 +3057,10 @@
 
 ## Go
 
+* 【2024-02-27】[shraddhaag / 1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.
+* 【2024-02-27】[QuilibriumNetwork / ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient) - Mirror of Quilibrium git repo: ceremonyclient
+* 【2024-02-27】[tulir / whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
+* 【2024-02-27】[anacrolix / torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 * 【2024-02-26】[ra2web / ra2web-proxy](https://github.com/ra2web/ra2web-proxy) - 网页红警边缘合规安全网关，用于对Chronodivide官方客户端进行转发，并对代码和内容动态注入，实现区域合规要求
 * 【2024-02-26】[go-jet / jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 * 【2024-02-25】[TwiN / gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -4586,6 +4595,7 @@
 
 ## C++
 
+* 【2024-02-27】[dail8859 / NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 * 【2024-02-26】[pierotofy / OpenSplat](https://github.com/pierotofy/OpenSplat) - Free and open source 3D gaussian splatting in C++ 💦
 * 【2024-02-26】[root-project / root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
 * 【2024-02-25】[veyon / veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management
@@ -5271,6 +5281,9 @@
 
 ## C#
 
+* 【2024-02-27】[AliveverCom / WinBrowserCrawler](https://github.com/AliveverCom/WinBrowserCrawler) - 
+* 【2024-02-27】[ResetXPDR / MSFS2020_AutoFPS](https://github.com/ResetXPDR/MSFS2020_AutoFPS) - 
+* 【2024-02-27】[Nereziel / cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) - 
 * 【2024-02-26】[oculus-samples / Unity-CrypticCabinet](https://github.com/oculus-samples/Unity-CrypticCabinet) - Cryptic Cabinet is a short Mixed Reality (MR) experience for Meta Quest headsets. It will demonstrate the possibilities of MR through gameplay, narrative, and aesthetics. The app adapts to your room (big or small) to create a unique experience for everyone.
 * 【2024-02-25】[2394425147 / maipaddx](https://github.com/2394425147/maipaddx) - 
 * 【2024-02-24】[octokit / octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
@@ -6586,6 +6599,8 @@
 
 ## Css
 
+* 【2024-02-27】[datawhalechina / hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent) - A tutorial to quickly help you understand the concept of agent and muti-agent and get started with coding development
+* 【2024-02-27】[Perseus333 / One-Fox](https://github.com/Perseus333/One-Fox) - A CSS for firefox and Floorp that provides a simple yet convenient single line UI
 * 【2024-02-25】[NewFuture / CV](https://github.com/NewFuture/CV) - A resume template written in Markdown,Yaml JSON auto generates github-pages website & PDF by Jekyll. 在线简历生成模板(超高兼容可导PDF)
 * 【2024-02-25】[AkashKobal / web-development](https://github.com/AkashKobal/web-development) - This repository enables learners to perform front-end full stack development, with emphasis on employability skills. The repository covers key technologies and architectures that enable the learners to design and implement front-end. On successful completion of this repository, the student shall be able to pursue a career in full-stack developement
 * 【2024-02-25】[creativetimofficial / blk-design-system-react](https://github.com/creativetimofficial/blk-design-system-react) - React version of BLK Design System:
@@ -7281,6 +7296,8 @@
 
 ## Unknown
 
+* 【2024-02-27】[joseadanof / awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
+* 【2024-02-27】[osurf / pzdy](https://github.com/osurf/pzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
 * 【2024-02-26】[analoguejb / Analogue-Duo-JB](https://github.com/analoguejb/Analogue-Duo-JB) - 
 * 【2024-02-26】[warpdotdev / Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 * 【2024-02-26】[ThePBone / awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
