@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2024-03-04】[wendy512 / stream](https://github.com/wendy512/stream) - Streaming processing framework, source, channel, sink, support mqtt, Kafka and other components
+* 【2024-03-04】[LSPosed / CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
+* 【2024-03-04】[mahyoussef / ultimate-design-patterns](https://github.com/mahyoussef/ultimate-design-patterns) - Mastering classical design patterns with practical examples in the ultimate design patterns bundle.
 * 【2024-03-03】[CeuiLiSA / Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) - Pixiv第三方Android客户端
 * 【2024-03-02】[ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 * 【2024-03-01】[tronprotocol / java-tron](https://github.com/tronprotocol/java-tron) - Java implementation of the Tron whitepaper
@@ -892,6 +895,13 @@
 
 ## Python
 
+* 【2024-03-04】[layerdiffusion / sd-forge-layerdiffusion](https://github.com/layerdiffusion/sd-forge-layerdiffusion) - [WIP] Layer Diffusion for WebUI (via Forge)
+* 【2024-03-04】[naver / dust3r](https://github.com/naver/dust3r) - 
+* 【2024-03-04】[mini-sora / minisora](https://github.com/mini-sora/minisora) - The Mini Sora project aims to explore the implementation path and future development direction of Sora.
+* 【2024-03-04】[liguodongiot / llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
+* 【2024-03-04】[BatsResearch / bonito](https://github.com/BatsResearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
+* 【2024-03-04】[alexta69 / metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+* 【2024-03-04】[smicallef / spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 * 【2024-03-03】[allenai / fm-cheatsheet](https://github.com/allenai/fm-cheatsheet) - Website for hosting the Open Foundation Models Cheat Sheet.
 * 【2024-03-03】[maszhongming / Multi-LoRA-Composition](https://github.com/maszhongming/Multi-LoRA-Composition) - Repository for the Paper "Multi-LoRA Composition for Image Generation"
 * 【2024-03-03】[PaddlePaddle / PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification, 🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis etc.
@@ -2213,6 +2223,9 @@
 
 ## Javascript
 
+* 【2024-03-04】[adrianhajdin / brainwave](https://github.com/adrianhajdin/brainwave) - Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and Tailwind CSS skills.
+* 【2024-03-04】[adrianhajdin / project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 14 application.
+* 【2024-03-04】[piyush-eon / mern-chat-app](https://github.com/piyush-eon/mern-chat-app) - 
 * 【2024-03-03】[ltlittlekk / OTTO](https://github.com/ltlittlekk/OTTO) - 电棍游戏
 * 【2024-03-02】[HumanAIGC / emote-portrait-alive](https://github.com/HumanAIGC/emote-portrait-alive) - 
 * 【2024-03-02】[polyfillpolyfill / fetch](https://github.com/polyfillpolyfill/fetch) - A window.fetch JavaScript polyfill.
@@ -3111,6 +3124,10 @@
 
 ## Go
 
+* 【2024-03-04】[Calcium-Ion / new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
+* 【2024-03-04】[autobrr / autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
+* 【2024-03-04】[NicolasLopes7 / shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
+* 【2024-03-04】[MultSec / MultCheck](https://github.com/MultSec/MultCheck) - Identifies bad bytes from static analysis with any Anti-Virus scanner.
 * 【2024-03-03】[jovandeginste / workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 * 【2024-03-03】[version-fox / vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 * 【2024-03-03】[siderolabs / omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
@@ -4668,6 +4685,7 @@
 
 ## C++
 
+* 【2024-03-04】[nRF24 / RF24](https://github.com/nRF24/RF24) - OSI Layer 2 driver for nRF24L01 on Arduino & Raspberry Pi/Linux Devices
 * 【2024-03-03】[owasp-modsecurity / ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
 * 【2024-03-03】[thorvg / thorvg](https://github.com/thorvg/thorvg) - Thor Vector Graphics is a lightweight portable library used for drawing vector-based scenes and animations including SVG and Lottie. It can be freely utilized across various software platforms and applications to visualize graphical contents.
 * 【2024-03-01】[SuperTux / supertux](https://github.com/SuperTux/supertux) - SuperTux source code
@@ -6072,6 +6090,7 @@
 
 ## Html
 
+* 【2024-03-04】[nanographs / Open-Beam-Interface](https://github.com/nanographs/Open-Beam-Interface) - 
 * 【2024-03-03】[The-Japan-DataScientist-Society / 100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) - データサイエンス100本ノック（構造化データ加工編）
 * 【2024-03-02】[acgeospatial / awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery
 * 【2024-03-01】[JayZeeDesign / realtime-conversation-copilot](https://github.com/JayZeeDesign/realtime-conversation-copilot) - 
@@ -6697,6 +6716,9 @@
 
 ## Css
 
+* 【2024-03-04】[danaleko / Login-Form-By-Dan-Aleko](https://github.com/danaleko/Login-Form-By-Dan-Aleko) - 
+* 【2024-03-04】[AUTOMATIC1111 / stable-diffusion-webui-assets](https://github.com/AUTOMATIC1111/stable-diffusion-webui-assets) - Web assets for stable-diffusion-webui
+* 【2024-03-04】[elad2412 / the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
 * 【2024-03-03】[pinceladasdaweb / Frontend-Snippets](https://github.com/pinceladasdaweb/Frontend-Snippets) - A set of Front End Snippets for improve your development.
 * 【2024-03-03】[nurilanwaralabsory / laravel-pustik](https://github.com/nurilanwaralabsory/laravel-pustik) - 
 * 【2024-03-03】[nigelpoulton / gsd](https://github.com/nigelpoulton/gsd) - Files for Getting Started with Docker video training course
@@ -7407,6 +7429,9 @@
 
 ## Unknown
 
+* 【2024-03-04】[lmmlzn / Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - Summarize existing representative LLMs text datasets.
+* 【2024-03-04】[gg-daddy / ebooks](https://github.com/gg-daddy/ebooks) - 
+* 【2024-03-04】[emmabostian / developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 * 【2024-03-03】[memorysafety / river](https://github.com/memorysafety/river) - This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.
 * 【2024-03-03】[lichao-sun / SoraReview](https://github.com/lichao-sun/SoraReview) - The official GitHub page for the review paper "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models".
 * 【2024-03-03】[h9-tect / Arabic_NLP_resources](https://github.com/h9-tect/Arabic_NLP_resources) - 
