@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-03-07】[linkedin / openhouse](https://github.com/linkedin/openhouse) - Open Control Plane for Tables in Data Lakehouse
+* 【2024-03-07】[TheBeastofwar / JenkinsExploit-GUI](https://github.com/TheBeastofwar/JenkinsExploit-GUI) - 一款Jenkins的综合漏洞利用工具
 * 【2024-03-06】[OpenEMS / openems](https://github.com/OpenEMS/openems) - OpenEMS - Open Source Energy Management System
 * 【2024-03-06】[stanfordnlp / CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 * 【2024-03-06】[apache / flink-cdc](https://github.com/apache/flink-cdc) - CDC Connectors for Apache Flink®
@@ -904,6 +906,17 @@
 
 ## Python
 
+* 【2024-03-07】[Ryujinx / release-channel-master](https://github.com/Ryujinx/release-channel-master) - Ryujinx's Release channel: master
+* 【2024-03-07】[QwenLM / Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+* 【2024-03-07】[PKU-YuanGroup / Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.
+* 【2024-03-07】[PrometheusStealer / Prometheus](https://github.com/PrometheusStealer/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
+* 【2024-03-07】[hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora) - Building your own video generation model like OpenAI's Sora
+* 【2024-03-07】[anthropics / anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) - 
+* 【2024-03-07】[AssemblyAI-Examples / Machine-Learning-From-Scratch](https://github.com/AssemblyAI-Examples/Machine-Learning-From-Scratch) - Implementation of popular ML algorithms from scratch
+* 【2024-03-07】[triwinds / ns-emu-tools](https://github.com/triwinds/ns-emu-tools) - 一个用于安装/更新 NS 模拟器的工具
+* 【2024-03-07】[budtmo / docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+* 【2024-03-07】[evalplus / evalplus](https://github.com/evalplus/evalplus) - EvalPlus for rigourous evaluation of LLM-synthesized code
+* 【2024-03-07】[rohankishore / Youtility](https://github.com/rohankishore/Youtility) - YouTube downloader tools built with PyQt6 and PyTube
 * 【2024-03-06】[huchenlei / ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffusion custom nodes
 * 【2024-03-06】[StavC / ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
 * 【2024-03-06】[NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
@@ -2243,6 +2256,10 @@
 
 ## Javascript
 
+* 【2024-03-07】[HeyPuter / puter](https://github.com/HeyPuter/puter) - The Internet OS!
+* 【2024-03-07】[openai-translator / bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
+* 【2024-03-07】[whitespider-dev / whitespider](https://github.com/whitespider-dev/whitespider) - 500+ free unblocked games + emulators + unblocked YouTube + unblocked ChatGPT
+* 【2024-03-07】[hickeng / financial](https://github.com/hickeng/financial) - Repository containing financial spreadsheets
 * 【2024-03-06】[cmliu / WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
 * 【2024-03-06】[panagiop / node.js-clean-architecture](https://github.com/panagiop/node.js-clean-architecture) - A use case of Clean Architecture in Node.js comprising of Express.js, MongoDB and Redis as the main (but replaceable) infrastructure.
 * 【2024-03-06】[nuejs / nue](https://github.com/nuejs/nue) - The Content First Web Framework
@@ -3150,6 +3167,10 @@
 
 ## Go
 
+* 【2024-03-07】[trap-bytes / 403jump](https://github.com/trap-bytes/403jump) - HTTP 403 bypass tool
+* 【2024-03-07】[AndreyMashukov / go-crypto-bot](https://github.com/AndreyMashukov/go-crypto-bot) - Multithread crypto bot implemented on Golang
+* 【2024-03-07】[argoproj-labs / argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
+* 【2024-03-07】[cometbft / cometbft](https://github.com/cometbft/cometbft) - CometBFT (fork of Tendermint Core): A distributed, Byzantine fault-tolerant, deterministic state machine replication engine
 * 【2024-03-06】[benhoyt / go-1brc](https://github.com/benhoyt/go-1brc) - My Go solutions to the One Billion Row Challenge
 * 【2024-03-05】[Geniucker / CoGPT](https://github.com/Geniucker/CoGPT) - Hmm Copilot or GPT? Who knows. Get access to gpt-4 via copilot.
 * 【2024-03-05】[jovandeginste / payme](https://github.com/jovandeginste/payme) - QR code generator (ASCII & PNG) for SEPA payments
@@ -3985,6 +4006,8 @@
 
 ## C
 
+* 【2024-03-07】[Lovepreet-Singh-LPSK / MultiThreadedProxyServerClient](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient) - 
+* 【2024-03-07】[s1204IT / Lockpick_RCM](https://github.com/s1204IT/Lockpick_RCM) - DO NOT FORK !! : Import and redistribute this repository.
 * 【2024-03-06】[rfaile313 / draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
 * 【2024-03-06】[tomojitakasu / RTKLIB](https://github.com/tomojitakasu/RTKLIB) - 
 * 【2024-03-05】[atar-axis / xpadneo](https://github.com/atar-axis/xpadneo) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
@@ -4719,6 +4742,12 @@
 
 ## C++
 
+* 【2024-03-07】[yuzu-mirror / yuzu](https://github.com/yuzu-mirror/yuzu) - Nintendo Switch emulator (unofficial mirror fork)
+* 【2024-03-07】[PabloMK7 / citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
+* 【2024-03-07】[amwatson / CitraVR](https://github.com/amwatson/CitraVR) - Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Quest.
+* 【2024-03-07】[ourfavoritefruits / citra-nightly](https://github.com/ourfavoritefruits/citra-nightly) - 
+* 【2024-03-07】[ashvardanian / StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging SWAR and SIMD on Arm Neon and x86 AVX2 & AVX-512-capable chips to accelerate search, sort, edit distances, alignment scores, etc 🦖
+* 【2024-03-07】[skyline-emu / skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 * 【2024-03-06】[b4rtaz / distributed-llama](https://github.com/b4rtaz/distributed-llama) - Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.
 * 【2024-03-05】[monero-project / monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 * 【2024-03-05】[Serial-Studio / Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
@@ -5418,6 +5447,7 @@
 
 ## C#
 
+* 【2024-03-07】[amakvana / SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - SwitchEmuModDownloader - A Cross-Platform One-Click Games Mod Downloader for Switch emulators. Formerly YuzuModDownloader.
 * 【2024-03-06】[cq-panda / Vue.NetCore](https://github.com/cq-panda/Vue.NetCore) - (已支持sqlsugar).NetCore、.Net6、Vue2、Vue3、Element plus+uniapp前后端分离，全自动生成代码；支持移动端(ios/android/h5/微信小程序。http://www.volcore.xyz/
 * 【2024-03-06】[chenxuuu / llcom](https://github.com/chenxuuu/llcom) - 🛠功能强大的串口工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能
 * 【2024-03-06】[Stormrider31 / Storm-Breakers](https://github.com/Stormrider31/Storm-Breakers) - An epic ocean simulation (Unity 2021+ URP)
@@ -6133,6 +6163,9 @@
 
 ## Html
 
+* 【2024-03-07】[osumatu / terorist-quiz](https://github.com/osumatu/terorist-quiz) - teroristini dogru tani turkiye
+* 【2024-03-07】[hundredblocks / transcription_demo](https://github.com/hundredblocks/transcription_demo) - 
+* 【2024-03-07】[GoulartNogueira / BadUI](https://github.com/GoulartNogueira/BadUI) - Inspired by r/badUIbattles (a joke subreddit for intentionally bad UI designs). This repository aggregates all best (or worst?) bad-UI designs.
 * 【2024-03-06】[yuzu-emu / yuzu-emu.github.io](https://github.com/yuzu-emu/yuzu-emu.github.io) - Website source code
 * 【2024-03-05】[espressif / esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
 * 【2024-03-04】[nanographs / Open-Beam-Interface](https://github.com/nanographs/Open-Beam-Interface) - 
@@ -6761,6 +6794,8 @@
 
 ## Css
 
+* 【2024-03-07】[pineappleEA / pineappleEA.github.io](https://github.com/pineappleEA/pineappleEA.github.io) - Website made to store EA links for Yuzu
+* 【2024-03-07】[marcgarciamo / entrega05-m8-uf5](https://github.com/marcgarciamo/entrega05-m8-uf5) - 
 * 【2024-03-06】[kaloslazo / Habu](https://github.com/kaloslazo/Habu) - 🐨 Habu it's a minimalistic startpage made with the essence of neovim dashboard with the catppuccin mocha palette. Fully customizable and easy to setup.
 * 【2024-03-06】[jjoao / h5i](https://github.com/jjoao/h5i) - History after 5 images
 * 【2024-03-06】[CodegirlSchool / pomodoro-timer](https://github.com/CodegirlSchool/pomodoro-timer) - Домашнее задание к модулю "Продвинутая работа с функциями"
@@ -7481,6 +7516,15 @@
 
 ## Unknown
 
+* 【2024-03-07】[Ryujinx / Ryujinx-Games-List](https://github.com/Ryujinx/Ryujinx-Games-List) - List of games & demos tested on Ryujinx
+* 【2024-03-07】[wdndev / llm_interview_note](https://github.com/wdndev/llm_interview_note) - 大模型面试题及答案，大模型八股文
+* 【2024-03-07】[Meituan-AutoML / VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) - 
+* 【2024-03-07】[gaurangsaini / sipser-computation-3rd-solutions](https://github.com/gaurangsaini/sipser-computation-3rd-solutions) - Solutions to all questions of the book Introduction to the Theory of Computation, 3rd edition by Michael Sipser
+* 【2024-03-07】[PrincessAkira / road-to-yuzu-without-switch](https://github.com/PrincessAkira/road-to-yuzu-without-switch) - This Repo explains how to install the Yuzu Switch Emulator without a Switch
+* 【2024-03-07】[yiyuanjichang / dizhi](https://github.com/yiyuanjichang/dizhi) - 
+* 【2024-03-07】[theboy181 / switch-ptchtxt-mods](https://github.com/theboy181/switch-ptchtxt-mods) - 
+* 【2024-03-07】[hwanz / SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
+* 【2024-03-07】[rebase-network / who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
 * 【2024-03-06】[Abd-007 / Switch-Emulators-Guide](https://github.com/Abd-007/Switch-Emulators-Guide) - A guide to get either Yuzu or Ryujinx running on your PC. Includes links for games, keys, firmware, shaders and some other stuff. Made for 128BitBay and r/NewYuzuPiracy.
 * 【2024-03-06】[Honei / bookshelf](https://github.com/Honei/bookshelf) - 📚 books
 * 【2024-03-06】[FuelLabs / fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM.
