@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-03-11】[mywalkb / LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
 * 【2024-03-10】[kby-ai / FaceLivenessDetection-Android](https://github.com/kby-ai/FaceLivenessDetection-Android) - This is a demo project for 3D passive face liveness detection, which is an anti-spoofing technology.
 * 【2024-03-08】[react-native-linear-gradient / react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A <LinearGradient /> component for react-native
 * 【2024-03-07】[linkedin / openhouse](https://github.com/linkedin/openhouse) - Open Control Plane for Tables in Data Lakehouse
@@ -908,6 +909,12 @@
 
 ## Python
 
+* 【2024-03-11】[hatchet-dev / hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
+* 【2024-03-11】[searxng / searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+* 【2024-03-11】[Yuukiy / JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
+* 【2024-03-11】[vwxyzjn / cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
+* 【2024-03-11】[datacontract / cli](https://github.com/datacontract/cli) - CLI to manage your datacontract.yaml files
+* 【2024-03-11】[magic-research / piecewise-rectified-flow](https://github.com/magic-research/piecewise-rectified-flow) - 
 * 【2024-03-10】[jiaweizzhao / GaLore](https://github.com/jiaweizzhao/GaLore) - 
 * 【2024-03-10】[W01fh4cker / CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) - CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4
 * 【2024-03-10】[prometheusdevel / Prometheus](https://github.com/prometheusdevel/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
@@ -2274,6 +2281,9 @@
 
 ## Javascript
 
+* 【2024-03-11】[safak / react-estate-ui](https://github.com/safak/react-estate-ui) - 
+* 【2024-03-11】[bruhbruhroblox / wallstreetlocal](https://github.com/bruhbruhroblox/wallstreetlocal) - Free and open-source stock tracking website for America's biggest money managers. Democratizing SEC filings by making them more accessible and useful.
+* 【2024-03-11】[open-ibc / ibc-app-solidity-template](https://github.com/open-ibc/ibc-app-solidity-template) - Template starter for IBC enabled contracts in Solidity for use with vibc-core-smart-contracts
 * 【2024-03-10】[xxxily / h5player](https://github.com/xxxily/h5player) - 视频增强脚本，支持所有H5视频网站，例如：B站、抖音、腾讯视频、优酷、爱奇艺、西瓜视频、油管（YouTube）、微博视频、知乎视频、搜狐视频、网易公开课、百度网盘、阿里云盘、ted、instagram、twitter等。全程快捷键控制，支持：倍速播放/加速播放、视频画面截图、画中画、网页全屏、调节亮度、饱和度、对比度、自定义配置功能增强等功能，为你提供愉悦的在线视频播放体验。还有视频广告快进、在线教程/教育视频倍速快学等能力
 * 【2024-03-10】[gorisanson / pikachu-volleyball](https://github.com/gorisanson/pikachu-volleyball) - Pikachu Volleyball implemented into JavaScript by reverse engineering the original game
 * 【2024-03-09】[munris-vlad / airdrop-checker](https://github.com/munris-vlad/airdrop-checker) - 
@@ -3192,6 +3202,9 @@
 
 ## Go
 
+* 【2024-03-11】[Ehco1996 / ehco](https://github.com/Ehco1996/ehco) - ehco is a network ʚrelayɞ tool and a typo :)
+* 【2024-03-11】[charmbracelet / bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
+* 【2024-03-11】[miniflux / v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 * 【2024-03-10】[earthly / earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 * 【2024-03-10】[buger / goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 * 【2024-03-09】[daytonaio / daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
@@ -4776,6 +4789,8 @@
 
 ## C++
 
+* 【2024-03-11】[filecxx / FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client.
+* 【2024-03-11】[nextcloud / desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 * 【2024-03-10】[ProjectDreamland / area51](https://github.com/ProjectDreamland/area51) - Source code for Area 51 (2005)
 * 【2024-03-10】[sudachi-emu / sudachi](https://github.com/sudachi-emu/sudachi) - 
 * 【2024-03-10】[davisking / dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
@@ -5490,6 +5505,10 @@
 
 ## C#
 
+* 【2024-03-11】[MzHmO / Parasite-Invoke](https://github.com/MzHmO/Parasite-Invoke) - Hide your P/Invoke signatures through other people's signed assemblies
+* 【2024-03-11】[mouredev / one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
+* 【2024-03-11】[Exitium-DEV / HD2-Cheat-Launcher](https://github.com/Exitium-DEV/HD2-Cheat-Launcher) - 
+* 【2024-03-11】[Reloaded-Project / Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II) - Next Generation Universal .NET Core Powered Mod Loader compatible with anything X86, X64.
 * 【2024-03-10】[microsoft / perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
 * 【2024-03-09】[ArduPilot / MissionPlanner](https://github.com/ArduPilot/MissionPlanner) - Mission Planner Ground Control Station for ArduPilot (c# .net)
 * 【2024-03-08】[ravendb / ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
@@ -6209,6 +6228,8 @@
 
 ## Html
 
+* 【2024-03-11】[BugBearer / GPT-INT](https://github.com/BugBearer/GPT-INT) - An extension for Visual Studio Code that integrates the power of OpenAI's GPT models into VSCode.
+* 【2024-03-11】[FinHackCN / finhack](https://github.com/FinHackCN/finhack) - FinHack®，一个易于拓展的量化金融框架，它在当前版本中集成了数据采集、因子计算、因子挖掘、因子分析、机器学习、策略编写、量化回测等全流程的量化投研工作。
 * 【2024-03-10】[AndrewVeee / nucleo-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
 * 【2024-03-10】[TeamStuQ / skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 * 【2024-03-10】[ZYYO666 / homepage](https://github.com/ZYYO666/homepage) - 我的个人主页，homepage,个人引导页,简约主页,个人导航
@@ -6847,6 +6868,7 @@
 
 ## Css
 
+* 【2024-03-11】[MafernandaMeneses / login](https://github.com/MafernandaMeneses/login) - practica de login
 * 【2024-03-10】[McShelby / hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
 * 【2024-03-10】[fauzan1892 / pos-kasir-php](https://github.com/fauzan1892/pos-kasir-php) - Source Code Aplikasi Penjualan Barang (Kasir) dengan PHP MYSQL
 * 【2024-03-10】[agicto / agi-proxy](https://github.com/agicto/agi-proxy) - 
