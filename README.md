@@ -918,6 +918,11 @@
 
 ## Python
 
+* 【2024-03-16】[lavague-ai / LaVague](https://github.com/lavague-ai/LaVague) - Automate automation with Large Action Model framework
+* 【2024-03-16】[Project-MONAI / MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
+* 【2024-03-16】[luijait / DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
+* 【2024-03-16】[phospho-app / phospho](https://github.com/phospho-app/phospho) - Text analytics for LLM apps. PostHog for prompts. Extract evaluations, intents and events from text messages. phospho leverages LLM (OpenAI, MistralAI, Ollama, etc.)
+* 【2024-03-16】[microsoft / presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and de-identification SDK for text and images
 * 【2024-03-15】[BAAI-Agents / Cradle](https://github.com/BAAI-Agents/Cradle) - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
 * 【2024-03-15】[openai / transformer-debugger](https://github.com/openai/transformer-debugger) - 
 * 【2024-03-15】[princeton-nlp / SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?
@@ -2307,6 +2312,8 @@
 
 ## Javascript
 
+* 【2024-03-16】[said7388 / developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
+* 【2024-03-16】[Eclipse-Laboratories-Inc / eclipse-wallet](https://github.com/Eclipse-Laboratories-Inc/eclipse-wallet) - 
 * 【2024-03-15】[wasmerio / winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 * 【2024-03-15】[NodeBB / NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 * 【2024-03-15】[codesandbox / codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
@@ -4842,6 +4849,7 @@
 
 ## C++
 
+* 【2024-03-16】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
 * 【2024-03-15】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
 * 【2024-03-15】[rime / weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 * 【2024-03-15】[MetaWu2077 / Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs) - esp32 based device, mainly used for voice chat with large language models
@@ -5569,6 +5577,9 @@
 
 ## C#
 
+* 【2024-03-16】[Vietsens / hisnguonmo](https://github.com/Vietsens/hisnguonmo) - His nguồn mở
+* 【2024-03-16】[oleg-shilo / wixsharp](https://github.com/oleg-shilo/wixsharp) - Framework for building a complete MSI or WiX source code by using script files written with C# syntax.
+* 【2024-03-16】[AIDotNet / fast-wiki](https://github.com/AIDotNet/fast-wiki) - 基于.NET8+React+LobeUI实现的企业级智能客服知识库
 * 【2024-03-15】[betwixt-labs / bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 * 【2024-03-15】[dbrizov / NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
 * 【2024-03-15】[ulomaramma / JWTAuthenticationWebAPI](https://github.com/ulomaramma/JWTAuthenticationWebAPI) - 
@@ -6950,6 +6961,9 @@
 
 ## Css
 
+* 【2024-03-16】[boolean-uk / angular-greengrocers](https://github.com/boolean-uk/angular-greengrocers) - 
+* 【2024-03-16】[DevOpsManiac / CorpSite](https://github.com/DevOpsManiac/CorpSite) - 
+* 【2024-03-16】[obscurefreeman / typora_theme_blackout](https://github.com/obscurefreeman/typora_theme_blackout) - Blackout theme of typora
 * 【2024-03-15】[seeli-teaching / js-devcontainer-level-2](https://github.com/seeli-teaching/js-devcontainer-level-2) - 
 * 【2024-03-15】[vishalsodani / trackactivity](https://github.com/vishalsodani/trackactivity) - Django Sample App
 * 【2024-03-15】[sarbajitD-24 / zon-coffee](https://github.com/sarbajitD-24/zon-coffee) - zon-coffee
@@ -7696,6 +7710,13 @@
 
 ## Unknown
 
+* 【2024-03-16】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
+* 【2024-03-16】[telegram-sgk / SGK_Sites_and_Bots](https://github.com/telegram-sgk/SGK_Sites_and_Bots) - 免费在线社工库，免费Telegram社工库
+* 【2024-03-16】[OceanNg529 / allAI](https://github.com/OceanNg529/allAI) - 
+* 【2024-03-16】[ayadim / Nuclei-bug-hunter](https://github.com/ayadim/Nuclei-bug-hunter) - i will upload more templates here to share with the comunity.
+* 【2024-03-16】[diia-open-source / diia-setup-howto](https://github.com/diia-open-source/diia-setup-howto) - 
+* 【2024-03-16】[cipher387 / cheatsheets](https://github.com/cipher387/cheatsheets) - High quality and text versions of cheat sheets from Cyber Detective Twitter
+* 【2024-03-16】[PeachTeaaa / Aviator-Prediction-Tool](https://github.com/PeachTeaaa/Aviator-Prediction-Tool) - Best prediction tool for Aviator, requests USB cable and PC for installation on your device
 * 【2024-03-15】[krishnaik06 / Data-Science-Gen-AI-Playlist-2024](https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024) - 
 * 【2024-03-14】[ai-boost / awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 * 【2024-03-14】[subat0mik / Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
