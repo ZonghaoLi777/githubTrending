@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-03-17】[marcushellberg / java-ai-playground](https://github.com/marcushellberg/java-ai-playground) - 
 * 【2024-03-15】[confluentinc / schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
 * 【2024-03-15】[liyupi / yu-rpc](https://github.com/liyupi/yu-rpc) - 从 0 到 1，带你开发自己的 RPC 框架
 * 【2024-03-15】[spring-projects / spring-data-redis](https://github.com/spring-projects/spring-data-redis) - Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
@@ -918,6 +919,11 @@
 
 ## Python
 
+* 【2024-03-17】[Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
+* 【2024-03-17】[zurdi15 / romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self-hosted rom manager
+* 【2024-03-17】[naver-ai / Visual-Style-Prompting](https://github.com/naver-ai/Visual-Style-Prompting) - Official Pytorch implementation of "Visual Style Prompting with Swapping Self-Attention"
+* 【2024-03-17】[replicate / cog](https://github.com/replicate/cog) - Containers for machine learning
+* 【2024-03-17】[wbt5 / real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 * 【2024-03-16】[lavague-ai / LaVague](https://github.com/lavague-ai/LaVague) - Automate automation with Large Action Model framework
 * 【2024-03-16】[Project-MONAI / MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 * 【2024-03-16】[luijait / DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
@@ -2312,6 +2318,10 @@
 
 ## Javascript
 
+* 【2024-03-17】[randyisback / ask-for-a-date](https://github.com/randyisback/ask-for-a-date) - Js project troll.
+* 【2024-03-17】[Rob--W / cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
+* 【2024-03-17】[sxei / chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
+* 【2024-03-17】[markedjs / marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 * 【2024-03-16】[said7388 / developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 * 【2024-03-16】[Eclipse-Laboratories-Inc / eclipse-wallet](https://github.com/Eclipse-Laboratories-Inc/eclipse-wallet) - 
 * 【2024-03-15】[wasmerio / winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
@@ -3245,6 +3255,11 @@
 
 ## Go
 
+* 【2024-03-17】[yusufcanb / tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
+* 【2024-03-17】[envoyproxy / gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+* 【2024-03-17】[basecamp / thruster](https://github.com/basecamp/thruster) - 
+* 【2024-03-17】[smallstep / certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+* 【2024-03-17】[pufferffish / wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 * 【2024-03-15】[google / gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
 * 【2024-03-15】[dgraph-io / dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
 * 【2024-03-15】[kubesphere / kubekey](https://github.com/kubesphere/kubekey) - Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
@@ -4849,6 +4864,7 @@
 
 ## C++
 
+* 【2024-03-17】[0x36 / Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) - Android 14 kernel exploit for Pixel7/8 Pro
 * 【2024-03-16】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
 * 【2024-03-15】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
 * 【2024-03-15】[rime / weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
@@ -5577,6 +5593,7 @@
 
 ## C#
 
+* 【2024-03-17】[Unity-Technologies / megacity-metro](https://github.com/Unity-Technologies/megacity-metro) - Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.
 * 【2024-03-16】[Vietsens / hisnguonmo](https://github.com/Vietsens/hisnguonmo) - His nguồn mở
 * 【2024-03-16】[oleg-shilo / wixsharp](https://github.com/oleg-shilo/wixsharp) - Framework for building a complete MSI or WiX source code by using script files written with C# syntax.
 * 【2024-03-16】[AIDotNet / fast-wiki](https://github.com/AIDotNet/fast-wiki) - 基于.NET8+React+LobeUI实现的企业级智能客服知识库
@@ -6311,6 +6328,7 @@
 
 ## Html
 
+* 【2024-03-17】[chiphuyen / ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 * 【2024-03-15】[wuhobin / blog-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
 * 【2024-03-14】[midudev / eloquent-javascript-es](https://github.com/midudev/eloquent-javascript-es) - Traducción del libro Eloquent JavaScript en Español
 * 【2024-03-14】[J2TEAM / demo](https://github.com/J2TEAM/demo) - Code demo cho các video của JUNO_OKYO
@@ -6961,6 +6979,12 @@
 
 ## Css
 
+* 【2024-03-17】[milk-v / milkv.io](https://github.com/milk-v/milkv.io) - 
+* 【2024-03-17】[dajianihao / helldivers-2-cheat](https://github.com/dajianihao/helldivers-2-cheat) - New updated cheat for Helldivers 2!
+* 【2024-03-17】[alexbates / Tamari](https://github.com/alexbates/Tamari) - A fully-featured recipe manager web application built using Python and the Flask Framework.
+* 【2024-03-17】[EELL88 / aurora](https://github.com/EELL88/aurora) - v2board前端
+* 【2024-03-17】[NeuraLegion / brokencrystals](https://github.com/NeuraLegion/brokencrystals) - A Broken Application - Very Vulnerable!
+* 【2024-03-17】[thomskaf / CSS-image-replacement](https://github.com/thomskaf/CSS-image-replacement) - New CSS image replacement
 * 【2024-03-16】[boolean-uk / angular-greengrocers](https://github.com/boolean-uk/angular-greengrocers) - 
 * 【2024-03-16】[DevOpsManiac / CorpSite](https://github.com/DevOpsManiac/CorpSite) - 
 * 【2024-03-16】[obscurefreeman / typora_theme_blackout](https://github.com/obscurefreeman/typora_theme_blackout) - Blackout theme of typora
@@ -7710,6 +7734,10 @@
 
 ## Unknown
 
+* 【2024-03-17】[lsc4719 / MyViewOfLinuxSystems](https://github.com/lsc4719/MyViewOfLinuxSystems) - 
+* 【2024-03-17】[ianand / spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
+* 【2024-03-17】[linaruqi / StratiCounterGUI](https://github.com/linaruqi/StratiCounterGUI) - a GUI
+* 【2024-03-17】[darius-khll / golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 * 【2024-03-16】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 * 【2024-03-16】[telegram-sgk / SGK_Sites_and_Bots](https://github.com/telegram-sgk/SGK_Sites_and_Bots) - 免费在线社工库，免费Telegram社工库
 * 【2024-03-16】[OceanNg529 / allAI](https://github.com/OceanNg529/allAI) - 
