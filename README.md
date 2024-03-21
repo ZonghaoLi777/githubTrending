@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-03-21】[01-ai / Descartes](https://github.com/01-ai/Descartes) - 
+* 【2024-03-21】[GoogleCloudPlatform / DataflowTemplates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Cloud Dataflow Google-provided templates for solving in-Cloud data tasks
 * 【2024-03-20】[CodingGay / BlackShadow](https://github.com/CodingGay/BlackShadow) - 腾讯(Tencent)Shadow的二次封装项目，开袋即食版。
 * 【2024-03-20】[smilexizheng / coco-boot](https://github.com/smilexizheng/coco-boot) - test-coco-springboot
 * 【2024-03-19】[racoonman2 / ReTerraForged](https://github.com/racoonman2/ReTerraForged) - a 1.19+ port of https://github.com/TerraForged/TerraForged
@@ -925,6 +927,7 @@
 
 ## Python
 
+* 【2024-03-21】[zylon-ai / private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 * 【2024-03-20】[xai-org / grok-1](https://github.com/xai-org/grok-1) - Grok open release
 * 【2024-03-20】[albertan017 / LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
 * 【2024-03-19】[openai / grok](https://github.com/openai/grok) - 
@@ -2334,6 +2337,10 @@
 
 ## Javascript
 
+* 【2024-03-21】[Hyizhou1 / Tg_SuperSerch](https://github.com/Hyizhou1/Tg_SuperSerch) - 关于 TG索引机器人，telegram中文搜索群组，telegram超级索引源码，tg中文搜索，群组收录，tg搜索机器人https://t.me/spuerserch
+* 【2024-03-21】[ButzYung / SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online
+* 【2024-03-21】[darkroomengineering / lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
+* 【2024-03-21】[coreui / coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is a free React admin template based on Bootstrap 5
 * 【2024-03-20】[JaimeObregon / observatoriospublicos.es](https://github.com/JaimeObregon/observatoriospublicos.es) - Observatorio de los observatorios públicos de España
 * 【2024-03-20】[DeFiSolMaster / Solana-Sniper-Bot-Opensource](https://github.com/DeFiSolMaster/Solana-Sniper-Bot-Opensource) - Ultimate Solana Sniper Bot for the degens that want to snipe tokens and farm airdrop
 * 【2024-03-20】[mediacms-io / mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -3281,6 +3288,8 @@
 
 ## Go
 
+* 【2024-03-21】[veops / oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
+* 【2024-03-21】[kitabisa / teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 * 【2024-03-19】[burrowers / garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 * 【2024-03-18】[missingstudio / gateway](https://github.com/missingstudio/gateway) - 🌈 A Reliable AI Gateway - Core infrastructure stack for building your AI workforce
 * 【2024-03-18】[scratchdata / scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
@@ -4147,6 +4156,9 @@
 
 ## C
 
+* 【2024-03-21】[X1Plus / X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
+* 【2024-03-21】[xscorp / jsmug](https://github.com/xscorp/jsmug) - A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
+* 【2024-03-21】[dibyendumajumdar / ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
 * 【2024-03-20】[trezor / trezor-firmware](https://github.com/trezor/trezor-firmware) - 🔒 Trezor Firmware Monorepo
 * 【2024-03-20】[pygame-community / pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
 * 【2024-03-20】[ossc-db / pg_hint_plan](https://github.com/ossc-db/pg_hint_plan) - Give PostgreSQL ability to manually force some decisions in execution plans.
@@ -4904,6 +4916,8 @@
 
 ## C++
 
+* 【2024-03-21】[linyacool / WebServer](https://github.com/linyacool/WebServer) - A C++ High Performance Web Server
+* 【2024-03-21】[ros-drivers / usb_cam](https://github.com/ros-drivers/usb_cam) - A ROS Driver for V4L2 USB Cameras
 * 【2024-03-20】[a-ngo / route-planning](https://github.com/a-ngo/route-planning) - 
 * 【2024-03-20】[0voice / cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 * 【2024-03-19】[harfbuzz / harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
@@ -5639,6 +5653,7 @@
 
 ## C#
 
+* 【2024-03-21】[microsoft / garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 * 【2024-03-20】[falseeeeeeeeee / ShaderLibrary](https://github.com/falseeeeeeeeee/ShaderLibrary) - 希望开源能够帮到所有人
 * 【2024-03-20】[unvell / ReoGrid](https://github.com/unvell/ReoGrid) - Fast and powerful .NET spreadsheet component, support data format, freeze, outline, formula calculation, chart, script execution and etc. Compatible with Excel 2007 (.xlsx) format and working on .NET 3.5 (or client profile), WPF and Android platform.
 * 【2024-03-19】[DevToys-app / DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -6378,6 +6393,8 @@
 
 ## Html
 
+* 【2024-03-21】[teenboyring / Listonline](https://github.com/teenboyring/Listonline) - 
+* 【2024-03-21】[bradtraversy / react-crash-2024](https://github.com/bradtraversy/react-crash-2024) - React jobs project from YouTube crash course
 * 【2024-03-20】[zhugezifang / ai_timeline](https://github.com/zhugezifang/ai_timeline) - AI时间线，产品地址：http://www.ai-timeline.top
 * 【2024-03-19】[codediodeio / rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial) - a simple webapp with rembg
 * 【2024-03-19】[niikhiljha / Impressing-your-crush](https://github.com/niikhiljha/Impressing-your-crush) - 
@@ -7035,6 +7052,10 @@
 
 ## Css
 
+* 【2024-03-21】[aprxi / letsbuild-ai](https://github.com/aprxi/letsbuild-ai) - Community-driven platform dedicated to sharing resources, tools, and knowledge for AI enthusiasts and developers
+* 【2024-03-21】[TheBridge-FullStackDeveloper / react-poke](https://github.com/TheBridge-FullStackDeveloper/react-poke) - 
+* 【2024-03-21】[edouard-gv / ue22-p23-web-calculator](https://github.com/edouard-gv/ue22-p23-web-calculator) - 
+* 【2024-03-21】[narasimhareddyprostack / March-FS-5](https://github.com/narasimhareddyprostack/March-FS-5) - HTML,CSS,JS, React Js, Java, Java 8 , JDBC, JSP, Hibernate, Spring Boot, MS, MYSQL, Mongo DB, Project
 * 【2024-03-20】[Saivenkat2005 / https-github.com-DeepakReddyG-ZeroOneCodeClub_FirstWebDevProject](https://github.com/Saivenkat2005/https-github.com-DeepakReddyG-ZeroOneCodeClub_FirstWebDevProject) - 
 * 【2024-03-20】[gathpadeepak / ZeroOneCodeClub_FirstWebDevProject](https://github.com/gathpadeepak/ZeroOneCodeClub_FirstWebDevProject) - 
 * 【2024-03-20】[adityanavgurukul / weather-app-group4](https://github.com/adityanavgurukul/weather-app-group4) - 
@@ -7802,6 +7823,11 @@
 
 ## Unknown
 
+* 【2024-03-21】[dotnet-smartcomponents / smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents) - Experimental, end-to-end AI features for .NET apps
+* 【2024-03-21】[mims-harvard / UniTS](https://github.com/mims-harvard/UniTS) - A unified time series model.
+* 【2024-03-21】[pamoroso / free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
+* 【2024-03-21】[Coder-World04 / Complete-Machine-Learning-](https://github.com/Coder-World04/Complete-Machine-Learning-) - This repository contains everything you need to become proficient in Machine Learning
+* 【2024-03-21】[lintstar / CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) - 基于 OPSEC 的 CobaltStrike 后渗透自动化链
 * 【2024-03-20】[ZHO-ZHO-ZHO / ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 * 【2024-03-20】[ksundong / backend-interview-question](https://github.com/ksundong/backend-interview-question) - 백엔드 개발자로 입사를 준비하며 받았던 질문, 예상했던 질문, 인터넷 참고한 질문(CC BY-NC)
 * 【2024-03-19】[Code4GovTech / C4GT](https://github.com/Code4GovTech/C4GT) - C4GT has been conceptualised as a summer coding program to create a community that can build and contribute to global digital public goods.
