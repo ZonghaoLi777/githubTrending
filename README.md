@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-03-23】[pmd / pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+* 【2024-03-23】[dromara / dante-cloud](https://github.com/dromara/dante-cloud) - Dante Cloud is an enterprise level Microservices architecture and service capability development platform. It is a multi tenant Microservices solution that adopts the domain driven model (DDD) design idea, fully embraces Spring Authorization Server, is based on OAuth2.1 protocol, and supports the authentication of Smart TV, IoT and other IoT device
 * 【2024-03-22】[alibaba / jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
 * 【2024-03-21】[01-ai / Descartes](https://github.com/01-ai/Descartes) - 
 * 【2024-03-21】[GoogleCloudPlatform / DataflowTemplates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Cloud Dataflow Google-provided templates for solving in-Cloud data tasks
@@ -928,6 +930,14 @@
 
 ## Python
 
+* 【2024-03-23】[harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频
+* 【2024-03-23】[lewis-007 / MediaCrawler](https://github.com/lewis-007/MediaCrawler) - 
+* 【2024-03-23】[OpenInterpreter / open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+* 【2024-03-23】[GaParmar / img2img-turbo](https://github.com/GaParmar/img2img-turbo) - One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more
+* 【2024-03-23】[Doriandarko / maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
+* 【2024-03-23】[Lightning-AI / lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - Source to source compiler for PyTorch. It makes PyTorch programs faster on single accelerators and distributed.
+* 【2024-03-23】[SYSTRAN / faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
+* 【2024-03-23】[ezelikman / quiet-star](https://github.com/ezelikman/quiet-star) - Code for Quiet-STaR
 * 【2024-03-22】[kongzhecn / OMG](https://github.com/kongzhecn/OMG) - OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models
 * 【2024-03-22】[Kiteretsu77 / APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)
 * 【2024-03-22】[mrphrazer / reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
@@ -2342,6 +2352,10 @@
 
 ## Javascript
 
+* 【2024-03-23】[IseeJ / CosmosPersona](https://github.com/IseeJ/CosmosPersona) - for fun :D
+* 【2024-03-23】[ThePrimeagen / fem-git](https://github.com/ThePrimeagen/fem-git) - 
+* 【2024-03-23】[Xtremilicious / projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
+* 【2024-03-23】[Automattic / wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 * 【2024-03-22】[oldboyxx / jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 * 【2024-03-22】[typicode / mistcss](https://github.com/typicode/mistcss) - Write atomic React components using only CSS! (JS-from-CSS™) 🌬️
 * 【2024-03-22】[Hyizhou1 / tg_hongbao](https://github.com/Hyizhou1/tg_hongbao) - Telegram电报tg红包雷,红包扫雷机器人源码--自助充值、提现全功能完整版多语言全网最全假人自动抢包
@@ -4167,6 +4181,7 @@
 
 ## C
 
+* 【2024-03-23】[3proxy / 3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
 * 【2024-03-22】[cecio / USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 * 【2024-03-21】[X1Plus / X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 * 【2024-03-21】[xscorp / jsmug](https://github.com/xscorp/jsmug) - A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
@@ -5667,6 +5682,9 @@
 
 ## C#
 
+* 【2024-03-23】[grzybeek / grzyClothTool](https://github.com/grzybeek/grzyClothTool) - grzyClothTool is a free tool to create and manage GTA5 addon clothing packs
+* 【2024-03-23】[bcgit / bc-csharp](https://github.com/bcgit/bc-csharp) - BouncyCastle.NET Cryptography Library (Mirror)
+* 【2024-03-23】[redis-windows / redis-windows](https://github.com/redis-windows/redis-windows) - Redis 6.0.20 6.2.14 7.0.15 7.2.4 for Windows
 * 【2024-03-22】[microsoft / FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 * 【2024-03-22】[Pathoschild / SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley.
 * 【2024-03-22】[Prescoter / Emora-Project](https://github.com/Prescoter/Emora-Project) - Emora is an OSINT tool like sherlock but with a GUI, which search for accounts by username across social networks
@@ -6410,6 +6428,8 @@
 
 ## Html
 
+* 【2024-03-23】[mist64 / 64er-magazin.de](https://github.com/mist64/64er-magazin.de) - 
+* 【2024-03-23】[qkqpttgf / OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 * 【2024-03-21】[teenboyring / Listonline](https://github.com/teenboyring/Listonline) - 
 * 【2024-03-21】[bradtraversy / react-crash-2024](https://github.com/bradtraversy/react-crash-2024) - React jobs project from YouTube crash course
 * 【2024-03-20】[zhugezifang / ai_timeline](https://github.com/zhugezifang/ai_timeline) - AI时间线，产品地址：http://www.ai-timeline.top
@@ -7069,6 +7089,9 @@
 
 ## Css
 
+* 【2024-03-23】[MrVivekRajan / Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) - 
+* 【2024-03-23】[wessamabdelwahab / scm](https://github.com/wessamabdelwahab/scm) - 
+* 【2024-03-23】[hussein4alaa / laravel-g4t-swagger-auto-generate](https://github.com/hussein4alaa/laravel-g4t-swagger-auto-generate) - auto generate swagger in laravel
 * 【2024-03-21】[aprxi / letsbuild-ai](https://github.com/aprxi/letsbuild-ai) - Community-driven platform dedicated to sharing resources, tools, and knowledge for AI enthusiasts and developers
 * 【2024-03-21】[TheBridge-FullStackDeveloper / react-poke](https://github.com/TheBridge-FullStackDeveloper/react-poke) - 
 * 【2024-03-21】[edouard-gv / ue22-p23-web-calculator](https://github.com/edouard-gv/ue22-p23-web-calculator) - 
@@ -7840,6 +7863,10 @@
 
 ## Unknown
 
+* 【2024-03-23】[DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+* 【2024-03-23】[Boiledcrabs / Aviator-Prediction-Tool](https://github.com/Boiledcrabs/Aviator-Prediction-Tool) - Best prediction tool for Aviator, requests USB cable and PC for install on your device.
+* 【2024-03-23】[sk3pp3r / cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
+* 【2024-03-23】[AlphacatPlus / VmambaIR](https://github.com/AlphacatPlus/VmambaIR) - This is official implementtaion of "VmambaIR: Visual State Space Model for Image Restoration"
 * 【2024-03-22】[formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 * 【2024-03-22】[priyankavergadia / google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 * 【2024-03-22】[meituan / Meituan-INFORMS-TSL-Research-Challenge](https://github.com/meituan/Meituan-INFORMS-TSL-Research-Challenge) - 
