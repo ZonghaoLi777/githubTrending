@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-03-24】[raphw / byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
 * 【2024-03-23】[pmd / pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 * 【2024-03-23】[dromara / dante-cloud](https://github.com/dromara/dante-cloud) - Dante Cloud is an enterprise level Microservices architecture and service capability development platform. It is a multi tenant Microservices solution that adopts the domain driven model (DDD) design idea, fully embraces Spring Authorization Server, is based on OAuth2.1 protocol, and supports the authentication of Smart TV, IoT and other IoT device
 * 【2024-03-22】[alibaba / jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
@@ -930,6 +931,12 @@
 
 ## Python
 
+* 【2024-03-24】[stitionai / devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.
+* 【2024-03-24】[OpenInterpreter / 01](https://github.com/OpenInterpreter/01) - The open-source language model computer
+* 【2024-03-24】[SakanaAI / evolutionary-model-merge](https://github.com/SakanaAI/evolutionary-model-merge) - Official repository of Evolutionary Optimization of Model Merging Recipes
+* 【2024-03-24】[TarlogicSecurity / BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - 
+* 【2024-03-24】[scipy / scipy](https://github.com/scipy/scipy) - SciPy library main repository
+* 【2024-03-24】[jiji262 / MediaCrawler-new](https://github.com/jiji262/MediaCrawler-new) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 * 【2024-03-23】[harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频
 * 【2024-03-23】[lewis-007 / MediaCrawler](https://github.com/lewis-007/MediaCrawler) - 
 * 【2024-03-23】[OpenInterpreter / open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -2352,6 +2359,11 @@
 
 ## Javascript
 
+* 【2024-03-24】[xfgryujk / blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
+* 【2024-03-24】[huanghanzhilian / c-shopping-rn](https://github.com/huanghanzhilian/c-shopping-rn) - This is a complete App developed by React Native (Expo). It is a beautiful e-commerce shopping application. 这个是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用。
+* 【2024-03-24】[Nuked88 / ComfyUI-N-Sidebar](https://github.com/Nuked88/ComfyUI-N-Sidebar) - A simple sidebar for your ConfyUI!
+* 【2024-03-24】[fluent-ffmpeg / node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
+* 【2024-03-24】[zeke / livestory](https://github.com/zeke/livestory) - 
 * 【2024-03-23】[IseeJ / CosmosPersona](https://github.com/IseeJ/CosmosPersona) - for fun :D
 * 【2024-03-23】[ThePrimeagen / fem-git](https://github.com/ThePrimeagen/fem-git) - 
 * 【2024-03-23】[Xtremilicious / projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
@@ -4181,6 +4193,9 @@
 
 ## C
 
+* 【2024-03-24】[phdlee / uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
+* 【2024-03-24】[wendy512 / iec61850](https://github.com/wendy512/iec61850) - GoLang IEC61850 library
+* 【2024-03-24】[AOMediaCodec / libavif](https://github.com/AOMediaCodec/libavif) - libavif - Library for encoding and decoding .avif files
 * 【2024-03-23】[3proxy / 3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
 * 【2024-03-22】[cecio / USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 * 【2024-03-21】[X1Plus / X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
@@ -4943,6 +4958,9 @@
 
 ## C++
 
+* 【2024-03-24】[leethomason / tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
+* 【2024-03-24】[vesoft-inc / nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+* 【2024-03-24】[Daiyouqi / Convenience_QThread](https://github.com/Daiyouqi/Convenience_QThread) - 在c++/qt中使用c#的async/await语法糖
 * 【2024-03-22】[rive-app / rive-renderer](https://github.com/rive-app/rive-renderer) - Downstream repo for Rive renderer
 * 【2024-03-22】[RedefiningReality / Cobalt-Strike](https://github.com/RedefiningReality/Cobalt-Strike) - Various resources to enhance Cobalt Strike's functionality and its ability to evade antivirus/EDR detection
 * 【2024-03-21】[linyacool / WebServer](https://github.com/linyacool/WebServer) - A C++ High Performance Web Server
@@ -5682,6 +5700,10 @@
 
 ## C#
 
+* 【2024-03-24】[Cysharp / MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
+* 【2024-03-24】[whuanle / maomi](https://github.com/whuanle/maomi) - Maomi 框架是一个简单的、简洁的开发框架，处理框架本身提供的功能之外，Maomi 还作为一个易于阅读的开源项目，能够给开发者提供设计框架的思路和代码。
+* 【2024-03-24】[StackExchange / StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
+* 【2024-03-24】[emoacht / Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
 * 【2024-03-23】[grzybeek / grzyClothTool](https://github.com/grzybeek/grzyClothTool) - grzyClothTool is a free tool to create and manage GTA5 addon clothing packs
 * 【2024-03-23】[bcgit / bc-csharp](https://github.com/bcgit/bc-csharp) - BouncyCastle.NET Cryptography Library (Mirror)
 * 【2024-03-23】[redis-windows / redis-windows](https://github.com/redis-windows/redis-windows) - Redis 6.0.20 6.2.14 7.0.15 7.2.4 for Windows
@@ -6428,6 +6450,9 @@
 
 ## Html
 
+* 【2024-03-24】[TheLargestHiddenWiki / uncensored-onion-links](https://github.com/TheLargestHiddenWiki/uncensored-onion-links) - The Hidden Wiki
+* 【2024-03-24】[HiddenStrawberry / Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户
+* 【2024-03-24】[anan1213095357 / Blueprint](https://github.com/anan1213095357/Blueprint) - 
 * 【2024-03-23】[mist64 / 64er-magazin.de](https://github.com/mist64/64er-magazin.de) - 
 * 【2024-03-23】[qkqpttgf / OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 * 【2024-03-21】[teenboyring / Listonline](https://github.com/teenboyring/Listonline) - 
@@ -7089,6 +7114,11 @@
 
 ## Css
 
+* 【2024-03-24】[Darshika-Mishra / CBTCIP-2](https://github.com/Darshika-Mishra/CBTCIP-2) - 
+* 【2024-03-24】[diydiagnostics / App6-HTML5-Canvas](https://github.com/diydiagnostics/App6-HTML5-Canvas) - 
+* 【2024-03-24】[christian7gonzalez / davinci-resolve-studio-18-download](https://github.com/christian7gonzalez/davinci-resolve-studio-18-download) - 
+* 【2024-03-24】[rootknight / Miniflux-Theme-Reeder](https://github.com/rootknight/Miniflux-Theme-Reeder) - Miniflux v2 的自定义主题 miniflux-theme-reeder（仿 Reeder）
+* 【2024-03-24】[CodeSpace-Academy / Module_4_StudentNo_Classcode_Group_Name-Surname_SDF04](https://github.com/CodeSpace-Academy/Module_4_StudentNo_Classcode_Group_Name-Surname_SDF04) - 
 * 【2024-03-23】[MrVivekRajan / Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) - 
 * 【2024-03-23】[wessamabdelwahab / scm](https://github.com/wessamabdelwahab/scm) - 
 * 【2024-03-23】[hussein4alaa / laravel-g4t-swagger-auto-generate](https://github.com/hussein4alaa/laravel-g4t-swagger-auto-generate) - auto generate swagger in laravel
@@ -7863,6 +7893,9 @@
 
 ## Unknown
 
+* 【2024-03-24】[jakubtomsu / awesome-odin](https://github.com/jakubtomsu/awesome-odin) - A collection of awesome Odin libraries, bindings, software and resources 🧙‍♂️✨
+* 【2024-03-24】[jaywcjlove / DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
+* 【2024-03-24】[zorazrw / awesome-tool-llm](https://github.com/zorazrw/awesome-tool-llm) - 
 * 【2024-03-23】[DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 * 【2024-03-23】[Boiledcrabs / Aviator-Prediction-Tool](https://github.com/Boiledcrabs/Aviator-Prediction-Tool) - Best prediction tool for Aviator, requests USB cable and PC for install on your device.
 * 【2024-03-23】[sk3pp3r / cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
