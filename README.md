@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-03-27】[infinilabs / analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
+* 【2024-03-27】[algorithmzuo / algorithm-journey](https://github.com/algorithmzuo/algorithm-journey) - 算法通关课的代码和课件
 * 【2024-03-25】[labilibili / labilibili](https://github.com/labilibili/labilibili) - 仿bilibili前后端实现
 * 【2024-03-24】[raphw / byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
 * 【2024-03-23】[pmd / pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
@@ -932,6 +934,8 @@
 
 ## Python
 
+* 【2024-03-27】[FoundationVision / GLEE](https://github.com/FoundationVision/GLEE) - 【CVPR2024】GLEE: General Object Foundation Model for Images and Videos at Scale
+* 【2024-03-27】[donydchen / mvsplat](https://github.com/donydchen/mvsplat) - 🌊[arXiv'24] MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images
 * 【2024-03-26】[mistralai-sf24 / hackathon](https://github.com/mistralai-sf24/hackathon) - 
 * 【2024-03-26】[prometeydev / Prometheus](https://github.com/prometeydev/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
 * 【2024-03-26】[geohot / 7900xtx](https://github.com/geohot/7900xtx) - 
@@ -2366,6 +2370,8 @@
 
 ## Javascript
 
+* 【2024-03-27】[hrishioa / lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
+* 【2024-03-27】[sahir2k / twitter_face_swap](https://github.com/sahir2k/twitter_face_swap) - 
 * 【2024-03-26】[xiaopanglian / icefox](https://github.com/xiaopanglian/icefox) - Typecho微信朋友圈主题 icefox
 * 【2024-03-26】[micheleg / dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.
 * 【2024-03-26】[Onezyh / Worker-Vless-2-USB](https://github.com/Onezyh/Worker-Vless-2-USB) - 
@@ -4212,6 +4218,9 @@
 
 ## C
 
+* 【2024-03-27】[janmojzis / tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
+* 【2024-03-27】[let-def / texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
+* 【2024-03-27】[web3ToolBoxDev / toolBoxClient](https://github.com/web3ToolBoxDev/toolBoxClient) - 一步一步编写web3工具——Step-by-Step Development of Web3 Tools
 * 【2024-03-26】[Florents-Tselai / pgJQ](https://github.com/Florents-Tselai/pgJQ) - jq extension for Postgres
 * 【2024-03-25】[placeholderkv / placeholderkv](https://github.com/placeholderkv/placeholderkv) - A new project to resume development on the formerly open-source Redis project. Name is placeholder.
 * 【2024-03-24】[phdlee / uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
@@ -4979,6 +4988,8 @@
 
 ## C++
 
+* 【2024-03-27】[liu-yi / HTLP](https://github.com/liu-yi/HTLP) - Homomorphic Time-Lock Puzzle Schemes
+* 【2024-03-27】[chenshuo / muduo](https://github.com/chenshuo/muduo) - Event-driven network library for multi-threaded Linux server in C++11
 * 【2024-03-26】[hyprwm / hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 * 【2024-03-25】[PetoiCamp / OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
 * 【2024-03-24】[leethomason / tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
@@ -6479,6 +6490,10 @@
 
 ## Html
 
+* 【2024-03-27】[LeoDJ / FW-EC-DongleHiderPlus](https://github.com/LeoDJ/FW-EC-DongleHiderPlus) - Framework Expansion Card that includes a USB hub to hide a bare dongle inside and still have a USB-A port externally
+* 【2024-03-27】[0-RTT / telegraph](https://github.com/0-RTT/telegraph) - 基于telegraph的图床，图片大于5MB自动压缩
+* 【2024-03-27】[badd1e / Pwn](https://github.com/badd1e/Pwn) - Advanced exploits that I wrote for Pwn2Own competitions and other occasions
+* 【2024-03-27】[techeonn / crush](https://github.com/techeonn/crush) - 
 * 【2024-03-26】[wintermute-cell / magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file.
 * 【2024-03-26】[susam / fxyt](https://github.com/susam/fxyt) - Tiny, esoteric, stack-based, postfix, canvas colouring language with only 36 simple commands
 * 【2024-03-26】[Codewithshobhit / Happy-Holi-Animation-Using-HTML-And-CSS](https://github.com/Codewithshobhit/Happy-Holi-Animation-Using-HTML-And-CSS) - 
@@ -7147,6 +7162,7 @@
 
 ## Css
 
+* 【2024-03-27】[phamvulinh18 / thutinh](https://github.com/phamvulinh18/thutinh) - 
 * 【2024-03-26】[Chotifz / Hotel-harisenin](https://github.com/Chotifz/Hotel-harisenin) - 
 * 【2024-03-26】[lindsaymarkward / theadviceshop](https://github.com/lindsaymarkward/theadviceshop) - The Advice Shop Website (Example PHP Site for IT@JCU)
 * 【2024-03-25】[EngRobot33 / ZED](https://github.com/EngRobot33/ZED) - A minimal clone of Twitter
@@ -7929,6 +7945,7 @@
 
 ## Unknown
 
+* 【2024-03-27】[yzfly / wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
 * 【2024-03-26】[ezerear / gog-games.to_backup](https://github.com/ezerear/gog-games.to_backup) - gog-games.to games backup
 * 【2024-03-26】[YerongAI / Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 * 【2024-03-26】[rynnxz / programming-module](https://github.com/rynnxz/programming-module) - 
