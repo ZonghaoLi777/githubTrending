@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-03-31】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
+* 【2024-03-31】[apache / incubator-amoro](https://github.com/apache/incubator-amoro) - Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
 * 【2024-03-30】[web3j / web3j](https://github.com/web3j/web3j) - Lightweight Java and Android library for integration with Ethereum clients
 * 【2024-03-29】[digitalinnovationone / santander-dev-week-2024](https://github.com/digitalinnovationone/santander-dev-week-2024) - RESTful API da Santander Dev Week 2024 construída em Java 21 com Spring Boot 3.
 * 【2024-03-29】[pig-mesh / excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel spring boot starter
@@ -937,6 +939,9 @@
 
 ## Python
 
+* 【2024-03-31】[TMElyralab / MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
+* 【2024-03-31】[TencentARC / BrushNet](https://github.com/TencentARC/BrushNet) - The official implementation of paper "BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion"
+* 【2024-03-31】[WithSecureLabs / drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 * 【2024-03-30】[Zejun-Yang / AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 * 【2024-03-30】[databricks / dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 * 【2024-03-30】[SunoAI-API / Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. It comes with a built-in token maintenance and keep-alive feature, so you don't have to worry about the token expiring.
@@ -2387,6 +2392,14 @@
 
 ## Javascript
 
+* 【2024-03-31】[somta / Juggle](https://github.com/somta/Juggle) - 一款适用于微服务编排，第三方api集成，私有化定制开发，编写BFF聚合层等场景的强大低码编排工具！
+* 【2024-03-31】[wahdalo / tiktok-src](https://github.com/wahdalo/tiktok-src) - Tiktok downloader & auto upload to reels facebook (with puppeteer)
+* 【2024-03-31】[OrionReed / dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
+* 【2024-03-31】[franceking1 / Flash-Md](https://github.com/franceking1/Flash-Md) - 
+* 【2024-03-31】[basecamp / trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+* 【2024-03-31】[techwithtim / Django-React-Full-Stack-App](https://github.com/techwithtim/Django-React-Full-Stack-App) - 
+* 【2024-03-31】[SortableJS / vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
+* 【2024-03-31】[yeyang52 / yenai-plugin](https://github.com/yeyang52/yenai-plugin) - 适用于Yunzai-Botv3的扩展
 * 【2024-03-30】[2ri4eUI / CFW-BOT](https://github.com/2ri4eUI/CFW-BOT) - Cloudflare Woker Bot ! No servers needed, just pure Xray link creation, all running smoothly on PythonAnywhere. a Shortcut to internet freedom! ✨"
 * 【2024-03-30】[asyncapi / generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 * 【2024-03-30】[k1nd0ne / VolWeb](https://github.com/k1nd0ne/VolWeb) - A centralized and enhanced memory analysis platform
@@ -3363,6 +3376,9 @@
 
 ## Go
 
+* 【2024-03-31】[shizunge / endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
+* 【2024-03-31】[disingn / sunotoapi](https://github.com/disingn/sunotoapi) - 将 sunoAi web转成 openai 格式进行调用
+* 【2024-03-31】[semaphoreui / semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 * 【2024-03-30】[ray-project / kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 * 【2024-03-30】[operator-framework / operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 * 【2024-03-29】[cheat / cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
@@ -5023,6 +5039,7 @@
 
 ## C++
 
+* 【2024-03-31】[tzapu / WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
 * 【2024-03-29】[oneapi-src / oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 * 【2024-03-29】[STEllAR-GROUP / hpx](https://github.com/STEllAR-GROUP/hpx) - The C++ Standard Library for Parallelism and Concurrency
 * 【2024-03-27】[liu-yi / HTLP](https://github.com/liu-yi/HTLP) - Homomorphic Time-Lock Puzzle Schemes
@@ -5771,6 +5788,9 @@
 
 ## C#
 
+* 【2024-03-31】[Cysharp / MemoryPack](https://github.com/Cysharp/MemoryPack) - Zero encoding extreme performance binary serializer for C# and Unity.
+* 【2024-03-31】[dotnet / dotnet-api-docs](https://github.com/dotnet/dotnet-api-docs) - .NET API reference documentation (.NET 5+, .NET Core, .NET Framework)
+* 【2024-03-31】[microsoft / Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
 * 【2024-03-29】[trueai-org / module-shop](https://github.com/trueai-org/module-shop) - 一个基于 .NET Core构建的简单、跨平台、模块化的商城系统
 * 【2024-03-26】[vercidium-patreon / meshing](https://github.com/vercidium-patreon/meshing) - Greedy meshing algorithm for voxel models
 * 【2024-03-26】[yaobus / EducationalAdministrationManagementSystem](https://github.com/yaobus/EducationalAdministrationManagementSystem) - 教务管理系统（毕业论文实例）
@@ -6528,6 +6548,8 @@
 
 ## Html
 
+* 【2024-03-31】[syhily / algorithm-anime](https://github.com/syhily/algorithm-anime) - 
+* 【2024-03-31】[okta / okta-sdk-java](https://github.com/okta/okta-sdk-java) - Java SDK for Okta Resource Management
 * 【2024-03-30】[midudev / javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
 * 【2024-03-30】[0xeb / TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 * 【2024-03-30】[chiphuyen / machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
@@ -7205,6 +7227,8 @@
 
 ## Css
 
+* 【2024-03-31】[bernardodangelo / CS2-SkinChanger](https://github.com/bernardodangelo/CS2-SkinChanger) - 
+* 【2024-03-31】[quarkusio / quarkus-super-heroes](https://github.com/quarkusio/quarkus-super-heroes) - Quarkus sample application - Super Heroes
 * 【2024-03-30】[mehmetkahya0 / temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
 * 【2024-03-30】[CodeLouisville / webdev_c1_knowcheck_01](https://github.com/CodeLouisville/webdev_c1_knowcheck_01) - 
 * 【2024-03-30】[LuckFire / amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
@@ -7993,6 +8017,9 @@
 
 ## Unknown
 
+* 【2024-03-31】[soufianetahiri / TeamsNTLMLeak](https://github.com/soufianetahiri/TeamsNTLMLeak) - Leak NTLM via Website tab in teams via MS Office
+* 【2024-03-31】[KushalVijay / GetHiredRoadmap2024](https://github.com/KushalVijay/GetHiredRoadmap2024) - 
+* 【2024-03-31】[DefTruth / Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) - 📖A curated list of Awesome LLM Inference Paper with codes, TensorRT-LLM, vLLM, streaming-llm, AWQ, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc.
 * 【2024-03-30】[fuckpiracyshield / fuckpiracyshield](https://github.com/fuckpiracyshield/fuckpiracyshield) - Readme
 * 【2024-03-30】[IDKiro / sdxs](https://github.com/IDKiro/sdxs) - Official repo of paper "SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions"
 * 【2024-03-30】[streaak / keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
