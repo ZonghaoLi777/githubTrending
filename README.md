@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2024-04-02】[android-hacker / VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
+* 【2024-04-02】[emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
+* 【2024-04-02】[ReLive27 / spring-security-oauth2-sample](https://github.com/ReLive27/spring-security-oauth2-sample) - This module is based on Spring Authorization Server and contains information on using Spring Security OAuth2
 * 【2024-04-01】[Snailclimb / guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) - A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。）
 * 【2024-04-01】[RikkaApps / Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
 * 【2024-03-31】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
@@ -941,6 +944,10 @@
 
 ## Python
 
+* 【2024-04-02】[mxrch / GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
+* 【2024-04-02】[brilliantlabsAR / noa-assistant](https://github.com/brilliantlabsAR/noa-assistant) - 
+* 【2024-04-02】[Lightning-AI / litgpt](https://github.com/Lightning-AI/litgpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+* 【2024-04-02】[foivospar / Arc2Face](https://github.com/foivospar/Arc2Face) - Arc2Face: A Foundation Model of Human Faces
 * 【2024-04-01】[tiangolo / typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 * 【2024-04-01】[google-deepmind / long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - Benchmarking long-form factuality in large language models. Original code for our paper "Long-form factuality in large language models".
 * 【2024-04-01】[MsLolita / backpack-volume-auto](https://github.com/MsLolita/backpack-volume-auto) - 
@@ -4276,6 +4283,10 @@
 
 ## C
 
+* 【2024-04-02】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
+* 【2024-04-02】[jonas / tig](https://github.com/jonas/tig) - Text-mode interface for git
+* 【2024-04-02】[TASEmulators / desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
+* 【2024-04-02】[ysanatomic / io_uring_LPE-CVE-2024-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582) - LPE exploit for CVE-2024-0582 (io_uring)
 * 【2024-04-01】[Decscots / Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM) - 
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 * 【2024-03-30】[airockchip / rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
@@ -5055,6 +5066,8 @@
 
 ## C++
 
+* 【2024-04-02】[markparticle / WebServer](https://github.com/markparticle/WebServer) - C++ Linux WebServer服务器
+* 【2024-04-02】[axstin / rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker) - FPS Unlocker for Roblox
 * 【2024-04-01】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
 * 【2024-04-01】[myscale / myscaledb](https://github.com/myscale/myscaledb) - An open-source, high-performance SQL vector database built on ClickHouse.
 * 【2024-04-01】[kasmtech / KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
@@ -5808,6 +5821,8 @@
 
 ## C#
 
+* 【2024-04-02】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+* 【2024-04-02】[yaobiao131 / downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 * 【2024-04-01】[Pathoschild / StardewMods](https://github.com/Pathoschild/StardewMods) - Mods for Stardew Valley using SMAPI.
 * 【2024-03-31】[Cysharp / MemoryPack](https://github.com/Cysharp/MemoryPack) - Zero encoding extreme performance binary serializer for C# and Unity.
 * 【2024-03-31】[dotnet / dotnet-api-docs](https://github.com/dotnet/dotnet-api-docs) - .NET API reference documentation (.NET 5+, .NET Core, .NET Framework)
@@ -6569,6 +6584,7 @@
 
 ## Html
 
+* 【2024-04-02】[simonw / tools](https://github.com/simonw/tools) - Assorted tools
 * 【2024-04-01】[EPFLXplore / XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research's robot dog project
 * 【2024-04-01】[erew123 / alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls.
 * 【2024-03-31】[syhily / algorithm-anime](https://github.com/syhily/algorithm-anime) - 
@@ -7250,6 +7266,7 @@
 
 ## Css
 
+* 【2024-04-02】[Hardhat-Enterprises / website](https://github.com/Hardhat-Enterprises/website) - The main website for Hardhat Enterprises
 * 【2024-04-01】[CyanVoxel / Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes) - A Series of Notebook Theme CSS Snippets for Obsidian.
 * 【2024-04-01】[ferdium / ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - Recipes encapsulate your favourite apps into Ferdium for unified notifications handling and more
 * 【2024-03-31】[bernardodangelo / CS2-SkinChanger](https://github.com/bernardodangelo/CS2-SkinChanger) - 
@@ -8042,6 +8059,9 @@
 
 ## Unknown
 
+* 【2024-04-02】[billmei / every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
+* 【2024-04-02】[PandaBearLab / prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - 
+* 【2024-04-02】[Chanda-Abdul / Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews) - Several Coding Patterns for Solving Data Structures and Algorithms Problems during Interviews
 * 【2024-04-01】[h4x0r-dz / Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
 * 【2024-04-01】[knassar702 / awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
 * 【2024-04-01】[BINANCECONTRACT / How-to-Create-BEP20-Token](https://github.com/BINANCECONTRACT/How-to-Create-BEP20-Token) - Step By Step Guide to How to Create BEP20 Token and list them on PANCAKE SWAP.
