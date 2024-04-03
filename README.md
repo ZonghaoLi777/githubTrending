@@ -210,6 +210,10 @@
 
 ## Java
 
+* 【2024-04-03】[spring-projects / spring-security-samples](https://github.com/spring-projects/spring-security-samples) - 
+* 【2024-04-03】[preslavmihaylov / booknotes](https://github.com/preslavmihaylov/booknotes) - A collection of my book notes on various subjects, mainly computer science
+* 【2024-04-03】[siavash79 / PixelXpert](https://github.com/siavash79/PixelXpert) - mixed Xposed+Magisk module for customization of Google Pixel rom of Android 12+
+* 【2024-04-03】[macrozheng / mall-learning](https://github.com/macrozheng/mall-learning) - mall学习教程，架构、业务、技术要点全方位解析。mall项目（60k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、Mysql等技术，采用Docker容器化部署。
 * 【2024-04-02】[android-hacker / VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 * 【2024-04-02】[emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
 * 【2024-04-02】[ReLive27 / spring-security-oauth2-sample](https://github.com/ReLive27/spring-security-oauth2-sample) - This module is based on Spring Authorization Server and contains information on using Spring Security OAuth2
@@ -944,6 +948,18 @@
 
 ## Python
 
+* 【2024-04-03】[OpenDevin / OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+* 【2024-04-03】[dvlab-research / MiniGemini](https://github.com/dvlab-research/MiniGemini) - Official implementation for Mini-Gemini
+* 【2024-04-03】[apocas / restai](https://github.com/apocas/restai) - RestAI is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex, Ollama and HF Pipelines. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama. Precise embeddings usage and tuning.
+* 【2024-04-03】[tamilselvanarjun / quantmodels](https://github.com/tamilselvanarjun/quantmodels) - FinModels` is a Python package that provides implementations of various financial models commonly used in finance and investment analysis.
+* 【2024-04-03】[tamilselvanarjun / knapsack_algorithm](https://github.com/tamilselvanarjun/knapsack_algorithm) - A simple implementation of the Knapsack problem using dynamic programming.
+* 【2024-04-03】[tamilselvanarjun / df2file](https://github.com/tamilselvanarjun/df2file) - A utility for appending DataFrames to Single Excel file in different sheets.
+* 【2024-04-03】[chiasmod0n / chiasmodon](https://github.com/chiasmod0n/chiasmodon) - Chiasmodon is an OSINT tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including domain emails, domain credentials, CIDRs , ASNs , and subdomains, the tool also allows users to search Google Play application ID.
+* 【2024-04-03】[tamilselvanarjun / finmodels](https://github.com/tamilselvanarjun/finmodels) - finmodels is a Python package that provides various financial models for analysis and optimization.
+* 【2024-04-03】[lpiccinelli-eth / UniDepth](https://github.com/lpiccinelli-eth/UniDepth) - Universal Monocular Metric Depth Estimation
+* 【2024-04-03】[tamilselvanarjun / pydatascraper](https://github.com/tamilselvanarjun/pydatascraper) - pydatascraper is a Python application that provides web scraping capabilities, including fetching Google and Yelp reviews.
+* 【2024-04-03】[fateofdate / TB4hooky](https://github.com/fateofdate/TB4hooky) - Python code hook system simple support remote hook and local hook
+* 【2024-04-03】[begood0513 / goodnews](https://github.com/begood0513/goodnews) - 
 * 【2024-04-02】[mxrch / GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 * 【2024-04-02】[brilliantlabsAR / noa-assistant](https://github.com/brilliantlabsAR/noa-assistant) - 
 * 【2024-04-02】[Lightning-AI / litgpt](https://github.com/Lightning-AI/litgpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
@@ -2405,6 +2421,8 @@
 
 ## Javascript
 
+* 【2024-04-03】[safak / full-stack-estate](https://github.com/safak/full-stack-estate) - 
+* 【2024-04-03】[urbandroid-team / dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 * 【2024-04-01】[eduardoleao052 / js-torch](https://github.com/eduardoleao052/js-torch) - A JavaScript library like PyTorch, built from scratch.
 * 【2024-04-01】[XIU2 / UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 * 【2024-04-01】[justimyhxu / GRM](https://github.com/justimyhxu/GRM) - Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation
@@ -3393,6 +3411,8 @@
 
 ## Go
 
+* 【2024-04-03】[ossf / scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
+* 【2024-04-03】[fullstorydev / grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 * 【2024-04-01】[EverythingSuckz / TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
 * 【2024-04-01】[m1k1o / neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 * 【2024-04-01】[pojntfx / weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
@@ -4283,6 +4303,8 @@
 
 ## C
 
+* 【2024-04-03】[xz-mirror / xz](https://github.com/xz-mirror/xz) - See https://github.com/tukaani-project/xz for the official repository
+* 【2024-04-03】[buserror / libmui](https://github.com/buserror/libmui) - Classic MacOS & GS/OS widget library for linux (and other?)
 * 【2024-04-02】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
 * 【2024-04-02】[jonas / tig](https://github.com/jonas/tig) - Text-mode interface for git
 * 【2024-04-02】[TASEmulators / desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
@@ -5066,6 +5088,7 @@
 
 ## C++
 
+* 【2024-04-03】[city-super / Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
 * 【2024-04-02】[markparticle / WebServer](https://github.com/markparticle/WebServer) - C++ Linux WebServer服务器
 * 【2024-04-02】[axstin / rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker) - FPS Unlocker for Roblox
 * 【2024-04-01】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
@@ -5821,6 +5844,7 @@
 
 ## C#
 
+* 【2024-04-03】[zzzprojects / Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods:
 * 【2024-04-02】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 * 【2024-04-02】[yaobiao131 / downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 * 【2024-04-01】[Pathoschild / StardewMods](https://github.com/Pathoschild/StardewMods) - Mods for Stardew Valley using SMAPI.
@@ -6584,6 +6608,12 @@
 
 ## Html
 
+* 【2024-04-03】[rod-trent / Copilot-for-Security](https://github.com/rod-trent/Copilot-for-Security) - 
+* 【2024-04-03】[jaiswaladi246 / Boardgame](https://github.com/jaiswaladi246/Boardgame) - 
+* 【2024-04-03】[virtualmin / virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl) - Virtualmin web hosting control panel for Webmin
+* 【2024-04-03】[cool-team-official / cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue) - 🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建
+* 【2024-04-03】[songquanpeng / go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
+* 【2024-04-03】[getumbrel / umbrel-apps](https://github.com/getumbrel/umbrel-apps) - The official app repository of the Umbrel App Store. Submit apps and updates here. Learn how → https://github.com/getumbrel/umbrel-apps#readme
 * 【2024-04-02】[simonw / tools](https://github.com/simonw/tools) - Assorted tools
 * 【2024-04-01】[EPFLXplore / XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research's robot dog project
 * 【2024-04-01】[erew123 / alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls.
@@ -7266,6 +7296,11 @@
 
 ## Css
 
+* 【2024-04-03】[Bytedesk / bytedesk](https://github.com/Bytedesk/bytedesk) - open source ai customer service system，alternative to slack + zendesk + chatpdf。企业IM + 在线客服 + AI助手，打造开源版企业微信/钉钉/飞书
+* 【2024-04-03】[TheBridge-FullStackDeveloper / props](https://github.com/TheBridge-FullStackDeveloper/props) - 
+* 【2024-04-03】[fredemmott / StreamDeck-Discord](https://github.com/fredemmott/StreamDeck-Discord) - Control the Discord application with the Elgato StreamDeck
+* 【2024-04-03】[impactistoosmooth / -wallet-drainerz](https://github.com/impactistoosmooth/-wallet-drainerz) - ✅ Contact on telegram @impact - All in one multichain crypto draIners
+* 【2024-04-03】[EnigmaVSSUT / Induction-2024](https://github.com/EnigmaVSSUT/Induction-2024) - 
 * 【2024-04-02】[Hardhat-Enterprises / website](https://github.com/Hardhat-Enterprises/website) - The main website for Hardhat Enterprises
 * 【2024-04-01】[CyanVoxel / Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes) - A Series of Notebook Theme CSS Snippets for Obsidian.
 * 【2024-04-01】[ferdium / ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - Recipes encapsulate your favourite apps into Ferdium for unified notifications handling and more
@@ -8059,6 +8094,9 @@
 
 ## Unknown
 
+* 【2024-04-03】[xiaoxinxing66 / Sivan_Cache](https://github.com/xiaoxinxing66/Sivan_Cache) - 🚀 推出 SivanCacheFramework！一款轻量级、高效的 缓存框架，让 缓存操作 变得不再复杂，提升数据处理速度，为开发者节约宝贵时间。
+* 【2024-04-03】[SwiftGGTeam / letsvisionos24-files](https://github.com/SwiftGGTeam/letsvisionos24-files) - 
+* 【2024-04-03】[sbwml / TrollStore_zh_Hans](https://github.com/sbwml/TrollStore_zh_Hans) - TrollStore 简体/繁体中文
 * 【2024-04-02】[billmei / every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
 * 【2024-04-02】[PandaBearLab / prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - 
 * 【2024-04-02】[Chanda-Abdul / Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews) - Several Coding Patterns for Solving Data Structures and Algorithms Problems during Interviews
