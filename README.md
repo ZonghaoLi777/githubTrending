@@ -956,6 +956,12 @@
 
 ## Python
 
+* 【2024-04-07】[FoundationVision / VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
+* 【2024-04-07】[InstantStyle / InstantStyle](https://github.com/InstantStyle/InstantStyle) - InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
+* 【2024-04-07】[PhonePe / mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
+* 【2024-04-07】[myshell-ai / JetMoE](https://github.com/myshell-ai/JetMoE) - Reaching LLaMA2 Performance with 0.1M Dollars
+* 【2024-04-07】[posit-dev / great-tables](https://github.com/posit-dev/great-tables) - Easily generate information-rich, publication-quality tables from Python
+* 【2024-04-07】[MervinPraison / PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.
 * 【2024-04-06】[qilingframework / qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
 * 【2024-04-06】[zk-Call / zkp-hmac-communication-python](https://github.com/zk-Call/zkp-hmac-communication-python) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Python
 * 【2024-04-06】[YaoFANGUK / video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
@@ -2442,6 +2448,8 @@
 
 ## Javascript
 
+* 【2024-04-07】[Ottodix / Eole-foobar-theme](https://github.com/Ottodix/Eole-foobar-theme) - Eole blows gently into your ear his nicest melodies.
+* 【2024-04-07】[ExpTechTW / TREM-electron](https://github.com/ExpTechTW/TREM-electron) - Taiwan Real-time Earthquake Monitoring ( 臺灣即時地震監測 )
 * 【2024-04-06】[missuo / FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 * 【2024-04-06】[mscdex / ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 * 【2024-04-05】[jamiebuilds / the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - ⛄ Possibly the smallest compiler ever
@@ -3437,6 +3445,8 @@
 
 ## Go
 
+* 【2024-04-07】[elastic / cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
+* 【2024-04-07】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
 * 【2024-04-06】[aurora-develop / aurora](https://github.com/aurora-develop/aurora) - free
 * 【2024-04-06】[kube-vip / kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 * 【2024-04-06】[AlexanderGrom / go-patterns](https://github.com/AlexanderGrom/go-patterns) - Design patterns in Golang
@@ -4339,6 +4349,7 @@
 
 ## C
 
+* 【2024-04-07】[alfiecg24 / TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 * 【2024-04-06】[aleksey-hoffman / sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 * 【2024-04-06】[NVIDIAGameWorks / Streamline](https://github.com/NVIDIAGameWorks/Streamline) - Streamline Integration Framework
 * 【2024-04-05】[renderlet / wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
@@ -5132,6 +5143,9 @@
 
 ## C++
 
+* 【2024-04-07】[araujo88 / important-algorithms](https://github.com/araujo88/important-algorithms) - A list of important algorithms to study
+* 【2024-04-07】[projectM-visualizer / projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
+* 【2024-04-07】[stack-of-tasks / pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
 * 【2024-04-06】[nukeykt / Nuked-SC55](https://github.com/nukeykt/Nuked-SC55) - SC-55mkII emulation
 * 【2024-04-06】[Neo-Maoku / SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) - 寻找可利用的白文件
 * 【2024-04-03】[city-super / Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
@@ -7353,6 +7367,9 @@
 
 ## Css
 
+* 【2024-04-07】[CyanVoxel / Obsidian-Colored-Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) - A Colored Sidebar CSS Snippet for Obsidian.
+* 【2024-04-07】[Miderson / 3c_Sexta](https://github.com/Miderson/3c_Sexta) - 
+* 【2024-04-07】[itscodenation / int-u4l6-23-24-student-exercises](https://github.com/itscodenation/int-u4l6-23-24-student-exercises) - 
 * 【2024-04-06】[matklad / rust-course](https://github.com/matklad/rust-course) - 
 * 【2024-04-06】[CodeSpace-Academy / Module_3_StudentNo_Classcode_Group_Name-Surname_SDF03](https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Group_Name-Surname_SDF03) - 
 * 【2024-04-06】[K3rr / PandaBuy](https://github.com/K3rr/PandaBuy) - Shopping website prototype
@@ -8167,6 +8184,7 @@
 
 ## Unknown
 
+* 【2024-04-07】[avito-tech / backend-trainee-assignment-2024](https://github.com/avito-tech/backend-trainee-assignment-2024) - 
 * 【2024-04-06】[Leymore / ruozhiba](https://github.com/Leymore/ruozhiba) - 
 * 【2024-04-06】[DataTalksClub / llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about building an AI bot that can answer questions about your knowledge base
 * 【2024-04-06】[solddead / V1.4M](https://github.com/solddead/V1.4M) - 
