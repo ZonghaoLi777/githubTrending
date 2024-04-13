@@ -961,6 +961,12 @@
 
 ## Python
 
+* 【2024-04-13】[PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
+* 【2024-04-13】[google-deepmind / recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - Open weights language model from Google DeepMind, based on Griffin.
+* 【2024-04-13】[AIRI-Institute / OmniFusion](https://github.com/AIRI-Institute/OmniFusion) - OmniFusion — a multimodal model to communicate using text and images
+* 【2024-04-13】[huggingface / parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
+* 【2024-04-13】[trekhleb / learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+* 【2024-04-13】[NaishengZhang / book-recommendation-system](https://github.com/NaishengZhang/book-recommendation-system) - Book Recommendation System
 * 【2024-04-12】[nus-apr / auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
 * 【2024-04-12】[aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 * 【2024-04-12】[celery / celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -2471,6 +2477,10 @@
 
 ## Javascript
 
+* 【2024-04-13】[apachecn / rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) - 
+* 【2024-04-13】[nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+* 【2024-04-13】[dai-shi / use-signals](https://github.com/dai-shi/use-signals) - An experimental React hook for TC39 signals
+* 【2024-04-13】[moment / moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 * 【2024-04-11】[camwiegert / typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * 【2024-04-10】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 * 【2024-04-10】[stackframe-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests
@@ -3477,6 +3487,7 @@
 
 ## Go
 
+* 【2024-04-13】[grafana / alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 * 【2024-04-12】[dolthub / go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 * 【2024-04-11】[flipt-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 * 【2024-04-07】[elastic / cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
@@ -4383,6 +4394,8 @@
 
 ## C
 
+* 【2024-04-13】[YuriiCrimson / ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM) - Exploit for 6.4 - 6.5 kernels and another exploit for 5.15 - 6.5
+* 【2024-04-13】[tukaani-project / xz](https://github.com/tukaani-project/xz) - XZ Utils
 * 【2024-04-12】[tidwall / neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
 * 【2024-04-11】[bb-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 * 【2024-04-10】[espressif / esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
@@ -5956,6 +5969,8 @@
 
 ## C#
 
+* 【2024-04-13】[lostindark / DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
+* 【2024-04-13】[peass-ng / PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 * 【2024-04-12】[kwsch / ItemPrinterDeGacha](https://github.com/kwsch/ItemPrinterDeGacha) - Calculation tool for Scarlet/Violet's Item Printer
 * 【2024-04-12】[builtbybel / Winpilot](https://github.com/builtbybel/Winpilot) - Your everyday Windows companion
 * 【2024-04-11】[blake502 / balatro-apk-maker](https://github.com/blake502/balatro-apk-maker) - Create a Balatro APK from your Steam version of Balatro
@@ -6733,6 +6748,11 @@
 
 ## Html
 
+* 【2024-04-13】[ClickHouse / adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
+* 【2024-04-13】[Qadeer0937 / Dead-By-Daylight-Extrnl](https://github.com/Qadeer0937/Dead-By-Daylight-Extrnl) - for youtube video
+* 【2024-04-13】[Ben00000000 / Working-Hwid-Spoofer](https://github.com/Ben00000000/Working-Hwid-Spoofer) - 
+* 【2024-04-13】[tc39 / proposal-set-methods](https://github.com/tc39/proposal-set-methods) - Proposal for new Set methods in JS
+* 【2024-04-13】[naxiaoduo / 1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
 * 【2024-04-12】[WuSuoV / YioveGetIP](https://github.com/WuSuoV/YioveGetIP) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
 * 【2024-04-11】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
 * 【2024-04-11】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
@@ -7444,6 +7464,10 @@
 
 ## Css
 
+* 【2024-04-13】[github-copilot-workshop / copilot-petclinic](https://github.com/github-copilot-workshop/copilot-petclinic) - 
+* 【2024-04-13】[sapondanaisriwan / AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options.
+* 【2024-04-13】[ShreyNaithani / Movavi-Free-Crack](https://github.com/ShreyNaithani/Movavi-Free-Crack) - 
+* 【2024-04-13】[ISM6225 / Assignment_LookAndFeel](https://github.com/ISM6225/Assignment_LookAndFeel) - 
 * 【2024-04-12】[BethMassi / HybridSharedUI](https://github.com/BethMassi/HybridSharedUI) - This is an example of a starter solution that sets up a MAUI hybrid app and a Blazor web app that shares all of its UI
 * 【2024-04-12】[open-webui / docs](https://github.com/open-webui/docs) - 
 * 【2024-04-12】[aneagoie / keiko-corp](https://github.com/aneagoie/keiko-corp) - The greatest startup ever created
@@ -8276,6 +8300,10 @@
 
 ## Unknown
 
+* 【2024-04-13】[WUYANXIUSHI / BLACK_NEWS](https://github.com/WUYANXIUSHI/BLACK_NEWS) - 北京邮电大学郑凤事件完整pdf
+* 【2024-04-13】[Edr4 / XSS-Bypass-Filters](https://github.com/Edr4/XSS-Bypass-Filters) - 
+* 【2024-04-13】[eric-ai-lab / swap-anything](https://github.com/eric-ai-lab/swap-anything) - 
+* 【2024-04-13】[CLOUDUH / dual-wechat](https://github.com/CLOUDUH/dual-wechat) - 如何在Mac上通过脚本实现微信双开，并通过自动操作创建应用程序，修改图标后直接当作第二个微信使用，无需打开终端输入代码，且双开后无终端出现。
 * 【2024-04-12】[zhuima / awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。
 * 【2024-04-12】[ga642381 / speech-trident](https://github.com/ga642381/speech-trident) - Awesome speech/audio LLMs, representation learning, and codec models
 * 【2024-04-12】[0xk1h0 / ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
