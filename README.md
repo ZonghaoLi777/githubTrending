@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-04-18】[apache / mina-sshd](https://github.com/apache/mina-sshd) - Apache MINA sshd is a comprehensive Java library for client- and server-side SSH.
 * 【2024-04-17】[apache / zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 * 【2024-04-17】[MohamedMetwalli5 / LeetCode-Solutions](https://github.com/MohamedMetwalli5/LeetCode-Solutions) - ✅🟨 These solutions are designed specifically for beginners on LeetCode, addressing many problems using code and animations. They will be continuously updated to facilitate better understanding for beginners.
 * 【2024-04-16】[Hafthor / zsvutil](https://github.com/Hafthor/zsvutil) - ZSV Utility for converting csv/tsv to/from zip-separated-values
@@ -967,6 +968,13 @@
 
 ## Python
 
+* 【2024-04-18】[kornia / kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+* 【2024-04-18】[xlang-ai / OSWorld](https://github.com/xlang-ai/OSWorld) - OSWorld: A unified, real computer environment for multimodal agents to evaluate open-ended computer tasks involving arbitrary apps and interfaces on Ubuntu, Windows, and macOS
+* 【2024-04-18】[cognitivecomputations / github2file](https://github.com/cognitivecomputations/github2file) - 
+* 【2024-04-18】[hudson-and-thames / arbitragelab](https://github.com/hudson-and-thames/arbitragelab) - ArbitrageLab is a python library that enables traders who want to exploit mean-reverting portfolios by providing a complete set of algorithms from the best academic journals.
+* 【2024-04-18】[katanaml / sparrow](https://github.com/katanaml/sparrow) - Data processing with ML and LLM
+* 【2024-04-18】[Megvii-BaseDetection / YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
+* 【2024-04-18】[6abd / horus](https://github.com/6abd/horus) - An OSINT / digital forensics tool built in Python (formerly 'Sentinel')
 * 【2024-04-17】[intuitem / ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is an open-source one-stop-shop for GRC - Risk and Audit Management supporting multiple standards: NIST CSF, ISO 27001, NIS2, SOC2, PCI DSS, CMMC, PSPF, GDPR, HIPAA, Essential Eight, DFS-500, DORA, NIST AI RMF, CyFun, AirCyber and more
 * 【2024-04-17】[WeChatAPIs / WeChatMsgHistory_real](https://github.com/WeChatAPIs/WeChatMsgHistory_real) - Real-time Chat-重现微信群组和个人聊天记录查询项目，本项目为开发者和研究者提供一种深入查看微信聊天内容的解决方案，允许用户在特定条件下获取特定群组或私聊的聊天记录，并通过我们提供的API进行控制
 * 【2024-04-17】[RUCAIBox / LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
@@ -3516,6 +3524,7 @@
 
 ## Go
 
+* 【2024-04-18】[elastic / otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler
 * 【2024-04-17】[nalgeon / redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 * 【2024-04-16】[Simple-Tracker / qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker) - 一款适用于 qBittorrent/Transmission (Beta) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷 (XunLei/XL0012) 等客户端. A client blocker compatible with qBittorrent/Transmission (Beta) which is prohibited to include but not limited to clients such as Xunlei.
 * 【2024-04-16】[k8snetworkplumbingwg / multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes
@@ -4430,6 +4439,7 @@
 
 ## C
 
+* 【2024-04-18】[Thehepta / androidGRPC](https://github.com/Thehepta/androidGRPC) - 
 * 【2024-04-17】[DosX-dev / obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 * 【2024-04-17】[xiph / rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
 * 【2024-04-17】[HypoPG / hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
@@ -5239,6 +5249,7 @@
 
 ## C++
 
+* 【2024-04-18】[CocoaBob / GBA4iOS](https://github.com/CocoaBob/GBA4iOS) - A fork of https://bitbucket.org/rileytestut/gba4ios
 * 【2024-04-17】[alexbatalov / fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems
 * 【2024-04-17】[CodingGay / BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 * 【2024-04-16】[alexbatalov / fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Fallout 2 for modern operating systems
@@ -6014,6 +6025,9 @@
 
 ## C#
 
+* 【2024-04-18】[leap71 / PicoGK](https://github.com/leap71/PicoGK) - PicoGK is a compact and robust geometry kernel for Computational Engineering
+* 【2024-04-18】[bbradson / Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
+* 【2024-04-18】[0xced / Chisel](https://github.com/0xced/Chisel) - Remove unwanted dependencies from your dotnet projects
 * 【2024-04-13】[lostindark / DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
 * 【2024-04-13】[peass-ng / PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 * 【2024-04-12】[kwsch / ItemPrinterDeGacha](https://github.com/kwsch/ItemPrinterDeGacha) - Calculation tool for Scarlet/Violet's Item Printer
@@ -6793,6 +6807,7 @@
 
 ## Html
 
+* 【2024-04-18】[OCA / purchase-workflow](https://github.com/OCA/purchase-workflow) - Odoo Purchases, Workflow and Organization
 * 【2024-04-15】[jbloomAus / SAELens](https://github.com/jbloomAus/SAELens) - Training Sparse Autoencoders on Language Models
 * 【2024-04-15】[tomitokko / ai-blog-article-generator](https://github.com/tomitokko/ai-blog-article-generator) - 
 * 【2024-04-14】[stanford-oval / storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
@@ -7513,6 +7528,10 @@
 
 ## Css
 
+* 【2024-04-18】[soulhotel / FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - Native Vertical Tabs, keep your sidebar, no extensions needed. No overthinking. a 100% CSS Theme. FF Ultima.
+* 【2024-04-18】[LondheShubham153 / tws-portfolio](https://github.com/LondheShubham153/tws-portfolio) - 
+* 【2024-04-18】[tobychui / zoraxy](https://github.com/tobychui/zoraxy) - General purpose (reverse) proxy and forwarding tool for networking noobs. Now written in Go!
+* 【2024-04-18】[Gurupatil0003 / Learn-Ed](https://github.com/Gurupatil0003/Learn-Ed) - 
 * 【2024-04-17】[mayanks / wisetrack](https://github.com/mayanks/wisetrack) - Finance management application
 * 【2024-04-17】[Technigo / project-labyrinth-zustand-vite](https://github.com/Technigo/project-labyrinth-zustand-vite) - 
 * 【2024-04-17】[typora / theme.typora.io](https://github.com/typora/theme.typora.io) - Website for Typora themes
@@ -8362,6 +8381,9 @@
 
 ## Unknown
 
+* 【2024-04-18】[LLMBook-zh / LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
+* 【2024-04-18】[DKWDRV / DKWDRV](https://github.com/DKWDRV/DKWDRV) - 
+* 【2024-04-18】[infosecn1nja / Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 * 【2024-04-17】[FavioVazquez / ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 * 【2024-04-17】[cqcore / Fact-Checking-Verification](https://github.com/cqcore/Fact-Checking-Verification) - Find helpful tools and resources to help you fact check and analyse, fake news and AI generated imagery.
 * 【2024-04-17】[JayHeng / pzh-mcu-bi-weekly](https://github.com/JayHeng/pzh-mcu-bi-weekly) - 痞子衡嵌入式半月刊，分享嵌入式领域有用有趣的工具或项目以及一些热点新闻。从2020年2月起，每半个月发布一期
