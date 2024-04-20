@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2024-04-20】[grishka / poke.dex](https://github.com/grishka/poke.dex) - 
+* 【2024-04-20】[iohao / ioGame](https://github.com/iohao/ioGame) - 无锁异步化、事件驱动架构设计的 java netty 网络编程框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 适用于网络游戏服务器、物联网、内部系统及各种需要长连接的场景； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分布式的网络服务器；fxgl netty protobuf unity3d godot cocos Creator websocket tcp socket
+* 【2024-04-20】[MisakaTAT / Shiro](https://github.com/MisakaTAT/Shiro) - 基于OneBot协议的QQ机器人快速开发框架
 * 【2024-04-19】[redis / lettuce](https://github.com/redis/lettuce) - Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
 * 【2024-04-18】[apache / mina-sshd](https://github.com/apache/mina-sshd) - Apache MINA sshd is a comprehensive Java library for client- and server-side SSH.
 * 【2024-04-17】[apache / zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
@@ -969,6 +972,16 @@
 
 ## Python
 
+* 【2024-04-20】[meta-llama / PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
+* 【2024-04-20】[meta-llama / codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
+* 【2024-04-20】[facebookresearch / llm-transparency-tool](https://github.com/facebookresearch/llm-transparency-tool) - LLM Transparency Tool (LLM-TT), an open-source interactive toolkit for analyzing internal workings of Transformer-based language models. *Check out demo at* https://huggingface.co/spaces/facebook/llm-transparency-tool-demo
+* 【2024-04-20】[mistralai / mistral-common](https://github.com/mistralai/mistral-common) - 
+* 【2024-04-20】[binarly-io / binary-risk-intelligence](https://github.com/binarly-io/binary-risk-intelligence) - Binary Risk Intelligence
+* 【2024-04-20】[meta-llama / llama](https://github.com/meta-llama/llama) - Inference code for Llama models
+* 【2024-04-20】[ethereum / consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications
+* 【2024-04-20】[UX-Decoder / Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) - [NeurIPS 2023] Official implementation of the paper "Segment Everything Everywhere All at Once"
+* 【2024-04-20】[ShineChen1024 / MagicClothing](https://github.com/ShineChen1024/MagicClothing) - Official implementation of Magic Clothing: Controllable Garment-Driven Image Synthesis
+* 【2024-04-20】[jimbosimbo / howstheweather](https://github.com/jimbosimbo/howstheweather) - 
 * 【2024-04-19】[pytorch / torchtune](https://github.com/pytorch/torchtune) - A Native-PyTorch Library for LLM Fine-tuning
 * 【2024-04-19】[yenchenlin / nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 * 【2024-04-19】[truefoundry / cognita](https://github.com/truefoundry/cognita) - Cognita by TrueFoundry - Framework for building modular, open source RAG applications for production.
@@ -2509,6 +2522,8 @@
 
 ## Javascript
 
+* 【2024-04-20】[facebook / react-native-website](https://github.com/facebook/react-native-website) - The React Native website and docs
+* 【2024-04-20】[UseInterstellar / Interstellar](https://github.com/UseInterstellar/Interstellar) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
 * 【2024-04-19】[fatwang2 / coze2openai](https://github.com/fatwang2/coze2openai) - Turn Coze API into OpenAI
 * 【2024-04-19】[bpc-clone / bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) - 
 * 【2024-04-19】[rastapasta / mapscii](https://github.com/rastapasta/mapscii) - 🗺 MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
@@ -4449,6 +4464,9 @@
 
 ## C
 
+* 【2024-04-20】[antirez / zx2040](https://github.com/antirez/zx2040) - RP2040 ZX Spectrum emulator
+* 【2024-04-20】[Nero22k / Exploits](https://github.com/Nero22k/Exploits) - Repo with different exploits & PoCs
+* 【2024-04-20】[leandromoreira / ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷
 * 【2024-04-19】[hakaioffsec / CVE-2024-21338](https://github.com/hakaioffsec/CVE-2024-21338) - Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled.
 * 【2024-04-18】[Thehepta / androidGRPC](https://github.com/Thehepta/androidGRPC) - 
 * 【2024-04-17】[DosX-dev / obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
@@ -5260,6 +5278,9 @@
 
 ## C++
 
+* 【2024-04-20】[EvanMcBroom / lsa-whisperer](https://github.com/EvanMcBroom/lsa-whisperer) - Tools for interacting with authentication packages using their individual message protocols
+* 【2024-04-20】[Meowmycks / LetMeowIn](https://github.com/Meowmycks/LetMeowIn) - A sophisticated, covert Windows-based credential dumper using C++ and MASM x64.
+* 【2024-04-20】[iree-org / iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 * 【2024-04-19】[kevinbentley / Descent3](https://github.com/kevinbentley/Descent3) - Descent 3 by Outrage Entertainment
 * 【2024-04-18】[CocoaBob / GBA4iOS](https://github.com/CocoaBob/GBA4iOS) - A fork of https://bitbucket.org/rileytestut/gba4ios
 * 【2024-04-17】[alexbatalov / fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems
@@ -6037,6 +6058,7 @@
 
 ## C#
 
+* 【2024-04-20】[dotnet / aspire-samples](https://github.com/dotnet/aspire-samples) - 
 * 【2024-04-18】[leap71 / PicoGK](https://github.com/leap71/PicoGK) - PicoGK is a compact and robust geometry kernel for Computational Engineering
 * 【2024-04-18】[bbradson / Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
 * 【2024-04-18】[0xced / Chisel](https://github.com/0xced/Chisel) - Remove unwanted dependencies from your dotnet projects
@@ -6819,6 +6841,9 @@
 
 ## Html
 
+* 【2024-04-20】[jokob-sk / NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found.
+* 【2024-04-20】[serenity-bdd / serenity-core](https://github.com/serenity-bdd/serenity-core) - Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun.
+* 【2024-04-20】[hytql8 / VXAdmin](https://github.com/hytql8/VXAdmin) - A practical front-end template for Vue3+TypeScript+Vite+Pinia+Vueuse, based on the latest/cutting-edge front-end technologies
 * 【2024-04-19】[Vimux / Mainroad](https://github.com/Vimux/Mainroad) - Responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme
 * 【2024-04-18】[OCA / purchase-workflow](https://github.com/OCA/purchase-workflow) - Odoo Purchases, Workflow and Organization
 * 【2024-04-15】[jbloomAus / SAELens](https://github.com/jbloomAus/SAELens) - Training Sparse Autoencoders on Language Models
@@ -7541,6 +7566,11 @@
 
 ## Css
 
+* 【2024-04-20】[supabase / auth-js](https://github.com/supabase/auth-js) - An isomorphic Javascript library for Supabase Auth.
+* 【2024-04-20】[paveltocto / chat_nodejs](https://github.com/paveltocto/chat_nodejs) - Chat NodeJs
+* 【2024-04-20】[Jas-SinghFSU / homepage-catppuccin](https://github.com/Jas-SinghFSU/homepage-catppuccin) - 
+* 【2024-04-20】[pulumi / pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi.
+* 【2024-04-20】[farzadasgari / CodeSkillz](https://github.com/farzadasgari/CodeSkillz) - 
 * 【2024-04-19】[itscodenation / flw1-u4l2-23-24-student-exercises](https://github.com/itscodenation/flw1-u4l2-23-24-student-exercises) - 
 * 【2024-04-19】[TheBridge-FullStackDeveloper / front-join](https://github.com/TheBridge-FullStackDeveloper/front-join) - 
 * 【2024-04-19】[CodeSpace-Academy / SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11](https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11) - 
@@ -8398,6 +8428,13 @@
 
 ## Unknown
 
+* 【2024-04-20】[ronakganatra / awesome-marketing](https://github.com/ronakganatra/awesome-marketing) - A living document of hand-picked resources for marketers.
+* 【2024-04-20】[yonggekkk / x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，集成argo隧道，默认节点即可解锁ChatGPT，xray配置已添加支持warp-socks5与wireguard warp出站分流，实现多IP出站分流共存
+* 【2024-04-20】[Cisco-Talos / IOCs](https://github.com/Cisco-Talos/IOCs) - Indicators of Compromise
+* 【2024-04-20】[nodelrd / ChatGPT-Next-Web-PLUS](https://github.com/nodelrd/ChatGPT-Next-Web-PLUS) - 基于chatgpt-next-web 增强版本，后台管理，接入知识库等。将按需持续接入midjourney绘画功能，接入了stable-diffusion，支持oss，支持dall-e-3、gpt-4-vision-preview、whisper、tts，支持gpt-4-all，支持GPTs商店。
+* 【2024-04-20】[Event-AHU / Mamba_State_Space_Model_Paper_List](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List) - [Mamba-Survey-2024] Paper list for State-Space-Model/Mamba and it's Applications
+* 【2024-04-20】[dbt-labs / jaffle-shop-classic](https://github.com/dbt-labs/jaffle-shop-classic) - A self-contained dbt project for testing purposes
+* 【2024-04-20】[h4x0r-dz / CVE-2024-3400](https://github.com/h4x0r-dz/CVE-2024-3400) - CVE-2024-3400 Palo Alto OS Command Injection
 * 【2024-04-19】[CryingMan666 / eternal-nodes](https://github.com/CryingMan666/eternal-nodes) - 👇 手机往下滑 📱 一个能每天自动生成高速机场的小站
 * 【2024-04-19】[SoilZhu / CookLikeHOC](https://github.com/SoilZhu/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 * 【2024-04-19】[milanm / azure-cheat-sheet](https://github.com/milanm/azure-cheat-sheet) - Every product, feature and service in the Azure family.
