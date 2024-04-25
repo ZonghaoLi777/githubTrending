@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2024-04-25】[react-native-cameraroll / react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library.
+* 【2024-04-25】[loks666 / get_jobs](https://github.com/loks666/get_jobs) - 💼【找工作最强助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
+* 【2024-04-25】[meghadandapat / BE-IT-DS](https://github.com/meghadandapat/BE-IT-DS) - This repository contains distributed systems assignments according to SPPU 2019 Pattern along with their execution steps
 * 【2024-04-24】[WeiYe-Jing / datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
 * 【2024-04-24】[mik3y / usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
 * 【2024-04-24】[sing1ee / elasticsearch-jieba-plugin](https://github.com/sing1ee/elasticsearch-jieba-plugin) - jieba analysis plugin for elasticsearch 7.0.0, 6.4.0, 6.0.0, 5.4.0，5.3.0, 5.2.2, 5.2.1, 5.2, 5.1.2, 5.1.1
@@ -980,6 +983,9 @@
 
 ## Python
 
+* 【2024-04-25】[UnicomAI / Unichat-llama3-Chinese](https://github.com/UnicomAI/Unichat-llama3-Chinese) - 
+* 【2024-04-25】[lipku / metahuman-stream](https://github.com/lipku/metahuman-stream) - Real time streaming digital human based on nerf
+* 【2024-04-25】[plutobell / teelebot](https://github.com/plutobell/teelebot) - Python实现的Telegram Bot机器人框架，具有插件系统，插件支持热更新和热装载
 * 【2024-04-24】[CrazyBoyM / llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）
 * 【2024-04-24】[haizelabs / llama3-jailbreak](https://github.com/haizelabs/llama3-jailbreak) - A trivial programmatic Llama 3 jailbreak. Sorry Zuck!
 * 【2024-04-24】[yuka-friends / Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
@@ -2549,6 +2555,11 @@
 
 ## Javascript
 
+* 【2024-04-25】[catdad / canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
+* 【2024-04-25】[code-charity / youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
+* 【2024-04-25】[apache / cordova-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
+* 【2024-04-25】[alyssaxuu / flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
+* 【2024-04-25】[SiJiDo / X](https://github.com/SiJiDo/X) - 红蓝对抗快速搭建基础设施平台
 * 【2024-04-24】[Sbermarketing-Analytics / InternFrontend-EntryTask](https://github.com/Sbermarketing-Analytics/InternFrontend-EntryTask) - 
 * 【2024-04-24】[OpenDroneMap / WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery. 🛩
 * 【2024-04-23】[horizon-ui / horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!
@@ -3582,6 +3593,7 @@
 
 ## Go
 
+* 【2024-04-25】[panjf2000 / gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 * 【2024-04-23】[amuluze / amprobe](https://github.com/amuluze/amprobe) - 轻量级主机及容器监控服务
 * 【2024-04-23】[aurorax-neo / free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
 * 【2024-04-23】[1buran / rHttp](https://github.com/1buran/rHttp) - REPL for HTTP
@@ -4508,6 +4520,8 @@
 
 ## C
 
+* 【2024-04-25】[OpenNJet / OpenNJet](https://github.com/OpenNJet/OpenNJet) - 
+* 【2024-04-25】[Recognito-Vision / Linux-FaceRecognition-FaceLivenessDetection](https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection) - NIST_FRVT Top 1🏆 Face Recognition, Liveness Detection(Face Anti-Spoof), Face Attribute Analysis Linux Server SDK Demo ☑️ Face Recognition ☑️ Face Liveness Detection ☑️ Face Attribute Analysis
 * 【2024-04-24】[luainkernel / lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua.
 * 【2024-04-24】[floesen / KExecDD](https://github.com/floesen/KExecDD) - Admin to Kernel code execution using the KSecDD driver
 * 【2024-04-23】[wareya / DIY-Gaming-Mouse](https://github.com/wareya/DIY-Gaming-Mouse) - Completely open source DIY gaming mouse, including hardware (PCB, shell) design files
@@ -5330,6 +5344,7 @@
 
 ## C++
 
+* 【2024-04-25】[mansk1es / CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111) - Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability
 * 【2024-04-24】[SasaKaranovic / winfidel-sensor](https://github.com/SasaKaranovic/winfidel-sensor) - Wireless Inline Filament Diameter Estimator Low-cost Sensor
 * 【2024-04-22】[stanuwu / PixelGunCheatInternal](https://github.com/stanuwu/PixelGunCheatInternal) - Pixel Gun 3D Internal Cheat in C++
 * 【2024-04-21】[gottingen / hercules](https://github.com/gottingen/hercules) - aot compiler
@@ -6114,6 +6129,10 @@
 
 ## C#
 
+* 【2024-04-25】[Siccity / xNode](https://github.com/Siccity/xNode) - Unity Node Editor: Lets you view and edit node graphs inside Unity
+* 【2024-04-25】[de4dot / de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
+* 【2024-04-25】[WeakKnight / real-time-seamless-object-space-shading](https://github.com/WeakKnight/real-time-seamless-object-space-shading) - Source Code for Eurographics 2024 Short Paper "Real-time Seamless Object Space Shading"
+* 【2024-04-25】[EventStore / EventStore](https://github.com/EventStore/EventStore) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 * 【2024-04-24】[westonwalker / DotnetJobsOs](https://github.com/westonwalker/DotnetJobsOs) - 
 * 【2024-04-24】[eldewrito2 / ElDewritoLauncher](https://github.com/eldewrito2/ElDewritoLauncher) - 
 * 【2024-04-23】[HunterPie / HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games.
@@ -6904,6 +6923,8 @@
 
 ## Html
 
+* 【2024-04-25】[workadventure / map-starter-kit](https://github.com/workadventure/map-starter-kit) - A starter kit to help you get started developing your own maps for WorkAdventure
+* 【2024-04-25】[learn-co-curriculum / react-hooks-running-tests](https://github.com/learn-co-curriculum/react-hooks-running-tests) - 
 * 【2024-04-24】[tinyworldmap / tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
 * 【2024-04-24】[colour-science / colour-science-precis](https://github.com/colour-science/colour-science-precis) - Colour Science Precis for the CGI Artist
 * 【2024-04-24】[vikramlearning / blazorbootstrap](https://github.com/vikramlearning/blazorbootstrap) - An Enterprise-class Blazor Bootstrap Component library built on the Blazor and Bootstrap CSS frameworks.
@@ -7638,6 +7659,9 @@
 
 ## Css
 
+* 【2024-04-25】[rhildred / UX308PracticeFinal](https://github.com/rhildred/UX308PracticeFinal) - 
+* 【2024-04-25】[gromo / jquery.scrollbar](https://github.com/gromo/jquery.scrollbar) - jQuery CSS Customizable Scrollbar
+* 【2024-04-25】[Yandex-Practicum / go_final_project](https://github.com/Yandex-Practicum/go_final_project) - 
 * 【2024-04-24】[save-nix-together / open-letter](https://github.com/save-nix-together/open-letter) - an open letter to the NixOS foundation
 * 【2024-04-24】[learn-co-curriculum / react-hooks-dq-components](https://github.com/learn-co-curriculum/react-hooks-dq-components) - 
 * 【2024-04-24】[rustx-labs / effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn) - Effective Rust 中文版
@@ -8514,6 +8538,11 @@
 
 ## Unknown
 
+* 【2024-04-25】[prometeytron / Prometheus-Tron-Brute-Force](https://github.com/prometeytron/Prometheus-Tron-Brute-Force) - Tron Wallets Brute Force
+* 【2024-04-25】[thehappydinoa / awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries
+* 【2024-04-25】[CScorza / OSINT-IA](https://github.com/CScorza/OSINT-IA) - L'I.A. a supporto dell'OSINT
+* 【2024-04-25】[zju3dv / LoG](https://github.com/zju3dv/LoG) - Level of Gaussians
+* 【2024-04-25】[chiphuyen / dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
 * 【2024-04-24】[01Kevin01 / OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum&Chat&Markets)TR-EN
 * 【2024-04-23】[qiye45 / wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载
 * 【2024-04-23】[trimstray / test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
