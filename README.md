@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-04-28】[reactor / reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM
 * 【2024-04-27】[OpenSPG / openspg](https://github.com/OpenSPG/openspg) - OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) kNext SDK(python): LLM-enhanced knowledge construction, reasoning and generation
 * 【2024-04-25】[react-native-cameraroll / react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library.
 * 【2024-04-25】[loks666 / get_jobs](https://github.com/loks666/get_jobs) - 💼【找工作最强助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
@@ -984,6 +985,11 @@
 
 ## Python
 
+* 【2024-04-28】[CrazyBoyM / phi3-Chinese](https://github.com/CrazyBoyM/phi3-Chinese) - Phi3 中文仓库
+* 【2024-04-28】[TagStudioDev / TagStudio](https://github.com/TagStudioDev/TagStudio) - A file and photo management application and system.
+* 【2024-04-28】[OWASP / OFFAT](https://github.com/OWASP/OFFAT) - The OWASP OFFAT tool autonomously assesses your API for prevalent vulnerabilities, though full compatibility with OAS v3 is pending. The project remains a work in progress, continuously evolving towards completion.
+* 【2024-04-28】[dcharatan / flowmap](https://github.com/dcharatan/flowmap) - Code for "FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent" by Cameron Smith*, David Charatan*, Ayush Tewari, and Vincent Sitzmann
+* 【2024-04-28】[JeffffffFu / Awesome-Differential-Privacy-and-Meachine-Learning](https://github.com/JeffffffFu/Awesome-Differential-Privacy-and-Meachine-Learning) - 机器学习和差分隐私的论文笔记和代码仓
 * 【2024-04-27】[apple / corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 * 【2024-04-27】[Snowflake-Labs / snowflake-arctic](https://github.com/Snowflake-Labs/snowflake-arctic) - 
 * 【2024-04-27】[ssili126 / tv](https://github.com/ssili126/tv) - 自动收集的IPv4酒店电视直播源，自动测试播放速度，每日自动更新。 有CCTV央视卫视频道，及部分地方频道，播放流畅。也可在openwrt或群辉的docker运行。
@@ -4537,6 +4543,8 @@
 
 ## C
 
+* 【2024-04-28】[KartKrewDev / RingRacers](https://github.com/KartKrewDev/RingRacers) - 
+* 【2024-04-28】[PhysicsDptAngers / polyUAnalog](https://github.com/PhysicsDptAngers/polyUAnalog) - Open source, analog and polyphonic synthesizer
 * 【2024-04-25】[OpenNJet / OpenNJet](https://github.com/OpenNJet/OpenNJet) - 
 * 【2024-04-25】[Recognito-Vision / Linux-FaceRecognition-FaceLivenessDetection](https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection) - NIST_FRVT Top 1🏆 Face Recognition, Liveness Detection(Face Anti-Spoof), Face Attribute Analysis Linux Server SDK Demo ☑️ Face Recognition ☑️ Face Liveness Detection ☑️ Face Attribute Analysis
 * 【2024-04-24】[luainkernel / lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua.
@@ -5361,6 +5369,9 @@
 
 ## C++
 
+* 【2024-04-28】[turingmotors / swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.
+* 【2024-04-28】[facebookexternal / nimble](https://github.com/facebookexternal/nimble) - New file format for storage of large columnar datasets.
+* 【2024-04-28】[prusa3d / Prusa-Firmware-ESP32-Cam](https://github.com/prusa3d/Prusa-Firmware-ESP32-Cam) - Firmware for ESP32 Cam modules to be used in Prusa Connect
 * 【2024-04-27】[microsoft / onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) - Generative AI extensions for onnxruntime
 * 【2024-04-25】[mansk1es / CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111) - Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability
 * 【2024-04-24】[SasaKaranovic / winfidel-sensor](https://github.com/SasaKaranovic/winfidel-sensor) - Wireless Inline Filament Diameter Estimator Low-cost Sensor
@@ -6147,6 +6158,8 @@
 
 ## C#
 
+* 【2024-04-28】[TheCod3rYouTube / PS5NorModifier](https://github.com/TheCod3rYouTube/PS5NorModifier) - The PS5 Nor Modifier is an easy to use Windows based application to rewrite your PS5 NOR file. This can be useful if your NOR is corrupt, or if you have a disc edition console that needs to be converted to digital in order to bypass the disc drive checks
+* 【2024-04-28】[SteamRE / DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library.
 * 【2024-04-27】[ForzaMods / Forza-Mods-AIO](https://github.com/ForzaMods/Forza-Mods-AIO) - Free and open-source FH4 & FH5 mod tool
 * 【2024-04-27】[adamgryu / InspectorHistory-Unity](https://github.com/adamgryu/InspectorHistory-Unity) - 
 * 【2024-04-26】[SergeyTeplyakov / ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone)
@@ -6946,6 +6959,10 @@
 
 ## Html
 
+* 【2024-04-28】[KingsGambitLab / Lecture_Notes](https://github.com/KingsGambitLab/Lecture_Notes) - This repository is there to store the combined lecture notes of all the lectures. We are using markdown to write the lecture notes.
+* 【2024-04-28】[Jamil226 / WebAppDev](https://github.com/Jamil226/WebAppDev) - 
+* 【2024-04-28】[jaykali / lockphish](https://github.com/jaykali/lockphish) - Lockphish it's the first tool (07/04/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
+* 【2024-04-28】[LiveDuo / destack](https://github.com/LiveDuo/destack) - Page builder for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 * 【2024-04-27】[red-ninjas / himalaya-ui](https://github.com/red-ninjas/himalaya-ui) - Elevate your Next.js web development with our open-source UI library, offering a comprehensive suite of customizable components for building modern and user-friendly interfaces.
 * 【2024-04-27】[maester365 / maester](https://github.com/maester365/maester) - The core repository for the Maester module with helper cmdlets that will be called from the Pester tests.
 * 【2024-04-27】[microsoft / WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates. Please visit the What The Hack website at: https://aka.ms/wth
@@ -7690,6 +7707,7 @@
 
 ## Css
 
+* 【2024-04-28】[yep / yep.github.io](https://github.com/yep/yep.github.io) - GitHub page
 * 【2024-04-27】[P4ScriptsFivem / pappu-multicharacter](https://github.com/P4ScriptsFivem/pappu-multicharacter) - QBCore Multicharacter And inspired by NoPixel 4.0.
 * 【2024-04-27】[Danmendua / AlBot](https://github.com/Danmendua/AlBot) - 
 * 【2024-04-27】[anthdm / gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack
@@ -8577,6 +8595,10 @@
 
 ## Unknown
 
+* 【2024-04-28】[brexhq / prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
+* 【2024-04-28】[OdysseusYuan / Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
+* 【2024-04-28】[Finallyt / Heroglyph](https://github.com/Finallyt/Heroglyph) - Incentives For Transforming Ethereum Validator Dynamics
+* 【2024-04-28】[Shenzhi-Wang / Llama3-Chinese-Chat](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat) - This is the first Chinese chat model specifically fine-tuned for Chinese through ORPO based on the Meta-Llama-3-8B-Instruct model.
 * 【2024-04-27】[KushalVijay / AmazonCrackedResource](https://github.com/KushalVijay/AmazonCrackedResource) - A List of frequently asked questions in Amazon's Online Assessment and Interviews
 * 【2024-04-27】[bpc-clone / bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
 * 【2024-04-27】[Mojang / bedrock-samples](https://github.com/Mojang/bedrock-samples) - Samples and assets for building Minecraft: Bedrock Edition add-ons
