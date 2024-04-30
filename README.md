@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-04-30】[lgp547 / any-door](https://github.com/lgp547/any-door) - 
 * 【2024-04-29】[BiliRoamingX / BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) - BiliRoamingX integrations and patches powered by ReVanced.
 * 【2024-04-29】[bisq-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 * 【2024-04-28】[reactor / reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM
@@ -987,6 +988,7 @@
 
 ## Python
 
+* 【2024-04-30】[autonomousvision / gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - Gaussian Opacity Fields for Efficient and Compact Surface Reconstruction in Unbounded Scenes
 * 【2024-04-29】[pytorch / torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training
 * 【2024-04-29】[plaintextpackets / netprobe_lite](https://github.com/plaintextpackets/netprobe_lite) - Simple internet performance tester written in Python
 * 【2024-04-29】[mbzuai-oryx / LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
@@ -2577,6 +2579,8 @@
 
 ## Javascript
 
+* 【2024-04-30】[ibrahimaitech / IBRAHIM-MD](https://github.com/ibrahimaitech/IBRAHIM-MD) - Black panther md the fastest wabot that helps WhatsApp users to enjoy smooth life
+* 【2024-04-30】[jadehh / TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
 * 【2024-04-29】[Lunakepio / Mario-Bros.js](https://github.com/Lunakepio/Mario-Bros.js) - A Mario Bros in 3D with React
 * 【2024-04-29】[minbrowser / min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 * 【2024-04-27】[zk-Call / zkp-hmac-communication-js](https://github.com/zk-Call/zkp-hmac-communication-js) - "Zero-Knowledge" Proof Implementation with HMAC Communication in JavaScript
@@ -3621,6 +3625,7 @@
 
 ## Go
 
+* 【2024-04-30】[geektutu / 7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
 * 【2024-04-29】[talostrading / sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
 * 【2024-04-29】[ABCDELabs / Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 * 【2024-04-27】[zk-Call / zkp-hmac-communication-go](https://github.com/zk-Call/zkp-hmac-communication-go) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Go
@@ -4554,6 +4559,7 @@
 
 ## C
 
+* 【2024-04-30】[raysan5 / raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 * 【2024-04-28】[KartKrewDev / RingRacers](https://github.com/KartKrewDev/RingRacers) - 
 * 【2024-04-28】[PhysicsDptAngers / polyUAnalog](https://github.com/PhysicsDptAngers/polyUAnalog) - Open source, analog and polyphonic synthesizer
 * 【2024-04-25】[OpenNJet / OpenNJet](https://github.com/OpenNJet/OpenNJet) - 
@@ -6169,6 +6175,10 @@
 
 ## C#
 
+* 【2024-04-30】[JakaAmbrus / PlayLink](https://github.com/JakaAmbrus/PlayLink) - .NET API with Clean Architecture and CQRS, featuring advanced testing and a dynamic Angular frontend
+* 【2024-04-30】[Project-PLATEAU / SkylinesPLATEAU](https://github.com/Project-PLATEAU/SkylinesPLATEAU) - 3D都市モデルを都市育成シミュレーションゲーム"Cities:Skylines"にインポートするMOD
+* 【2024-04-30】[bbradson / Fishery](https://github.com/bbradson/Fishery) - Modding Library
+* 【2024-04-30】[MicrosoftDocs / windows-dev-docs](https://github.com/MicrosoftDocs/windows-dev-docs) - Conceptual and overview content for developing Windows apps
 * 【2024-04-29】[Voland163 / TFTV](https://github.com/Voland163/TFTV) - Terror from the Void mod for Phoenix Point
 * 【2024-04-29】[zkSNACKs / WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 * 【2024-04-29】[stayintarkov / SIT-Mod-Ports](https://github.com/stayintarkov/SIT-Mod-Ports) - 
@@ -7725,6 +7735,10 @@
 
 ## Css
 
+* 【2024-04-30】[technomancy-dev / 00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
+* 【2024-04-30】[WinTenDev / ZiziBot-Engine](https://github.com/WinTenDev/ZiziBot-Engine) - 5th Gen ZiziBot Engine
+* 【2024-04-30】[gunners6518 / Netflix-clone](https://github.com/gunners6518/Netflix-clone) - This is a Netflix clone application made with React+TypeScript.
+* 【2024-04-30】[ibm-developer-skills-network / grihf-frontend_capstone_starter_code](https://github.com/ibm-developer-skills-network/grihf-frontend_capstone_starter_code) - frontend_capstone_starter_code
 * 【2024-04-28】[yep / yep.github.io](https://github.com/yep/yep.github.io) - GitHub page
 * 【2024-04-27】[P4ScriptsFivem / pappu-multicharacter](https://github.com/P4ScriptsFivem/pappu-multicharacter) - QBCore Multicharacter And inspired by NoPixel 4.0.
 * 【2024-04-27】[Danmendua / AlBot](https://github.com/Danmendua/AlBot) - 
@@ -8613,6 +8627,9 @@
 
 ## Unknown
 
+* 【2024-04-30】[func25 / go-practical-tips](https://github.com/func25/go-practical-tips) - Go Practical Tips
+* 【2024-04-30】[project-fika / Fika-Documentation](https://github.com/project-fika/Fika-Documentation) - 
+* 【2024-04-30】[github / roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 * 【2024-04-29】[ImplFerris / LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
 * 【2024-04-29】[Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 * 【2024-04-28】[brexhq / prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
