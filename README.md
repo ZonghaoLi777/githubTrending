@@ -992,6 +992,14 @@
 
 ## Python
 
+* 【2024-05-03】[dnhkng / GlaDOS](https://github.com/dnhkng/GlaDOS) - Personality Core
+* 【2024-05-03】[TheOfficialFloW / PPPwn](https://github.com/TheOfficialFloW/PPPwn) - PPPwn - PlayStation 4 PPPoE RCE
+* 【2024-05-03】[pyinfra-dev / pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
+* 【2024-05-03】[P1sec / QCSuper](https://github.com/P1sec/QCSuper) - QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things.
+* 【2024-05-03】[run-llama / llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
+* 【2024-05-03】[pydantic / logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
+* 【2024-05-03】[Free-TV / IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
+* 【2024-05-03】[acantril / learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses
 * 【2024-05-02】[magic-research / PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
 * 【2024-05-02】[openai / gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 * 【2024-05-02】[UniModal4Reasoning / ChartVLM](https://github.com/UniModal4Reasoning/ChartVLM) - Official Repository of ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning
@@ -2590,6 +2598,9 @@
 
 ## Javascript
 
+* 【2024-05-03】[IvanGlinkin / CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings
+* 【2024-05-03】[mouricedevs / Gifted-Md](https://github.com/mouricedevs/Gifted-Md) - Gifted Md is a Cool Multi-Device WhatsApp bot which offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+* 【2024-05-03】[TacoGuy21 / Greatsword-V3](https://github.com/TacoGuy21/Greatsword-V3) - ***Please star if you fork*** (This is an unblocker, link making tutorial attached below.)
 * 【2024-05-02】[websockets / ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 * 【2024-05-02】[hjdhnx / hipy-server](https://github.com/hjdhnx/hipy-server) - hipy t4服务后端
 * 【2024-05-01】[select2 / select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
@@ -3640,6 +3651,7 @@
 
 ## Go
 
+* 【2024-05-03】[ariga / atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 * 【2024-05-02】[appleboy / gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 * 【2024-05-02】[kaytu-io / kaytu](https://github.com/kaytu-io/kaytu) - The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need.
 * 【2024-05-02】[crowdsecurity / crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
@@ -4577,6 +4589,7 @@
 
 ## C
 
+* 【2024-05-03】[cpldcpu / BitNetMCU](https://github.com/cpldcpu/BitNetMCU) - Neural Networks with low bit weights on a CH32V003 RISC-V Microcontroller without multiplication
 * 【2024-05-02】[Polprzewodnikowy / SummerCart64](https://github.com/Polprzewodnikowy/SummerCart64) - SummerCart64 - a fully open source N64 flashcart
 * 【2024-05-01】[exploits-forsale / CVE-2024-21345](https://github.com/exploits-forsale/CVE-2024-21345) - Proof-of-Concept for CVE-2024-21345
 * 【2024-05-01】[gyf304 / dotenv](https://github.com/gyf304/dotenv) - Standalone, language agnostic dotenv
@@ -5409,6 +5422,9 @@
 
 ## C++
 
+* 【2024-05-03】[open-navigation / navigation2](https://github.com/open-navigation/navigation2) - ROS 2 Navigation Framework and System
+* 【2024-05-03】[30hours / blah2](https://github.com/30hours/blah2) - A real-time passive radar
+* 【2024-05-03】[1technophile / OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility & LoRa.
 * 【2024-05-01】[sherlockchou86 / VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 * 【2024-04-28】[turingmotors / swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.
@@ -6200,6 +6216,11 @@
 
 ## C#
 
+* 【2024-05-03】[blake502 / balatro-mobile-maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro
+* 【2024-05-03】[Master-s / PS4-9.00-11.00-PoC-bin-loader](https://github.com/Master-s/PS4-9.00-11.00-PoC-bin-loader) - PS4-9.00-11.00-PoC-bin-loader
+* 【2024-05-03】[thisisnabi / Blogger](https://github.com/thisisnabi/Blogger) - Clean Architecture, CQRS, and DDD Implementation by ASP.NET Core Blog problem domain.
+* 【2024-05-03】[space-commits / SPT-Realism-Mod-Client](https://github.com/space-commits/SPT-Realism-Mod-Client) - Client-side BepInEx patches for SPTRM: https://hub.sp-tarkov.com/files/file/606-spt-realism-mod/#versions
+* 【2024-05-03】[zerratar / fallout4-downgrader](https://github.com/zerratar/fallout4-downgrader) - Downgrade Fallout4 to before Next-Gen update to allow running old mods
 * 【2024-05-02】[mixandjam / balatro-feel](https://github.com/mixandjam/balatro-feel) - Recreating the basic Game Feel from Balatro
 * 【2024-05-01】[project-fika / Fika-Plugin](https://github.com/project-fika/Fika-Plugin) - Client-side changes to make multiplayer work
 * 【2024-05-01】[stayintarkov / SIT.Manager.Avalonia](https://github.com/stayintarkov/SIT.Manager.Avalonia) - 
@@ -7769,6 +7790,7 @@
 
 ## Css
 
+* 【2024-05-03】[927621BAD019 / IBM-PROJECT---MALNUTRITION-](https://github.com/927621BAD019/IBM-PROJECT---MALNUTRITION-) - 
 * 【2024-05-02】[hydralauncher / hydra-website](https://github.com/hydralauncher/hydra-website) - 
 * 【2024-05-02】[efemkay / obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout hack for Obsidian.md
 * 【2024-05-01】[moveit / moveit2_tutorials](https://github.com/moveit/moveit2_tutorials) - A sphinx-based centralized documentation repo for MoveIt 2
@@ -8664,6 +8686,9 @@
 
 ## Unknown
 
+* 【2024-05-03】[CeliaLyu / DataStructure-Algorithm-Intro](https://github.com/CeliaLyu/DataStructure-Algorithm-Intro) - 
+* 【2024-05-03】[Guilouz / Creality-Helper-Script-Wiki](https://github.com/Guilouz/Creality-Helper-Script-Wiki) - Wiki for Creality Helper Script
+* 【2024-05-03】[osurf / qzdy](https://github.com/osurf/qzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
 * 【2024-05-02】[mlabonne / llm-datasets](https://github.com/mlabonne/llm-datasets) - High-quality datasets, tools, and concepts for LLM fine-tuning.
 * 【2024-05-02】[codenihar / ml](https://github.com/codenihar/ml) - This repo contains all the resources related to the massive mass coders machine learning series
 * 【2024-05-02】[KQLMSPress / definitive-guide-kql](https://github.com/KQLMSPress/definitive-guide-kql) - Sample queries and data as part of the Microsoft Press book, The Definitive Guide to KQL
