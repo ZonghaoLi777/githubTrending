@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2024-05-14】[haveno-dex / haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
+* 【2024-05-14】[lh728 / 0-to-1-Microservices-Distributed-E-commerce-System-Template](https://github.com/lh728/0-to-1-Microservices-Distributed-E-commerce-System-Template) - This is a microservices-based distributed e-commerce system template designed to leverage a wide range of advanced management tools and practices from 0 to 1.
+* 【2024-05-14】[deltazefiro / Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) - Hide your private files and apps with a single click.
 * 【2024-05-12】[4379711 / lol-helper](https://github.com/4379711/lol-helper) - 英雄联盟工具,LCU API,一键喊话,战绩查询,一键发送战绩,更改段位显示,更改背景页,牛马/上等马/下等马,彩虹屁,禁用英雄 ,秒选英雄,解锁炫彩皮肤等
 * 【2024-05-11】[weixiansen574 / HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 双轨快传-同时使用USB和WIFI传输文件到电脑
 * 【2024-05-07】[dmulloy2 / ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit.
@@ -999,6 +1002,13 @@
 
 ## Python
 
+* 【2024-05-14】[linyiLYi / bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
+* 【2024-05-14】[Mega-Gorilla / Index_PDF_Translation](https://github.com/Mega-Gorilla/Index_PDF_Translation) - 
+* 【2024-05-14】[alibaba-damo-academy / FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open-source, accurate and easy-to-use video clipping tool | 开源、精准、方便的视频切片工具
+* 【2024-05-14】[multimodal-art-projection / MAP-NEO](https://github.com/multimodal-art-projection/MAP-NEO) - 
+* 【2024-05-14】[LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) - 
+* 【2024-05-14】[OS-Copilot / OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.
+* 【2024-05-14】[chen-tf / price-tracker-bot](https://github.com/chen-tf/price-tracker-bot) - Telegram 聊天機器人，追蹤momo降價、重新上架
 * 【2024-05-13】[sol3dev / SOL-shitcoinbot](https://github.com/sol3dev/SOL-shitcoinbot) - Solana-shitcoinbot! Solana-bot Meme token bots. autotrade, sniper bot, raydium bot, jupiter bot, solana sniper bot, autorade bot, trade bot
 * 【2024-05-13】[modelscope / agentscope](https://github.com/modelscope/agentscope) - Start building LLM-empowered multi-agent applications in an easier way.
 * 【2024-05-13】[Alpha-VLLM / Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Lumina-T2X is a unified framework for Text to Any Modality Generation
@@ -2650,6 +2660,12 @@
 
 ## Javascript
 
+* 【2024-05-14】[Dev-tanay / Rubik-Cube](https://github.com/Dev-tanay/Rubik-Cube) - Rubik Cube
+* 【2024-05-14】[Omkar-Sonawane-23 / Maa-Vimala](https://github.com/Omkar-Sonawane-23/Maa-Vimala) - 
+* 【2024-05-14】[GameSphere-MultiPlayer / Dot-Box](https://github.com/GameSphere-MultiPlayer/Dot-Box) - Dot-Box is a game where players take turns drawing lines between dots to create boxes. The player who completes the most boxes wins. It's a simple yet strategic game enjoyed by people of all ages.
+* 【2024-05-14】[JiyaGupta-cs / ShopNex](https://github.com/JiyaGupta-cs/ShopNex) - React Ecommerce App
+* 【2024-05-14】[Kunal-agrawall / AI-Jarvis](https://github.com/Kunal-agrawall/AI-Jarvis) - 
+* 【2024-05-14】[digitomize / digitomize](https://github.com/digitomize/digitomize) - Digitomize, part of Microsoft for Startups Founders Hub, is an open-source platform that combines two main sections: Contests and User Profiles. It allows users to explore upcoming coding contests and dynamically create developer portfolios.
 * 【2024-05-13】[kunjgit / GameZone](https://github.com/kunjgit/GameZone) - This open source repository contains collection of games build on basic tech stacks in web development . Use your creativity and build your own game and contribute to the repository by making PR 🎮
 * 【2024-05-13】[swapnilsparsh / 30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript) - Projects made during the 30 days of the JavaScript challenge
 * 【2024-05-13】[hugeicons / hugeicons-react](https://github.com/hugeicons/hugeicons-react) - Boost your UI with Hugeicons React Icons. 3,800+ free customizable stroke icons for sleek web development and design projects. An open-source react icon library tailored for React.
@@ -3725,6 +3741,9 @@
 
 ## Go
 
+* 【2024-05-14】[fdx-xdf / darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
+* 【2024-05-14】[NHAS / wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
+* 【2024-05-14】[owncast / owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
 * 【2024-05-13】[MHNightCat / superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 * 【2024-05-12】[glanceapp / glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 * 【2024-05-12】[supabase / auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
@@ -4680,6 +4699,7 @@
 
 ## C
 
+* 【2024-05-14】[zeldaret / mm](https://github.com/zeldaret/mm) - Decompilation of The Legend of Zelda: Majora's Mask
 * 【2024-05-12】[Hirrolot / datatype99](https://github.com/Hirrolot/datatype99) - Algebraic data types for C99
 * 【2024-05-12】[B-Dem / PPPwnUI](https://github.com/B-Dem/PPPwnUI) - PPPwnUI is a program that adds an UI to the exploit PPPwn created by TheFlow.
 * 【2024-05-09】[dcfsswindy / oled-ui-astra](https://github.com/dcfsswindy/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
@@ -5522,6 +5542,9 @@
 
 ## C++
 
+* 【2024-05-14】[rt64 / rt64](https://github.com/rt64/rt64) - RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.
+* 【2024-05-14】[marichardson137 / VerletIntegration](https://github.com/marichardson137/VerletIntegration) - 
+* 【2024-05-14】[vcmi / vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 * 【2024-05-13】[xfangfang / PPPwn_cpp](https://github.com/xfangfang/PPPwn_cpp) - C++ rewrite of PPPwn (PlayStation 4 PPPoE RCE)
 * 【2024-05-13】[Mr-Wiseguy / Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
 * 【2024-05-13】[Mr-Wiseguy / N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
@@ -6333,6 +6356,7 @@
 
 ## C#
 
+* 【2024-05-14】[PokersKun / PPPwn-Loader](https://github.com/PokersKun/PPPwn-Loader) - A WPF-based PPPwn front-end
 * 【2024-05-13】[LiuYunPlayer / TuneLab](https://github.com/LiuYunPlayer/TuneLab) - 
 * 【2024-05-12】[paidworkco / solana-api](https://github.com/paidworkco/solana-api) - API for Solana Tokens
 * 【2024-05-12】[hadashiA / VContainer](https://github.com/hadashiA/VContainer) - The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.
@@ -7171,6 +7195,10 @@
 
 ## Html
 
+* 【2024-05-14】[anuragverma108 / SwapReads](https://github.com/anuragverma108/SwapReads) - This repo is officially accepted for GSSOC'2k24. SwapReads.com is the ultimate online destination for book enthusiasts to connect, exchange favorite reads, and embark on literary adventures. Create your profile, list the books you're eager to swap, and join a vibrant community of passionate readers.
+* 【2024-05-14】[The-MindSpace / MindSpace-Web](https://github.com/The-MindSpace/MindSpace-Web) - MindSpace
+* 【2024-05-14】[controlpaths / hackbat](https://github.com/controlpaths/hackbat) - Hackbat repository
+* 【2024-05-14】[Anushkabh / krishiconnect](https://github.com/Anushkabh/krishiconnect) - 
 * 【2024-05-13】[Rajan-Barnwal / jobproject](https://github.com/Rajan-Barnwal/jobproject) - jobportal
 * 【2024-05-13】[ayush-that / FinVeda](https://github.com/ayush-that/FinVeda) - A web application designed to enhance financial literacy.
 * 【2024-05-13】[juhinagpure / Eduford-university](https://github.com/juhinagpure/Eduford-university) - 
@@ -7953,6 +7981,8 @@
 
 ## Css
 
+* 【2024-05-14】[SUGAM-ARORA / UniCollab](https://github.com/SUGAM-ARORA/UniCollab) - UniCollab is more than just a platform; it's a gateway to a world where students from different universities/colleges converge to collaborate, innovate, and elevate their projects. Imagine a space where ideas flow freely, where knowledge is shared effortlessly, and where learning transcends classrooms. That's UniCollab for you.
+* 【2024-05-14】[zhangyao1990 / elegant-admin](https://github.com/zhangyao1990/elegant-admin) - `vue3.x`，`typeScript`， `vite`,`pinia`,`element-Plus` 搭建一套一款优雅的管理系统模版
 * 【2024-05-13】[Suchitra-Sahoo / AgriLearnNetwork](https://github.com/Suchitra-Sahoo/AgriLearnNetwork) - Agrilearn Network is a comprehensive platform designed to empower farmers with essential insights and resources for successful agriculture practices. Our platform serves as an indispensable resource, offering a holistic approach enriched with detailed guidance, in-depth knowledge and strategic management approaches across various facets of farming.
 * 【2024-05-13】[Anishkagupta04 / RAPIDOC-HEALTHCARE-WEBSITE-](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-) - It is an online platform based on providing healthcare facilites to the user and information regarding hospital like availability of beds, total number of patients,,helping user to prebook appointments for OPD ,check availability of blood groups in hospitals and many more .
 * 【2024-05-12】[x8BitRain / webXash](https://github.com/x8BitRain/webXash) - WIP Improved version of xash3d emscripten in the browser
@@ -8881,6 +8911,15 @@
 
 ## Unknown
 
+* 【2024-05-14】[elder-plinius / L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5
+* 【2024-05-14】[rendnature808 / warzone2jpolks](https://github.com/rendnature808/warzone2jpolks) - mw3 skin-swapper skin-changer skinchanger skinswapper inventory-changer warzone-2-inventory-changer warzone-2-skinswapper warzone-2-skinchanger mw3-skin-changer mw3-skin-swapper
+* 【2024-05-14】[ef19927648345 / lolnoxa](https://github.com/ef19927648345/lolnoxa) - league-of-legends lol lol-cheat lol-hack league-of-legends-hack lol-script lol-scripts lol-cheats lol-script-free lol-scripting hack-lol hacks-en-lol tool-hack-lol league-of-legends-hacks lol-script-hack hacks-lol lol-scripter script-lol hack-lol-2023 map-hack-lol lol-hacks-2024 lol-cheats-menu-free-download league-of-legends lol lol-cheat lol-zoom
+* 【2024-05-14】[raydenfenx538 / PUBGneos](https://github.com/raydenfenx538/PUBGneos) - pubg pubg-cheat pubg-cheats pubg-aim pubg-aimbot pubg-hack pubg-hacks pubg-esp pubg-wallhack pubg-wh pubg-softaim cheat-pubg cheats-pubg hack-pubg hacks-pubg pubg-free-hack pubg-hack-aim pubg-legit pubg-rage pubg-hwid-spoofer pubg-no-vac
+* 【2024-05-14】[rabbitwolfbunch8 / escapefromtarkoveftyoki](https://github.com/rabbitwolfbunch8/escapefromtarkoveftyoki) - escape-from-tarkov-hack escape-from-tarkov-aimbot escape-from-tarkov-esp eft-aimbot eft-cheat eft-hack escape-from-tarkov-cheat eft-esp eft-wallhack escape-from-tarkov-cheats escape-from-tarkov-hacks escape-from-tarkov-wallhack escape-from-tarkov-spoofer eft-spoofer escape-from-tarkov-undetected eft-hacks eft-hacks-free
+* 【2024-05-14】[eding20biggie / genshinplob](https://github.com/eding20biggie/genshinplob) - genshin genshin-impact-cheat genshin-cheat genshin-hack genshin-impact-hack genshin-impact-cheats genshin-impact-free-hack genshin-hack-download genshin-impact-hack-pc hack-genshin-impact-pc genshin-hack-pc genshin-impact-mod-menu genshin-hack-2023 genshin-mod-menu genshin-impact-hack-free genshin-impact-hack-download genshin-impact-auto-farm
+* 【2024-05-14】[dwertipyston274 / apexlegendshemi](https://github.com/dwertipyston274/apexlegendshemi) - apex-legends apex-hack apex-legends-hack apex-legends-cheat apex-legends-aimbot apex-legends-wallhack apex-free-hack apex-hacks apex-legends-hacks apex-legends-cheats apex-cheat apex-aimbot hacks-apex-legends hack-apex apex-hack-download download-apex-hack apex-legends-hack-pc apex-legends-hacker apex-legends-esp apex-legends-free-hack
+* 【2024-05-14】[eastzombak188 / cs2moly](https://github.com/eastzombak188/cs2moly) - cs2 cs-2 cs2-cheat cs2-cheats cs2-hack cs2-hacks cs2-aimbot cs-2-hack cs2-esp-hack cs2-legit-hack cs2-aimbot-hack free-cs2-hacks free-cs2-hack cs2-hacks-free cs-2-hack-2023 cs2-wallhacks cs-2-aimbot aimbot-cs-2 aimbot-cs2 counter-strike-2
+* 【2024-05-14】[ebringmrjustkraft1 / fortnitenisoa](https://github.com/ebringmrjustkraft1/fortnitenisoa) - fortnite fortnite-cheat fortnite-cheats fortnite-aim fortnite-aimbot fortnite-hack fortnite-hacks fortnite-esp fortnite-wallhack fortnite-wh fortnite-softaim cheat-fortnite cheats-fortnite hack-fortnite hacks-fortnite fortnite-free-hack fortnite-hack-aim fortnite-legit fortnite-rage
 * 【2024-05-13】[GSSoC24 / Open-source-Practice](https://github.com/GSSoC24/Open-source-Practice) - GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India.
 * 【2024-05-13】[GSSoC24 / Contributor](https://github.com/GSSoC24/Contributor) - GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India. This is Contributor Space.
 * 【2024-05-13】[X-LANCE / AniTalker](https://github.com/X-LANCE/AniTalker) - 
