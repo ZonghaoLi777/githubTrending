@@ -1005,6 +1005,13 @@
 
 ## Python
 
+* 【2024-05-16】[pipecat-ai / pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
+* 【2024-05-16】[openai / tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+* 【2024-05-16】[aqlaboratory / openfold](https://github.com/aqlaboratory/openfold) - Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2
+* 【2024-05-16】[nkasmanoff / pi-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi Voice Assistant
+* 【2024-05-16】[Aabyss-Team / ARL](https://github.com/Aabyss-Team/ARL) - ARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
+* 【2024-05-16】[Chainlit / cookbook](https://github.com/Chainlit/cookbook) - Chainlit's cookbook repo
+* 【2024-05-16】[yeyupiaoling / MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。
 * 【2024-05-15】[entropy-research / Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
 * 【2024-05-15】[CTFd / CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 * 【2024-05-15】[Chaphlagical / Deblur-GS](https://github.com/Chaphlagical/Deblur-GS) - [I3D 2024] Deblur-GS: 3D Gaussian Splatting from Camera Motion Blurred Images
@@ -2666,6 +2673,7 @@
 
 ## Javascript
 
+* 【2024-05-16】[react-native-datetimepicker / datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker) - React Native date & time picker component for iOS, Android and Windows
 * 【2024-05-15】[aegir-assembly / omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
 * 【2024-05-15】[lowlighter / metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 * 【2024-05-14】[Dev-tanay / Rubik-Cube](https://github.com/Dev-tanay/Rubik-Cube) - Rubik Cube
@@ -3749,6 +3757,7 @@
 
 ## Go
 
+* 【2024-05-16】[camunda / camunda-platform](https://github.com/camunda/camunda-platform) - Links to Camunda Platform 8 resources, releases, and local development config
 * 【2024-05-14】[fdx-xdf / darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
 * 【2024-05-14】[NHAS / wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
 * 【2024-05-14】[owncast / owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
@@ -4707,6 +4716,8 @@
 
 ## C
 
+* 【2024-05-16】[PabloMK7 / ArticBaseServer](https://github.com/PabloMK7/ArticBaseServer) - 3DS Game Broadcaster
+* 【2024-05-16】[ArtifexSoftware / mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
 * 【2024-05-15】[BasedHardware / OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
 * 【2024-05-15】[ARM-software / CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
 * 【2024-05-15】[cocomelonc / bsprishtina-2024-maldev-workshop](https://github.com/cocomelonc/bsprishtina-2024-maldev-workshop) - BSides Prishtina 2024 Malware Development and Persistence workshop
@@ -5553,6 +5564,8 @@
 
 ## C++
 
+* 【2024-05-16】[Flutterando / calamidade](https://github.com/Flutterando/calamidade) - 
+* 【2024-05-16】[ceres-solver / ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 * 【2024-05-15】[mirage-project / mirage](https://github.com/mirage-project/mirage) - A multi-level tensor algebra superoptimizer
 * 【2024-05-15】[flutter-webrtc / flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
 * 【2024-05-15】[ros-navigation / navigation2](https://github.com/ros-navigation/navigation2) - ROS 2 Navigation Framework and System
@@ -6370,6 +6383,10 @@
 
 ## C#
 
+* 【2024-05-16】[cybersectroll / SharpPersistSD](https://github.com/cybersectroll/SharpPersistSD) - 
+* 【2024-05-16】[n1d3v / naticord](https://github.com/n1d3v/naticord) - Naticord / Native-cord is a native Discord client targetting modern and old operating systems.
+* 【2024-05-16】[shishkabob27 / CardWarsKingdom](https://github.com/shishkabob27/CardWarsKingdom) - A port of the "Adventure Time: Card Wars Kingdom" mobile game to PC.
+* 【2024-05-16】[microsoft / CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples) - 
 * 【2024-05-15】[victorverdoodt / Disaster-Response-Coordinator](https://github.com/victorverdoodt/Disaster-Response-Coordinator) - O 'Disaster Response Coordinator' é um sistema interativo baseado em inteligência artificial para coordenação e suporte em situações de desastre. Utiliza a API do Gemini para facilitar a comunicação entre vítimas e serviços de emergência, integrando-se ao Sistema Integrado de Informações sobre Desastres v3.
 * 【2024-05-14】[PokersKun / PPPwn-Loader](https://github.com/PokersKun/PPPwn-Loader) - A WPF-based PPPwn front-end
 * 【2024-05-13】[LiuYunPlayer / TuneLab](https://github.com/LiuYunPlayer/TuneLab) - 
@@ -7210,6 +7227,8 @@
 
 ## Html
 
+* 【2024-05-16】[Avdhesh-Varshney / WebMasterLog](https://github.com/Avdhesh-Varshney/WebMasterLog) - A record of Unique Web Development Projects made with Angular, Next, Node, React, ExpressJS, Redux, Vanilla, Vue, etc. Technologies...
+* 【2024-05-16】[yuriskinfo / cheat-sheets](https://github.com/yuriskinfo/cheat-sheets) - Cheat sheets to help you in daily hands-on tasks of trouble shooting, configuration, and diagnostics with Fortinet, HP/Aruba, Cisco, Checkpoint and others' gear.
 * 【2024-05-15】[pybluez / pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
 * 【2024-05-15】[SiddharthBahuguna / NEWS-AGGREGATOR-PROJECT](https://github.com/SiddharthBahuguna/NEWS-AGGREGATOR-PROJECT) - The news aggregator project aims to create a centralized platform that curates and organizes news articles and updates from various sources across the internet. It is being developed to address the growing need for a consolidated and user-friendly platform that offers reliable and diverse news content
 * 【2024-05-15】[imoki / PaperTools](https://github.com/imoki/PaperTools) - 论文查重降重工具汇总
@@ -7999,6 +8018,9 @@
 
 ## Css
 
+* 【2024-05-16】[dkuehl / dkuehl.github.io](https://github.com/dkuehl/dkuehl.github.io) - My Site
+* 【2024-05-16】[professorrichardson / Agrinho-2024-formacao](https://github.com/professorrichardson/Agrinho-2024-formacao) - Site de exemplo para formação de professores da rede estadual do Paraná núcleo de Ivaiporã
+* 【2024-05-16】[zen-browser / desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 * 【2024-05-15】[Satyam1923 / Spring-Music-Player](https://github.com/Satyam1923/Spring-Music-Player) - The JioSaavn Player project aims to create a feature-rich music player application leveraging the unofficial JioSaavn API. This application will provide users with a seamless experience to discover, stream, and organize their favorite music tracks from the extensive JioSaavn library.
 * 【2024-05-15】[zalando / restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 * 【2024-05-15】[stephband / scribe](https://github.com/stephband/scribe) - Renders music in HTML.
@@ -8934,6 +8956,10 @@
 
 ## Unknown
 
+* 【2024-05-16】[bobeff / open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
+* 【2024-05-16】[AllThingsSmitty / css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+* 【2024-05-16】[GigaAI-research / General-World-Models-Survey](https://github.com/GigaAI-research/General-World-Models-Survey) - 
+* 【2024-05-16】[total-typescript / tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
 * 【2024-05-15】[theokwebb / C-from-Scratch](https://github.com/theokwebb/C-from-Scratch) - A roadmap to learn C from Scratch
 * 【2024-05-15】[01-ai / Yi-1.5](https://github.com/01-ai/Yi-1.5) - Yi-1.5 is an upgraded version of Yi, delivering stronger performance in coding, math, reasoning, and instruction-following capability.
 * 【2024-05-15】[akshitagupta15june / Face-X](https://github.com/akshitagupta15june/Face-X) - Demonstration of different algorithms and operations on faces. Star the repo⭐
