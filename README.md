@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-05-21】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
+* 【2024-05-21】[spring-projects / spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) - Simplifies the development of creating a JPA-based data access layer.
 * 【2024-05-20】[P4r4d1se / heapdump_shiro_vuln](https://github.com/P4r4d1se/heapdump_shiro_vuln) - A heapdump leaks Shiro key causing RCE vulnerability environment.
 * 【2024-05-18】[google / project-gameface](https://github.com/google/project-gameface) - 
 * 【2024-05-18】[TheWidlarzGroup / react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react-native
@@ -1010,6 +1012,7 @@
 
 ## Python
 
+* 【2024-05-21】[minyoungg / platonic-rep](https://github.com/minyoungg/platonic-rep) - 
 * 【2024-05-20】[instaloader / instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 * 【2024-05-19】[pypa / hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * 【2024-05-19】[JadyXuan / NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
@@ -2692,6 +2695,8 @@
 
 ## Javascript
 
+* 【2024-05-21】[sindresorhus / create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
+* 【2024-05-21】[laravel / breeze-next](https://github.com/laravel/breeze-next) - An application / authentication starter kit frontend in Next.js for Laravel Breeze.
 * 【2024-05-20】[joye61 / pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF and GIF images intelligently
 * 【2024-05-17】[google-marketing-solutions / ga4_dataform](https://github.com/google-marketing-solutions/ga4_dataform) - 
 * 【2024-05-17】[evil-huawei / evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
@@ -3779,6 +3784,8 @@
 
 ## Go
 
+* 【2024-05-21】[skx / cpmulator](https://github.com/skx/cpmulator) - Golang CP/M emulator for playing zork, lighthouse-of-doom, etc
+* 【2024-05-21】[NibiruChain / nibiru](https://github.com/NibiruChain/nibiru) - Nibiru Chain: The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more.
 * 【2024-05-19】[linux-do / override](https://github.com/linux-do/override) - 啥也不是
 * 【2024-05-19】[kubeflow / training-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine-Tuning on Kubernetes
 * 【2024-05-19】[firebase / firebase-admin-go](https://github.com/firebase/firebase-admin-go) - Firebase Admin Go SDK
@@ -4746,6 +4753,7 @@
 
 ## C
 
+* 【2024-05-21】[rvaiya / keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 * 【2024-05-20】[google / wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 * 【2024-05-19】[0xNinjaCyclone / hellMaker](https://github.com/0xNinjaCyclone/hellMaker) - Generate FUD backdoors
 * 【2024-05-19】[tpunix / SAROO](https://github.com/tpunix/SAROO) - SAROO is a SEGA Saturn HDloader
@@ -5601,6 +5609,7 @@
 
 ## C++
 
+* 【2024-05-21】[jsecurity101 / ETWInspector](https://github.com/jsecurity101/ETWInspector) - 
 * 【2024-05-20】[snort3 / snort3](https://github.com/snort3/snort3) - Snort++
 * 【2024-05-20】[yileijin / Bootstrap-3D-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
 * 【2024-05-20】[ludouzi / fooyin](https://github.com/ludouzi/fooyin) - A customisable music player
@@ -6433,6 +6442,8 @@
 
 ## C#
 
+* 【2024-05-21】[DaBaival / wemod-pro-unlocker](https://github.com/DaBaival/wemod-pro-unlocker) - 
+* 【2024-05-21】[PintaProject / Pinta](https://github.com/PintaProject/Pinta) - Simple GTK# Paint Program
 * 【2024-05-20】[AzureAD / microsoft-authentication-library-for-dotnet](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet) - Microsoft Authentication Library (MSAL) for .NET
 * 【2024-05-20】[thisisnabi / DigitalWallet](https://github.com/thisisnabi/DigitalWallet) - The E-Commerce User Wallet Service designed in ASP.NET Core
 * 【2024-05-20】[m4rs-mt / ILGPU](https://github.com/m4rs-mt/ILGPU) - ILGPU JIT Compiler for high-performance .Net GPU programs
@@ -7282,6 +7293,7 @@
 
 ## Html
 
+* 【2024-05-21】[jaganjavid / 100-Project](https://github.com/jaganjavid/100-Project) - ALl project
 * 【2024-05-20】[nghuyhoang2509 / Office-and-Windows-Activator](https://github.com/nghuyhoang2509/Office-and-Windows-Activator) - kmsauto-free-download-2024 kmsauto-download-2024 windows-free-activation kmsauto-2024 kmsauto-download-windows-11 kmsauto-activate kmsauto-download-windows-10 windows-activate-free free-activation-tutorial kmsauto-activator-download windows-activator-download kmsauto-download kmsauto-net-download kmsauto kmsauto-free-download windows-11-activat
 * 【2024-05-20】[GameSphere-MultiPlayer / Community-Page](https://github.com/GameSphere-MultiPlayer/Community-Page) - A Chrome gaming community page is an online space within the Chrome browser where gamers connect, discuss games, share content, get updates, troubleshoot issues, join events, and interact with developers. It's a hub for all things gaming-related in the Chrome ecosystem.
 * 【2024-05-19】[Jisan-mia / dom-projects](https://github.com/Jisan-mia/dom-projects) - dom-projects is an open-source web app that helps you learn frontend development faster with a hands-on practice style. It is a collection of projects that you can use to learn HTML, CSS and JavaScript
@@ -8081,6 +8093,7 @@
 
 ## Css
 
+* 【2024-05-21】[Artur-Galstyan / statedict2pytree](https://github.com/Artur-Galstyan/statedict2pytree) - 
 * 【2024-05-20】[kaidadnd / Revolt](https://github.com/kaidadnd/Revolt) - RevoltEdge is your #1 source for Edgenuity answers . Get 100% Scores on all activities and Skip Videos! Revolt is the Best Edgenuity script & hack / Bot
 * 【2024-05-19】[niklausgerber / PreLoadMe](https://github.com/niklausgerber/PreLoadMe) - PreLoadMe, a lightweight jQuery website preloader.
 * 【2024-05-19】[Dikutal / Cookbook](https://github.com/Dikutal/Cookbook) - DIKUs shared cookbook
@@ -9031,6 +9044,9 @@
 
 ## Unknown
 
+* 【2024-05-21】[weeeBox / mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews
+* 【2024-05-21】[ruesandora / 0rbit](https://github.com/ruesandora/0rbit) - 
+* 【2024-05-21】[trusted-point / initia-tools](https://github.com/trusted-point/initia-tools) - 
 * 【2024-05-20】[pREffff / dbd](https://github.com/pREffff/dbd) - dbd dbd-cheat dbd-cheats dbd-hack dbd-hacks dbd-esp dbd-wallhack dbd-wh cheat-dbd cheats-dbd hack-dbd hacks-dbd dbd-free-hack dbd-legit dbd-rage
 * 【2024-05-20】[Kekichd / Hwid-Full-Spoof](https://github.com/Kekichd/Hwid-Full-Spoof) - hwid-spoofer hwid-spoofer-poc hwid-bypass hwid-spoofer-valorant hwid-changer hwid-spoofer-undetected hwid-spoofer-rust hwid-spoofer-apex-legends hwid-spoofer-warzone hwid-spoofer-eac hwid-spoofer-fortnite free-hwid-spoofer hwid-spoofer-apex download-free-hwid-spoofer free-hwid-changer hwid-spoofer-free-download free-download-hwid-spoofer free-down
 * 【2024-05-20】[sh1004pgf / CryptoHopperFree](https://github.com/sh1004pgf/CryptoHopperFree) - cryptohopper-crack cryptohopper-bot-crack cryptohopper-bot cryptohopper-free-bot cryptohopper-software cryptohopper-free-download cryptohopper-pro-crack cryptohopper-pro-version cryptohopper-full-version
