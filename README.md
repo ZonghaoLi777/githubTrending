@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-05-24】[apache / hbase](https://github.com/apache/hbase) - Apache HBase
 * 【2024-05-23】[chiteroman / FrameworkPatch](https://github.com/chiteroman/FrameworkPatch) - Modify framework.jar to build on system level a valid certificate chain
 * 【2024-05-21】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
 * 【2024-05-21】[spring-projects / spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) - Simplifies the development of creating a JPA-based data access layer.
@@ -1013,6 +1014,7 @@
 
 ## Python
 
+* 【2024-05-24】[R4gd0ll / I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) - OA漏洞利用工具
 * 【2024-05-23】[Codium-ai / cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 * 【2024-05-23】[THUDM / CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B
 * 【2024-05-23】[shamhi / TapSwapBot](https://github.com/shamhi/TapSwapBot) - Bot that mines coins in Tapswap
@@ -2706,6 +2708,7 @@
 
 ## Javascript
 
+* 【2024-05-24】[ibrahimaitech / BMW-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-23】[Pactum7 / ticket-grabbing](https://github.com/Pactum7/ticket-grabbing) - 猫眼纷玩岛大麦抢票、余票监控AutoX.js脚本，手机移动端，全场次选购
 * 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 * 【2024-05-22】[V2RaySSR / Free-VLESS](https://github.com/V2RaySSR/Free-VLESS) - 通过 Cloudflare，免费部署 VLESS节点
@@ -3798,6 +3801,7 @@
 
 ## Go
 
+* 【2024-05-24】[defenseunicorns / zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 * 【2024-05-22】[kubesphere / kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 * 【2024-05-21】[skx / cpmulator](https://github.com/skx/cpmulator) - Golang CP/M emulator for playing zork, lighthouse-of-doom, etc
 * 【2024-05-21】[NibiruChain / nibiru](https://github.com/NibiruChain/nibiru) - Nibiru Chain: The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more.
@@ -6462,6 +6466,7 @@
 
 ## C#
 
+* 【2024-05-24】[builtbybel / privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 * 【2024-05-23】[MicrosoftLearning / mslearn-ai-services](https://github.com/MicrosoftLearning/mslearn-ai-services) - Lab files for Azure AI Services modules
 * 【2024-05-22】[Monika1313 / Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) - 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具,，支持Modbus Rtu调试、Mqtt调试
 * 【2024-05-21】[DaBaival / wemod-pro-unlocker](https://github.com/DaBaival/wemod-pro-unlocker) - 
@@ -7315,6 +7320,9 @@
 
 ## Html
 
+* 【2024-05-24】[frontend-joe / es6-components](https://github.com/frontend-joe/es6-components) - Collection of components built with HTML, CSS and JavaScript (ES6)
+* 【2024-05-24】[receptron / graphai](https://github.com/receptron/graphai) - 
+* 【2024-05-24】[OCA / partner-contact](https://github.com/OCA/partner-contact) - Odoo Partner and Contact related addons
 * 【2024-05-23】[OCA / product-attribute](https://github.com/OCA/product-attribute) - Odoo Product Attribute
 * 【2024-05-22】[adoptium / aqa-tests](https://github.com/adoptium/aqa-tests) - Home of test infrastructure for Adoptium builds
 * 【2024-05-22】[OCA / crm](https://github.com/OCA/crm) - Odoo CRM, Mail & Newsletter advanced features
@@ -8118,6 +8126,9 @@
 
 ## Css
 
+* 【2024-05-24】[gittyapp / gittyapp.com-version-1.0](https://github.com/gittyapp/gittyapp.com-version-1.0) - website for http://gittyapp.com
+* 【2024-05-24】[sebastiandro / Portfolio](https://github.com/sebastiandro/Portfolio) - Min tuffa portfolio
+* 【2024-05-24】[mgportada / repaso](https://github.com/mgportada/repaso) - 
 * 【2024-05-23】[TalyaOW / T2Class5](https://github.com/TalyaOW/T2Class5) - 
 * 【2024-05-23】[wahidustoz / school39](https://github.com/wahidustoz/school39) - 
 * 【2024-05-23】[rjc1704 / nb5-standard-3rd-hw](https://github.com/rjc1704/nb5-standard-3rd-hw) - 
