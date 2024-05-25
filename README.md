@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-05-25】[camunda / camunda](https://github.com/camunda/camunda) - Distributed Workflow Engine for Microservices Orchestration
 * 【2024-05-24】[apache / hbase](https://github.com/apache/hbase) - Apache HBase
 * 【2024-05-23】[chiteroman / FrameworkPatch](https://github.com/chiteroman/FrameworkPatch) - Modify framework.jar to build on system level a valid certificate chain
 * 【2024-05-21】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
@@ -1014,6 +1015,9 @@
 
 ## Python
 
+* 【2024-05-25】[kangpeilun / VastGaussian](https://github.com/kangpeilun/VastGaussian) - v1.0
+* 【2024-05-25】[baidubce / app-builder](https://github.com/baidubce/app-builder) - appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用
+* 【2024-05-25】[darrenburns / elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 * 【2024-05-24】[R4gd0ll / I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) - OA漏洞利用工具
 * 【2024-05-23】[Codium-ai / cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 * 【2024-05-23】[THUDM / CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B
@@ -2708,6 +2712,10 @@
 
 ## Javascript
 
+* 【2024-05-25】[foolstack-omg / block-tech-sharing](https://github.com/foolstack-omg/block-tech-sharing) - Sharing Valuable Technology & Arbitrage Skill of The Blockchain I have learned.
+* 【2024-05-25】[github / relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
+* 【2024-05-25】[imputnet / cobalt](https://github.com/imputnet/cobalt) - save what you love
+* 【2024-05-25】[yylive / YYEVA](https://github.com/yylive/YYEVA) - YYEVA（YY Effect Video Animate）是YYLive推出的一个开源的支持可插入动态元素的MP4动效播放器解决方案，包含设计资源输出的AE插件，客户端渲染引擎，在线预览工具。
 * 【2024-05-24】[ibrahimaitech / BMW-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-23】[Pactum7 / ticket-grabbing](https://github.com/Pactum7/ticket-grabbing) - 猫眼纷玩岛大麦抢票、余票监控AutoX.js脚本，手机移动端，全场次选购
 * 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
@@ -4772,6 +4780,7 @@
 
 ## C
 
+* 【2024-05-25】[psycopg / psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 * 【2024-05-22】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
 * 【2024-05-22】[Decompollaborate / rabbitizer](https://github.com/Decompollaborate/rabbitizer) - MIPS instruction decoder
 * 【2024-05-21】[rvaiya / keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
@@ -5630,6 +5639,7 @@
 
 ## C++
 
+* 【2024-05-25】[sysown / proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 * 【2024-05-23】[mrousavy / react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 * 【2024-05-22】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 * 【2024-05-22】[SaadAhla / IP-Hunter](https://github.com/SaadAhla/IP-Hunter) - Hunt for C2 servers and phishing web sites using VirusTotal API , you can modify code to kill the malicious process
@@ -6466,6 +6476,10 @@
 
 ## C#
 
+* 【2024-05-25】[cybersectroll / TrollUAC](https://github.com/cybersectroll/TrollUAC) - 
+* 【2024-05-25】[dotnet / ai-samples](https://github.com/dotnet/ai-samples) - 
+* 【2024-05-25】[NuGet / NuGet.Client](https://github.com/NuGet/NuGet.Client) - Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)
+* 【2024-05-25】[killkimno / MORT](https://github.com/killkimno/MORT) - MORT 번역기 프로젝트 - Real-time game translator with OCR
 * 【2024-05-24】[builtbybel / privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 * 【2024-05-23】[MicrosoftLearning / mslearn-ai-services](https://github.com/MicrosoftLearning/mslearn-ai-services) - Lab files for Azure AI Services modules
 * 【2024-05-22】[Monika1313 / Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) - 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具,，支持Modbus Rtu调试、Mqtt调试
@@ -7320,6 +7334,7 @@
 
 ## Html
 
+* 【2024-05-25】[nextcloud / documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 * 【2024-05-24】[frontend-joe / es6-components](https://github.com/frontend-joe/es6-components) - Collection of components built with HTML, CSS and JavaScript (ES6)
 * 【2024-05-24】[receptron / graphai](https://github.com/receptron/graphai) - 
 * 【2024-05-24】[OCA / partner-contact](https://github.com/OCA/partner-contact) - Odoo Partner and Contact related addons
@@ -8126,6 +8141,10 @@
 
 ## Css
 
+* 【2024-05-25】[readtedium / udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
+* 【2024-05-25】[Heatblur-Simulations / f-4e-manual](https://github.com/Heatblur-Simulations/f-4e-manual) - Manual of the F-4E Phantom by Heatblur Simulations
+* 【2024-05-25】[dicodingacademy / asclepius](https://github.com/dicodingacademy/asclepius) - 
+* 【2024-05-25】[rjc1704 / st-4th-hw](https://github.com/rjc1704/st-4th-hw) - 
 * 【2024-05-24】[gittyapp / gittyapp.com-version-1.0](https://github.com/gittyapp/gittyapp.com-version-1.0) - website for http://gittyapp.com
 * 【2024-05-24】[sebastiandro / Portfolio](https://github.com/sebastiandro/Portfolio) - Min tuffa portfolio
 * 【2024-05-24】[mgportada / repaso](https://github.com/mgportada/repaso) - 
@@ -9086,6 +9105,10 @@
 
 ## Unknown
 
+* 【2024-05-25】[igorbarinov / awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
+* 【2024-05-25】[datastacktv / data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
+* 【2024-05-25】[gunnarmorling / awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
+* 【2024-05-25】[h9-tect / 100days_AI](https://github.com/h9-tect/100days_AI) - 
 * 【2024-05-23】[lidlGalaxy / Crypto-Robot](https://github.com/lidlGalaxy/Crypto-Robot) - Create a Crypto Robot for yourself
 * 【2024-05-23】[shreyaschavhan / advanced-sql-injection-for-awae](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae) - 
 * 【2024-05-23】[the-web3 / layer2](https://github.com/the-web3/layer2) - 最全面的 Layer2 资料汇总
