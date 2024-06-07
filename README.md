@@ -2786,6 +2786,9 @@
 
 ## Javascript
 
+* 【2024-06-07】[xaboy / form-create](https://github.com/xaboy/form-create) - 🔥🔥🔥 强大的动态表单生成器，通过数据驱动表单渲染，支持可视化设计。提高开发者对表单的开发效率。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+* 【2024-06-07】[mishoo / UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
+* 【2024-06-07】[pablokbs / peladonerd](https://github.com/pablokbs/peladonerd) - Repo con los archivos que uso para mi videos en youtube
 * 【2024-06-05】[ForrestKnight / 3d-portfolio](https://github.com/ForrestKnight/3d-portfolio) - 
 * 【2024-06-05】[limbopro / Profiles4limbo](https://github.com/limbopro/Profiles4limbo) - 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、Tiktok解锁重写、VSCO解锁、神机分流、blackmatrix7分流规则。
 * 【2024-06-04】[VajiraTech / VAJIRA-MD](https://github.com/VajiraTech/VAJIRA-MD) - 🇱🇰King vajira md v4 update released🇱🇰
@@ -5772,6 +5775,9 @@
 
 ## C++
 
+* 【2024-06-07】[ByConity / ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
+* 【2024-06-07】[jarro2783 / cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
+* 【2024-06-07】[Cambricon / mlu-ops](https://github.com/Cambricon/mlu-ops) - Efficient operation implementation based on the Cambricon Machine Learning Unit (MLU) .
 * 【2024-06-06】[boostorg / beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 * 【2024-06-05】[pytorch / xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 * 【2024-06-05】[PaddlePaddle / Paddle-Lite-Demo](https://github.com/PaddlePaddle/Paddle-Lite-Demo) - lib, demo, model, data
