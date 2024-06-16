@@ -1045,6 +1045,10 @@
 
 ## Python
 
+* 【2024-06-16】[ddgth / cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+* 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+* 【2024-06-16】[CollegesChat / university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+* 【2024-06-16】[oceanbase / obdiag](https://github.com/oceanbase/obdiag) - obdiag (OceanBase Diagnostic Tool) is designed to help OceanBase users quickly gather necessary information and analyze the root cause of the problem.
 * 【2024-06-15】[kubeflow / pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 * 【2024-06-15】[zauberzeug / nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 * 【2024-06-15】[aws-cloudformation / cfn-lint](https://github.com/aws-cloudformation/cfn-lint) - CloudFormation Linter
@@ -4931,6 +4935,8 @@
 
 ## C
 
+* 【2024-06-16】[KhronosGroup / Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
+* 【2024-06-16】[a0rtega / pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 * 【2024-06-15】[lexbor / lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 * 【2024-06-15】[PCRE2Project / pcre2](https://github.com/PCRE2Project/pcre2) - PCRE2 development is now based here.
 * 【2024-06-14】[RubyMetric / chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具. Change Source for every software on every platform from the command line.
@@ -6679,6 +6685,7 @@
 
 ## C#
 
+* 【2024-06-16】[ElPumpo / TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Open sourced tool for keeping NVIDIA GPUs updated, featuring fully customizable driver installs for complete control, multi-GPU support, and more!
 * 【2024-06-15】[aws / aws-sdk-net](https://github.com/aws/aws-sdk-net) - The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:
 * 【2024-06-14】[MediaBrowser / Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
 * 【2024-06-08】[uxmal / reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
@@ -8385,6 +8392,7 @@
 
 ## Css
 
+* 【2024-06-16】[apu52 / METAVERSE](https://github.com/apu52/METAVERSE) - 🚀 Welcome to our GitHub repository, Officially accepted for GSSOC'24 🌟& SSOC'24🌟 Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute your creations 🎨, add features 🛠️, or squash bugs 🐛 in existing projects.
 * 【2024-06-05】[mdazfar2 / HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub) - Welcome to HelpOps-Hub: your go-to resource for essential DevOps tools and technologies. Simplify your DevOps journey with curated guides, tools, and best practices. Never get stuck again!⚡
 * 【2024-06-05】[horizon-ui / shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Dashboard Template - Horizon AI Boilerplate
 * 【2024-06-05】[johnggli / linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
@@ -9377,6 +9385,7 @@
 
 ## Unknown
 
+* 【2024-06-16】[0voice / from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 * 【2024-06-15】[mitre / cti](https://github.com/mitre/cti) - Cyber Threat Intelligence Repository expressed in STIX 2.0
 * 【2024-06-05】[Crispher / MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - A visualization tool for Lean's mathlib library.
 * 【2024-06-05】[coffinxp / payloads](https://github.com/coffinxp/payloads) - 
