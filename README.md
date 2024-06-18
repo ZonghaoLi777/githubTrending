@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-06-18】[uber / NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+* 【2024-06-18】[apache / incubator-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines.
 * 【2024-06-15】[innoveit / react-native-ble-manager](https://github.com/innoveit/react-native-ble-manager) - React Native BLE communication module
 * 【2024-06-15】[apache / maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 * 【2024-06-15】[dropwizard / metrics](https://github.com/dropwizard/metrics) - 📈 Capturing JVM- and application-level metrics. So you know what's going on.
@@ -1045,6 +1047,7 @@
 
 ## Python
 
+* 【2024-06-18】[numpy / numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 * 【2024-06-16】[ddgth / cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
 * 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 * 【2024-06-16】[CollegesChat / university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
@@ -3933,6 +3936,7 @@
 
 ## Go
 
+* 【2024-06-18】[simulot / immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 * 【2024-06-15】[multiversx / mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
 * 【2024-06-15】[hashicorp / vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) - The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
 * 【2024-06-14】[Azure / azure-storage-fuse](https://github.com/Azure/azure-storage-fuse) - A virtual file system adapter for Azure Blob storage
@@ -5822,6 +5826,7 @@
 
 ## C++
 
+* 【2024-06-18】[Nevcairiel / LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 * 【2024-06-15】[openthread / openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
 * 【2024-06-15】[nodejs / node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
 * 【2024-06-14】[s3fs-fuse / s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -6685,6 +6690,7 @@
 
 ## C#
 
+* 【2024-06-18】[notscuffed / repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
 * 【2024-06-16】[ElPumpo / TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Open sourced tool for keeping NVIDIA GPUs updated, featuring fully customizable driver installs for complete control, multi-GPU support, and more!
 * 【2024-06-15】[aws / aws-sdk-net](https://github.com/aws/aws-sdk-net) - The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:
 * 【2024-06-14】[MediaBrowser / Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
@@ -7560,6 +7566,7 @@
 
 ## Html
 
+* 【2024-06-18】[ShreyamMaity / student-offers](https://github.com/ShreyamMaity/student-offers) - A Collection Of All Free Student Offers & Discount while you are a student.
 * 【2024-06-15】[OCA / maintenance](https://github.com/OCA/maintenance) - Odoo modules for businesses that implies maintenance tasks
 * 【2024-06-15】[foundation / foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 * 【2024-06-15】[hackthegamezjj / Blooket-Hacks](https://github.com/hackthegamezjj/Blooket-Hacks) - The Best Blooket Hack There is, Blooket Hack, Blooket Hacks
@@ -8392,6 +8399,7 @@
 
 ## Css
 
+* 【2024-06-18】[BNDong / Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme _ Basic theme : SimpleMemory
 * 【2024-06-16】[apu52 / METAVERSE](https://github.com/apu52/METAVERSE) - 🚀 Welcome to our GitHub repository, Officially accepted for GSSOC'24 🌟& SSOC'24🌟 Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute your creations 🎨, add features 🛠️, or squash bugs 🐛 in existing projects.
 * 【2024-06-05】[mdazfar2 / HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub) - Welcome to HelpOps-Hub: your go-to resource for essential DevOps tools and technologies. Simplify your DevOps journey with curated guides, tools, and best practices. Never get stuck again!⚡
 * 【2024-06-05】[horizon-ui / shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Dashboard Template - Horizon AI Boilerplate
