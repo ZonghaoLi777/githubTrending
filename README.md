@@ -1052,6 +1052,8 @@
 
 ## Python
 
+* 【2024-06-25】[modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
+* 【2024-06-25】[google / google-ctf](https://github.com/google/google-ctf) - Google CTF
 * 【2024-06-24】[Kosinkadink / ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) - Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 * 【2024-06-24】[casualsnek / onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
 * 【2024-06-23】[saltstack / salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
@@ -2831,6 +2833,8 @@
 
 ## Javascript
 
+* 【2024-06-25】[cuixueshe / earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
+* 【2024-06-25】[fent / node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 * 【2024-06-24】[Momo707577045 / m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
 * 【2024-06-20】[codemirror / codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 * 【2024-06-19】[DefiLlama / chainlist](https://github.com/DefiLlama/chainlist) - 
@@ -5853,6 +5857,7 @@
 
 ## C++
 
+* 【2024-06-25】[soulsmods / ModEngine2](https://github.com/soulsmods/ModEngine2) - Runtime injection library for modding Souls games. WIP
 * 【2024-06-24】[geektcp / UeCore](https://github.com/geektcp/UeCore) - UeCore wow game server c++ 开源魔兽世界 https://uewow.com
 * 【2024-06-23】[niedev / RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real-time translation app.
 * 【2024-06-21】[vnotex / vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
