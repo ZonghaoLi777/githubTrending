@@ -1053,6 +1053,7 @@
 
 ## Python
 
+* 【2024-06-27】[frappe / hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 * 【2024-06-26】[microsoft / table-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evaluation metric.
 * 【2024-06-26】[cluic / wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
 * 【2024-06-26】[google / flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
@@ -2837,6 +2838,7 @@
 
 ## Javascript
 
+* 【2024-06-27】[jhuckaby / performa](https://github.com/jhuckaby/performa) - A multi-server monitoring system with a web based UI.
 * 【2024-06-25】[cuixueshe / earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
 * 【2024-06-25】[fent / node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 * 【2024-06-24】[Momo707577045 / m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
