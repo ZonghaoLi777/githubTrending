@@ -210,6 +210,10 @@
 
 ## Java
 
+* 【2024-07-01】[SkriptLang / Skript](https://github.com/SkriptLang/Skript) - Skript is a Spigot plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them.
+* 【2024-07-01】[unicode-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
+* 【2024-07-01】[runtimeverification / k](https://github.com/runtimeverification/k) - K Framework Tools 7.0
+* 【2024-07-01】[confluentinc / ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 * 【2024-06-26】[xwiki / xwiki-platform](https://github.com/xwiki/xwiki-platform) - The XWiki platform
 * 【2024-06-24】[DSheirer / sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR). Website:
 * 【2024-06-24】[gsantner / markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -1053,6 +1057,7 @@
 
 ## Python
 
+* 【2024-07-01】[bkerler / mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 * 【2024-06-30】[snakers4 / silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 * 【2024-06-29】[yzhao062 / pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
 * 【2024-06-28】[bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
@@ -2841,6 +2846,9 @@
 
 ## Javascript
 
+* 【2024-07-01】[overleaf / overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
+* 【2024-07-01】[antfu / vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
+* 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 * 【2024-06-29】[dotenvx / dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 * 【2024-06-28】[ciiiii / cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 * 【2024-06-27】[jhuckaby / performa](https://github.com/jhuckaby/performa) - A multi-server monitoring system with a web based UI.
@@ -3972,6 +3980,8 @@
 
 ## Go
 
+* 【2024-07-01】[botlabs-gg / yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
+* 【2024-07-01】[cloudfoundry / cf-deployment](https://github.com/cloudfoundry/cf-deployment) - The canonical open source deployment manifest for Cloud Foundry
 * 【2024-06-30】[DataDog / dd-trace-go](https://github.com/DataDog/dd-trace-go) - Datadog Go Library including APM tracing, profiling, and security monitoring.
 * 【2024-06-28】[minio / mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters ☁️
 * 【2024-06-26】[allegro / bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
@@ -5872,6 +5882,7 @@
 
 ## C++
 
+* 【2024-07-01】[multitheftauto / mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 * 【2024-06-30】[zhuzichu520 / FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
 * 【2024-06-26】[maplibre / maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
 * 【2024-06-26】[swoole / swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
@@ -6745,6 +6756,8 @@
 
 ## C#
 
+* 【2024-07-01】[sn4k3 / UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+* 【2024-07-01】[SamboyCoding / Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) - Work-in-progress tool to reverse unity's IL2CPP toolchain.
 * 【2024-06-29】[SonarSource / sonar-dotnet](https://github.com/SonarSource/sonar-dotnet) - Code analyzer for C# and VB.NET projects
 * 【2024-06-24】[soulsmods / DSMapStudio](https://github.com/soulsmods/DSMapStudio) - A standalone map/level editor for Demon's Souls, Dark Souls 1/2/3, Bloodborne, Sekiro, and Elden Ring.
 * 【2024-06-24】[Mzying2001 / CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
@@ -7630,6 +7643,7 @@
 
 ## Html
 
+* 【2024-07-01】[elastic / ecs-dotnet](https://github.com/elastic/ecs-dotnet) - 
 * 【2024-06-30】[wppconnect-team / wa-version](https://github.com/wppconnect-team/wa-version) - 
 * 【2024-06-30】[bobbyiliev / introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 * 【2024-06-24】[ComposioHQ / composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
