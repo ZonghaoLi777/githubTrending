@@ -1060,6 +1060,9 @@
 
 ## Python
 
+* 【2024-07-07】[freelabz / secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
+* 【2024-07-07】[tanelpoder / 0xtools](https://github.com/tanelpoder/0xtools) - 0x.Tools: X-Ray vision for Linux systems
+* 【2024-07-07】[qdrant / fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 * 【2024-07-06】[Rikorose / DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 * 【2024-07-06】[OpenGVLab / InternVL](https://github.com/OpenGVLab/InternVL) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源多模态对话模型
 * 【2024-07-05】[microsoft / graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
@@ -2858,6 +2861,8 @@
 
 ## Javascript
 
+* 【2024-07-07】[Tencent / cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
+* 【2024-07-07】[metafloor / bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 * 【2024-07-06】[eligrey / FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 * 【2024-07-06】[mjmlio / mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 * 【2024-07-06】[react-dropzone / react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
@@ -3997,6 +4002,7 @@
 
 ## Go
 
+* 【2024-07-07】[hahwul / dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 * 【2024-07-06】[screego / server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 * 【2024-07-06】[allora-network / allora-chain](https://github.com/allora-network/allora-chain) - Node software to run the Allora Network
 * 【2024-07-05】[KusionStack / karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.
@@ -5018,6 +5024,7 @@
 
 ## C
 
+* 【2024-07-07】[andmarti1424 / sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 * 【2024-07-05】[rui314 / 8cc](https://github.com/rui314/8cc) - A Small C Compiler
 * 【2024-07-03】[shalxmva / modxo](https://github.com/shalxmva/modxo) - Xbox LPC Port modchip using a Raspberry Pi Pico
 * 【2024-06-26】[bol-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -5909,6 +5916,7 @@
 
 ## C++
 
+* 【2024-07-07】[albertobsd / keyhunt](https://github.com/albertobsd/keyhunt) - privkey hunt for crypto currencies that use secp256k1 elliptic curve
 * 【2024-07-05】[vslavik / diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 * 【2024-07-05】[HKUST-Aerial-Robotics / VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
 * 【2024-07-03】[triple-Mu / YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
@@ -6787,6 +6795,8 @@
 
 ## C#
 
+* 【2024-07-07】[xivdev / Penumbra](https://github.com/xivdev/Penumbra) - FINAL FANTASY XIV modding, but actually good this time
+* 【2024-07-07】[File-New-Project / EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 * 【2024-07-06】[Jeric-X / SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution
 * 【2024-07-06】[FreyaHolmer / ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - A Shader Editor for Unity
 * 【2024-07-05】[marticliment / UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
@@ -8521,6 +8531,7 @@
 
 ## Css
 
+* 【2024-07-07】[nicejade / markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。https://niceshare.site/
 * 【2024-07-06】[port-labs / port-docs](https://github.com/port-labs/port-docs) - The open-source repo for docs.getport.io
 * 【2024-07-04】[koaning / tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
 * 【2024-07-02】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click!
@@ -9521,6 +9532,7 @@
 
 ## Unknown
 
+* 【2024-07-07】[Consensys / ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 * 【2024-07-02】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 * 【2024-06-28】[ros2 / ros2](https://github.com/ros2/ros2) - The Robot Operating System, is a meta operating system for robots.
 * 【2024-06-24】[SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
