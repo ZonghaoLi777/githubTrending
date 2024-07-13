@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-07-13】[TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) - NewPipe's core library for extracting data from streaming sites
 * 【2024-07-10】[tuituidan / team-nav](https://github.com/tuituidan/team-nav) - 前后端完整的网址导航服务，相较一般的靠配置生成的网址导航服务，本系统具有更强的后台管理能力，技术上主打一个轻量级，无任何依赖服务。
 * 【2024-07-05】[scwang90 / SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 * 【2024-07-04】[apache / gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
@@ -1061,6 +1062,8 @@
 
 ## Python
 
+* 【2024-07-13】[apify / crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
+* 【2024-07-13】[InternLM / Tutorial](https://github.com/InternLM/Tutorial) - LLM Tutorial
 * 【2024-07-12】[milesial / Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 * 【2024-07-12】[urchade / GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 2024
 * 【2024-07-10】[Xpra-org / xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
@@ -5029,6 +5032,8 @@
 
 ## C
 
+* 【2024-07-13】[zmap / zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
+* 【2024-07-13】[cnlohr / ch32v003fun](https://github.com/cnlohr/ch32v003fun) - Open source minimal stack for the ch32 line of WCH processors, including the ch32v003, a 10¢ 48 MHz RISC-V Microcontroller - as well as many other chips within the ch32v/x line.
 * 【2024-07-12】[zherczeg / sljit](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler
 * 【2024-07-12】[yarrick / iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 * 【2024-07-10】[firedancer-io / firedancer](https://github.com/firedancer-io/firedancer) - Firedancer is Jump Crypto's Solana consensus node implementation.
@@ -5925,6 +5930,7 @@
 
 ## C++
 
+* 【2024-07-13】[qiayuanl / legged_control](https://github.com/qiayuanl/legged_control) - Nonlinear MPC and WBC framework for legged robot based on OCS2 and ros-controls
 * 【2024-07-12】[swiftlang / swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 * 【2024-07-12】[sebastianstarke / AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 * 【2024-07-12】[firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
@@ -8545,6 +8551,7 @@
 
 ## Css
 
+* 【2024-07-13】[stripe-samples / checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
 * 【2024-07-10】[primary-theme / obsidian](https://github.com/primary-theme/obsidian) - Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"
 * 【2024-07-07】[nicejade / markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。https://niceshare.site/
 * 【2024-07-06】[port-labs / port-docs](https://github.com/port-labs/port-docs) - The open-source repo for docs.getport.io
@@ -9547,6 +9554,7 @@
 
 ## Unknown
 
+* 【2024-07-13】[nostr-protocol / nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
 * 【2024-07-07】[Consensys / ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 * 【2024-07-02】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 * 【2024-06-28】[ros2 / ros2](https://github.com/ros2/ros2) - The Robot Operating System, is a meta operating system for robots.
