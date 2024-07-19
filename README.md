@@ -1062,6 +1062,7 @@
 
 ## Python
 
+* 【2024-07-19】[facebookresearch / detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 * 【2024-07-17】[mem0ai / mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 * 【2024-07-14】[opendatalab / MinerU](https://github.com/opendatalab/MinerU) - MinerU is a one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 * 【2024-07-14】[donnemartin / data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
@@ -2871,6 +2872,8 @@
 
 ## Javascript
 
+* 【2024-07-19】[cavi-au / Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
+* 【2024-07-19】[liriliri / eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 * 【2024-07-18】[wordshub / free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 * 【2024-07-18】[arkenfox / user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 * 【2024-07-07】[Tencent / cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
@@ -5041,6 +5044,9 @@
 
 ## C
 
+* 【2024-07-19】[siduck / chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
+* 【2024-07-19】[nginx / njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
+* 【2024-07-19】[seL4 / seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 * 【2024-07-18】[IvorySQL / IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL.
 * 【2024-07-16】[ThirteenAG / WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
 * 【2024-07-13】[zmap / zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
@@ -5941,6 +5947,7 @@
 
 ## C++
 
+* 【2024-07-19】[flameshot-org / flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software 🖥️ 📸
 * 【2024-07-17】[ROCm / HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
 * 【2024-07-17】[strawberrymusicplayer / strawberry](https://github.com/strawberrymusicplayer/strawberry) - 🍓 Strawberry Music Player
 * 【2024-07-13】[qiayuanl / legged_control](https://github.com/qiayuanl/legged_control) - Nonlinear MPC and WBC framework for legged robot based on OCS2 and ros-controls
@@ -9570,6 +9577,7 @@
 
 ## Unknown
 
+* 【2024-07-19】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 * 【2024-07-16】[xlenore / ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2024-07-13】[nostr-protocol / nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
 * 【2024-07-07】[Consensys / ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
