@@ -2873,6 +2873,7 @@
 
 ## Javascript
 
+* 【2024-07-21】[kevin-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.
 * 【2024-07-19】[cavi-au / Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 * 【2024-07-19】[liriliri / eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 * 【2024-07-18】[wordshub / free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
@@ -4018,6 +4019,8 @@
 
 ## Go
 
+* 【2024-07-21】[quackduck / devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
+* 【2024-07-21】[oliver006 / redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
 * 【2024-07-20】[GoogleCloudPlatform / golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 * 【2024-07-20】[mindoc-org / mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
 * 【2024-07-16】[DiceDB / dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
@@ -5047,6 +5050,7 @@
 
 ## C
 
+* 【2024-07-21】[ahrm / sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 * 【2024-07-19】[siduck / chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 * 【2024-07-19】[nginx / njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 * 【2024-07-19】[seL4 / seL4](https://github.com/seL4/seL4) - The seL4 microkernel
@@ -5950,6 +5954,8 @@
 
 ## C++
 
+* 【2024-07-21】[xournalpp / xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+* 【2024-07-21】[onnx / onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
 * 【2024-07-20】[Livox-SDK / livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2) - Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid-360.
 * 【2024-07-19】[flameshot-org / flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software 🖥️ 📸
 * 【2024-07-17】[ROCm / HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
@@ -8578,6 +8584,7 @@
 
 ## Css
 
+* 【2024-07-21】[rust-lang / reference](https://github.com/rust-lang/reference) - The Rust Reference
 * 【2024-07-13】[stripe-samples / checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
 * 【2024-07-10】[primary-theme / obsidian](https://github.com/primary-theme/obsidian) - Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"
 * 【2024-07-07】[nicejade / markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。https://niceshare.site/
@@ -9581,6 +9588,7 @@
 
 ## Unknown
 
+* 【2024-07-21】[alebcay / awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * 【2024-07-19】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 * 【2024-07-16】[xlenore / ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2024-07-13】[nostr-protocol / nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
