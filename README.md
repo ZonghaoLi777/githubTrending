@@ -1065,6 +1065,8 @@
 
 ## Python
 
+* 【2024-07-26】[ollama / ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
+* 【2024-07-26】[google-research / neuralgcm](https://github.com/google-research/neuralgcm) - Hybrid ML + physics model of the Earth's atmosphere
 * 【2024-07-25】[QuivrHQ / quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework
 * 【2024-07-24】[sinaatalay / rendercv](https://github.com/sinaatalay/rendercv) - A LaTeX CV/Resume Framework
 * 【2024-07-23】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -2879,6 +2881,7 @@
 
 ## Javascript
 
+* 【2024-07-26】[orestbida / cookieconsent](https://github.com/orestbida/cookieconsent) - 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
 * 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 * 【2024-07-21】[kevin-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.
 * 【2024-07-19】[cavi-au / Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
@@ -7756,6 +7759,8 @@
 
 ## Html
 
+* 【2024-07-26】[riggraz / no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
+* 【2024-07-26】[availproject / avail](https://github.com/availproject/avail) - 
 * 【2024-07-24】[htmlstreamofficial / preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * 【2024-07-18】[trigaten / The_Prompt_Report](https://github.com/trigaten/The_Prompt_Report) - 
 * 【2024-07-10】[paulirish / lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
