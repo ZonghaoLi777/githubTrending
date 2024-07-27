@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-07-27】[TimefoldAI / timefold-solver](https://github.com/TimefoldAI/timefold-solver) - The open source Solver AI for Java, Python and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
 * 【2024-07-25】[Netflix / maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 * 【2024-07-24】[oshi / oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 * 【2024-07-20】[pinpoint-apm / pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
@@ -5970,6 +5971,7 @@
 
 ## C++
 
+* 【2024-07-27】[pytorch / FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 * 【2024-07-22】[OGRECave / ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
 * 【2024-07-21】[xournalpp / xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
 * 【2024-07-21】[onnx / onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
