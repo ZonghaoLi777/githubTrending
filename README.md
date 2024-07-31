@@ -1067,6 +1067,8 @@
 
 ## Python
 
+* 【2024-07-31】[TDAmeritrade / stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
+* 【2024-07-31】[healthchecks / healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 * 【2024-07-29】[patched-codes / patchwork](https://github.com/patched-codes/patchwork) - Automate development gruntwwork like code reviews, patching and documentation with LLM workflows.
 * 【2024-07-29】[rwv / chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 * 【2024-07-28】[Chenyme / Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT) - 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
@@ -5075,6 +5077,8 @@
 
 ## C
 
+* 【2024-07-31】[albfan / miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
+* 【2024-07-31】[valignatev / socd](https://github.com/valignatev/socd) - SOCD cleaner tool for epic gamers
 * 【2024-07-30】[c3lang / c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 * 【2024-07-29】[hanwckf / bl-mt798x](https://github.com/hanwckf/bl-mt798x) - ATF and u-boot for mt798x.
 * 【2024-07-24】[microsoft / ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
@@ -5983,6 +5987,7 @@
 
 ## C++
 
+* 【2024-07-31】[margelo / react-native-filament](https://github.com/margelo/react-native-filament) - 🐧 A real-time physically based 3D rendering engine for React Native
 * 【2024-07-30】[zhongyang219 / MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
 * 【2024-07-29】[elfmz / far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 * 【2024-07-27】[pytorch / FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
@@ -6876,6 +6881,7 @@
 
 ## C#
 
+* 【2024-07-31】[crashkonijn / GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity
 * 【2024-07-22】[Cysharp / Ulid](https://github.com/Cysharp/Ulid) - Fast .NET C# Implementation of ULID for .NET and Unity.
 * 【2024-07-18】[sta / websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * 【2024-07-14】[dotnet / reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
@@ -8622,6 +8628,7 @@
 
 ## Css
 
+* 【2024-07-31】[piyushg-07 / blogzen-OpenSource](https://github.com/piyushg-07/blogzen-OpenSource) - A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!
 * 【2024-07-24】[understrap / understrap](https://github.com/understrap/understrap) - Underscores + Bootstrap = Understrap, the renowned open-source WordPress starter theme.
 * 【2024-07-24】[cs50 / cs50.readthedocs.io](https://github.com/cs50/cs50.readthedocs.io) - 
 * 【2024-07-21】[rust-lang / reference](https://github.com/rust-lang/reference) - The Rust Reference
