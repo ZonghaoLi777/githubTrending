@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-08-09】[JetBrains / JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 * 【2024-08-05】[PlayPro / CoreProtect](https://github.com/PlayPro/CoreProtect) - CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.
 * 【2024-08-04】[krlvm / PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
 * 【2024-08-03】[mcastillof / FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android).
@@ -1071,6 +1072,11 @@
 
 ## Python
 
+* 【2024-08-09】[hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
+* 【2024-08-09】[THUDM / CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
+* 【2024-08-09】[pytorch / rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
+* 【2024-08-09】[statsmodels / statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
+* 【2024-08-09】[jorhelp / Ingram](https://github.com/jorhelp/Ingram) - 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 * 【2024-08-07】[bghira / SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward Stable Diffusion 2.1, Stable Diffusion 3, DeepFloyd, and SDXL.
 * 【2024-08-06】[CodeXBotz / File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
 * 【2024-08-06】[Cog-Creators / Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
@@ -4056,6 +4062,7 @@
 
 ## Go
 
+* 【2024-08-09】[gabriel-vasile / mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
 * 【2024-08-07】[encoredev / encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform for building distributed systems and event-driven applications.
 * 【2024-08-07】[99designs / aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 * 【2024-08-04】[xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
@@ -5098,6 +5105,7 @@
 
 ## C
 
+* 【2024-08-09】[openocd-org / openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read-Only Mirror (no pull requests)
 * 【2024-08-07】[ataradov / usb-sniffer-lite](https://github.com/ataradov/usb-sniffer-lite) - A simple USB sniffer based on Raspberry Pi RP2040
 * 【2024-08-05】[hufrea / byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
 * 【2024-08-04】[pr3y / Bruce](https://github.com/pr3y/Bruce) - Firmware for m5stack Cardputer, StickC and ESP32
@@ -6913,6 +6921,7 @@
 
 ## C#
 
+* 【2024-08-09】[louthy / language-ext](https://github.com/louthy/language-ext) - C# functional language extensions - a base class library for functional programming
 * 【2024-08-07】[GitTools / GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 * 【2024-08-05】[jumoog / intro-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2024-08-05】[0x90d / videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
@@ -8665,6 +8674,7 @@
 
 ## Css
 
+* 【2024-08-09】[spring-petclinic / spring-petclinic-microservices](https://github.com/spring-petclinic/spring-petclinic-microservices) - Distributed version of Spring Petclinic built with Spring Cloud
 * 【2024-07-31】[piyushg-07 / blogzen-OpenSource](https://github.com/piyushg-07/blogzen-OpenSource) - A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!
 * 【2024-07-24】[understrap / understrap](https://github.com/understrap/understrap) - Underscores + Bootstrap = Understrap, the renowned open-source WordPress starter theme.
 * 【2024-07-24】[cs50 / cs50.readthedocs.io](https://github.com/cs50/cs50.readthedocs.io) - 
@@ -9672,6 +9682,8 @@
 
 ## Unknown
 
+* 【2024-08-09】[getcursor / cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+* 【2024-08-09】[microsoft / powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos.
 * 【2024-07-25】[onceupon / Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 * 【2024-07-23】[rothgar / awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 * 【2024-07-22】[Cyfrin / foundry-full-course-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
