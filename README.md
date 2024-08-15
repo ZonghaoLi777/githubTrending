@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-08-15】[OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 * 【2024-08-14】[KingContaria / seedqueue](https://github.com/KingContaria/seedqueue) - 
 * 【2024-08-12】[IzzelAliz / Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.19/1.20) server implementation in modding environment using Mixin. ⚡
 * 【2024-08-11】[spring-projects / spring-session](https://github.com/spring-projects/spring-session) - Spring Session
@@ -1075,6 +1076,10 @@
 
 ## Python
 
+* 【2024-08-15】[pypa / pip](https://github.com/pypa/pip) - The Python package installer
+* 【2024-08-15】[wistbean / learn_python3_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等
+* 【2024-08-15】[nccgroup / ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
+* 【2024-08-15】[Zipstack / unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 * 【2024-08-14】[ostris / ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff.
 * 【2024-08-14】[bitsandbytes-foundation / bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
 * 【2024-08-12】[mbrg / power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
@@ -2915,6 +2920,7 @@
 
 ## Javascript
 
+* 【2024-08-15】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 * 【2024-08-12】[RobinLinus / snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 * 【2024-08-12】[seanprashad / leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
 * 【2024-08-10】[cables-gl / cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
@@ -4073,6 +4079,7 @@
 
 ## Go
 
+* 【2024-08-15】[kataras / iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio 🚀
 * 【2024-08-09】[gabriel-vasile / mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
 * 【2024-08-07】[encoredev / encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform for building distributed systems and event-driven applications.
 * 【2024-08-07】[99designs / aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -5116,6 +5123,7 @@
 
 ## C
 
+* 【2024-08-15】[kilograham / rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
 * 【2024-08-09】[openocd-org / openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read-Only Mirror (no pull requests)
 * 【2024-08-07】[ataradov / usb-sniffer-lite](https://github.com/ataradov/usb-sniffer-lite) - A simple USB sniffer based on Raspberry Pi RP2040
 * 【2024-08-05】[hufrea / byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
@@ -6033,6 +6041,7 @@
 
 ## C++
 
+* 【2024-08-15】[duckdb / pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
 * 【2024-08-14】[symless / synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
 * 【2024-08-12】[raspberrypi / picotool](https://github.com/raspberrypi/picotool) - 
 * 【2024-08-07】[trailofbits / multiplier](https://github.com/trailofbits/multiplier) - Code auditing productivity multiplier.
@@ -8693,6 +8702,7 @@
 
 ## Css
 
+* 【2024-08-15】[biopython / biopython.github.io](https://github.com/biopython/biopython.github.io) - Source of biopython.org website, migrated from MediaWiki
 * 【2024-08-09】[spring-petclinic / spring-petclinic-microservices](https://github.com/spring-petclinic/spring-petclinic-microservices) - Distributed version of Spring Petclinic built with Spring Cloud
 * 【2024-07-31】[piyushg-07 / blogzen-OpenSource](https://github.com/piyushg-07/blogzen-OpenSource) - A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!
 * 【2024-07-24】[understrap / understrap](https://github.com/understrap/understrap) - Underscores + Bootstrap = Understrap, the renowned open-source WordPress starter theme.
