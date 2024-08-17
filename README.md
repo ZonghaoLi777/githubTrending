@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-08-17】[rtm516 / MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) - A simple Geyser extension that broadcasts the server over Xbox Live.
+* 【2024-08-17】[apache / logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is a versatile, feature-rich, efficient logging API and backend for Java.
 * 【2024-08-15】[OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 * 【2024-08-14】[KingContaria / seedqueue](https://github.com/KingContaria/seedqueue) - 
 * 【2024-08-12】[IzzelAliz / Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.19/1.20) server implementation in modding environment using Mixin. ⚡
@@ -1076,6 +1078,8 @@
 
 ## Python
 
+* 【2024-08-17】[RasaHQ / rasa](https://github.com/RasaHQ/rasa) - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+* 【2024-08-17】[intelowlproject / IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 * 【2024-08-16】[sustcsonglin / flash-linear-attention](https://github.com/sustcsonglin/flash-linear-attention) - Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton
 * 【2024-08-16】[andrewyng / translation-agent](https://github.com/andrewyng/translation-agent) - 
 * 【2024-08-16】[pymc-devs / pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
@@ -2923,6 +2927,8 @@
 
 ## Javascript
 
+* 【2024-08-17】[marcelscruz / public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
+* 【2024-08-17】[d07RiV / diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
 * 【2024-08-15】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 * 【2024-08-12】[RobinLinus / snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 * 【2024-08-12】[seanprashad / leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
@@ -6950,6 +6956,7 @@
 
 ## C#
 
+* 【2024-08-17】[ErsatzTV / ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
 * 【2024-08-12】[vrm-c / UniVRM](https://github.com/vrm-c/UniVRM) - UniVRM is a gltf-based VRM format implementation for Unity. English is here https://vrm.dev/en/ . 日本語 はこちら https://vrm.dev/
 * 【2024-08-11】[vawser / Smithbox](https://github.com/vawser/Smithbox) - Smithbox is a modding tool for Elden Ring, Armored Core VI, Sekiro, Dark Souls 3, Dark Souls 2, Dark Souls, Bloodborne and Demon's Souls.
 * 【2024-08-11】[arcusmaximus / YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - A tool for creating styled YouTube subtitles
@@ -9720,6 +9727,7 @@
 
 ## Unknown
 
+* 【2024-08-17】[base-org / brand-kit](https://github.com/base-org/brand-kit) - Brand guide and logos for the Base brand.
 * 【2024-08-10】[joebew42 / study-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 * 【2024-08-09】[getcursor / cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 * 【2024-08-09】[microsoft / powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos.
