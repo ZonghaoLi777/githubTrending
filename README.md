@@ -1084,6 +1084,8 @@
 
 ## Python
 
+* 【2024-08-23】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+* 【2024-08-23】[kubernetes-client / python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 * 【2024-08-22】[ZhengPeng7 / BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation
 * 【2024-08-22】[pymupdf / PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 * 【2024-08-22】[asavinov / intelligent-trading-bot](https://github.com/asavinov/intelligent-trading-bot) - Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering
@@ -2942,6 +2944,8 @@
 
 ## Javascript
 
+* 【2024-08-23】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
+* 【2024-08-23】[jfedor2 / hid-remapper](https://github.com/jfedor2/hid-remapper) - USB input remapping dongle
 * 【2024-08-22】[bluewave-labs / bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime Monitor application
 * 【2024-08-21】[alvarotrigo / fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 * 【2024-08-20】[TiddlyWiki / TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -6080,6 +6084,7 @@
 
 ## C++
 
+* 【2024-08-23】[ros-controls / ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Generic robotic controllers to accompany ros2_control
 * 【2024-08-21】[chrxh / alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 * 【2024-08-15】[duckdb / pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
 * 【2024-08-14】[symless / synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
@@ -6983,6 +6988,8 @@
 
 ## C#
 
+* 【2024-08-23】[wixtoolset / wix](https://github.com/wixtoolset/wix) - WiX Toolset Code
+* 【2024-08-23】[NickvisionApps / Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 * 【2024-08-22】[berichan / ACNHMobileSpawner](https://github.com/berichan/ACNHMobileSpawner) - Animal Crossing New Horizons real-time multi-tool built in Unity.
 * 【2024-08-21】[jadepeng / XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) - 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐
 * 【2024-08-20】[Tyrrrz / YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
@@ -8751,6 +8758,7 @@
 
 ## Css
 
+* 【2024-08-23】[ardalis / pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals) - Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith
 * 【2024-08-18】[delaneyj / datastar](https://github.com/delaneyj/datastar) - 
 * 【2024-08-16】[bradtraversy / tailwind-landing-page](https://github.com/bradtraversy/tailwind-landing-page) - 
 * 【2024-08-15】[biopython / biopython.github.io](https://github.com/biopython/biopython.github.io) - Source of biopython.org website, migrated from MediaWiki
