@@ -1084,6 +1084,8 @@
 
 ## Python
 
+* 【2024-08-24】[cookiecutter / cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+* 【2024-08-24】[SylphAI-Inc / AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The “PyTorch” library to auto-optimize any LLM tasks.
 * 【2024-08-23】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2024-08-23】[kubernetes-client / python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 * 【2024-08-22】[ZhengPeng7 / BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation
@@ -2944,6 +2946,7 @@
 
 ## Javascript
 
+* 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
 * 【2024-08-23】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 * 【2024-08-23】[jfedor2 / hid-remapper](https://github.com/jfedor2/hid-remapper) - USB input remapping dongle
 * 【2024-08-22】[bluewave-labs / bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime Monitor application
@@ -5163,6 +5166,8 @@
 
 ## C
 
+* 【2024-08-24】[pawelsalawa / sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
+* 【2024-08-24】[open-telemetry / opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 * 【2024-08-21】[unbit / uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 * 【2024-08-18】[Wren6991 / PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
 * 【2024-08-16】[libAudioFlux / audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
@@ -7905,6 +7910,7 @@
 
 ## Html
 
+* 【2024-08-24】[CommunityPro / portfolio-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-08-22】[desandro / masonry](https://github.com/desandro/masonry) - 🏩 Cascading grid layout plugin
 * 【2024-08-18】[tc39 / proposal-decimal](https://github.com/tc39/proposal-decimal) - Built-in exact decimal numbers for JavaScript
 * 【2024-08-16】[gaboolic / vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
@@ -9770,6 +9776,7 @@
 
 ## Unknown
 
+* 【2024-08-24】[Moriafly / SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - 
 * 【2024-08-20】[AriaLyy / Aria](https://github.com/AriaLyy/Aria) - 
 * 【2024-08-20】[ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 * 【2024-08-18】[yolain / ComfyUI-Yolain-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
