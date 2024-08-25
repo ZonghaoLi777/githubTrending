@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 * 【2024-08-22】[spring-projects / spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
 * 【2024-08-21】[DImuthuUpe / AndroidPdfViewer](https://github.com/DImuthuUpe/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
 * 【2024-08-20】[PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
@@ -1084,6 +1085,8 @@
 
 ## Python
 
+* 【2024-08-25】[Lightning-AI / LitServe](https://github.com/Lightning-AI/LitServe) - High-throughput serving engine for AI models. Easy to use. Flexible. Enterprise scale.
+* 【2024-08-25】[bobbyiliev / 101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open-source eBook
 * 【2024-08-24】[cookiecutter / cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 * 【2024-08-24】[SylphAI-Inc / AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The “PyTorch” library to auto-optimize any LLM tasks.
 * 【2024-08-23】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -2946,6 +2949,7 @@
 
 ## Javascript
 
+* 【2024-08-25】[EmulatorJS / EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
 * 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
 * 【2024-08-23】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 * 【2024-08-23】[jfedor2 / hid-remapper](https://github.com/jfedor2/hid-remapper) - USB input remapping dongle
@@ -6089,6 +6093,8 @@
 
 ## C++
 
+* 【2024-08-25】[PlatformLab / NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
+* 【2024-08-25】[srsran / srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g
 * 【2024-08-23】[ros-controls / ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Generic robotic controllers to accompany ros2_control
 * 【2024-08-21】[chrxh / alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 * 【2024-08-15】[duckdb / pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
