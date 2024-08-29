@@ -1085,6 +1085,7 @@
 
 ## Python
 
+* 【2024-08-29】[THUDM / GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
 * 【2024-08-28】[NUS-HPC-AI-Lab / VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 * 【2024-08-27】[PromtEngineer / Verbi](https://github.com/PromtEngineer/Verbi) - A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama. Ideal for research and development in voice technology.
 * 【2024-08-26】[google / vizier](https://github.com/google/vizier) - Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.
@@ -7009,6 +7010,7 @@
 
 ## C#
 
+* 【2024-08-29】[SteamRE / SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
 * 【2024-08-28】[ExcelDataReader / ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
 * 【2024-08-26】[mxgmn / MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 * 【2024-08-26】[vpnhood / VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
@@ -8784,6 +8786,7 @@
 
 ## Css
 
+* 【2024-08-29】[Richard9394 / MingCute](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
 * 【2024-08-23】[ardalis / pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals) - Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith
 * 【2024-08-18】[delaneyj / datastar](https://github.com/delaneyj/datastar) - 
 * 【2024-08-16】[bradtraversy / tailwind-landing-page](https://github.com/bradtraversy/tailwind-landing-page) - 
