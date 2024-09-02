@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-09-02】[Wynntils / Wynntils](https://github.com/Wynntils/Wynntils) - Wynntils (Artemis) is a rewrite of Wynntils in 1.21 using Architectury, to support Fabric and Forge.
 * 【2024-09-01】[rememberber / MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
 * 【2024-08-31】[in28minutes / JavaInterviewQuestionsAndAnswers](https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers) - Java Interview Questions and Answers
 * 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
@@ -1087,6 +1088,7 @@
 
 ## Python
 
+* 【2024-09-02】[mpoon / gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 * 【2024-09-01】[scikit-image / scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 * 【2024-09-01】[mlfoundations / open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
@@ -2962,6 +2964,7 @@
 
 ## Javascript
 
+* 【2024-09-02】[VirgilClyne / iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 * 【2024-08-31】[knownsec / KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
 * 【2024-08-30】[remarkjs / react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 * 【2024-08-28】[evgeny-nadymov / telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
@@ -4135,6 +4138,8 @@
 
 ## Go
 
+* 【2024-09-02】[aceberg / WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+* 【2024-09-02】[oapi-codegen / oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 * 【2024-08-31】[opentofu / registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry!
 * 【2024-08-31】[gotify / server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -5191,6 +5196,7 @@
 
 ## C
 
+* 【2024-09-02】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
 * 【2024-08-24】[pawelsalawa / sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 * 【2024-08-24】[open-telemetry / opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 * 【2024-08-21】[unbit / uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
@@ -6114,6 +6120,7 @@
 
 ## C++
 
+* 【2024-09-02】[DistroAV / DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
 * 【2024-08-30】[colmap / glomap](https://github.com/colmap/glomap) - GLOMAP - Global Structured-from-Motion Revisited
 * 【2024-08-28】[unitreerobotics / unitree_ros](https://github.com/unitreerobotics/unitree_ros) - 
 * 【2024-08-26】[dpjudas / SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
@@ -7025,6 +7032,8 @@
 
 ## C#
 
+* 【2024-09-02】[microsoft / PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules.
+* 【2024-09-02】[tmoonlight / NSmartProxy](https://github.com/tmoonlight/NSmartProxy) - NSmartProxy是一款开源的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)
 * 【2024-08-31】[ElectronNET / Electron.NET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
 * 【2024-08-30】[gusmanb / logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 * 【2024-08-30】[AElfProject / AElf](https://github.com/AElfProject/AElf) - An AI-enhanced cloud-native layer-1 blockchain network.
@@ -7951,6 +7960,7 @@
 
 ## Html
 
+* 【2024-09-02】[jdecked / twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 * 【2024-08-24】[CommunityPro / portfolio-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-08-22】[desandro / masonry](https://github.com/desandro/masonry) - 🏩 Cascading grid layout plugin
 * 【2024-08-18】[tc39 / proposal-decimal](https://github.com/tc39/proposal-decimal) - Built-in exact decimal numbers for JavaScript
