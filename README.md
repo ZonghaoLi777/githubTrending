@@ -1090,6 +1090,7 @@
 
 ## Python
 
+* 【2024-09-06】[axolotl-ai-cloud / axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 * 【2024-09-05】[PaddlePaddle / PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix) - Bio-Computing Platform Featuring Large-Scale Representation Learning and Multi-Task Deep Learning “螺旋桨”生物计算工具集
 * 【2024-09-05】[microsoft / torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 * 【2024-09-05】[spyder-ide / spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
@@ -6141,6 +6142,7 @@
 
 ## C++
 
+* 【2024-09-06】[odygrd / quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
 * 【2024-09-04】[LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 * 【2024-09-03】[simulationcraft / simc](https://github.com/simulationcraft/simc) - Simulationcraft engine/GUI
 * 【2024-09-02】[DistroAV / DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
@@ -7984,6 +7986,8 @@
 
 ## Html
 
+* 【2024-09-06】[callummcdougall / ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) - 
+* 【2024-09-06】[horilla-opensource / horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
 * 【2024-09-03】[robinmoisson / staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 * 【2024-09-02】[jdecked / twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 * 【2024-08-24】[CommunityPro / portfolio-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
@@ -8840,6 +8844,7 @@
 
 ## Css
 
+* 【2024-09-06】[learningequality / kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 * 【2024-09-05】[Automattic / themes](https://github.com/Automattic/themes) - Free WordPress themes made by Automattic for WordPress.org and WordPress.com.
 * 【2024-09-03】[AnswerDotAI / fasthtml-example](https://github.com/AnswerDotAI/fasthtml-example) - Example fasthtml applications demonstrating a range of web programming techniques
 * 【2024-08-31】[MicrosoftDocs / mslearn-interact-with-data-blazor-web-apps](https://github.com/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps) - Sample repo for Interact with Data for Blazor Web Apps Learn Module
