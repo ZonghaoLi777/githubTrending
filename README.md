@@ -7066,6 +7066,7 @@
 
 ## C#
 
+* 【2024-09-08】[Pik-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modify Based on BepInEx
 * 【2024-09-04】[Open-Industry-Project / Open-Industry-Project](https://github.com/Open-Industry-Project/Open-Industry-Project) - Free and open-source warehouse/manufacturing simulation.
 * 【2024-09-02】[microsoft / PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 * 【2024-09-02】[tmoonlight / NSmartProxy](https://github.com/tmoonlight/NSmartProxy) - NSmartProxy是一款开源的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)
@@ -8853,6 +8854,8 @@
 
 ## Css
 
+* 【2024-09-08】[smartping / smartping](https://github.com/smartping/smartping) - 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
+* 【2024-09-08】[dotnet-presentations / blazor-hybrid-workshop](https://github.com/dotnet-presentations/blazor-hybrid-workshop) - A full day workshop (.NET MAUI Blazor Hybrid Workshop in a Box) on how to build Blazor Hybrid apps with .NET MAUI for iOS, Android, macOS, and Windows
 * 【2024-09-07】[teacat / tocas](https://github.com/teacat/tocas) - 👀 The fastest and most intuitive way to build diverse websites and progressive web application interfaces.
 * 【2024-09-06】[learningequality / kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 * 【2024-09-05】[Automattic / themes](https://github.com/Automattic/themes) - Free WordPress themes made by Automattic for WordPress.org and WordPress.com.
