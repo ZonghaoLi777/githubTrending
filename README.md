@@ -1091,6 +1091,9 @@
 
 ## Python
 
+* 【2024-09-09】[simonw / datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+* 【2024-09-09】[rossant / awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
+* 【2024-09-09】[nvbn / thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 * 【2024-09-07】[polarsource / polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 * 【2024-09-07】[devanshbatham / Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) - A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 * 【2024-09-06】[axolotl-ai-cloud / axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
@@ -2981,6 +2984,8 @@
 
 ## Javascript
 
+* 【2024-09-09】[lyfe00011 / whatsapp-bot](https://github.com/lyfe00011/whatsapp-bot) - A whatsapp bot based on baileys
+* 【2024-09-09】[bitfocus / companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment.
 * 【2024-09-07】[stripe-samples / accept-a-payment](https://github.com/stripe-samples/accept-a-payment) - Learn how to accept a payment from customers around the world with a variety of payment methods.
 * 【2024-09-07】[KaTeX / KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 * 【2024-09-07】[dromara / skyeye](https://github.com/dromara/skyeye) - 智能办公OA系统[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
@@ -6149,6 +6154,7 @@
 
 ## C++
 
+* 【2024-09-09】[openblack / openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
 * 【2024-09-07】[sz3 / libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 * 【2024-09-07】[RWKV / rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 * 【2024-09-06】[odygrd / quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
@@ -7066,6 +7072,8 @@
 
 ## C#
 
+* 【2024-09-09】[jie65535 / GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) - Command Generator and Gacha Banner Editor
+* 【2024-09-09】[nesrak1 / UABEA](https://github.com/nesrak1/UABEA) - c# uabe for newer versions of unity
 * 【2024-09-08】[Pik-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modify Based on BepInEx
 * 【2024-09-04】[Open-Industry-Project / Open-Industry-Project](https://github.com/Open-Industry-Project/Open-Industry-Project) - Free and open-source warehouse/manufacturing simulation.
 * 【2024-09-02】[microsoft / PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules.
@@ -7996,6 +8004,7 @@
 
 ## Html
 
+* 【2024-09-09】[ONDC-Official / verification-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre-production issue & discussion board
 * 【2024-09-06】[callummcdougall / ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) - 
 * 【2024-09-06】[horilla-opensource / horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
 * 【2024-09-03】[robinmoisson / staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
@@ -8854,6 +8863,7 @@
 
 ## Css
 
+* 【2024-09-09】[refact0r / system24](https://github.com/refact0r/system24) - a tui-style discord theme
 * 【2024-09-08】[smartping / smartping](https://github.com/smartping/smartping) - 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
 * 【2024-09-08】[dotnet-presentations / blazor-hybrid-workshop](https://github.com/dotnet-presentations/blazor-hybrid-workshop) - A full day workshop (.NET MAUI Blazor Hybrid Workshop in a Box) on how to build Blazor Hybrid apps with .NET MAUI for iOS, Android, macOS, and Windows
 * 【2024-09-07】[teacat / tocas](https://github.com/teacat/tocas) - 👀 The fastest and most intuitive way to build diverse websites and progressive web application interfaces.
