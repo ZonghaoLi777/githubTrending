@@ -4165,6 +4165,7 @@
 
 ## Go
 
+* 【2024-09-10】[arduino / arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 * 【2024-09-04】[cbeuw / Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
 * 【2024-09-03】[safing / portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 * 【2024-09-03】[txthinking / brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
