@@ -1091,6 +1091,7 @@
 
 ## Python
 
+* 【2024-09-11】[iryna-kondr / scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 * 【2024-09-09】[simonw / datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 * 【2024-09-09】[rossant / awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 * 【2024-09-09】[nvbn / thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -4165,6 +4166,7 @@
 
 ## Go
 
+* 【2024-09-11】[josephburnett / jd](https://github.com/josephburnett/jd) - JSON diff and patch
 * 【2024-09-10】[arduino / arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 * 【2024-09-04】[cbeuw / Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
 * 【2024-09-03】[safing / portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -7073,6 +7075,7 @@
 
 ## C#
 
+* 【2024-09-11】[microsoftgraph / group-membership-management](https://github.com/microsoftgraph/group-membership-management) - Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups. Groups managed by GMM can have their membership defined using existing AAD Groups and/or custom membership sources.
 * 【2024-09-09】[jie65535 / GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) - Command Generator and Gacha Banner Editor
 * 【2024-09-09】[nesrak1 / UABEA](https://github.com/nesrak1/UABEA) - c# uabe for newer versions of unity
 * 【2024-09-08】[Pik-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modify Based on BepInEx
@@ -9885,6 +9888,7 @@
 
 ## Unknown
 
+* 【2024-09-11】[dotnet / docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 * 【2024-08-31】[anitabi / anitabi.cn-document](https://github.com/anitabi/anitabi.cn-document) - 动画巡礼文档
 * 【2024-08-30】[dailydotdev / daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 * 【2024-08-24】[Moriafly / SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - 
