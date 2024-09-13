@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-09-13】[microsoft / typespec](https://github.com/microsoft/typespec) - 
 * 【2024-09-07】[OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-04】[irsdl / IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - latest version of scanners for IIS short filename (8.3) disclosure vulnerability
 * 【2024-09-03】[Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
@@ -1091,6 +1092,7 @@
 
 ## Python
 
+* 【2024-09-13】[runhey / OnmyojiAutoScript](https://github.com/runhey/OnmyojiAutoScript) - Onmyoji Auto Script | 阴阳师脚本
 * 【2024-09-12】[run-llama / llama_deploy](https://github.com/run-llama/llama_deploy) - 
 * 【2024-09-12】[DataDog / integrations-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent
 * 【2024-09-11】[iryna-kondr / scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
@@ -8015,6 +8017,7 @@
 
 ## Html
 
+* 【2024-09-13】[opulo-inc / lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 * 【2024-09-09】[ONDC-Official / verification-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre-production issue & discussion board
 * 【2024-09-06】[callummcdougall / ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) - 
 * 【2024-09-06】[horilla-opensource / horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
@@ -9896,6 +9899,7 @@
 
 ## Unknown
 
+* 【2024-09-13】[gmelodie / awesome-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list wordlists for bruteforcing and fuzzing
 * 【2024-09-12】[SwiftOnSecurity / sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
 * 【2024-09-11】[dotnet / docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 * 【2024-08-31】[anitabi / anitabi.cn-document](https://github.com/anitabi/anitabi.cn-document) - 动画巡礼文档
