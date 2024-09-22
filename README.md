@@ -7109,6 +7109,7 @@
 
 ## C#
 
+* 【2024-09-22】[thomhurst / TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible .NET testing framework
 * 【2024-09-15】[netwrix / pingcastle](https://github.com/netwrix/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 * 【2024-09-11】[microsoftgraph / group-membership-management](https://github.com/microsoftgraph/group-membership-management) - Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups. Groups managed by GMM can have their membership defined using existing AAD Groups and/or custom membership sources.
 * 【2024-09-09】[jie65535 / GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) - Command Generator and Gacha Banner Editor
@@ -8043,6 +8044,7 @@
 
 ## Html
 
+* 【2024-09-22】[git / git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
 * 【2024-09-13】[opulo-inc / lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 * 【2024-09-09】[ONDC-Official / verification-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre-production issue & discussion board
 * 【2024-09-06】[callummcdougall / ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) - 
@@ -9930,6 +9932,7 @@
 
 ## Unknown
 
+* 【2024-09-22】[zakirullin / cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 * 【2024-09-18】[avito-tech / playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 * 【2024-09-18】[ouckah / Summer2025-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-09-15】[oz123 / awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
