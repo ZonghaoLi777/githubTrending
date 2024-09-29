@@ -1097,6 +1097,10 @@
 
 ## Python
 
+* 【2024-09-29】[exo-explore / exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+* 【2024-09-29】[pytorch / ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
+* 【2024-09-29】[google-research / circuit_training](https://github.com/google-research/circuit_training) - 
+* 【2024-09-29】[make-all / tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 * 【2024-09-28】[meta-llama / llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 * 【2024-09-27】[meta-llama / llama-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
 * 【2024-09-27】[hyperknot / openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
@@ -3012,6 +3016,8 @@
 
 ## Javascript
 
+* 【2024-09-29】[LedgerHQ / ledger-live](https://github.com/LedgerHQ/ledger-live) - Mono-repository for packages related to Ledger Live and its JavaScript ecosystem.
+* 【2024-09-29】[brookhong / Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 * 【2024-09-27】[ThePansmith / Monifactory](https://github.com/ThePansmith/Monifactory) - A Modern Remaster of Nomifactory
 * 【2024-09-25】[chrishubert / whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform.
 * 【2024-09-23】[Neet-Nestor / Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
@@ -5271,6 +5277,8 @@
 
 ## C
 
+* 【2024-09-29】[orangeduck / Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
+* 【2024-09-29】[OpenPrinting / cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 * 【2024-09-28】[dethrace-labs / dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
 * 【2024-09-25】[cnlohr / rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 * 【2024-09-23】[TechUnRestricted / WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
@@ -8070,6 +8078,8 @@
 
 ## Html
 
+* 【2024-09-29】[tencentyun / qcloud-documents](https://github.com/tencentyun/qcloud-documents) - 腾讯云官方文档
+* 【2024-09-29】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 * 【2024-09-22】[git / git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
 * 【2024-09-13】[opulo-inc / lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 * 【2024-09-09】[ONDC-Official / verification-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre-production issue & discussion board
@@ -9959,6 +9969,7 @@
 
 ## Unknown
 
+* 【2024-09-29】[kadenzipfel / smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A collection of smart contract vulnerabilities along with prevention methods
 * 【2024-09-28】[mahseema / awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 * 【2024-09-24】[bromite / bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 * 【2024-09-24】[GEIGEIGEIST / TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
