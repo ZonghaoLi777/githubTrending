@@ -1102,6 +1102,7 @@
 
 ## Python
 
+* 【2024-10-03】[boto / boto3](https://github.com/boto/boto3) - AWS SDK for Python
 * 【2024-10-01】[google / langfun](https://github.com/google/langfun) - OO for LLMs
 * 【2024-09-29】[exo-explore / exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 * 【2024-09-29】[pytorch / ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
@@ -3022,6 +3023,7 @@
 
 ## Javascript
 
+* 【2024-10-03】[software-mansion / radon-ide](https://github.com/software-mansion/radon-ide) - VSCode extension that turns your editor into a fully fledged IDE for React Native and Expo.
 * 【2024-10-02】[fineanmol / Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
 * 【2024-09-29】[LedgerHQ / ledger-live](https://github.com/LedgerHQ/ledger-live) - Mono-repository for packages related to Ledger Live and its JavaScript ecosystem.
 * 【2024-09-29】[brookhong / Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
@@ -4214,6 +4216,8 @@
 
 ## Go
 
+* 【2024-10-03】[peer-calls / peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
+* 【2024-10-03】[sensepost / gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 * 【2024-09-28】[src-d / hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 * 【2024-09-27】[hemilabs / heminetwork](https://github.com/hemilabs/heminetwork) - The hemi network core daemons.
 * 【2024-09-24】[nucleuscloud / neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
@@ -5284,6 +5288,8 @@
 
 ## C
 
+* 【2024-10-03】[zeldaret / oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time
+* 【2024-10-03】[BasedHardware / omi](https://github.com/BasedHardware/omi) - AI wearables
 * 【2024-10-02】[agherzan / meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi) - Yocto/OE BSP layer for the Raspberry Pi boards
 * 【2024-10-02】[intel / libva](https://github.com/intel/libva) - Libva is an implementation for VA-API (Video Acceleration API)
 * 【2024-10-01】[Autossh / autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels
@@ -6223,6 +6229,8 @@
 
 ## C++
 
+* 【2024-10-03】[electronicarts / EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
+* 【2024-10-03】[oneapi-src / level-zero](https://github.com/oneapi-src/level-zero) - oneAPI Level Zero Specification Headers and Loader
 * 【2024-10-02】[rakshasa / rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 * 【2024-10-02】[zenustech / zeno](https://github.com/zenustech/zeno) - ZEn NOde system - a simulation & rendering engine in nodes
 * 【2024-10-01】[getml / reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack.org[C++20]
@@ -8094,6 +8102,7 @@
 
 ## Html
 
+* 【2024-10-03】[maximevaillancourt / digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 * 【2024-09-29】[tencentyun / qcloud-documents](https://github.com/tencentyun/qcloud-documents) - 腾讯云官方文档
 * 【2024-09-29】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 * 【2024-09-22】[git / git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
