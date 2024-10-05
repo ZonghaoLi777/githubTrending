@@ -1102,6 +1102,7 @@
 
 ## Python
 
+* 【2024-10-05】[laramies / theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 * 【2024-10-04】[fedirz / faster-whisper-server](https://github.com/fedirz/faster-whisper-server) - 
 * 【2024-10-04】[lightly-ai / lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
 * 【2024-10-03】[boto / boto3](https://github.com/boto/boto3) - AWS SDK for Python
@@ -3025,6 +3026,7 @@
 
 ## Javascript
 
+* 【2024-10-05】[Pythagora-io / pythagora](https://github.com/Pythagora-io/pythagora) - Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.
 * 【2024-10-03】[software-mansion / radon-ide](https://github.com/software-mansion/radon-ide) - VSCode extension that turns your editor into a fully fledged IDE for React Native and Expo.
 * 【2024-10-02】[fineanmol / Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
 * 【2024-09-29】[LedgerHQ / ledger-live](https://github.com/LedgerHQ/ledger-live) - Mono-repository for packages related to Ledger Live and its JavaScript ecosystem.
@@ -5290,6 +5292,7 @@
 
 ## C
 
+* 【2024-10-05】[alibaba / tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 * 【2024-10-03】[zeldaret / oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time
 * 【2024-10-03】[BasedHardware / omi](https://github.com/BasedHardware/omi) - AI wearables
 * 【2024-10-02】[agherzan / meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi) - Yocto/OE BSP layer for the Raspberry Pi boards
