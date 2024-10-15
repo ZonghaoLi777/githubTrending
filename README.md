@@ -1103,6 +1103,8 @@
 
 ## Python
 
+* 【2024-10-15】[openai / swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+* 【2024-10-15】[3b1b / videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 * 【2024-10-11】[modelscope / ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 350+ LLMs or 100+ MLLMs. (LLM: Qwen2.5, Llama3.2, GLM4, Internlm2.5, Yi1.5, Mistral, Baichuan2, DeepSeek, Gemma2, ...; MLLM: Qwen2-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL, Phi3.5-Vision, ...)
 * 【2024-10-09】[cvat-ai / cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 * 【2024-10-08】[KruxAI / ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production-ready RAG setup for your data
@@ -3037,6 +3039,7 @@
 
 ## Javascript
 
+* 【2024-10-15】[chaxus / ran](https://github.com/chaxus/ran) - web components library, machine learning, function library and so on.
 * 【2024-10-13】[sindresorhus / eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 * 【2024-10-11】[revoltchat / self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 * 【2024-10-06】[inertiajs / inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
@@ -4234,6 +4237,7 @@
 
 ## Go
 
+* 【2024-10-15】[kercre123 / wire-pod](https://github.com/kercre123/wire-pod) - Free, fully-featured server software for the Anki Vector robot.
 * 【2024-10-14】[Project-HAMi / HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware
 * 【2024-10-14】[henrygd / beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 * 【2024-10-08】[Forceu / Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
@@ -7195,6 +7199,8 @@
 
 ## C#
 
+* 【2024-10-15】[bloxstraplabs / bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
+* 【2024-10-15】[2394425147 / astrodx](https://github.com/2394425147/astrodx) - 
 * 【2024-10-13】[apache / arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow
 * 【2024-10-12】[microsoft / autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 * 【2024-10-11】[microsoft / DacFx](https://github.com/microsoft/DacFx) - DacFx, SqlPackage, and other SQL development libraries enable declarative database development and database portability across SQL versions and environments. Share feedback here on dacpacs, bacpacs, and SQL projects.
@@ -8140,6 +8146,7 @@
 
 ## Html
 
+* 【2024-10-15】[Anjaliavv51 / Retro](https://github.com/Anjaliavv51/Retro) - Explore the vintage look!
 * 【2024-10-13】[tc39 / proposal-import-attributes](https://github.com/tc39/proposal-import-attributes) - Proposal for syntax to import ES modules with assertions
 * 【2024-10-12】[hugo-sid / hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support.
 * 【2024-10-11】[tc39 / proposal-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
@@ -9013,6 +9020,7 @@
 
 ## Css
 
+* 【2024-10-15】[lemonmade / bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
 * 【2024-10-12】[tocttou / hacker-blog](https://github.com/tocttou/hacker-blog) - Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. https://ashishchaudhary.in/hacker-blog
 * 【2024-10-11】[appsecco / dvja](https://github.com/appsecco/dvja) - Damn Vulnerable Java (EE) Application
 * 【2024-10-08】[SurajPratap10 / Imagine_AI](https://github.com/SurajPratap10/Imagine_AI) - The IMAGINE - AI, which is built using the OpenAI API library DALL-E 2, aims to solve the problem of limited creativity and imagination. This is a fully mobile responsive image generator built with Node.js and Express that uses OpenAI's Dall-E models to generate images.
