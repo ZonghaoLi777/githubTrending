@@ -1105,6 +1105,8 @@
 
 ## Python
 
+* 【2024-10-21】[qxresearch / qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
+* 【2024-10-21】[yjh0410 / PyTorch_YOLOv1](https://github.com/yjh0410/PyTorch_YOLOv1) - A new version of YOLOv1
 * 【2024-10-19】[Guovin / TV](https://github.com/Guovin/TV) - 📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐；支持自定义增加频道（含图标）；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、软件界面多种部署/运行方式 | IPTV live TV source update tool
 * 【2024-10-18】[yakami129 / VirtualWife](https://github.com/yakami129/VirtualWife) - VirtualWife是一个虚拟数字人项目，支持B站直播，支持openai、ollama
 * 【2024-10-17】[homebrewltd / ichigo](https://github.com/homebrewltd/ichigo) - Llama3.1 learns to Listen
@@ -3045,6 +3047,7 @@
 
 ## Javascript
 
+* 【2024-10-21】[PranshulGG / WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 * 【2024-10-20】[huggingface / transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 * 【2024-10-15】[chaxus / ran](https://github.com/chaxus/ran) - web components library, machine learning, function library and so on.
 * 【2024-10-13】[sindresorhus / eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
@@ -6276,6 +6279,7 @@
 
 ## C++
 
+* 【2024-10-21】[k4yt3x / video2x](https://github.com/k4yt3x/video2x) - A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
 * 【2024-10-19】[shader-slang / slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 * 【2024-10-16】[OSGeo / PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
 * 【2024-10-09】[dalathegreat / Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters.
@@ -10075,6 +10079,7 @@
 
 ## Unknown
 
+* 【2024-10-21】[AZeC4 / TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 * 【2024-10-20】[cyberspacedk / Git-commands](https://github.com/cyberspacedk/Git-commands) - Шпаргалка по консольным командам Git
 * 【2024-10-18】[ChristosChristofidis / awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 * 【2024-10-16】[enochtangg / quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
