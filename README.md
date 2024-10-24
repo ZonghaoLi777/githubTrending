@@ -1109,6 +1109,7 @@
 
 ## Python
 
+* 【2024-10-24】[ucbepic / docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 * 【2024-10-23】[electricitymaps / electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 * 【2024-10-22】[getomni-ai / zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 * 【2024-10-21】[qxresearch / qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
@@ -9059,6 +9060,7 @@
 
 ## Css
 
+* 【2024-10-24】[adobe / spectrum-css](https://github.com/adobe/spectrum-css) - The standard CSS implementation of the Spectrum design language.
 * 【2024-10-20】[iamparas0 / TIC-TAC-TOE](https://github.com/iamparas0/TIC-TAC-TOE) - take a preview
 * 【2024-10-18】[aws-samples / amplify-next-template](https://github.com/aws-samples/amplify-next-template) - This is a Next.js starter for building a fullstack app with AWS Amplify.
 * 【2024-10-15】[lemonmade / bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
@@ -10095,6 +10097,7 @@
 
 ## Unknown
 
+* 【2024-10-24】[potatoqualitee / eol-dr](https://github.com/potatoqualitee/eol-dr) - A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
 * 【2024-10-23】[Cryakl / Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, samples of 400+ classic/modern trojan builders including screenshots.
 * 【2024-10-23】[SkipToTheEndpoint / OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community-driven baseline to accelerate Intune adoption and learning.
 * 【2024-10-22】[hiddify / awesome-freedom](https://github.com/hiddify/awesome-freedom) - In this repository we have collected all awesome tools for iranian people
