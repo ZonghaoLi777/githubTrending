@@ -1110,6 +1110,8 @@
 
 ## Python
 
+* 【2024-10-30】[naver / mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
+* 【2024-10-30】[PokeAPI / pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
 * 【2024-10-29】[bramstroker / homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
 * 【2024-10-28】[R3gm / SoniTranslate](https://github.com/R3gm/SoniTranslate) - Synchronized Translation for Videos. Video dubbing
 * 【2024-10-28】[permitio / opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
@@ -3062,6 +3064,7 @@
 
 ## Javascript
 
+* 【2024-10-30】[vogler / free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 * 【2024-10-28】[dotnet / eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 * 【2024-10-28】[FilipePS / Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 * 【2024-10-26】[titaniumnetwork-dev / Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service worker script that follows the TompHTTP specifications.
@@ -6309,6 +6312,7 @@
 
 ## C++
 
+* 【2024-10-30】[hku-mars / FAST-LIVO](https://github.com/hku-mars/FAST-LIVO) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
 * 【2024-10-28】[kiwibrowser / src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 * 【2024-10-28】[HuskyDG / magic_overlayfs](https://github.com/HuskyDG/magic_overlayfs) - Make system partition become read-write (it is also possible without Magisk)
 * 【2024-10-28】[CookiePLMonster / SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas
@@ -8205,6 +8209,7 @@
 
 ## Html
 
+* 【2024-10-30】[rustdesk / doc.rustdesk.com](https://github.com/rustdesk/doc.rustdesk.com) - Document of RustDesk
 * 【2024-10-27】[openfoodfacts / openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor
 * 【2024-10-26】[ANSHIKA-26 / WordWise](https://github.com/ANSHIKA-26/WordWise) - Blogging website
 * 【2024-10-22】[vishanurag / Canvas-Editor](https://github.com/vishanurag/Canvas-Editor) - This is a simple web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
