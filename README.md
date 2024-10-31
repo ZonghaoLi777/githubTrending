@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-10-31】[qaiu / netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top
 * 【2024-10-29】[CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 * 【2024-10-23】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 * 【2024-10-23】[akhilkammila / leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter) - screenshots leetcode editorials and problems
@@ -3064,6 +3065,8 @@
 
 ## Javascript
 
+* 【2024-10-31】[poloclub / transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
+* 【2024-10-31】[medic / cht-core](https://github.com/medic/cht-core) - The CHT Core Framework makes it faster to build responsive, offline-first digital health apps that equip health workers to provide better care in their communities. It is a central resource of the Community Health Toolkit.
 * 【2024-10-30】[vogler / free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 * 【2024-10-28】[dotnet / eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 * 【2024-10-28】[FilipePS / Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
@@ -5359,6 +5362,8 @@
 
 ## C
 
+* 【2024-10-31】[Spooks4576 / Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
+* 【2024-10-31】[imbushuo / mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 * 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
 * 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
 * 【2024-10-18】[espressif / esp-iot-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations And Solutions.
@@ -7258,6 +7263,7 @@
 
 ## C#
 
+* 【2024-10-31】[frankodoom / CountryData.Net](https://github.com/frankodoom/CountryData.Net) - An offline crossplatform .NET library for getting Global Country , iso3166 Short-code and Region Data
 * 【2024-10-23】[Suprcode / Crystal](https://github.com/Suprcode/Crystal) - Legend of Mir 2 - Official Public Crystal Source
 * 【2024-10-22】[codeproject / CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI.
 * 【2024-10-22】[Macro-Deck-App / Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamlessly with just a single tap.
