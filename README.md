@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-11-04】[MovTery / ZalithLauncher](https://github.com/MovTery/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.
 * 【2024-10-31】[qaiu / netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top
 * 【2024-10-29】[CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 * 【2024-10-23】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
@@ -1111,6 +1112,7 @@
 
 ## Python
 
+* 【2024-11-04】[DS4SD / docling](https://github.com/DS4SD/docling) - Get your docs ready for gen AI
 * 【2024-11-03】[marimo-team / marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 * 【2024-11-01】[timescale / pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 * 【2024-10-30】[naver / mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
@@ -3067,6 +3069,7 @@
 
 ## Javascript
 
+* 【2024-11-04】[alexlenail / NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 * 【2024-11-03】[SnapDrop / snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 * 【2024-11-03】[winstonjs / winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 * 【2024-10-31】[poloclub / transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
@@ -4279,6 +4282,7 @@
 
 ## Go
 
+* 【2024-11-04】[MightyMoud / sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 * 【2024-10-28】[jozu-ai / kitops](https://github.com/jozu-ai/kitops) - Securely share and store AI/ML projects as OCI artifacts in your container registry.
 * 【2024-10-28】[maddalax / htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 * 【2024-10-27】[diggerhq / digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
@@ -7269,6 +7273,7 @@
 
 ## C#
 
+* 【2024-11-04】[angularsen / UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 * 【2024-11-03】[MapsterMapper / Mapster](https://github.com/MapsterMapper/Mapster) - A fast, fun and stimulating object to object Mapper
 * 【2024-10-31】[frankodoom / CountryData.Net](https://github.com/frankodoom/CountryData.Net) - An offline crossplatform .NET library for getting Global Country , iso3166 Short-code and Region Data
 * 【2024-10-23】[Suprcode / Crystal](https://github.com/Suprcode/Crystal) - Legend of Mir 2 - Official Public Crystal Source
@@ -8222,6 +8227,7 @@
 
 ## Html
 
+* 【2024-11-04】[department-of-veterans-affairs / vets-design-system-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) - Repository for design.va.gov website
 * 【2024-11-03】[w3c / wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
 * 【2024-11-02】[QuivrHQ / MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 * 【2024-10-30】[rustdesk / doc.rustdesk.com](https://github.com/rustdesk/doc.rustdesk.com) - Document of RustDesk
