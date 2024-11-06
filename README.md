@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-11-06】[TNG / ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java
 * 【2024-11-05】[MehVahdJukaar / Supplementaries](https://github.com/MehVahdJukaar/Supplementaries) - 
 * 【2024-11-04】[MovTery / ZalithLauncher](https://github.com/MovTery/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.
 * 【2024-10-31】[qaiu / netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top
@@ -1113,6 +1114,7 @@
 
 ## Python
 
+* 【2024-11-06】[TencentBlueKing / blueking-paas](https://github.com/TencentBlueKing/blueking-paas) - 蓝鲸智云PaaS平台是一个开放式的开发平台，让开发者可以方便快捷地创建、开发、部署和管理 SaaS 应用。它提供了完善的前后台开发框架、服务总线（ESB）、API Gateway、调度引擎、公共组件 等服务。旨在帮助用户快速、低成本的构建免运维运营系统与支撑工具。
 * 【2024-11-04】[DS4SD / docling](https://github.com/DS4SD/docling) - Get your docs ready for gen AI
 * 【2024-11-03】[marimo-team / marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 * 【2024-11-01】[timescale / pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
@@ -3070,6 +3072,7 @@
 
 ## Javascript
 
+* 【2024-11-06】[frappe / lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 * 【2024-11-05】[Azgaar / Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 * 【2024-11-05】[jesse-ai / jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 * 【2024-11-04】[alexlenail / NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
@@ -7278,6 +7281,8 @@
 
 ## C#
 
+* 【2024-11-06】[dotnet / SqlClient](https://github.com/dotnet/SqlClient) - Microsoft.Data.SqlClient provides database connectivity to SQL Server for .NET applications.
+* 【2024-11-06】[dotnetcore / BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - Bootstrap Blazor is an enterprise-level UI component library based on Bootstrap and Blazor.
 * 【2024-11-05】[DanielKote / Foreman2](https://github.com/DanielKote/Foreman2) - Visual planning tool for Factorio
 * 【2024-11-04】[angularsen / UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 * 【2024-11-03】[MapsterMapper / Mapster](https://github.com/MapsterMapper/Mapster) - A fast, fun and stimulating object to object Mapper
@@ -10154,6 +10159,7 @@
 
 ## Unknown
 
+* 【2024-11-06】[cheatsnake / backend-cheats](https://github.com/cheatsnake/backend-cheats) - 📃 White paper for Backend developers
 * 【2024-11-03】[lucia-auth / lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 * 【2024-11-03】[himahuja / Research-Internships-for-Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates) - List of Research Internships for Undergraduate Students
 * 【2024-11-02】[elevenlabs / elevenlabs-examples](https://github.com/elevenlabs/elevenlabs-examples) - 
