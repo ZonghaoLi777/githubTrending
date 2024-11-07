@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2024-11-07】[binarywang / WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
+* 【2024-11-07】[WindySha / Xpatch](https://github.com/WindySha/Xpatch) - This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
 * 【2024-11-06】[TNG / ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java
 * 【2024-11-05】[MehVahdJukaar / Supplementaries](https://github.com/MehVahdJukaar/Supplementaries) - 
 * 【2024-11-04】[MovTery / ZalithLauncher](https://github.com/MovTery/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.
@@ -1114,6 +1116,8 @@
 
 ## Python
 
+* 【2024-11-07】[Shpota / github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
+* 【2024-11-07】[iterative / datachain](https://github.com/iterative/datachain) - AI-data warehouse to enrich, transform and analyze data from cloud storages
 * 【2024-11-06】[TencentBlueKing / blueking-paas](https://github.com/TencentBlueKing/blueking-paas) - 蓝鲸智云PaaS平台是一个开放式的开发平台，让开发者可以方便快捷地创建、开发、部署和管理 SaaS 应用。它提供了完善的前后台开发框架、服务总线（ESB）、API Gateway、调度引擎、公共组件 等服务。旨在帮助用户快速、低成本的构建免运维运营系统与支撑工具。
 * 【2024-11-04】[DS4SD / docling](https://github.com/DS4SD/docling) - Get your docs ready for gen AI
 * 【2024-11-03】[marimo-team / marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
@@ -4288,6 +4292,7 @@
 
 ## Go
 
+* 【2024-11-07】[goccy / go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
 * 【2024-11-04】[MightyMoud / sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 * 【2024-10-28】[jozu-ai / kitops](https://github.com/jozu-ai/kitops) - Securely share and store AI/ML projects as OCI artifacts in your container registry.
 * 【2024-10-28】[maddalax / htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
