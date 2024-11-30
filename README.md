@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2024-11-30】[freeplane / freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
+* 【2024-11-30】[react-native-share / react-native-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps.
+* 【2024-11-30】[valkey-io / valkey-glide](https://github.com/valkey-io/valkey-glide) - An open source Valkey client library that supports Valkey and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python
 * 【2024-11-26】[Telegram-FOSS-Team / Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 * 【2024-11-26】[GregTechCEu / GregTech-Modern](https://github.com/GregTechCEu/GregTech-Modern) - GregTech CE Unofficial for modern versions
 * 【2024-11-22】[killme2008 / aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
@@ -1124,6 +1127,9 @@
 
 ## Python
 
+* 【2024-11-30】[automatic-ripping-machine / automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
+* 【2024-11-30】[soxoj / maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+* 【2024-11-30】[icloud-photos-downloader / icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 * 【2024-11-29】[andrewyng / aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
 * 【2024-11-29】[myhhub / stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 * 【2024-11-29】[Guovin / iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
@@ -3121,6 +3127,8 @@
 
 ## Javascript
 
+* 【2024-11-30】[besuper / TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
+* 【2024-11-30】[copy / v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 * 【2024-11-29】[DavidAnson / markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 * 【2024-11-25】[7Sageer / sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 * 【2024-11-19】[metowolf / vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
@@ -7373,6 +7381,8 @@
 
 ## C#
 
+* 【2024-11-30】[SimonCropp / Delta](https://github.com/SimonCropp/Delta) - An approach to implementing a 304 Not Modified leveraging SqlServer change tracking
+* 【2024-11-30】[PomeloFoundation / Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
 * 【2024-11-25】[Andrewthe13th / Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
 * 【2024-11-23】[dotnet / Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development.
 * 【2024-11-22】[NimblePros / eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - Sample ASP.NET Core 9.0 reference application, powered by Microsoft, demonstrating a domain-centric application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
