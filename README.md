@@ -1129,6 +1129,7 @@
 
 ## Python
 
+* 【2024-12-07】[qodo-ai / qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 * 【2024-12-06】[real-stanford / diffusion_policy](https://github.com/real-stanford/diffusion_policy) - [RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
 * 【2024-12-06】[IntelRealSense / realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for Intel(R) RealSense(TM) Cameras
 * 【2024-12-05】[pydantic / pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
@@ -3139,6 +3140,7 @@
 
 ## Javascript
 
+* 【2024-12-07】[netptop / siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问chatGPT3.5和Claude3)
 * 【2024-12-05】[OpenNebula / one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 * 【2024-12-05】[emberjs / ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 * 【2024-12-01】[xanderfrangos / twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -7410,6 +7412,7 @@
 
 ## C#
 
+* 【2024-12-07】[PSAppDeployToolkit / PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 * 【2024-11-30】[SimonCropp / Delta](https://github.com/SimonCropp/Delta) - An approach to implementing a 304 Not Modified leveraging SqlServer change tracking
 * 【2024-11-30】[PomeloFoundation / Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
 * 【2024-11-25】[Andrewthe13th / Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
