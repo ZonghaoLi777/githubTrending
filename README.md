@@ -1129,6 +1129,7 @@
 
 ## Python
 
+* 【2024-12-08】[evolutionaryscale / esm](https://github.com/evolutionaryscale/esm) - 
 * 【2024-12-07】[qodo-ai / qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 * 【2024-12-06】[real-stanford / diffusion_policy](https://github.com/real-stanford/diffusion_policy) - [RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
 * 【2024-12-06】[IntelRealSense / realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for Intel(R) RealSense(TM) Cameras
