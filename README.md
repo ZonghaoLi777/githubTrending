@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2024-12-12】[alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
 * 【2024-12-11】[Katana-Official / SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
 * 【2024-12-09】[magefree / mage](https://github.com/magefree/mage) - Magic Another Game Engine
 * 【2024-12-03】[xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
@@ -1131,6 +1132,7 @@
 
 ## Python
 
+* 【2024-12-12】[KellerJordan / modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 5 minutes
 * 【2024-12-11】[Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 * 【2024-12-10】[kijai / ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper) - 
 * 【2024-12-08】[evolutionaryscale / esm](https://github.com/evolutionaryscale/esm) - 
@@ -5479,6 +5481,7 @@
 
 ## C
 
+* 【2024-12-12】[shellphish / how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 * 【2024-12-05】[mstorsjo / llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 * 【2024-12-05】[simple64 / simple64](https://github.com/simple64/simple64) - Accurate N64 Emulator
 * 【2024-12-05】[SSSD / sssd](https://github.com/SSSD/sssd) - A daemon to manage identity, authentication and authorization for centrally-managed systems.
@@ -8395,6 +8398,7 @@
 
 ## Html
 
+* 【2024-12-12】[miaoermua / CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 客制化 OpenWrt 智能网关
 * 【2024-12-06】[openbiox / weekly](https://github.com/openbiox/weekly) - 生信爱好者周刊（每周日发布）
 * 【2024-12-05】[mark-when / markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 * 【2024-11-25】[kenzok8 / openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
