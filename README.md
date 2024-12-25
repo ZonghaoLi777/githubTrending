@@ -1135,6 +1135,7 @@
 
 ## Python
 
+* 【2024-12-25】[princeton-vl / infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 * 【2024-12-24】[malmeloo / FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 * 【2024-12-24】[AgentOps-AI / AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
 * 【2024-12-23】[bytedance / monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
@@ -9359,6 +9360,8 @@
 
 ## Css
 
+* 【2024-12-25】[jd-opensource / micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
+* 【2024-12-25】[CTalvio / Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga!
 * 【2024-12-19】[nisarhassan12 / portfolio-template](https://github.com/nisarhassan12/portfolio-template) - A beautiful minimal and accessible portfolio template for Developers. Give it a star 🌟 if you find it useful.
 * 【2024-12-18】[leptos-rs / book](https://github.com/leptos-rs/book) - The home for the Leptos book, which can be found deployed at https://book.leptos.dev
 * 【2024-12-16】[SpaceTheme / Steam](https://github.com/SpaceTheme/Steam) - SpaceTheme for Steam
