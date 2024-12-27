@@ -1135,6 +1135,8 @@
 
 ## Python
 
+* 【2024-12-27】[freqtrade / freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
+* 【2024-12-27】[lipku / LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
 * 【2024-12-26】[OpenSPG / KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
 * 【2024-12-25】[princeton-vl / infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 * 【2024-12-24】[malmeloo / FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
@@ -3177,6 +3179,7 @@
 
 ## Javascript
 
+* 【2024-12-27】[moshang-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 * 【2024-12-23】[violentmonkey / violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 * 【2024-12-21】[huggingface / transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 * 【2024-12-19】[dbt-labs / docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com) - The code behind docs.getdbt.com
@@ -4415,6 +4418,7 @@
 
 ## Go
 
+* 【2024-12-27】[Mikaelemmmm / go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
 * 【2024-12-24】[future-architect / vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 * 【2024-12-24】[bbernhard / signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 * 【2024-12-23】[eatmoreapple / openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
