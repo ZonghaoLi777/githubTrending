@@ -3180,6 +3180,7 @@
 
 ## Javascript
 
+* 【2024-12-29】[dexie / Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 * 【2024-12-28】[browserslist / browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 * 【2024-12-28】[Superalgos / Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
 * 【2024-12-28】[ruby / setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
@@ -4422,6 +4423,7 @@
 
 ## Go
 
+* 【2024-12-29】[gin-gonic / examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 * 【2024-12-28】[cashapp / cloner](https://github.com/cashapp/cloner) - 
 * 【2024-12-27】[Mikaelemmmm / go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
 * 【2024-12-24】[future-architect / vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -7501,6 +7503,8 @@
 
 ## C#
 
+* 【2024-12-29】[indiff / qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer. https://www.yuque.com/indiff/qttabbar
+* 【2024-12-29】[abishekaditya / DesignPatterns](https://github.com/abishekaditya/DesignPatterns) - Project : Design Patterns Examples in C#
 * 【2024-12-28】[featbit / featbit](https://github.com/featbit/featbit) - Enterprise-level feature flag platform that you can self-host. Get started - free.
 * 【2024-12-24】[dotnet / ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
 * 【2024-12-21】[getsentry / sentry-dotnet](https://github.com/getsentry/sentry-dotnet) - Sentry SDK for .NET
@@ -8479,6 +8483,7 @@
 
 ## Html
 
+* 【2024-12-29】[mostafa-kheibary / tehran-metro-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
 * 【2024-12-26】[openwhu / OpenWHU](https://github.com/openwhu/OpenWHU) - 武汉大学课程资料整理-WHU课代表计划
 * 【2024-12-22】[apankrat / nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 * 【2024-12-22】[e2b-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
@@ -10426,6 +10431,8 @@
 
 ## Unknown
 
+* 【2024-12-29】[shadps4-emu / shadps4-game-compatibility](https://github.com/shadps4-emu/shadps4-game-compatibility) - Shadps4 game compatibility
+* 【2024-12-29】[deepseek-ai / awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
 * 【2024-12-26】[lowercase78 / V2RayN-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN-Pro
 * 【2024-12-21】[PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 * 【2024-12-21】[phmullins / awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
