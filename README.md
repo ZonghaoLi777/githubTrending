@@ -5559,6 +5559,7 @@
 
 ## C
 
+* 【2025-01-07】[TypesettingTools / Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor
 * 【2025-01-06】[s-macke / VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 * 【2025-01-06】[Waujito / youtubeUnblock](https://github.com/Waujito/youtubeUnblock) - Bypasses Deep Packet Inspection (DPI) systems that rely on SNI
 * 【2025-01-06】[ptitSeb / box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
@@ -6553,6 +6554,8 @@
 
 ## C++
 
+* 【2025-01-07】[momo5502 / emulator](https://github.com/momo5502/emulator) - 🪅 Windows User Space Emulator
+* 【2025-01-07】[LibreCAD / LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user interface is highly customizable, and has dozens of translations.
 * 【2025-01-06】[losehu / uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware
 * 【2025-01-06】[acaudwell / Gource](https://github.com/acaudwell/Gource) - software version control visualization
 * 【2025-01-04】[Open-Cascade-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
@@ -7539,6 +7542,7 @@
 
 ## C#
 
+* 【2025-01-07】[antonioCoco / RunasCs](https://github.com/antonioCoco/RunasCs) - RunasCs - Csharp and open version of windows builtin runas.exe
 * 【2025-01-01】[tylercamp / palcalc](https://github.com/tylercamp/palcalc) - 
 * 【2024-12-30】[msasanmh / DNSveil](https://github.com/msasanmh/DNSveil) - A DNS Client Supporting DNSCrypt, Anonymized DNSCrypt, DoH, DoT, UDP And TCP.
 * 【2024-12-29】[indiff / qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer. https://www.yuque.com/indiff/qttabbar
@@ -9420,6 +9424,7 @@
 
 ## Css
 
+* 【2025-01-07】[LunaPixelStudios / Better-MC](https://github.com/LunaPixelStudios/Better-MC) - https://lunapixel.studio/discord
 * 【2025-01-04】[bchiang7 / bchiang7.github.io](https://github.com/bchiang7/bchiang7.github.io) - Third iteration of my personal website built with Jekyll
 * 【2025-01-01】[themeselection / flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 * 【2024-12-25】[jd-opensource / micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
