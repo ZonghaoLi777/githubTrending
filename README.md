@@ -5564,6 +5564,7 @@
 
 ## C
 
+* 【2025-01-10】[HarbourMasters / Starship](https://github.com/HarbourMasters/Starship) - SF64 PC Port
 * 【2025-01-09】[ericstoneking / 42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
 * 【2025-01-08】[zjutjh / zjut-icicles](https://github.com/zjutjh/zjut-icicles) - 浙江工业大学课程攻略共享计划
 * 【2025-01-07】[TypesettingTools / Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor
@@ -6561,6 +6562,7 @@
 
 ## C++
 
+* 【2025-01-10】[turanszkij / WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
 * 【2025-01-08】[srsran / srsRAN_Project](https://github.com/srsran/srsRAN_Project) - Open source O-RAN 5G CU/DU solution from Software Radio Systems (SRS) https://docs.srsran.com/projects/project
 * 【2025-01-07】[momo5502 / emulator](https://github.com/momo5502/emulator) - 🪅 Windows User Space Emulator
 * 【2025-01-07】[LibreCAD / LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user interface is highly customizable, and has dozens of translations.
@@ -9435,6 +9437,7 @@
 
 ## Css
 
+* 【2025-01-10】[vinaysomawat / vinaysomawat.github.io](https://github.com/vinaysomawat/vinaysomawat.github.io) - A cutting-edge portfolio web page utilizing vanilla JavaScript.
 * 【2025-01-08】[remy / mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
 * 【2025-01-07】[LunaPixelStudios / Better-MC](https://github.com/LunaPixelStudios/Better-MC) - https://lunapixel.studio/discord
 * 【2025-01-04】[bchiang7 / bchiang7.github.io](https://github.com/bchiang7/bchiang7.github.io) - Third iteration of my personal website built with Jekyll
@@ -10490,6 +10493,7 @@
 
 ## Unknown
 
+* 【2025-01-10】[microsoft / aitour-repo-principal-list](https://github.com/microsoft/aitour-repo-principal-list) - 
 * 【2025-01-09】[jaywcjlove / docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
 * 【2025-01-09】[tanprathan / MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 * 【2025-01-06】[jamesroutley / write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
