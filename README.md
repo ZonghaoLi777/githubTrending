@@ -3196,6 +3196,7 @@
 
 ## Javascript
 
+* 【2025-01-12】[thedevs-network / kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 * 【2025-01-11】[SuperMonster003 / AutoJs6-Documentation](https://github.com/SuperMonster003/AutoJs6-Documentation) - Documentation (with generator) for AutoJs6 [AutoJs6 文档 (带生成器)]
 * 【2025-01-08】[facebookexperimental / Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 * 【2025-01-08】[openai / openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
@@ -6567,6 +6568,7 @@
 
 ## C++
 
+* 【2025-01-12】[Livox-SDK / Livox-SDK2](https://github.com/Livox-SDK/Livox-SDK2) - Drivers for receiving LiDAR data and controlling lidar, support Lidar HAP and Mid-360.
 * 【2025-01-10】[turanszkij / WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
 * 【2025-01-08】[srsran / srsRAN_Project](https://github.com/srsran/srsRAN_Project) - Open source O-RAN 5G CU/DU solution from Software Radio Systems (SRS) https://docs.srsran.com/projects/project
 * 【2025-01-07】[momo5502 / emulator](https://github.com/momo5502/emulator) - 🪅 Windows User Space Emulator
@@ -10498,6 +10500,7 @@
 
 ## Unknown
 
+* 【2025-01-12】[openebs / openebs](https://github.com/openebs/openebs) - Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 * 【2025-01-10】[microsoft / aitour-repo-principal-list](https://github.com/microsoft/aitour-repo-principal-list) - 
 * 【2025-01-09】[jaywcjlove / docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
 * 【2025-01-09】[tanprathan / MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
