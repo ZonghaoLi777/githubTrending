@@ -1141,6 +1141,7 @@
 
 ## Python
 
+* 【2025-01-16】[OpenBMB / MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
 * 【2025-01-15】[KoljaB / RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 * 【2025-01-14】[JoshuaC215 / agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 * 【2025-01-14】[nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
@@ -7571,6 +7572,7 @@
 
 ## C#
 
+* 【2025-01-16】[fluentassertions / fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
 * 【2025-01-07】[antonioCoco / RunasCs](https://github.com/antonioCoco/RunasCs) - RunasCs - Csharp and open version of windows builtin runas.exe
 * 【2025-01-01】[tylercamp / palcalc](https://github.com/tylercamp/palcalc) - 
 * 【2024-12-30】[msasanmh / DNSveil](https://github.com/msasanmh/DNSveil) - A DNS Client Supporting DNSCrypt, Anonymized DNSCrypt, DoH, DoT, UDP And TCP.
