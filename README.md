@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-01-19】[scottyab / rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
 * 【2025-01-13】[chainbase-labs / manuscript-core](https://github.com/chainbase-labs/manuscript-core) - 
 * 【2025-01-08】[CodePhiliaX / fastexcel](https://github.com/CodePhiliaX/fastexcel) - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
 * 【2025-01-05】[weizhiqiang1995 / erp-pro](https://github.com/weizhiqiang1995/erp-pro) - 基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的多租户ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
@@ -1141,6 +1142,9 @@
 
 ## Python
 
+* 【2025-01-19】[databrickslabs / dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames
+* 【2025-01-19】[AutoGPTQ / AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
+* 【2025-01-19】[ArchipelagoMW / Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 * 【2025-01-17】[AmberSahdev / Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs.
 * 【2025-01-17】[Chainlit / chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 * 【2025-01-17】[instructor-ai / instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
@@ -3208,6 +3212,7 @@
 
 ## Javascript
 
+* 【2025-01-19】[tengbao / vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 * 【2025-01-17】[pixelfed / pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
 * 【2025-01-15】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 * 【2025-01-12】[thedevs-network / kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
@@ -4462,6 +4467,7 @@
 
 ## Go
 
+* 【2025-01-19】[aquasecurity / tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 * 【2025-01-14】[yusing / go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
 * 【2025-01-13】[dlvhdr / gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 * 【2025-01-13】[icereed / paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
@@ -8566,6 +8572,7 @@
 
 ## Html
 
+* 【2025-01-19】[platzi / git-github](https://github.com/platzi/git-github) - Repositorio del Curso de Git y GitHub
 * 【2025-01-17】[Born2Root / Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 * 【2025-01-15】[IBM / data-prep-kit](https://github.com/IBM/data-prep-kit) - Open source project for data preparation of LLM application builders
 * 【2025-01-13】[PaulJerimy / SecCertRoadmapHTML](https://github.com/PaulJerimy/SecCertRoadmapHTML) - Security Certification Roadmap HTML5/CSS3 version
@@ -10529,6 +10536,7 @@
 
 ## Unknown
 
+* 【2025-01-19】[sger / RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 * 【2025-01-18】[fishttp / awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 * 【2025-01-17】[GAIR-NLP / O1-Journey](https://github.com/GAIR-NLP/O1-Journey) - O1 Replication Journey
 * 【2025-01-12】[openebs / openebs](https://github.com/openebs/openebs) - Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
