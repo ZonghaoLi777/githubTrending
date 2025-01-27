@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-01-27】[PurpurMC / Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
 * 【2025-01-26】[aeron-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2025-01-23】[OpenLiberty / open-liberty](https://github.com/OpenLiberty/open-liberty) - Open Liberty is a highly composable, fast to start, dynamic application server runtime environment
 * 【2025-01-21】[apache / ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.
@@ -8619,6 +8620,7 @@
 
 ## Html
 
+* 【2025-01-27】[hanwenguo / hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) - a (nearly) no-CSS, fast, minimalist Hugo theme ported from riggraz/no-style-please.
 * 【2025-01-26】[18F / handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 * 【2025-01-26】[valiantlynx / ollama-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 * 【2025-01-22】[OCA / pos](https://github.com/OCA/pos) - 
@@ -9529,6 +9531,7 @@
 
 ## Css
 
+* 【2025-01-27】[sakofchit / system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 * 【2025-01-23】[mecha-org / mecha-docs](https://github.com/mecha-org/mecha-docs) - Open Docs for Mecha Stack
 * 【2025-01-18】[felix-bohlin / ui](https://github.com/felix-bohlin/ui) - A modern, cutting edge UI library. So modern you might need browser feature flags enabled. Designed to suit professional teams as well as tinkering hobbyists.
 * 【2025-01-13】[athul / archie](https://github.com/athul/archie) - A minimal Hugo Theme
