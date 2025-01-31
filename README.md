@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-01-31】[firebase / firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) - Firebase Android SDK
 * 【2025-01-30】[infinispan / infinispan](https://github.com/infinispan/infinispan) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
 * 【2025-01-29】[wso2 / product-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.
 * 【2025-01-28】[anonfaded / FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
@@ -1152,6 +1153,8 @@
 
 ## Python
 
+* 【2025-01-31】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
+* 【2025-01-31】[aws-samples / bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-Compatible RESTful APIs for Amazon Bedrock
 * 【2025-01-30】[deepseek-ai / ESFT](https://github.com/deepseek-ai/ESFT) - Expert Specialized Fine-Tuning
 * 【2025-01-29】[deepseek-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 * 【2025-01-29】[fylein / fyle-interview-intern-backend](https://github.com/fylein/fyle-interview-intern-backend) - 
@@ -3233,6 +3236,7 @@
 
 ## Javascript
 
+* 【2025-01-31】[open-webui / open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * 【2025-01-30】[DeepLifeStudio / DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model.
 * 【2025-01-28】[IQEngine / WebFFT](https://github.com/IQEngine/WebFFT) - The Fastest Fourier Transform on the Web!
 * 【2025-01-28】[bosichong / PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
@@ -4494,6 +4498,7 @@
 
 ## Go
 
+* 【2025-01-31】[centrifugal / centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
 * 【2025-01-30】[ekristen / aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
 * 【2025-01-28】[nevalang / neva](https://github.com/nevalang/neva) - 🌊 Next-generation programming language that solves programmers' problems
 * 【2025-01-28】[garethgeorge / backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
@@ -5630,6 +5635,7 @@
 
 ## C
 
+* 【2025-01-31】[pebble-dev / RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low-power smartwatches
 * 【2025-01-28】[xiph / opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
 * 【2025-01-26】[RMerl / asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 * 【2025-01-25】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
