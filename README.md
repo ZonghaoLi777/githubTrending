@@ -1153,6 +1153,8 @@
 
 ## Python
 
+* 【2025-02-03】[HITsz-TMG / FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Resources of our paper "FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces". New versions in the making!
+* 【2025-02-03】[lllyasviel / Paints-UNDO](https://github.com/lllyasviel/Paints-UNDO) - Understand Human Behavior to Align True Needs
 * 【2025-02-02】[oumi-ai / oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
 * 【2025-02-02】[google / meridian](https://github.com/google/meridian) - Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
 * 【2025-02-02】[volcengine / verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
@@ -6650,6 +6652,7 @@
 
 ## C++
 
+* 【2025-02-03】[LibreSprite / LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 * 【2025-02-02】[KhronosGroup / Vulkan-ValidationLayers](https://github.com/KhronosGroup/Vulkan-ValidationLayers) - Vulkan Validation Layers (VVL)
 * 【2025-01-30】[mozilla / DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 * 【2025-01-25】[cdozdil / OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler is middleware that enables various upscaling technologies in DLSS2-only games. It allows non-Nvidia users to use upscaling by applying DLSS2 inputs to XeSS, FSR2, or FSR3.
@@ -7654,6 +7657,7 @@
 
 ## C#
 
+* 【2025-02-03】[oqtane / oqtane.framework](https://github.com/oqtane/oqtane.framework) - CMS & Application Framework for Blazor & .NET MAUI
 * 【2025-01-28】[AutoDarkMode / Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 * 【2025-01-26】[ivanpaulovich / clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - 🌀 Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 * 【2025-01-26】[NYAN-x-CAT / AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
