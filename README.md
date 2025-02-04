@@ -1153,6 +1153,8 @@
 
 ## Python
 
+* 【2025-02-04】[agno-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
+* 【2025-02-04】[Blaizzy / mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 * 【2025-02-03】[HITsz-TMG / FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Resources of our paper "FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces". New versions in the making!
 * 【2025-02-03】[lllyasviel / Paints-UNDO](https://github.com/lllyasviel/Paints-UNDO) - Understand Human Behavior to Align True Needs
 * 【2025-02-02】[oumi-ai / oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
@@ -4504,6 +4506,7 @@
 
 ## Go
 
+* 【2025-02-04】[starfederation / datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 * 【2025-01-31】[centrifugal / centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
 * 【2025-01-30】[ekristen / aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
 * 【2025-01-28】[nevalang / neva](https://github.com/nevalang/neva) - 🌊 Next-generation programming language that solves programmers' problems
@@ -6652,6 +6655,8 @@
 
 ## C++
 
+* 【2025-02-04】[Chatterino / chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
+* 【2025-02-04】[supertuxkart / stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 * 【2025-02-03】[LibreSprite / LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 * 【2025-02-02】[KhronosGroup / Vulkan-ValidationLayers](https://github.com/KhronosGroup/Vulkan-ValidationLayers) - Vulkan Validation Layers (VVL)
 * 【2025-01-30】[mozilla / DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -7657,6 +7662,8 @@
 
 ## C#
 
+* 【2025-02-04】[timschneeb / GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
+* 【2025-02-04】[InvisibleManVPN / InvisibleMan-XRayClient](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient) - A client for xray core
 * 【2025-02-03】[oqtane / oqtane.framework](https://github.com/oqtane/oqtane.framework) - CMS & Application Framework for Blazor & .NET MAUI
 * 【2025-01-28】[AutoDarkMode / Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 * 【2025-01-26】[ivanpaulovich / clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - 🌀 Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
