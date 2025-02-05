@@ -1153,6 +1153,7 @@
 
 ## Python
 
+* 【2025-02-05】[tcgoetz / GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 * 【2025-02-04】[agno-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
 * 【2025-02-04】[Blaizzy / mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 * 【2025-02-03】[HITsz-TMG / FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Resources of our paper "FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces". New versions in the making!
@@ -3243,6 +3244,7 @@
 
 ## Javascript
 
+* 【2025-02-05】[Lumon-Industries / Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 * 【2025-02-02】[shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 * 【2025-01-31】[open-webui / open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * 【2025-01-30】[DeepLifeStudio / DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model.
@@ -5644,6 +5646,8 @@
 
 ## C
 
+* 【2025-02-05】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
+* 【2025-02-05】[open-sdr / openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
 * 【2025-01-31】[pebble-dev / RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low-power smartwatches
 * 【2025-01-28】[xiph / opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
 * 【2025-01-26】[RMerl / asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
@@ -6655,6 +6659,8 @@
 
 ## C++
 
+* 【2025-02-05】[mkckr0 / audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
+* 【2025-02-05】[steveicarus / iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
 * 【2025-02-04】[Chatterino / chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 * 【2025-02-04】[supertuxkart / stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 * 【2025-02-03】[LibreSprite / LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
