@@ -1153,6 +1153,8 @@
 
 ## Python
 
+* 【2025-02-10】[potpie-ai / potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
+* 【2025-02-10】[iscyy / ultralyticsPro](https://github.com/iscyy/ultralyticsPro) - 🔥🔥🔥 专注于YOLO11，YOLOv8、YOLOv10、RT-DETR、YOLOv7、YOLOv5改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
 * 【2025-02-09】[roboflow / maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL
 * 【2025-02-07】[Physical-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi) - 
 * 【2025-02-06】[redis / redis-py](https://github.com/redis/redis-py) - Redis Python client
@@ -4511,6 +4513,7 @@
 
 ## Go
 
+* 【2025-02-10】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight personal bookkeeping app hosted by yourself.
 * 【2025-02-09】[fastenhealth / fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 * 【2025-02-07】[alireza0 / s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 * 【2025-02-06】[monasticacademy / httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
