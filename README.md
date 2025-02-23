@@ -1157,6 +1157,7 @@
 
 ## Python
 
+* 【2025-02-23】[fastapi / sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 * 【2025-02-22】[sinaptik-ai / pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 * 【2025-02-22】[microsoft / PIKE-RAG](https://github.com/microsoft/PIKE-RAG) - PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation
 * 【2025-02-21】[conan-io / conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
@@ -6696,6 +6697,7 @@
 
 ## C++
 
+* 【2025-02-23】[koide3 / glim](https://github.com/koide3/glim) - GLIM: versatile and extensible range-based 3D localization and mapping framework
 * 【2025-02-21】[ValveSoftware / source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 * 【2025-02-20】[catboost / catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 * 【2025-02-17】[ggml-org / llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -7714,6 +7716,9 @@
 
 ## C#
 
+* 【2025-02-23】[alexhiggins732 / IdentityServer8](https://github.com/alexhiggins732/IdentityServer8) - DotNet 8, Identity, OpenID Connect and OAuth 2.0 Framework for ASP.NET Core Identity Server 8
+* 【2025-02-23】[OpenRakis / Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
+* 【2025-02-23】[dotnet / macios](https://github.com/dotnet/macios) - .NET for iOS, Mac Catalyst, macOS, and tvOS provide open-source bindings of the Apple SDKs for use with .NET managed languages such as C#
 * 【2025-02-15】[slskd / slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 * 【2025-02-15】[dlemstra / Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick
 * 【2025-02-12】[Oliveriver / 5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) - 5D Diplomacy With Multiverse Time Travel
@@ -8713,6 +8718,7 @@
 
 ## Html
 
+* 【2025-02-23】[givanz / Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
 * 【2025-02-19】[hackingthemarkets / interactive-brokers-web-api](https://github.com/hackingthemarkets/interactive-brokers-web-api) - A docker container and flask app for use with the Interactive Brokers Web API 1.0
 * 【2025-02-17】[usds / website](https://github.com/usds/website) - 
 * 【2025-02-16】[mlfoundations / evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic Evals for LLMs
