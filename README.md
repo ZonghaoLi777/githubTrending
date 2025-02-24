@@ -4536,6 +4536,7 @@
 
 ## Go
 
+* 【2025-02-24】[uber / kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 * 【2025-02-22】[subtrace / subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 * 【2025-02-16】[kubernetes-sigs / lws](https://github.com/kubernetes-sigs/lws) - LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 * 【2025-02-15】[MartialBE / one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
@@ -5682,6 +5683,7 @@
 
 ## C
 
+* 【2025-02-24】[stlink-org / stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 * 【2025-02-21】[ghaerr / elks](https://github.com/ghaerr/elks) - Embeddable Linux Kernel Subset - Linux for 8086
 * 【2025-02-09】[eclipse-paho / paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
 * 【2025-02-05】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
@@ -6697,6 +6699,7 @@
 
 ## C++
 
+* 【2025-02-24】[mausimus / ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop
 * 【2025-02-23】[koide3 / glim](https://github.com/koide3/glim) - GLIM: versatile and extensible range-based 3D localization and mapping framework
 * 【2025-02-21】[ValveSoftware / source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 * 【2025-02-20】[catboost / catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
