@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-03-07】[microsoft / HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
 * 【2025-03-03】[guardianproject / orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 * 【2025-03-02】[synthetichealth / synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
 * 【2025-03-01】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
@@ -1161,6 +1162,8 @@
 
 ## Python
 
+* 【2025-03-07】[Plachtaa / seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
+* 【2025-03-07】[THUDM / CogView4](https://github.com/THUDM/CogView4) - CogView4, CogView3-Plus and CogView3(ECCV 2024)
 * 【2025-03-06】[commixproject / commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 * 【2025-03-06】[gpustack / gpustack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running AI models
 * 【2025-03-05】[virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
@@ -3284,6 +3287,8 @@
 
 ## Javascript
 
+* 【2025-03-07】[maxi1134 / Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
+* 【2025-03-07】[microsoft / generative-ai-with-javascript](https://github.com/microsoft/generative-ai-with-javascript) - Join a time-traveling adventure where you meet history’s legends while learning Generative AI technologies! ✨
 * 【2025-03-03】[lyfe00011 / levanter](https://github.com/lyfe00011/levanter) - 
 * 【2025-03-02】[klaudiosinani / hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 * 【2025-02-27】[pollinations / pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
@@ -10761,6 +10766,10 @@
 
 ## Unknown
 
+* 【2025-03-07】[Zzaphkiel / Seraphine](https://github.com/Zzaphkiel/Seraphine) - 
+* 【2025-03-07】[niXman / mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries) - MinGW-W64 compiler binaries
+* 【2025-03-07】[dhamaniasad / awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+* 【2025-03-07】[vasanthk / how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 * 【2025-03-03】[langgenius / dify-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples.
 * 【2025-03-01】[punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 * 【2025-03-01】[amusi / CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
