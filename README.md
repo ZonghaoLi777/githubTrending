@@ -1165,6 +1165,7 @@
 
 ## Python
 
+* 【2025-03-10】[opengeos / geoai](https://github.com/opengeos/geoai) - GeoAI: Artificial Intelligence for Geospatial Data
 * 【2025-03-09】[Lightricks / ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI
 * 【2025-03-08】[Tencent / HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
 * 【2025-03-07】[Plachtaa / seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
@@ -4569,6 +4570,8 @@
 
 ## Go
 
+* 【2025-03-10】[Aylur / ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
+* 【2025-03-10】[e2b-dev / infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B.
 * 【2025-03-09】[mark3labs / mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 * 【2025-03-09】[usual2970 / certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 * 【2025-03-08】[mostlygeek / llama-swap](https://github.com/mostlygeek/llama-swap) - transparent proxy server for llama.cpp's server to provide automatic model swapping
@@ -6747,6 +6750,8 @@
 
 ## C++
 
+* 【2025-03-10】[directvt / vtm](https://github.com/directvt/vtm) - Text-based desktop environment
+* 【2025-03-10】[diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 * 【2025-03-08】[Tencent / Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 * 【2025-03-08】[bytedance / flux](https://github.com/bytedance/flux) - A fast communication-overlapping library for tensor/expert parallelism on GPUs.
 * 【2025-03-04】[hedge-dev / UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
@@ -8780,6 +8785,7 @@
 
 ## Html
 
+* 【2025-03-10】[ClickHouse / ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 * 【2025-03-09】[OCA / stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting) - Provides Odoo Logistics reporting modules
 * 【2025-03-04】[TheSuperHackers / GeneralsGamePatch](https://github.com/TheSuperHackers/GeneralsGamePatch) - Community Patch to fix and improve original Generals Zero Hour 1.04
 * 【2025-03-04】[18F / guides](https://github.com/18F/guides) - 18F’s guides equip 18F teams, our partners, other practitioners, lawmakers, and the public with tools and practices to improve public services. They affirm experiences, build confidence, and empower exceptional digital experiences.
