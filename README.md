@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-03-12】[vavr-io / vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 * 【2025-03-09】[spring-projects / spring-ai-examples](https://github.com/spring-projects/spring-ai-examples) - 
 * 【2025-03-09】[deeplearning4j / deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn...
 * 【2025-03-09】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
@@ -1165,6 +1166,7 @@
 
 ## Python
 
+* 【2025-03-12】[yuruotong1 / autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 * 【2025-03-11】[thalissonvs / pydoll](https://github.com/thalissonvs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.
 * 【2025-03-11】[ElectricAlexis / NotaGen](https://github.com/ElectricAlexis/NotaGen) - NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms
 * 【2025-03-11】[kijai / ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) - 
@@ -3297,6 +3299,7 @@
 
 ## Javascript
 
+* 【2025-03-12】[Flux159 / mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 * 【2025-03-11】[mendableai / firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 * 【2025-03-08】[browserbase / mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - 
 * 【2025-03-07】[maxi1134 / Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
@@ -5735,6 +5738,7 @@
 
 ## C
 
+* 【2025-03-12】[MrGlockenspiel / activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 * 【2025-03-09】[easychen / pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 * 【2025-02-27】[espressif / esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
 * 【2025-02-27】[unkyulee / micro-journal](https://github.com/unkyulee/micro-journal) - 
@@ -8791,6 +8795,7 @@
 
 ## Html
 
+* 【2025-03-12】[allwefantasy / auto-coder](https://github.com/allwefantasy/auto-coder) - 
 * 【2025-03-10】[ClickHouse / ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 * 【2025-03-09】[OCA / stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting) - Provides Odoo Logistics reporting modules
 * 【2025-03-04】[TheSuperHackers / GeneralsGamePatch](https://github.com/TheSuperHackers/GeneralsGamePatch) - Community Patch to fix and improve original Generals Zero Hour 1.04
@@ -10792,6 +10797,7 @@
 
 ## Unknown
 
+* 【2025-03-12】[appcypher / awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 * 【2025-03-09】[rust-embedded / awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 * 【2025-03-07】[Zzaphkiel / Seraphine](https://github.com/Zzaphkiel/Seraphine) - 
 * 【2025-03-07】[niXman / mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries) - MinGW-W64 compiler binaries
