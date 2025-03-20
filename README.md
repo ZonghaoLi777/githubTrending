@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-03-20】[dji-sdk / Mobile-SDK-Android-V5](https://github.com/dji-sdk/Mobile-SDK-Android-V5) - MSDK V5 Sample
 * 【2025-03-18】[kooritea / fcmfix](https://github.com/kooritea/fcmfix) - [xposed]让fcm唤醒已完全停止的应用
 * 【2025-03-17】[sqlancer / sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 * 【2025-03-16】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
@@ -1172,6 +1173,9 @@
 
 ## Python
 
+* 【2025-03-20】[bytedance / LatentSync](https://github.com/bytedance/LatentSync) - Taming Stable Diffusion for Lip Sync!
+* 【2025-03-20】[fatihak / InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
+* 【2025-03-20】[wmariuss / awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 * 【2025-03-17】[ai-christianson / RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
 * 【2025-03-17】[subframe7536 / maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 * 【2025-03-17】[exo-lang / exo](https://github.com/exo-lang/exo) - Exocompilation for productive programming of hardware accelerators
@@ -3314,6 +3318,7 @@
 
 ## Javascript
 
+* 【2025-03-20】[NB-Group / NB_Music](https://github.com/NB-Group/NB_Music) - A nearly perfect music player.
 * 【2025-03-18】[exa-labs / exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
 * 【2025-03-16】[learnk8s / xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 * 【2025-03-13】[clusterzx / paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
@@ -4597,6 +4602,7 @@
 
 ## Go
 
+* 【2025-03-20】[mark3labs / mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 * 【2025-03-18】[marcopiovanello / yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 * 【2025-03-10】[Aylur / ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
 * 【2025-03-10】[e2b-dev / infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B.
@@ -5758,6 +5764,7 @@
 
 ## C
 
+* 【2025-03-20】[intel / xess](https://github.com/intel/xess) - Intel XeSS SDK
 * 【2025-03-17】[lwfinger / rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
 * 【2025-03-15】[open-quantum-safe / oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post-quantum algorithms
 * 【2025-03-12】[MrGlockenspiel / activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
@@ -6781,6 +6788,7 @@
 
 ## C++
 
+* 【2025-03-20】[YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Unfinished WIP
 * 【2025-03-18】[sipeed / NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 * 【2025-03-11】[thomasxm / BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) - Multilayered AV/EDR Evasion Framework
 * 【2025-03-10】[directvt / vtm](https://github.com/directvt/vtm) - Text-based desktop environment
@@ -7809,6 +7817,7 @@
 
 ## C#
 
+* 【2025-03-20】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with Span and LINQ to SIMD, LINQ to Tree (FileSystem, Json, GameObject, etc.) for all .NET platforms and Unity.
 * 【2025-03-06】[MichaelGrafnetter / DSInternals](https://github.com/MichaelGrafnetter/DSInternals) - Directory Services Internals (DSInternals) PowerShell Module and Framework
 * 【2025-03-05】[hedge-dev / HedgeModManager](https://github.com/hedge-dev/HedgeModManager) - Multiplatform rewrite of Hedge Mod Manager
 * 【2025-03-03】[DeltaV-Station / Delta-v](https://github.com/DeltaV-Station/Delta-v) - A fork of Space Station 14, embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine
@@ -8818,6 +8827,7 @@
 
 ## Html
 
+* 【2025-03-20】[docker / labs-ai-tools-for-devs](https://github.com/docker/labs-ai-tools-for-devs) - An MCP server & prompt runner for all of Docker. Simple Markdown. BYO LLM.
 * 【2025-03-17】[smaranjitghose / awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.
 * 【2025-03-17】[OWASP-BLT / BLT](https://github.com/OWASP-BLT/BLT) - OWASP BLT is a collection of security tools.
 * 【2025-03-13】[JackHopkins / factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
