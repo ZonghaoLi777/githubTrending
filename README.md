@@ -1174,6 +1174,7 @@
 
 ## Python
 
+* 【2025-03-22】[lastmile-ai / mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 * 【2025-03-21】[NVIDIA / physicsnemo](https://github.com/NVIDIA/physicsnemo) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
 * 【2025-03-21】[ShihuaHuang95 / DEIM](https://github.com/ShihuaHuang95/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
 * 【2025-03-20】[bytedance / LatentSync](https://github.com/bytedance/LatentSync) - Taming Stable Diffusion for Lip Sync!
@@ -4605,6 +4606,7 @@
 
 ## Go
 
+* 【2025-03-22】[pulumi / pulumi-aws](https://github.com/pulumi/pulumi-aws) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 * 【2025-03-21】[sinclairtarget / git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 * 【2025-03-21】[cloudwego / eino-examples](https://github.com/cloudwego/eino-examples) - Examples and demonstrations for using the Eino framework
 * 【2025-03-20】[mark3labs / mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
@@ -9773,6 +9775,7 @@
 
 ## Css
 
+* 【2025-03-22】[Diolinux / PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 * 【2025-03-15】[teacat / chaturbate-dvr](https://github.com/teacat/chaturbate-dvr) - 😎 Chaturbate DVR - auto records the stream when it goes online!
 * 【2025-03-13】[flick9000 / winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
 * 【2025-03-06】[uvdesk / community-skeleton](https://github.com/uvdesk/community-skeleton) - UVdesk Opensource Community Helpdesk Project built for all to make a Full Ticketing Support System along with many more other features.
