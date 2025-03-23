@@ -5771,6 +5771,7 @@
 
 ## C
 
+* 【2025-03-23】[tuya / TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n
 * 【2025-03-21】[gozfree / gear-lib](https://github.com/gozfree/gear-lib) - Gear-Lib, C library for IOT Embedded Multimedia and Network
 * 【2025-03-20】[intel / xess](https://github.com/intel/xess) - Intel XeSS SDK
 * 【2025-03-17】[lwfinger / rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
@@ -6796,6 +6797,7 @@
 
 ## C++
 
+* 【2025-03-23】[namazso / OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 * 【2025-03-21】[autowarefoundation / autoware_universe](https://github.com/autowarefoundation/autoware_universe) - 
 * 【2025-03-20】[YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Unfinished WIP
 * 【2025-03-18】[sipeed / NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
@@ -7826,6 +7828,7 @@
 
 ## C#
 
+* 【2025-03-23】[cyanfish / naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 * 【2025-03-21】[kangyu-california / PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
 * 【2025-03-20】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with Span and LINQ to SIMD, LINQ to Tree (FileSystem, Json, GameObject, etc.) for all .NET platforms and Unity.
 * 【2025-03-06】[MichaelGrafnetter / DSInternals](https://github.com/MichaelGrafnetter/DSInternals) - Directory Services Internals (DSInternals) PowerShell Module and Framework
