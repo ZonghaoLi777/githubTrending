@@ -1174,6 +1174,10 @@
 
 ## Python
 
+* 【2025-03-30】[jlowin / fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀
+* 【2025-03-30】[causify-ai / helpers](https://github.com/causify-ai/helpers) - Causify development system
+* 【2025-03-30】[aigc-apps / VideoX-Fun](https://github.com/aigc-apps/VideoX-Fun) - 📹 A more flexible framework that can generate videos at any resolution and creates videos from images.
+* 【2025-03-30】[jingyaogong / minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
 * 【2025-03-29】[chengazhen / cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 * 【2025-03-28】[PeterL1n / RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 * 【2025-03-27】[deepseek-ai / DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -3335,6 +3339,7 @@
 
 ## Javascript
 
+* 【2025-03-30】[MUTED64 / SearchEngineJumpPlus](https://github.com/MUTED64/SearchEngineJumpPlus) - 增强版搜索引擎跳转脚本，优化一些使用体验，Tampermonkey Userscript
 * 【2025-03-26】[prateek-chaubey / YTPro](https://github.com/prateek-chaubey/YTPro) - All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features.
 * 【2025-03-24】[pi-hole / web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 * 【2025-03-20】[NB-Group / NB_Music](https://github.com/NB-Group/NB_Music) - A nearly perfect music player.
@@ -6820,6 +6825,7 @@
 
 ## C++
 
+* 【2025-03-30】[Zackriya-Solutions / meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
 * 【2025-03-27】[ggml-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 * 【2025-03-26】[TarsCloud / Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 * 【2025-03-24】[FlagBrew / PKSM](https://github.com/FlagBrew/PKSM) - Gen I to GenVIII save manager.
@@ -7854,6 +7860,7 @@
 
 ## C#
 
+* 【2025-03-30】[PunishXIV / WrathCombo](https://github.com/PunishXIV/WrathCombo) - 
 * 【2025-03-29】[dexyfex / CodeWalker](https://github.com/dexyfex/CodeWalker) - 
 * 【2025-03-28】[b-editor / beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 * 【2025-03-23】[cyanfish / naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
