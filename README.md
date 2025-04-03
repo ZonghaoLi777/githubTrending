@@ -1176,6 +1176,8 @@
 
 ## Python
 
+* 【2025-04-03】[dreammis / social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+* 【2025-04-03】[apirrone / Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
 * 【2025-03-31】[blazickjp / arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 * 【2025-03-31】[basicmachines-co / basic-memory](https://github.com/basicmachines-co/basic-memory) - Basic Memory is a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants. All knowledge is stored in standard Markdown files on your computer, giving you full control and ownership of your data. Integrates directly with Obsidan.md
 * 【2025-03-31】[leminlimez / Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
@@ -3347,6 +3349,7 @@
 
 ## Javascript
 
+* 【2025-04-03】[JetBrains / mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 * 【2025-03-30】[MUTED64 / SearchEngineJumpPlus](https://github.com/MUTED64/SearchEngineJumpPlus) - 增强版搜索引擎跳转脚本，优化一些使用体验，Tampermonkey Userscript
 * 【2025-03-26】[prateek-chaubey / YTPro](https://github.com/prateek-chaubey/YTPro) - All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features.
 * 【2025-03-24】[pi-hole / web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
@@ -4634,6 +4637,7 @@
 
 ## Go
 
+* 【2025-04-03】[infracost / infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 * 【2025-04-02】[mgechev / revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 * 【2025-03-31】[0xJacky / nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 * 【2025-03-29】[mailhog / MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
@@ -8891,6 +8895,7 @@
 
 ## Html
 
+* 【2025-04-03】[dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 * 【2025-03-29】[canonical / ubuntu.com](https://github.com/canonical/ubuntu.com) - The official website for the Ubuntu operating system
 * 【2025-03-28】[harvesthq / chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 * 【2025-03-25】[m4tinbeigi-official / freemovie](https://github.com/m4tinbeigi-official/freemovie) - 
@@ -9832,6 +9837,7 @@
 
 ## Css
 
+* 【2025-04-03】[catppuccin / jupyterlab](https://github.com/catppuccin/jupyterlab) - 📊 Soothing pastel theme for JupyterLab
 * 【2025-04-02】[lscambo13 / ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI.
 * 【2025-03-26】[Yavuzlar / VulnLab](https://github.com/Yavuzlar/VulnLab) - 
 * 【2025-03-24】[littleosbook / littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
@@ -10909,6 +10915,8 @@
 
 ## Unknown
 
+* 【2025-04-03】[SLAM-Handbook-contributors / slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
+* 【2025-04-03】[wong2 / awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 * 【2025-03-25】[caido / caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 * 【2025-03-18】[notable / notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 * 【2025-03-12】[appcypher / awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
