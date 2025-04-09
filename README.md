@@ -1178,6 +1178,8 @@
 
 ## Python
 
+* 【2025-04-09】[jwohlwend / boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz-1 biomolecular interaction model
+* 【2025-04-09】[zhenxun-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，非常可爱的绪山真寻bot
 * 【2025-04-08】[vllm-project / llm-compressor](https://github.com/vllm-project/llm-compressor) - Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
 * 【2025-04-07】[stephengpope / no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API. Designed for businesses, creators, and developers, it streamlines advanced media processing, including video editing and captioning, image transformations, cloud storage, and Python code execution.
 * 【2025-04-07】[camel-ai / oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents. https://oasis.camel-ai.org
@@ -3360,6 +3362,7 @@
 
 ## Javascript
 
+* 【2025-04-09】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 * 【2025-04-06】[googlecreativelab / chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API.
 * 【2025-04-04】[adobe / aem-guides-wknd](https://github.com/adobe/aem-guides-wknd) - Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
 * 【2025-04-04】[dillonzq / LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
@@ -5826,6 +5829,8 @@
 
 ## C
 
+* 【2025-04-09】[Xilinx / dma_ip_drivers](https://github.com/Xilinx/dma_ip_drivers) - Xilinx QDMA IP Drivers
+* 【2025-04-09】[TrungNguyen1909 / qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) - iPhone 11 emulated on QEMU
 * 【2025-04-08】[monero-project / monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency
 * 【2025-04-06】[InitWare / InitWare](https://github.com/InitWare/InitWare) - The InitWare Suite of Middleware allows you to manage services and system resources as logical entities called units. Its main component is a service management ("init") system.
 * 【2025-04-05】[clockworkpi / PicoCalc](https://github.com/clockworkpi/PicoCalc) - A calculator like nothing you've ever seen before, right?
@@ -7905,6 +7910,8 @@
 
 ## C#
 
+* 【2025-04-09】[FlorianButz / DynamicWin](https://github.com/FlorianButz/DynamicWin) - A Dynamic Island inspired app for Windows machines.
+* 【2025-04-09】[Ishaan35 / Unity3D-Mario-Kart-Racing-Game](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) - https://www.youtube.com/watch?v=s_nEniWLLgo. This is a 3D Mario kart game created with the unity game engine with C#. Kart racer supports items, anti-gravity mode, computer players, underwater mode, and real-time shadows and lighting.
 * 【2025-04-06】[martinothamar / Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
 * 【2025-04-06】[Unity-Technologies / com.unity.multiplayer.samples.coop](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop) - A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game.
 * 【2025-04-05】[BililiveRecorder / BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
