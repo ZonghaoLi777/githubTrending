@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-04-21】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 * 【2025-04-18】[ClickHouse / clickhouse-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients & JDBC Driver
 * 【2025-04-15】[Audiveris / audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
 * 【2025-04-15】[AugmentOS-Community / AugmentOS](https://github.com/AugmentOS-Community/AugmentOS) - Smart glasses OS, with dozens of built-in apps. Users get AI assistant, notifications, translation, screen mirror, captions, and more. Devs get to write 1 app that runs on any pair of smart glases.
@@ -1183,6 +1184,7 @@
 
 ## Python
 
+* 【2025-04-21】[robfiras / loco-mujoco](https://github.com/robfiras/loco-mujoco) - Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.
 * 【2025-04-20】[kijai / ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
 * 【2025-04-20】[cyclotruc / gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 * 【2025-04-20】[Lightricks / LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
@@ -3380,6 +3382,7 @@
 
 ## Javascript
 
+* 【2025-04-21】[satellitecomponent / Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 * 【2025-04-20】[modstart-lib / ueditor-plus](https://github.com/modstart-lib/ueditor-plus) - 基于 UEditor 二次开发的富文本编辑器
 * 【2025-04-19】[gradio-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 * 【2025-04-19】[hexgrad / kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
@@ -4680,6 +4683,8 @@
 
 ## Go
 
+* 【2025-04-21】[ncruces / go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero
+* 【2025-04-21】[OWASP / Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 * 【2025-04-20】[anthropics / anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
 * 【2025-04-18】[donknap / dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight panel for docker
 * 【2025-04-13】[goccy / go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
@@ -5857,6 +5862,7 @@
 
 ## C
 
+* 【2025-04-21】[oerg866 / win98-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
 * 【2025-04-20】[GermanAizek / WinRing0](https://github.com/GermanAizek/WinRing0) - WinRing0 is a hardware access library for Windows.
 * 【2025-04-19】[marcoroth / herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling.
 * 【2025-04-17】[tsoding / nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
@@ -6903,6 +6909,7 @@
 
 ## C++
 
+* 【2025-04-21】[ashvardanian / less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
 * 【2025-04-18】[Lizonghang / prima.cpp](https://github.com/Lizonghang/prima.cpp) - prima.cpp: Speeding up 70B-scale LLM inference on low-resource everyday home clusters
 * 【2025-04-15】[HanGuo97 / flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table-Quantized LLMs
 * 【2025-04-13】[ezEngine / ezEngine](https://github.com/ezEngine/ezEngine) - An open source C++ game engine.
