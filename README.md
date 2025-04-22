@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-04-22】[aws-containers / retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 * 【2025-04-21】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 * 【2025-04-18】[ClickHouse / clickhouse-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients & JDBC Driver
 * 【2025-04-15】[Audiveris / audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
@@ -3382,6 +3383,7 @@
 
 ## Javascript
 
+* 【2025-04-22】[discord / discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 * 【2025-04-21】[satellitecomponent / Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 * 【2025-04-20】[modstart-lib / ueditor-plus](https://github.com/modstart-lib/ueditor-plus) - 基于 UEditor 二次开发的富文本编辑器
 * 【2025-04-19】[gradio-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
@@ -4683,6 +4685,7 @@
 
 ## Go
 
+* 【2025-04-22】[ltaoo / wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
 * 【2025-04-21】[ncruces / go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero
 * 【2025-04-21】[OWASP / Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 * 【2025-04-20】[anthropics / anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
