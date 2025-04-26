@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2025-04-26】[eclipse / openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
+* 【2025-04-26】[msfroh / lucene-university](https://github.com/msfroh/lucene-university) - Self-contained worked examples of Apache Lucene features and functionality
 * 【2025-04-25】[metasfresh / metasfresh](https://github.com/metasfresh/metasfresh) - We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.
 * 【2025-04-23】[baomidou / dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务
 * 【2025-04-22】[aws-containers / retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
@@ -1187,6 +1189,7 @@
 
 ## Python
 
+* 【2025-04-26】[potamides / DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
 * 【2025-04-25】[thunlp / LLMxMapReduce](https://github.com/thunlp/LLMxMapReduce) - 
 * 【2025-04-25】[FunAudioLLM / CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 * 【2025-04-24】[bytedance / UI-TARS](https://github.com/bytedance/UI-TARS) - 
@@ -4694,6 +4697,7 @@
 
 ## Go
 
+* 【2025-04-26】[cloudflare / cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 * 【2025-04-25】[autokitteh / autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
 * 【2025-04-25】[yannh / kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 * 【2025-04-24】[spegel-org / spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
@@ -6928,6 +6932,7 @@
 
 ## C++
 
+* 【2025-04-26】[unitreerobotics / unitree_mujoco](https://github.com/unitreerobotics/unitree_mujoco) - 
 * 【2025-04-24】[worawit / blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
 * 【2025-04-23】[RCInet / LastEpoch_Mods](https://github.com/RCInet/LastEpoch_Mods) - MelonLoader Mods for LastEpoch
 * 【2025-04-21】[ashvardanian / less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
