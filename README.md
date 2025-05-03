@@ -3401,6 +3401,7 @@
 
 ## Javascript
 
+* 【2025-05-03】[ubuntu / gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
 * 【2025-05-02】[muyoou / st-memory-enhancement](https://github.com/muyoou/st-memory-enhancement) - SillyTavern酒馆的长期记忆增强插件
 * 【2025-05-02】[json-schema-org / json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 * 【2025-05-02】[department-of-veterans-affairs / vets-website](https://github.com/department-of-veterans-affairs/vets-website) - Frontend for VA.gov
@@ -4713,6 +4714,7 @@
 
 ## Go
 
+* 【2025-05-03】[benbjohnson / litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 * 【2025-05-02】[ibnaleem / gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 * 【2025-05-01】[kubernetes-sigs / aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) - CSI driver for Amazon EBS https://aws.amazon.com/ebs/
 * 【2025-04-30】[Tencent / AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.
@@ -6956,6 +6958,8 @@
 
 ## C++
 
+* 【2025-05-03】[jeremy-rifkin / cpptrace](https://github.com/jeremy-rifkin/cpptrace) - Simple, portable, and self-contained stacktrace library for C++11 and newer
+* 【2025-05-03】[Oneflow-Inc / oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 * 【2025-05-02】[ramensoftware / windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 * 【2025-05-01】[MuShibo / Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
 * 【2025-04-28】[AutoHotkey / AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -8012,6 +8016,8 @@
 
 ## C#
 
+* 【2025-05-03】[meysamhadeli / monolith-to-cloud-architecture](https://github.com/meysamhadeli/monolith-to-cloud-architecture) - A practical architecture styles for migrating from monolith to modern cloud native application with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, and Masstransit in .Net 9.
+* 【2025-05-03】[SpaceTimee / Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 * 【2025-04-30】[xceedsoftware / wpftoolkit](https://github.com/xceedsoftware/wpftoolkit) - All the controls missing in WPF. Over 1 million downloads.
 * 【2025-04-29】[intro-skipper / intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2025-04-28】[Goob-Station / Goob-Station](https://github.com/Goob-Station/Goob-Station) - Wizden, but more random.
@@ -9044,6 +9050,7 @@
 
 ## Html
 
+* 【2025-05-03】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
 * 【2025-05-01】[dendianugerah / reubah](https://github.com/dendianugerah/reubah) - a web-based tool for processing images and converting documents with a simple interface
 * 【2025-04-29】[EmptyLibra / Configure-Xray-with-VLESS-Reality-on-VPS-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)
 * 【2025-04-27】[john-friedman / datamule-python](https://github.com/john-friedman/datamule-python) - A package to work with SEC data. Incorporates datamule endpoints.
