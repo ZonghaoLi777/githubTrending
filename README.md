@@ -1193,6 +1193,7 @@
 
 ## Python
 
+* 【2025-05-08】[evroon / bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 * 【2025-05-07】[awslabs / agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 * 【2025-05-07】[Capsize-Games / airunner](https://github.com/Capsize-Games/airunner) - Privacy focused, local-first, multi-modal inference engine and agent platform for running LLMs, image generation, speech processing, and tool-based automation
 * 【2025-05-07】[HarrisonKramer / optiland](https://github.com/HarrisonKramer/optiland) - Comprehensive optical design, optimization, and analysis in Python, including GPU-accelerated and differentiable ray tracing via PyTorch.
@@ -3410,6 +3411,8 @@
 
 ## Javascript
 
+* 【2025-05-08】[modelcontextprotocol / servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+* 【2025-05-08】[GeoNode / geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 * 【2025-05-07】[igrigorik / videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 * 【2025-05-06】[serverless-dns / serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 * 【2025-05-06】[git-tips / tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -4727,6 +4730,8 @@
 
 ## Go
 
+* 【2025-05-08】[derailed / popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
+* 【2025-05-08】[rzane / docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 * 【2025-05-07】[gabe565 / ascii-movie](https://github.com/gabe565/ascii-movie) - Star Wars SSH + Telnet server written in Go.
 * 【2025-05-06】[sozercan / kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 * 【2025-05-05】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
@@ -8037,6 +8042,7 @@
 
 ## C#
 
+* 【2025-05-08】[kurrent-io / KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 * 【2025-05-03】[meysamhadeli / monolith-to-cloud-architecture](https://github.com/meysamhadeli/monolith-to-cloud-architecture) - A practical architecture styles for migrating from monolith to modern cloud native application with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, and Masstransit in .Net 9.
 * 【2025-05-03】[SpaceTimee / Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 * 【2025-04-30】[xceedsoftware / wpftoolkit](https://github.com/xceedsoftware/wpftoolkit) - All the controls missing in WPF. Over 1 million downloads.
