@@ -1194,6 +1194,7 @@
 
 ## Python
 
+* 【2025-05-15】[pirxthepilot / wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 * 【2025-05-14】[xming521 / WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
 * 【2025-05-14】[pallets / click](https://github.com/pallets/click) - Python composable command line interface toolkit
 * 【2025-05-14】[simonw / files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
@@ -3422,6 +3423,7 @@
 
 ## Javascript
 
+* 【2025-05-15】[wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 * 【2025-05-14】[evalstate / fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
 * 【2025-05-13】[tidalcycles / strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 * 【2025-05-11】[certd / certd](https://github.com/certd/certd) - 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
@@ -8064,6 +8066,7 @@
 
 ## C#
 
+* 【2025-05-15】[dotnet / dotnet](https://github.com/dotnet/dotnet) - Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.
 * 【2025-05-13】[GhostPack / SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) - SharpDPAPI is a C# port of some Mimikatz DPAPI functionality.
 * 【2025-05-08】[kurrent-io / KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 * 【2025-05-03】[meysamhadeli / monolith-to-cloud-architecture](https://github.com/meysamhadeli/monolith-to-cloud-architecture) - A practical architecture styles for migrating from monolith to modern cloud native application with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, and Masstransit in .Net 9.
@@ -9100,6 +9103,7 @@
 
 ## Html
 
+* 【2025-05-15】[thewickedkarma / blackeye-im](https://github.com/thewickedkarma/blackeye-im) - This project is now discontinued. Kindly use other working alternatives.
 * 【2025-05-10】[NightProxy / Space](https://github.com/NightProxy/Space) - Space is a modern, and clean web proxy with many games, apps and features.
 * 【2025-05-07】[Blobby-Boi / ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r) - An exploit that allows ChromeOS users to kill extensions by printing iframes. The successor to ExtHang3r.
 * 【2025-05-03】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
@@ -11137,6 +11141,7 @@
 
 ## Unknown
 
+* 【2025-05-15】[stackia / best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 * 【2025-05-11】[fudan-generative-vision / OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - [CVPR 2025] A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation
 * 【2025-05-10】[logpai / loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
 * 【2025-05-01】[hzpt-inet-club / english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
