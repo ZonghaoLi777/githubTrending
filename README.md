@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-05-19】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
 * 【2025-05-09】[modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 * 【2025-05-01】[lavalink-devs / youtube-source](https://github.com/lavalink-devs/youtube-source) - A rewritten YouTube source manager for Lavaplayer.
 * 【2025-04-28】[oasisfeng / island](https://github.com/oasisfeng/island) - Island for Android
