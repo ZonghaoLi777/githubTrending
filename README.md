@@ -3448,6 +3448,7 @@
 
 ## Javascript
 
+* 【2025-06-01】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
 * 【2025-05-28】[humanwhocodes / crosspost](https://github.com/humanwhocodes/crosspost) - A JavaScript utility for posting across multiple social networks at once
 * 【2025-05-28】[minio / object-browser](https://github.com/minio/object-browser) - Simple UI for MinIO Object Storage 🧮
 * 【2025-05-27】[mayswind / AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
@@ -7063,6 +7064,7 @@
 
 ## C++
 
+* 【2025-06-01】[su2code / SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
 * 【2025-05-28】[Slicer / Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 * 【2025-05-24】[pafuhana1213 / KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - KawaiiPhysics : Simple fake Physics for UnrealEngine4 & 5
 * 【2025-05-23】[google-ai-edge / LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT is the new name for TensorFlow Lite (TFLite). While the name is new, it's still the same trusted, high-performance runtime for on-device AI, now with an expanded vision.
@@ -8134,6 +8136,8 @@
 
 ## C#
 
+* 【2025-06-01】[oculus-samples / Unity-PassthroughCameraApiSamples](https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples) - A Sample Project for Passthrough Camera API in Unity.
+* 【2025-06-01】[huynhsontung / Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
 * 【2025-05-24】[skills / secure-repository-supply-chain](https://github.com/skills/secure-repository-supply-chain) - Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them
 * 【2025-05-23】[microsoft / Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
 * 【2025-05-22】[clawsoftware / clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
@@ -10135,6 +10139,7 @@
 
 ## Css
 
+* 【2025-06-01】[leopardpan / leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io) - 个人博客，看效果进入
 * 【2025-05-30】[hunvreus / basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 * 【2025-05-29】[wso2 / docs-apim](https://github.com/wso2/docs-apim) - 
 * 【2025-05-27】[mattermost / mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation) - Mattermost developer documentation.
@@ -11225,6 +11230,9 @@
 
 ## Unknown
 
+* 【2025-06-01】[TheRobotStudio / SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
+* 【2025-06-01】[skywind3000 / preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
+* 【2025-06-01】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 * 【2025-05-31】[AlexanderZhou01 / China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
 * 【2025-05-30】[deepseek-ai / DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 * 【2025-05-26】[deepanshu1422 / List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs) - A curated list of all the open-source internships/Programs
