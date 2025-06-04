@@ -1197,6 +1197,7 @@
 
 ## Python
 
+* 【2025-06-04】[mofeng-git / One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。
 * 【2025-06-02】[dwyl / english-words](https://github.com/dwyl/english-words) - 📝 A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 * 【2025-06-02】[ivnvxd / arc-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
 * 【2025-05-31】[coleam00 / local-ai-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
@@ -3451,6 +3452,7 @@
 
 ## Javascript
 
+* 【2025-06-04】[einaregilsson / Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 * 【2025-06-03】[google-ai-edge / model-explorer](https://github.com/google-ai-edge/model-explorer) - A modern model graph visualizer and debugger
 * 【2025-06-01】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
 * 【2025-05-28】[humanwhocodes / crosspost](https://github.com/humanwhocodes/crosspost) - A JavaScript utility for posting across multiple social networks at once
@@ -6005,6 +6007,7 @@
 
 ## C
 
+* 【2025-06-04】[mrexodia / TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel-driver for x86/x64.
 * 【2025-05-29】[FlyGoat / csmwrap](https://github.com/FlyGoat/csmwrap) - Get PC BIOS back on UEFI only system
 * 【2025-05-24】[jniebuhr / gaggimate](https://github.com/jniebuhr/gaggimate) - This project upgrades a Gaggia espresso machine with smart controls to improve your coffee-making experience. By adding a display and custom electronics, you can monitor and control the machine more easily.
 * 【2025-05-24】[FDio / vpp](https://github.com/FDio/vpp) - Mirror of VPP code base hosted at git.fd.io
@@ -9185,6 +9188,7 @@
 
 ## Html
 
+* 【2025-06-04】[projectcontour / contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 * 【2025-05-26】[Anduin2017 / AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows.
 * 【2025-05-25】[wizarrrr / wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 * 【2025-05-24】[codelucas / newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
