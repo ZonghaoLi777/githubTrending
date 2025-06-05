@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-06-05】[joey-zhou / xiaozhi-esp32-server-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
 * 【2025-06-03】[PaperMC / Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 * 【2025-05-27】[boricj / ghidra-delinker-extension](https://github.com/boricj/ghidra-delinker-extension) - Ghidra extension for exporting relocatable object files
 * 【2025-05-19】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
@@ -1197,6 +1198,8 @@
 
 ## Python
 
+* 【2025-06-05】[conda / conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
+* 【2025-06-05】[mit-han-lab / nunchaku](https://github.com/mit-han-lab/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 * 【2025-06-04】[mofeng-git / One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。
 * 【2025-06-02】[dwyl / english-words](https://github.com/dwyl/english-words) - 📝 A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 * 【2025-06-02】[ivnvxd / arc-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
@@ -3452,6 +3455,8 @@
 
 ## Javascript
 
+* 【2025-06-05】[DevLARLEY / WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
+* 【2025-06-05】[ConardLi / easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 * 【2025-06-04】[einaregilsson / Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 * 【2025-06-03】[google-ai-edge / model-explorer](https://github.com/google-ai-edge/model-explorer) - A modern model graph visualizer and debugger
 * 【2025-06-01】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
@@ -4789,6 +4794,7 @@
 
 ## Go
 
+* 【2025-06-05】[langhuihui / monibuca](https://github.com/langhuihui/monibuca) - 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server
 * 【2025-06-03】[dagu-org / dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 * 【2025-05-31】[krillinai / KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 * 【2025-05-30】[NVIDIA / KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
@@ -10150,6 +10156,7 @@
 
 ## Css
 
+* 【2025-06-05】[greeeen-dev / natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - A userchrome for Zen Browser that makes things flow.
 * 【2025-06-01】[leopardpan / leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io) - 个人博客，看效果进入
 * 【2025-05-30】[hunvreus / basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 * 【2025-05-29】[wso2 / docs-apim](https://github.com/wso2/docs-apim) - 
@@ -11241,6 +11248,8 @@
 
 ## Unknown
 
+* 【2025-06-05】[mlabonne / llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+* 【2025-06-05】[k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 * 【2025-06-02】[geerlingguy / mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 * 【2025-06-01】[TheRobotStudio / SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
 * 【2025-06-01】[skywind3000 / preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
