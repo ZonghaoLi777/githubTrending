@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-06-06】[apache / fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2025-06-05】[joey-zhou / xiaozhi-esp32-server-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
 * 【2025-06-03】[PaperMC / Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 * 【2025-05-27】[boricj / ghidra-delinker-extension](https://github.com/boricj/ghidra-delinker-extension) - Ghidra extension for exporting relocatable object files
@@ -1198,6 +1199,9 @@
 
 ## Python
 
+* 【2025-06-06】[topoteretes / cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code
+* 【2025-06-06】[LMCache / LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs
+* 【2025-06-06】[HKUDS / AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 * 【2025-06-05】[conda / conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 * 【2025-06-05】[mit-han-lab / nunchaku](https://github.com/mit-han-lab/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 * 【2025-06-04】[mofeng-git / One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。
@@ -7078,6 +7082,7 @@
 
 ## C++
 
+* 【2025-06-06】[unitreerobotics / unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2) - Unitree robot sdk version 2. https://support.unitree.com/home/zh/developer
 * 【2025-06-01】[su2code / SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
 * 【2025-05-28】[Slicer / Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 * 【2025-05-24】[pafuhana1213 / KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - KawaiiPhysics : Simple fake Physics for UnrealEngine4 & 5
@@ -8150,6 +8155,7 @@
 
 ## C#
 
+* 【2025-06-06】[UnderminersTeam / UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
 * 【2025-06-03】[iiDk-the-actual / iis.Stupid.Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) - A mod menu for Gorilla Tag with over 800+ mods
 * 【2025-06-03】[RMC-14 / RMC-14](https://github.com/RMC-14/RMC-14) - RMC-14 is an asymmetric PvP game that runs on Robust Toolbox.
 * 【2025-06-01】[oculus-samples / Unity-PassthroughCameraApiSamples](https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples) - A Sample Project for Passthrough Camera API in Unity.
