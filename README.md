@@ -1201,6 +1201,7 @@
 
 ## Python
 
+* 【2025-06-10】[Comfy-Org / ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 * 【2025-06-09】[r-three / common-pile](https://github.com/r-three/common-pile) - Code for collecting, processing, and preparing datasets for the Common Pile
 * 【2025-06-09】[langchain-ai / langmem](https://github.com/langchain-ai/langmem) - 
 * 【2025-06-08】[haris-musa / excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
@@ -4808,6 +4809,7 @@
 
 ## Go
 
+* 【2025-06-10】[akvorado / akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 * 【2025-06-09】[steveiliop56 / tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 * 【2025-06-07】[Glimesh / broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 * 【2025-06-05】[langhuihui / monibuca](https://github.com/langhuihui/monibuca) - 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server
@@ -9217,6 +9219,7 @@
 
 ## Html
 
+* 【2025-06-10】[GetPublii / Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 * 【2025-06-09】[robiningelbrecht / statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 * 【2025-06-07】[TheKing-OfTime / YandexMusicModClient](https://github.com/TheKing-OfTime/YandexMusicModClient) - Modification for Yandex Music Desktop application to add some features
 * 【2025-06-04】[projectcontour / contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
