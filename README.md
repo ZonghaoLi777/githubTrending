@@ -4815,6 +4815,7 @@
 
 ## Go
 
+* 【2025-06-13】[gtsteffaniak / filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 * 【2025-06-10】[akvorado / akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 * 【2025-06-09】[steveiliop56 / tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 * 【2025-06-07】[Glimesh / broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
@@ -8184,6 +8185,8 @@
 
 ## C#
 
+* 【2025-06-13】[fluentcms / FluentCMS](https://github.com/fluentcms/FluentCMS) - ASP.NET Core Blazor Content Management System (CMS)
+* 【2025-06-13】[not-nullptr / Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
 * 【2025-06-12】[umlx5h / LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 * 【2025-06-08】[SteveDunn / Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
 * 【2025-06-06】[UnderminersTeam / UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
@@ -10198,6 +10201,7 @@
 
 ## Css
 
+* 【2025-06-13】[google-gemini / gemini-api-quickstart](https://github.com/google-gemini/gemini-api-quickstart) - Get up and running with the Gemini API in under 5 minutes (with Python)
 * 【2025-06-11】[B00merang-Project / Windows-XP](https://github.com/B00merang-Project/Windows-XP) - Windows XP themes
 * 【2025-06-08】[JustAdumbPrsn / Zen-Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) - A minimalist Glassmorphism based theme to elevate the UI of Zen browser
 * 【2025-06-05】[greeeen-dev / natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - A userchrome for Zen Browser that makes things flow.
