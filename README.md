@@ -4815,6 +4815,7 @@
 
 ## Go
 
+* 【2025-06-14】[cloudreve / cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 * 【2025-06-13】[gtsteffaniak / filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 * 【2025-06-10】[akvorado / akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 * 【2025-06-09】[steveiliop56 / tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
@@ -6038,6 +6039,7 @@
 
 ## C
 
+* 【2025-06-14】[PostHog / DeskHog](https://github.com/PostHog/DeskHog) - A friend for your desk, a dedicated terminal for numbers
 * 【2025-06-12】[aws / pgactive](https://github.com/aws/pgactive) - 
 * 【2025-06-12】[glouw / ctl](https://github.com/glouw/ctl) - The C Template Library
 * 【2025-06-12】[dunst-project / dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
