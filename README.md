@@ -1203,6 +1203,7 @@
 
 ## Python
 
+* 【2025-06-23】[donnemartin / awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
 * 【2025-06-22】[kijai / ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 * 【2025-06-21】[hiyouga / EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
 * 【2025-06-21】[dottxt-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
