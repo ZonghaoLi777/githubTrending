@@ -1213,6 +1213,8 @@
 
 ## Python
 
+* 【2025-07-05】[megadose / toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
+* 【2025-07-05】[chrishayuk / mcp-cli](https://github.com/chrishayuk/mcp-cli) - 
 * 【2025-07-03】[PaddlePaddle / ERNIE](https://github.com/PaddlePaddle/ERNIE) - The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle.
 * 【2025-07-01】[wyeeeee / hajimi](https://github.com/wyeeeee/hajimi) - 这是一个基于 FastAPI 构建的 Gemini API 代理
 * 【2025-06-30】[neo4j-contrib / mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) - Model Context Protocol with Neo4j
@@ -3510,6 +3512,7 @@
 
 ## Javascript
 
+* 【2025-07-05】[nwjs / nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 * 【2025-07-04】[ppl-ai / modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 * 【2025-07-02】[horsicq / Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 * 【2025-06-29】[danielmiessler / Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -4863,6 +4866,7 @@
 
 ## Go
 
+* 【2025-07-05】[yusing / godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
 * 【2025-07-04】[go-dev-frame / sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 * 【2025-07-04】[hypermodeinc / ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
 * 【2025-07-04】[kagent-dev / kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
