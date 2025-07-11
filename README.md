@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-07-11】[ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 * 【2025-07-08】[Aefyr / SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 * 【2025-07-04】[FaceAISDK / FaceAISDK_Android](https://github.com/FaceAISDK/FaceAISDK_Android) - Android on_device 1:1 Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 🧒 离线版设备端Android1:1人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装。全程可开飞行模式不用联网
 * 【2025-07-03】[apache / fluss](https://github.com/apache/fluss) - Apache Fluss is a streaming storage built for real-time analytics.
@@ -1214,6 +1215,9 @@
 
 ## Python
 
+* 【2025-07-11】[snap-stanford / Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
+* 【2025-07-11】[ali-vilab / VACE](https://github.com/ali-vilab/VACE) - Official implementations for paper: VACE: All-in-One Video Creation and Editing
+* 【2025-07-11】[huggingface / smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 * 【2025-07-10】[microsoft / MoGe](https://github.com/microsoft/MoGe) - [CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
 * 【2025-07-10】[awslabs / mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 * 【2025-07-10】[D4Vinci / Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
@@ -4879,6 +4883,7 @@
 
 ## Go
 
+* 【2025-07-11】[beam-cloud / beta9](https://github.com/beam-cloud/beta9) - Secure, high-performance AI infrastructure in Python.
 * 【2025-07-10】[vllm-project / aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
 * 【2025-07-08】[PlakarKorp / plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 * 【2025-07-07】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing-box、等分流规则
@@ -6123,6 +6128,7 @@
 
 ## C
 
+* 【2025-07-11】[rbaron / b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
 * 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2025-07-08】[manaskamal / XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
 * 【2025-07-08】[mcmilk / 7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
