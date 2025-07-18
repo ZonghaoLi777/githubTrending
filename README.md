@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-07-18】[spinnaker / spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 * 【2025-07-14】[re-zero001 / LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 * 【2025-07-13】[GumTreeDiff / gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
 * 【2025-07-11】[ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
@@ -1217,6 +1218,7 @@
 
 ## Python
 
+* 【2025-07-18】[langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 * 【2025-07-17】[mindverse / Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 * 【2025-07-17】[philippemerle / KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 * 【2025-07-16】[kvcache-ai / ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
@@ -3537,6 +3539,7 @@
 
 ## Javascript
 
+* 【2025-07-18】[phcode-dev / phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 * 【2025-07-14】[Parcoil / Sparkle](https://github.com/Parcoil/Sparkle) - Ultimate Windows Optimizer
 * 【2025-07-12】[elastic / mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - 
 * 【2025-07-10】[zereight / gitlab-mcp](https://github.com/zereight/gitlab-mcp) - gitlab mcp
