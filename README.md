@@ -1218,6 +1218,9 @@
 
 ## Python
 
+* 【2025-07-22】[p1ngul1n0 / blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
+* 【2025-07-22】[josh0xA / darkdump](https://github.com/josh0xA/darkdump) - Open Source Intelligence Interface for Deep Web Scraping
+* 【2025-07-22】[Yaofang-Liu / Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - Pusa: Thousands Timesteps Video Diffusion Model
 * 【2025-07-21】[hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 * 【2025-07-21】[wasi-master / 13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 * 【2025-07-19】[chubin / wttr.in](https://github.com/chubin/wttr.in) - ⛅ The right way to check the weather
@@ -4904,6 +4907,8 @@
 
 ## Go
 
+* 【2025-07-22】[v2ray / domain-list-community](https://github.com/v2ray/domain-list-community) - Community managed domain list
+* 【2025-07-22】[donetick / donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 * 【2025-07-21】[mudler / LocalRecall](https://github.com/mudler/LocalRecall) - 🧠 100% Local Memory layer and Knowledge base for agents with WebUI
 * 【2025-07-17】[hypermodeinc / badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
 * 【2025-07-17】[bcicen / ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -6157,6 +6162,7 @@
 
 ## C
 
+* 【2025-07-22】[Zelda64Recomp / Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 * 【2025-07-13】[Crypto-toolbox / HFT-Orderbook](https://github.com/Crypto-toolbox/HFT-Orderbook) - Limit Order Book for high-frequency trading (HFT), as described by WK Selph, implemented in Python3 and C
 * 【2025-07-12】[PufferAI / PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
 * 【2025-07-11】[rbaron / b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
@@ -8336,6 +8342,7 @@
 
 ## C#
 
+* 【2025-07-22】[REDSIM / VRCLightVolumes](https://github.com/REDSIM/VRCLightVolumes) - Nextgen voxel based light probes replacement for VRChat
 * 【2025-07-21】[imDema / FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
 * 【2025-07-20】[SuperStudio / SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具
 * 【2025-07-20】[Azure / azure-mcp](https://github.com/Azure/azure-mcp) - The Azure MCP Server, bringing the power of Azure to your agents.
@@ -10388,6 +10395,7 @@
 
 ## Css
 
+* 【2025-07-22】[aculix / bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
 * 【2025-07-21】[Chainlift / liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
 * 【2025-07-20】[linera-io / linera-documentation](https://github.com/linera-io/linera-documentation) - 
 * 【2025-07-20】[LeelaChessZero / lczero.org](https://github.com/LeelaChessZero/lczero.org) - A website (will be lczero.org)
