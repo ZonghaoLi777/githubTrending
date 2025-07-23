@@ -1218,6 +1218,7 @@
 
 ## Python
 
+* 【2025-07-23】[sooperset / mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 * 【2025-07-22】[p1ngul1n0 / blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 * 【2025-07-22】[josh0xA / darkdump](https://github.com/josh0xA/darkdump) - Open Source Intelligence Interface for Deep Web Scraping
 * 【2025-07-22】[Yaofang-Liu / Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - Pusa: Thousands Timesteps Video Diffusion Model
@@ -9416,6 +9417,8 @@
 
 ## Html
 
+* 【2025-07-23】[Tanq16 / ExpenseOwl](https://github.com/Tanq16/ExpenseOwl) - Extremely simple, self-hosted expense tracker with a beautiful UI.
+* 【2025-07-23】[ibm-developer-skills-network / gkpbt-css-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle) - css-circle
 * 【2025-07-17】[zhtyyx / ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
 * 【2025-07-17】[ioccc-src / winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 * 【2025-07-14】[ephtracy / ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
