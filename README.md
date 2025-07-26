@@ -1219,6 +1219,7 @@
 
 ## Python
 
+* 【2025-07-26】[roboflow / rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
 * 【2025-07-25】[QwenLM / Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-07-25】[SkyworkAI / SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
 * 【2025-07-25】[QwenLM / Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
@@ -4913,6 +4914,7 @@
 
 ## Go
 
+* 【2025-07-26】[containers / kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-07-24】[tenable / terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * 【2025-07-24】[tnborg / panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 * 【2025-07-22】[v2ray / domain-list-community](https://github.com/v2ray/domain-list-community) - Community managed domain list
