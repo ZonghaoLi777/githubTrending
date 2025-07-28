@@ -1219,6 +1219,10 @@
 
 ## Python
 
+* 【2025-07-28】[daveebbelaar / ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
+* 【2025-07-28】[OWASP / Nest](https://github.com/OWASP/Nest) - Your gateway to OWASP. Discover, engage, and help shape the future!
+* 【2025-07-28】[ml-explore / mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
+* 【2025-07-28】[emarco177 / ice_breaker](https://github.com/emarco177/ice_breaker) - 
 * 【2025-07-27】[Intelligent-Internet / ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent: a new open-source framework to build and deploy intelligent agents
 * 【2025-07-27】[googleapis / python-genai](https://github.com/googleapis/python-genai) - Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
 * 【2025-07-26】[roboflow / rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
@@ -4916,6 +4920,7 @@
 
 ## Go
 
+* 【2025-07-28】[jhaals / yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 * 【2025-07-27】[google / oss-rebuild](https://github.com/google/oss-rebuild) - Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
 * 【2025-07-27】[modelcontextprotocol / go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
 * 【2025-07-26】[containers / kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
@@ -8357,6 +8362,7 @@
 
 ## C#
 
+* 【2025-07-28】[Cleanuparr / Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
 * 【2025-07-22】[REDSIM / VRCLightVolumes](https://github.com/REDSIM/VRCLightVolumes) - Nextgen voxel based light probes replacement for VRChat
 * 【2025-07-21】[imDema / FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
 * 【2025-07-20】[SuperStudio / SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具
@@ -9431,6 +9437,7 @@
 
 ## Html
 
+* 【2025-07-28】[AOSC-Dev / aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 * 【2025-07-27】[ant-design / pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
 * 【2025-07-24】[jolibrain / colette](https://github.com/jolibrain/colette) - Multimodal RAG to search and interact locally with technical documents of any kind
 * 【2025-07-23】[Tanq16 / ExpenseOwl](https://github.com/Tanq16/ExpenseOwl) - Extremely simple, self-hosted expense tracker with a beautiful UI.
@@ -10414,6 +10421,7 @@
 
 ## Css
 
+* 【2025-07-28】[mylinuxforwork / dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arch, Fedora and openSuse.
 * 【2025-07-22】[aculix / bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
 * 【2025-07-21】[Chainlift / liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
 * 【2025-07-20】[linera-io / linera-documentation](https://github.com/linera-io/linera-documentation) - 
