@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-08-03】[OWASP-Benchmark / BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually expl…
 * 【2025-08-01】[gravitee-io / gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 * 【2025-08-01】[opensearch-project / data-prepper](https://github.com/opensearch-project/data-prepper) - OpenSearch Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale.
 * 【2025-07-29】[NemProject / nem](https://github.com/NemProject/nem) - number go up 💹
@@ -1223,6 +1224,8 @@
 
 ## Python
 
+* 【2025-08-03】[GongRzhe / Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protocol.
+* 【2025-08-03】[nerfstudio-project / viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
 * 【2025-08-02】[TideDra / zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) - Recommend new arxiv papers of your interest daily according to your Zotero libarary.
 * 【2025-08-02】[chu23465 / VT-PR](https://github.com/chu23465/VT-PR) - VineTrimmer with PlayReady and WideVine support, WIP. A DRM Removal Framework for Streaming Services.
 * 【2025-08-01】[microsoft / mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
@@ -3570,6 +3573,7 @@
 
 ## Javascript
 
+* 【2025-08-03】[google / earthengine-api](https://github.com/google/earthengine-api) - Python and JavaScript bindings for calling the Earth Engine API.
 * 【2025-08-01】[viatsko / awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 * 【2025-08-01】[josdejong / jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 * 【2025-07-30】[zumerlab / snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
@@ -4937,6 +4941,7 @@
 
 ## Go
 
+* 【2025-08-03】[hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
 * 【2025-08-01】[sst / opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 * 【2025-07-31】[envoyproxy / ai-gateway](https://github.com/envoyproxy/ai-gateway) - Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.
 * 【2025-07-30】[inngest / inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
@@ -7292,6 +7297,8 @@
 
 ## C++
 
+* 【2025-08-03】[google / longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
+* 【2025-08-03】[paullouisageneau / libdatachannel](https://github.com/paullouisageneau/libdatachannel) - C/C++ WebRTC network library featuring Data Channels, Media Transport, and WebSockets
 * 【2025-07-29】[facebook / watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 * 【2025-07-29】[OHF-Voice / piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 * 【2025-07-21】[OpenHUTB / hutb](https://github.com/OpenHUTB/hutb) - 人车模拟器
@@ -9472,6 +9479,7 @@
 
 ## Html
 
+* 【2025-08-03】[Azure-Samples / SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
 * 【2025-07-28】[AOSC-Dev / aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 * 【2025-07-27】[ant-design / pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
 * 【2025-07-24】[jolibrain / colette](https://github.com/jolibrain/colette) - Multimodal RAG to search and interact locally with technical documents of any kind
