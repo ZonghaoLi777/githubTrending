@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-08-12】[TownyAdvanced / Towny](https://github.com/TownyAdvanced/Towny) - Towny Advanced Minecraft plugin for Bukkit/Spigot.
 * 【2025-08-11】[helge17 / tuxguitar](https://github.com/helge17/tuxguitar) - Open source guitar tablature editor
 * 【2025-08-10】[FrosSky / Chevstrap](https://github.com/FrosSky/Chevstrap) - Chevstrap is an enhanced Roblox and Roblox VN launcher, built specifically for Android and inspired by Bloxstrap.
 * 【2025-08-08】[google / adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -1230,6 +1231,7 @@
 
 ## Python
 
+* 【2025-08-12】[trailofbits / buttercup](https://github.com/trailofbits/buttercup) - 
 * 【2025-08-11】[omkarcloud / botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 * 【2025-08-10】[lfnovo / open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 * 【2025-08-10】[Pointcept / Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
@@ -3593,6 +3595,8 @@
 
 ## Javascript
 
+* 【2025-08-12】[willmiao / ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
+* 【2025-08-12】[MohamedRadwan-DevOps / devops-step-by-step](https://github.com/MohamedRadwan-DevOps/devops-step-by-step) - Learn DevOps Step-by-step
 * 【2025-08-09】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 * 【2025-08-09】[benborla / mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.
 * 【2025-08-09】[Kaliiiiiiiiii-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
@@ -4969,6 +4973,7 @@
 
 ## Go
 
+* 【2025-08-12】[ThingsPanel / thingspanel-backend-community](https://github.com/ThingsPanel/thingspanel-backend-community) - The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions.
 * 【2025-08-11】[sammcj / gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 * 【2025-08-09】[maximhq / bifrost](https://github.com/maximhq/bifrost) - The Fastest LLM Gateway with built in OTel observability and MCP gateway
 * 【2025-08-03】[hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
