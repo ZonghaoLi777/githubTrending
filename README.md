@@ -1231,6 +1231,8 @@
 
 ## Python
 
+* 【2025-08-13】[cheahjs / free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
+* 【2025-08-13】[TCM-Course-Resources / Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
 * 【2025-08-12】[trailofbits / buttercup](https://github.com/trailofbits/buttercup) - 
 * 【2025-08-11】[omkarcloud / botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 * 【2025-08-10】[lfnovo / open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
@@ -3595,6 +3597,7 @@
 
 ## Javascript
 
+* 【2025-08-13】[lint-staged / lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 * 【2025-08-12】[willmiao / ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 * 【2025-08-12】[MohamedRadwan-DevOps / devops-step-by-step](https://github.com/MohamedRadwan-DevOps/devops-step-by-step) - Learn DevOps Step-by-step
 * 【2025-08-09】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
@@ -4973,6 +4976,7 @@
 
 ## Go
 
+* 【2025-08-13】[j3ssie / osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 * 【2025-08-12】[ThingsPanel / thingspanel-backend-community](https://github.com/ThingsPanel/thingspanel-backend-community) - The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions.
 * 【2025-08-11】[sammcj / gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 * 【2025-08-09】[maximhq / bifrost](https://github.com/maximhq/bifrost) - The Fastest LLM Gateway with built in OTel observability and MCP gateway
@@ -6241,6 +6245,7 @@
 
 ## C
 
+* 【2025-08-13】[armink / FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data | 一款支持 KV 数据和时序数据的超轻量级数据库
 * 【2025-08-11】[TEN-framework / ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low-latency, high-performance and lightweight
 * 【2025-08-06】[TinyCC / tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 * 【2025-08-06】[utkarshdalal / GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
@@ -8440,6 +8445,7 @@
 
 ## C#
 
+* 【2025-08-13】[IvanMurzak / Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - MCP Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.
 * 【2025-08-11】[xiaoyaocz / AllLive](https://github.com/xiaoyaocz/AllLive) - 获取多个直播平台的信息和弹幕
 * 【2025-08-07】[microsoft / Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 * 【2025-08-05】[pixeltris / YgoMaster](https://github.com/pixeltris/YgoMaster) - Offline Yu-Gi-Oh! Master Duel
