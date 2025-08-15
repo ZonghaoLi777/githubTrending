@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-08-15】[kishanrajput23 / Java-Projects-Collections](https://github.com/kishanrajput23/Java-Projects-Collections) - Contribute in this repository by raising a genuine PR. Then get verified, and earn the free swags from Hacktoberfest 2023.
 * 【2025-08-12】[TownyAdvanced / Towny](https://github.com/TownyAdvanced/Towny) - Towny Advanced Minecraft plugin for Bukkit/Spigot.
 * 【2025-08-11】[helge17 / tuxguitar](https://github.com/helge17/tuxguitar) - Open source guitar tablature editor
 * 【2025-08-10】[FrosSky / Chevstrap](https://github.com/FrosSky/Chevstrap) - Chevstrap is an enhanced Roblox and Roblox VN launcher, built specifically for Android and inspired by Bloxstrap.
@@ -1231,6 +1232,7 @@
 
 ## Python
 
+* 【2025-08-15】[datalab-to / marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 * 【2025-08-14】[microsoft / magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
 * 【2025-08-14】[browserbase / stagehand-python](https://github.com/browserbase/stagehand-python) - The AI Browser Automation Framework
 * 【2025-08-14】[oop7 / YTSage](https://github.com/oop7/YTSage) - Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.
@@ -4981,6 +4983,7 @@
 
 ## Go
 
+* 【2025-08-15】[hashicorp / terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 * 【2025-08-14】[mudler / LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).
 * 【2025-08-13】[j3ssie / osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 * 【2025-08-12】[ThingsPanel / thingspanel-backend-community](https://github.com/ThingsPanel/thingspanel-backend-community) - The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions.
@@ -9539,6 +9542,7 @@
 
 ## Html
 
+* 【2025-08-15】[strands-agents / docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 * 【2025-08-03】[Azure-Samples / SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
 * 【2025-07-28】[AOSC-Dev / aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 * 【2025-07-27】[ant-design / pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
