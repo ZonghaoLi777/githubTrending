@@ -4989,6 +4989,7 @@
 
 ## Go
 
+* 【2025-08-19】[stacklok / toolhive](https://github.com/stacklok/toolhive) - ToolHive makes deploying MCP servers easy, secure and fun
 * 【2025-08-15】[hashicorp / terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 * 【2025-08-14】[mudler / LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).
 * 【2025-08-13】[j3ssie / osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
@@ -6260,6 +6261,7 @@
 
 ## C
 
+* 【2025-08-19】[ComposersDesktop / CDP8](https://github.com/ComposersDesktop/CDP8) - New version of CDP software
 * 【2025-08-17】[duixcom / Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
 * 【2025-08-13】[armink / FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data | 一款支持 KV 数据和时序数据的超轻量级数据库
 * 【2025-08-11】[TEN-framework / ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low-latency, high-performance and lightweight
@@ -9552,6 +9554,7 @@
 
 ## Html
 
+* 【2025-08-19】[Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 * 【2025-08-15】[strands-agents / docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 * 【2025-08-03】[Azure-Samples / SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
 * 【2025-07-28】[AOSC-Dev / aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
