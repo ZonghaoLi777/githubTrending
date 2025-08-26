@@ -1234,6 +1234,8 @@
 
 ## Python
 
+* 【2025-08-26】[QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
+* 【2025-08-26】[MODSetter / SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
 * 【2025-08-25】[openai / mle-bench](https://github.com/openai/mle-bench) - MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering
 * 【2025-08-24】[HKUDS / DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 * 【2025-08-24】[1rgs / claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
@@ -3622,6 +3624,7 @@
 
 ## Javascript
 
+* 【2025-08-26】[fleetbase / fleetbase](https://github.com/fleetbase/fleetbase) - Modular logistics and supply chain operating system (LSOS)
 * 【2025-08-24】[miroslavpejic85 / mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
 * 【2025-08-24】[tw93 / Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * 【2025-08-23】[hargata / lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
@@ -5009,6 +5012,8 @@
 
 ## Go
 
+* 【2025-08-26】[cloudfoundry / cli](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry
+* 【2025-08-26】[getlago / lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 * 【2025-08-25】[google / mangle](https://github.com/google/mangle) - 
 * 【2025-08-24】[flexprice / flexprice](https://github.com/flexprice/flexprice) - Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access
 * 【2025-08-23】[OpenCSGs / csghub-server](https://github.com/OpenCSGs/csghub-server) - csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.
@@ -8498,6 +8503,7 @@
 
 ## C#
 
+* 【2025-08-26】[fifty-six / Scarab](https://github.com/fifty-six/Scarab) - An installer for Hollow Knight mods written in Avalonia.
 * 【2025-08-25】[NickvisionApps / Denaro](https://github.com/NickvisionApps/Denaro) - Manage your personal finances
 * 【2025-08-24】[Ottermandias / Glamourer](https://github.com/Ottermandias/Glamourer) - Change outside appearance of actors using Penumbra.
 * 【2025-08-23】[microsoft / mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
@@ -9591,6 +9597,7 @@
 
 ## Html
 
+* 【2025-08-26】[g4m3r0 / ImageUpscaler](https://github.com/g4m3r0/ImageUpscaler) - Elevate your low-res images effortlessly with our simple Flask web app powered by AI image upscaling.
 * 【2025-08-20】[circleci / circleci-docs](https://github.com/circleci/circleci-docs) - Documentation for CircleCI.
 * 【2025-08-19】[Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 * 【2025-08-15】[strands-agents / docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
@@ -10579,6 +10586,7 @@
 
 ## Css
 
+* 【2025-08-26】[SallaApp / theme-raed](https://github.com/SallaApp/theme-raed) - A wide range of features to support your business...
 * 【2025-08-25】[sameemul-haque / dotfiles](https://github.com/sameemul-haque/dotfiles) - ✨ Hyprland + Waybar with Catppuccin theme • Arch Linux
 * 【2025-08-21】[Nayanika1402 / RuRal-ReTreats](https://github.com/Nayanika1402/RuRal-ReTreats) - RuralRetreats is a unique website designed to connect travelers with the charm of rural life.
 * 【2025-08-20】[Parnab03 / WallGodds](https://github.com/Parnab03/WallGodds) - A modern wallpaper website offering high-quality wallpapers for mobile, tablet, and desktop devices. Features include user uploads, categorization, and profile management.
