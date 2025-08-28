@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-08-28】[githubtraining / hellogitworld](https://github.com/githubtraining/hellogitworld) - Hello Git World sample training repository
 * 【2025-08-27】[AIDC-AI / Agentic-ADK](https://github.com/AIDC-AI/Agentic-ADK) - Agentic ADK is an Agent application development framework launched by Alibaba International AI Business, based on Google-ADK and Ali-LangEngine.
 * 【2025-08-27】[sonatype / nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
 * 【2025-08-24】[bancolombia / scaffold-clean-architecture](https://github.com/bancolombia/scaffold-clean-architecture) - Gradle plugin to create a clean application in Java that already works, It follows our best practices!
@@ -6297,6 +6298,7 @@
 
 ## C
 
+* 【2025-08-28】[documentdb / documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
 * 【2025-08-22】[Adaptix-Framework / AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 * 【2025-08-21】[ggreer / the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 * 【2025-08-20】[kolunmi / bazaar](https://github.com/kolunmi/bazaar) - New App Store for GNOME
@@ -9605,6 +9607,7 @@
 
 ## Html
 
+* 【2025-08-28】[quinlan-lab / applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
 * 【2025-08-26】[g4m3r0 / ImageUpscaler](https://github.com/g4m3r0/ImageUpscaler) - Elevate your low-res images effortlessly with our simple Flask web app powered by AI image upscaling.
 * 【2025-08-20】[circleci / circleci-docs](https://github.com/circleci/circleci-docs) - Documentation for CircleCI.
 * 【2025-08-19】[Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
