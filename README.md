@@ -1238,6 +1238,8 @@
 
 ## Python
 
+* 【2025-08-30】[ihmily / StreamCap](https://github.com/ihmily/StreamCap) - Multi-Platform Live Stream Automatic Recording Tool | 多平台直播流自动录制客户端 · 基于FFmpeg · 支持监控/定时/转码
+* 【2025-08-30】[NVIDIA-NeMo / NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 * 【2025-08-29】[alpacahq / alpaca-py](https://github.com/alpacahq/alpaca-py) - The Official Python SDK for Alpaca API
 * 【2025-08-29】[h2oai / h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 * 【2025-08-27】[bytedance / deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
@@ -5022,6 +5024,7 @@
 
 ## Go
 
+* 【2025-08-30】[charmbracelet / crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 * 【2025-08-26】[cloudfoundry / cli](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry
 * 【2025-08-26】[getlago / lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 * 【2025-08-25】[google / mangle](https://github.com/google/mangle) - 
@@ -6302,6 +6305,8 @@
 
 ## C
 
+* 【2025-08-30】[edk2-porting / edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
+* 【2025-08-30】[antirez / sds](https://github.com/antirez/sds) - Simple Dynamic Strings library for C
 * 【2025-08-29】[NVIDIA-RTX / Streamline](https://github.com/NVIDIA-RTX/Streamline) - Streamline Integration Framework
 * 【2025-08-28】[documentdb / documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
 * 【2025-08-22】[Adaptix-Framework / AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
@@ -11728,6 +11733,7 @@
 
 ## Unknown
 
+* 【2025-08-30】[microsoft / PowerAppsCodeApps](https://github.com/microsoft/PowerAppsCodeApps) - Create custom web application to run within Power Apps!
 * 【2025-08-24】[Arudjreis / awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
 * 【2025-08-18】[enescingoz / awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
 * 【2025-08-18】[TheGP / untidetect-tools](https://github.com/TheGP/untidetect-tools) - List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
