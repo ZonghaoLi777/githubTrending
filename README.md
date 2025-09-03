@@ -1238,6 +1238,7 @@
 
 ## Python
 
+* 【2025-09-03】[allenai / OLMoASR](https://github.com/allenai/OLMoASR) - An open-source implementation of Whisper
 * 【2025-09-01】[llamastack / llama-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build Llama Apps
 * 【2025-09-01】[pwndbg / pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 * 【2025-09-01】[Johnserf-Seed / f2](https://github.com/Johnserf-Seed/f2) - High-speed downloader for multiple platforms
@@ -3641,6 +3642,7 @@
 
 ## Javascript
 
+* 【2025-09-03】[niespodd / browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 * 【2025-09-02】[rgthree / rgthree-comfy](https://github.com/rgthree/rgthree-comfy) - Making ComfyUI more comfortable!
 * 【2025-09-01】[met4citizen / TalkingHead](https://github.com/met4citizen/TalkingHead) - Talking Head (3D): A JavaScript class for real-time lip-sync using Ready Player Me full-body 3D avatars.
 * 【2025-08-31】[mrmlnc / fast-glob](https://github.com/mrmlnc/fast-glob) - 🚀 It's a very fast and efficient glob library for Node.js
@@ -6318,6 +6320,8 @@
 
 ## C
 
+* 【2025-09-03】[liamelui / zomdroid](https://github.com/liamelui/zomdroid) - Unofficial Project Zomboid launcher for Android
+* 【2025-09-03】[skeeto / w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 * 【2025-09-01】[nanovms / nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 * 【2025-08-31】[chaosgoo / mcompass](https://github.com/chaosgoo/mcompass) - 
 * 【2025-08-30】[edk2-porting / edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
@@ -8539,6 +8543,9 @@
 
 ## C#
 
+* 【2025-09-03】[Planshit / ProjectEye](https://github.com/Planshit/ProjectEye) - 😎 一个基于20-20-20规则的用眼休息提醒Windows软件
+* 【2025-09-03】[Achuan-2 / SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
+* 【2025-09-03】[tixl3d / tixl](https://github.com/tixl3d/tixl) - Tooll 3 is an open source software to create realtime motion graphics.
 * 【2025-08-31】[AntdUI / AntdUI](https://github.com/AntdUI/AntdUI) - 👚 Winform interface library based on the Ant Design
 * 【2025-08-31】[HenJigg / wpf-abp](https://github.com/HenJigg/wpf-abp) - Cross-platform mobile project and WPF client based on ABP framework Xamarin.Forms
 * 【2025-08-27】[VedalAI / neuro-sdk](https://github.com/VedalAI/neuro-sdk) - Neuro SDK + API for allowing Neuro to play games
