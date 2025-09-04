@@ -1238,6 +1238,10 @@
 
 ## Python
 
+* 【2025-09-04】[oraios / serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+* 【2025-09-04】[murtaza-nasir / maestro](https://github.com/murtaza-nasir/maestro) - MAESTRO is an AI-powered research application designed to streamline complex research tasks.
+* 【2025-09-04】[microsoft / rStar](https://github.com/microsoft/rStar) - 
+* 【2025-09-04】[JefferyHcool / BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 * 【2025-09-03】[allenai / OLMoASR](https://github.com/allenai/OLMoASR) - An open-source implementation of Whisper
 * 【2025-09-01】[llamastack / llama-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build Llama Apps
 * 【2025-09-01】[pwndbg / pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
