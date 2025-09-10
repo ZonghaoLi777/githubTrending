@@ -3657,6 +3657,7 @@
 
 ## Javascript
 
+* 【2025-09-10】[cloudflare / templates](https://github.com/cloudflare/templates) - Templates for Cloudflare Workers
 * 【2025-09-09】[firecrawl / firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 * 【2025-09-08】[mindcraft-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 * 【2025-09-07】[6Kmfi6HP / EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) - EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。 EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.
@@ -5058,6 +5059,7 @@
 
 ## Go
 
+* 【2025-09-10】[yaml / go-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github.com/go-yaml/yaml
 * 【2025-09-07】[k1LoW / deck](https://github.com/k1LoW/deck) - deck is a tool for creating deck using Markdown and Google Slides.
 * 【2025-09-01】[jorgerojas26 / lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 * 【2025-08-31】[kubernetes-sigs / gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
@@ -6342,6 +6344,7 @@
 
 ## C
 
+* 【2025-09-10】[izzyreal / vmpc-juce](https://github.com/izzyreal/vmpc-juce) - JUCE implementation of VMPC2000XL
 * 【2025-09-05】[FalkorDB / FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 * 【2025-09-03】[liamelui / zomdroid](https://github.com/liamelui/zomdroid) - Unofficial Project Zomboid launcher for Android
 * 【2025-09-03】[skeeto / w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
@@ -8569,6 +8572,7 @@
 
 ## C#
 
+* 【2025-09-10】[adospace / reactorui-maui](https://github.com/adospace/reactorui-maui) - MauiReactor is a MVU UI framework built on top of .NET MAUI
 * 【2025-09-08】[builtbybel / Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 * 【2025-09-08】[immisterio / Lampac](https://github.com/immisterio/Lampac) - 
 * 【2025-09-06】[teelur / budget-board](https://github.com/teelur/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
@@ -11795,6 +11799,7 @@
 
 ## Unknown
 
+* 【2025-09-10】[github / advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 * 【2025-09-07】[mrsaeeddev / free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 * 【2025-09-07】[twelve-factor / twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
 * 【2025-09-06】[jaw9c / awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
