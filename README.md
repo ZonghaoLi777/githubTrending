@@ -1242,6 +1242,8 @@
 
 ## Python
 
+* 【2025-09-17】[ciromattia / kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
+* 【2025-09-17】[0xAX / linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 * 【2025-09-16】[net4people / bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 * 【2025-09-15】[bupticybee / ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) - 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。
 * 【2025-09-14】[Dao-AILab / quack](https://github.com/Dao-AILab/quack) - A Quirky Assortment of CuTe Kernels
@@ -9709,6 +9711,7 @@
 
 ## Html
 
+* 【2025-09-17】[FlowFuse / node-red-dashboard](https://github.com/FlowFuse/node-red-dashboard) - 
 * 【2025-09-15】[DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 * 【2025-09-02】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
 * 【2025-08-31】[MonkeyGG2 / monkeygg2.github.io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
@@ -10702,6 +10705,7 @@
 
 ## Css
 
+* 【2025-09-17】[aaaaalexis / obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) - A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.
 * 【2025-09-16】[kayozxo / GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe) - MacOS Tahoe inspired theme for GNOME
 * 【2025-09-13】[scholtz / wallet](https://github.com/scholtz/wallet) - Open source algorand wallet and algorand web tools - governors tools, payment gateway, ..
 * 【2025-09-11】[dend / awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
