@@ -1242,6 +1242,7 @@
 
 ## Python
 
+* 【2025-09-18】[Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
 * 【2025-09-17】[ciromattia / kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
 * 【2025-09-17】[0xAX / linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 * 【2025-09-16】[net4people / bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
@@ -3667,6 +3668,7 @@
 
 ## Javascript
 
+* 【2025-09-18】[httptoolkit / frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 * 【2025-09-16】[bloodorca / hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
 * 【2025-09-15】[home-sweet-gnome / dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 * 【2025-09-12】[trueadm / ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
@@ -7478,6 +7480,7 @@
 
 ## C++
 
+* 【2025-09-18】[category-labs / monad](https://github.com/category-labs/monad) - 
 * 【2025-09-16】[mnh-jansson / open-battery-information](https://github.com/mnh-jansson/open-battery-information) - 
 * 【2025-09-16】[skift-org / skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
 * 【2025-09-13】[argotorg / solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
@@ -9711,6 +9714,7 @@
 
 ## Html
 
+* 【2025-09-18】[whatwg / fetch](https://github.com/whatwg/fetch) - Fetch Standard
 * 【2025-09-17】[FlowFuse / node-red-dashboard](https://github.com/FlowFuse/node-red-dashboard) - 
 * 【2025-09-15】[DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 * 【2025-09-02】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
@@ -11839,6 +11843,7 @@
 
 ## Unknown
 
+* 【2025-09-18】[SpotCompiled / SpotC-Plus-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.
 * 【2025-09-16】[snarktank / ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 * 【2025-09-14】[Azure / AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) - The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal
 * 【2025-09-13】[iam-veeramalla / Kubernetes-Zero-to-Hero](https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero) - Creating this repo with an intent to make Kubernetes easy for begineers. This is a work-in-progress repo.
