@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-10-05】[DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) - Hacktoberfest 2025 OPEN FIRST Pull Request - SUPPORT OPEN SOURCE - Don't forget to spread love and if you like give us a ⭐️
 * 【2025-10-04】[adityatandon15 / LLD](https://github.com/adityatandon15/LLD) - All Code of LLD Playlist
 * 【2025-10-03】[DSpace / DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
 * 【2025-10-01】[jabrena / cursor-rules-java](https://github.com/jabrena/cursor-rules-java) - A collection of System prompts for Java that help software engineers in their daily programming work & data pipelines. 👉 Your feedback is important to evolve this project. Participate in the following questionnaire: 👈 https://forms.gle/TpNXENjmu45wuXoi6
@@ -1249,6 +1250,7 @@
 
 ## Python
 
+* 【2025-10-05】[sonic-net / sonic-utilities](https://github.com/sonic-net/sonic-utilities) - Command line utilities for the SONiC project
 * 【2025-10-04】[microsoft / agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 * 【2025-10-04】[yichuan-w / LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 * 【2025-10-03】[google / tunix](https://github.com/google/tunix) - A JAX-native LLM Post-Training Library
@@ -3701,6 +3703,8 @@
 
 ## Javascript
 
+* 【2025-10-05】[paaatrick / playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
+* 【2025-10-05】[yep-yogesh / Guessync](https://github.com/yep-yogesh/Guessync) - A full-stack, real-time multiplayer music guessing game built with React, Firebase Auth, Socket.IO, MongoDB, and Vite. Integrated with Spotify, YouTube, and GeminiAI to enable AI-powered hints, audio playback and fuzzy-matched answers.
 * 【2025-10-03】[Coding-Solo / godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 * 【2025-10-01】[gkjohnson / three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
 * 【2025-10-01】[ruvnet / claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
@@ -6414,6 +6418,7 @@
 
 ## C
 
+* 【2025-10-05】[DanielSant0s / AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2.
 * 【2025-10-04】[tvlabs / edge264](https://github.com/tvlabs/edge264) - Simple H.264 decoder
 * 【2025-10-04】[jkuhlmann / cgltf](https://github.com/jkuhlmann/cgltf) - 💠 Single-file glTF 2.0 loader and writer written in C99
 * 【2025-10-03】[mudita / MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone
