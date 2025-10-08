@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-10-08】[jenkinsci / configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
 * 【2025-10-05】[DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) - Hacktoberfest 2025 OPEN FIRST Pull Request - SUPPORT OPEN SOURCE - Don't forget to spread love and if you like give us a ⭐️
 * 【2025-10-04】[adityatandon15 / LLD](https://github.com/adityatandon15/LLD) - All Code of LLD Playlist
 * 【2025-10-03】[DSpace / DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
@@ -1250,6 +1251,7 @@
 
 ## Python
 
+* 【2025-10-08】[Fannovel16 / comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - ComfyUI's ControlNet Auxiliary Preprocessors
 * 【2025-10-07】[BeehiveInnovations / zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 * 【2025-10-07】[google / osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 * 【2025-10-07】[ScrapeGraphAI / Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -3706,6 +3708,7 @@
 
 ## Javascript
 
+* 【2025-10-08】[basecamp / lexxy](https://github.com/basecamp/lexxy) - 
 * 【2025-10-06】[aandrew-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 * 【2025-10-06】[paperwm / PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 * 【2025-10-05】[paaatrick / playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
@@ -6423,6 +6426,7 @@
 
 ## C
 
+* 【2025-10-08】[landley / toybox](https://github.com/landley/toybox) - toybox
 * 【2025-10-07】[skuep / AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 * 【2025-10-07】[Cairo-Dock / cairo-dock-core](https://github.com/Cairo-Dock/cairo-dock-core) - Core part of Cairo-Dock project.
 * 【2025-10-05】[DanielSant0s / AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2.
@@ -7546,6 +7550,7 @@
 
 ## C++
 
+* 【2025-10-08】[trilinos / Trilinos](https://github.com/trilinos/Trilinos) - Primary repository for the Trilinos Project
 * 【2025-10-07】[google-ai-edge / LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
 * 【2025-10-04】[frankarobotics / franka_ros2](https://github.com/frankarobotics/franka_ros2) - ROS 2 integration for Franka research robots
 * 【2025-10-03】[tile-ai / tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
