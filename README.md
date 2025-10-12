@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2025-10-12】[java-decompiler / jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
+* 【2025-10-12】[Sketchware-Pro / Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.
 * 【2025-10-09】[timestored / qstudio](https://github.com/timestored/qstudio) - qStudio - Free SQL Analysis Tool
 * 【2025-10-08】[jenkinsci / configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
 * 【2025-10-05】[DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) - Hacktoberfest 2025 OPEN FIRST Pull Request - SUPPORT OPEN SOURCE - Don't forget to spread love and if you like give us a ⭐️
@@ -1252,6 +1254,9 @@
 
 ## Python
 
+* 【2025-10-12】[Ksuriuri / index-tts-vllm](https://github.com/Ksuriuri/index-tts-vllm) - Added vLLM support to IndexTTS for faster inference.
+* 【2025-10-12】[cython / cython](https://github.com/cython/cython) - The most widely used Python to C compiler
+* 【2025-10-12】[OpenRLHF / OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework based on Ray (PPO & GRPO & REINFORCE++ & vLLM & Ray & Dynamic Sampling & Async Agentic RL)
 * 【2025-10-11】[intruder-io / autoswagger](https://github.com/intruder-io/autoswagger) - Autoswagger by Intruder - detect API auth weaknesses
 * 【2025-10-11】[OpenMind / OM1](https://github.com/OpenMind/OM1) - Modular AI runtime for robots
 * 【2025-10-10】[google / computer-use-preview](https://github.com/google/computer-use-preview) - 
