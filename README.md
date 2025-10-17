@@ -1257,6 +1257,7 @@
 
 ## Python
 
+* 【2025-10-17】[shiyu-coder / Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 * 【2025-10-16】[ChristianLempa / boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 * 【2025-10-16】[Junyi-99 / ChatGPT-API-Scanner](https://github.com/Junyi-99/ChatGPT-API-Scanner) - Scan GitHub for available OpenAI API Keys
 * 【2025-10-15】[volcengine / MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
@@ -3729,6 +3730,8 @@
 
 ## Javascript
 
+* 【2025-10-17】[carboneio / carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
+* 【2025-10-17】[DmytroVasin / DrawPen](https://github.com/DmytroVasin/DrawPen) - DrawPen is a simple screen annotation. Available on macOS, Windows & Linux.
 * 【2025-10-16】[Wei-Shaw / claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * 【2025-10-15】[pickle-com / glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 * 【2025-10-14】[renmu123 / biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
@@ -5157,6 +5160,7 @@
 
 ## Go
 
+* 【2025-10-17】[kubeflow / trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and Fine-Tuning on Kubernetes
 * 【2025-10-16】[vxcontrol / pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 * 【2025-10-16】[docker / model-runner](https://github.com/docker/model-runner) - Docker Model Runner
 * 【2025-10-16】[asternic / wuzapi](https://github.com/asternic/wuzapi) - Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)
@@ -9842,6 +9846,7 @@
 
 ## Html
 
+* 【2025-10-17】[spencerccf / app_settings](https://github.com/spencerccf/app_settings) - Flutter plugin for accessing app phone settings for iOS and Android
 * 【2025-10-15】[o8oo8o / WebCurl](https://github.com/o8oo8o/WebCurl) - 极简网页版API调试神器
 * 【2025-10-11】[xeefei / X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置】生成功能。
 * 【2025-10-04】[zaproxy / zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
@@ -11995,6 +12000,7 @@
 
 ## Unknown
 
+* 【2025-10-17】[LLMQuant / quant-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。
 * 【2025-10-16】[github / copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 * 【2025-10-14】[Fl4sh9174 / Switch-Ultrawide-Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) - 
 * 【2025-10-13】[RipplePiam / MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
