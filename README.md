@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-10-28】[strivedi4u / hacktoberfest2025](https://github.com/strivedi4u/hacktoberfest2025) - 🌱 This repository is for beginners who want to contribute to open source through 🎉 Hacktoberfest 2025. 🚀 It’s designed to promote learning and growth in 💻 software development with fun 🧩 coding challenges and 🛠️ projects — from basic algorithms to advanced applications. 🤝 Join in, contribute, and level up your skills.
 * 【2025-10-27】[angryip / ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
 * 【2025-10-26】[torakiki / pdfsam](https://github.com/torakiki/pdfsam) - PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages
 * 【2025-10-25】[LianjiaTech / bella-openapi](https://github.com/LianjiaTech/bella-openapi) - Bella OpenAPI是一个提供了丰富的AI调用能力的API网关，可类比openrouter，与之不同的是除了提供聊天补全(chat-completion)能力外，还提供了文本向量化(text-embedding)、语音识别(ASR)、语音合成(TTS)、文生图、图生图等多种AI能力，同时集成了计费、限流和资源管理功能。且集成的所有能力都经过了大规模生产环境的验证。
@@ -3745,6 +3746,8 @@
 
 ## Javascript
 
+* 【2025-10-28】[wangwangit / SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
+* 【2025-10-28】[gnmyt / MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 * 【2025-10-26】[develop202 / migu_video](https://github.com/develop202/migu_video) - 
 * 【2025-10-25】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
 * 【2025-10-24】[Jackywine / Bella](https://github.com/Jackywine/Bella) - Bella is best
@@ -5185,6 +5188,7 @@
 
 ## Go
 
+* 【2025-10-28】[AlistGo / alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 * 【2025-10-27】[Notifuse / notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open-source & modern emailing platform
 * 【2025-10-27】[fish2018 / pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
 * 【2025-10-25】[julien040 / anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
@@ -7623,6 +7627,7 @@
 
 ## C++
 
+* 【2025-10-28】[ange-yaghi / engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 * 【2025-10-27】[SteamClientHomebrew / Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
 * 【2025-10-26】[futo-org / android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 * 【2025-10-23】[momo5502 / sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
@@ -10896,6 +10901,7 @@
 
 ## Css
 
+* 【2025-10-28】[elifouts / Dotfiles](https://github.com/elifouts/Dotfiles) - My Hyprland Dotfiles For Arch!
 * 【2025-10-25】[amnweb / yasb-themes](https://github.com/amnweb/yasb-themes) - 🎨 Theme repository for YASB.
 * 【2025-10-25】[Matt-FTW / dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config
 * 【2025-10-23】[lazaronixon / css-zero](https://github.com/lazaronixon/css-zero) - An opinionated front-end starter kit for your "nobuild" application
