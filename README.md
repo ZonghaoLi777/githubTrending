@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-11-11】[JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 * 【2025-11-10】[Pugmatt / BedrockConnect](https://github.com/Pugmatt/BedrockConnect) - Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5
 * 【2025-11-10】[AntiCope / meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
 * 【2025-11-03】[typetools / checker-framework](https://github.com/typetools/checker-framework) - Pluggable type-checking for Java
@@ -1266,6 +1267,9 @@
 
 ## Python
 
+* 【2025-11-11】[lzhoang2801 / OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
+* 【2025-11-11】[microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
+* 【2025-11-11】[8680 / GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Quantumult X、SmartDNS的去广告规则，合并优质上游规则并去重整理排列。
 * 【2025-11-10】[OpenHands / OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2025-11-10】[mozilla-ai / any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
 * 【2025-11-09】[jamwithai / arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator) - 
@@ -3773,6 +3777,8 @@
 
 ## Javascript
 
+* 【2025-11-11】[marko-js / marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
+* 【2025-11-11】[Stremio / stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
 * 【2025-11-10】[kanoqwq / UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS) - A functional tools for zte devices (F50 | U30 Air)
 * 【2025-11-09】[leukipp / touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
 * 【2025-11-07】[aleixrodriala / wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
@@ -5223,6 +5229,7 @@
 
 ## Go
 
+* 【2025-11-11】[opencloud-eu / opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 * 【2025-11-10】[kimdre / doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 * 【2025-11-09】[google / adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-11-09】[coze-dev / coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
@@ -7675,6 +7682,8 @@
 
 ## C++
 
+* 【2025-11-11】[WiVRn / WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
+* 【2025-11-11】[TheAssassin / AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 * 【2025-11-08】[nndeploy / nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework
 * 【2025-11-05】[jurplel / qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
 * 【2025-11-05】[pqrs-org / Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
@@ -8820,6 +8829,7 @@
 
 ## C#
 
+* 【2025-11-11】[genaray / Arch](https://github.com/genaray/Arch) - A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
 * 【2025-11-09】[the1812 / Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
 * 【2025-11-04】[ZehsTeam / REPOLib](https://github.com/ZehsTeam/REPOLib) - Library for adding content to R.E.P.O.
 * 【2025-11-01】[builtbybel / FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
