@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-11-12】[bancika / diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 * 【2025-11-11】[JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 * 【2025-11-10】[Pugmatt / BedrockConnect](https://github.com/Pugmatt/BedrockConnect) - Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5
 * 【2025-11-10】[AntiCope / meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
@@ -1267,6 +1268,8 @@
 
 ## Python
 
+* 【2025-11-12】[GibsonAI / Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+* 【2025-11-12】[alibaba / ROLL](https://github.com/alibaba/ROLL) - An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models
 * 【2025-11-11】[lzhoang2801 / OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
 * 【2025-11-11】[microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
 * 【2025-11-11】[8680 / GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Quantumult X、SmartDNS的去广告规则，合并优质上游规则并去重整理排列。
@@ -7682,6 +7685,8 @@
 
 ## C++
 
+* 【2025-11-12】[perspective-dev / perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+* 【2025-11-12】[NVIDIA / CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 * 【2025-11-11】[WiVRn / WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
 * 【2025-11-11】[TheAssassin / AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 * 【2025-11-08】[nndeploy / nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework
@@ -8829,6 +8834,7 @@
 
 ## C#
 
+* 【2025-11-12】[lingarr-translate / lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies translating subtitles.
 * 【2025-11-11】[genaray / Arch](https://github.com/genaray/Arch) - A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
 * 【2025-11-09】[the1812 / Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
 * 【2025-11-04】[ZehsTeam / REPOLib](https://github.com/ZehsTeam/REPOLib) - Library for adding content to R.E.P.O.
@@ -10980,6 +10986,7 @@
 
 ## Css
 
+* 【2025-11-12】[loof2736 / scyfin](https://github.com/loof2736/scyfin) - Custom theme for Jellyfin WebUI
 * 【2025-11-09】[Au5-ai / Au5](https://github.com/Au5-ai/Au5) - Self-hosted real-time meeting note tacker for google meet.
 * 【2025-11-08】[GregTech-Odyssey / GregTech-Odyssey](https://github.com/GregTech-Odyssey/GregTech-Odyssey) - 
 * 【2025-10-29】[n00bcodr / Jellyfish](https://github.com/n00bcodr/Jellyfish) - Jellyfin Theme inspired by Flow, Zesty and Ultrachromic
@@ -12134,6 +12141,8 @@
 
 ## Unknown
 
+* 【2025-11-12】[WICG / email-verification-protocol](https://github.com/WICG/email-verification-protocol) - verified autofill
+* 【2025-11-12】[datawhalechina / team-learning](https://github.com/datawhalechina/team-learning) - 主要展示Datawhale的组队学习计划。
 * 【2025-11-09】[TodePond / GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 * 【2025-11-09】[Lets-DevOps / awesome-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
 * 【2025-11-08】[MoonshotAI / Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
