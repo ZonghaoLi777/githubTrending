@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-12-13】[zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
 * 【2025-12-12】[senzhk / ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 * 【2025-12-10】[kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
 * 【2025-12-10】[bastillion-io / Bastillion](https://github.com/bastillion-io/Bastillion) - A modern, web-based SSH console and key management tool. Bastillion gives you a clean, browser-based way to manage SSH access across all your systems. Think of it like a bastion host with a friendly dashboard.
@@ -1276,6 +1277,7 @@
 
 ## Python
 
+* 【2025-12-13】[oomol-lab / pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 * 【2025-12-12】[zai-org / GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
 * 【2025-12-12】[ladaapp / lada](https://github.com/ladaapp/lada) - Restore videos with pixelated/mosaic regions
 * 【2025-12-11】[datawhalechina / hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
@@ -5263,6 +5265,8 @@
 
 ## Go
 
+* 【2025-12-13】[memodb-io / Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io
+* 【2025-12-13】[opsre / go-ldap-admin](https://github.com/opsre/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 * 【2025-12-10】[KaijuEngine / kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 * 【2025-12-07】[tesserato / CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
 * 【2025-12-07】[Adembc / lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
@@ -6588,6 +6592,7 @@
 
 ## C
 
+* 【2025-12-13】[rizinorg / rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 * 【2025-12-12】[DavidXanatos / TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
 * 【2025-12-12】[EZLippi / Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 * 【2025-12-12】[asmvik / yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -8882,6 +8887,8 @@
 
 ## C#
 
+* 【2025-12-13】[immichFrame / ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
+* 【2025-12-13】[MUnique / OpenMU](https://github.com/MUnique/OpenMU) - This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
 * 【2025-12-08】[memstechtips / Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
 * 【2025-12-08】[cagritaskn / SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey) - SplitWire-Turkey, çeşitli yöntemlerle kısıt aşma aracı.
 * 【2025-12-07】[okta / okta-sdk-dotnet](https://github.com/okta/okta-sdk-dotnet) - A .NET SDK for interacting with the Okta management API, enabling server-side code to manage Okta users, groups, applications, and more.
