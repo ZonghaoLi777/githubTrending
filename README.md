@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2025-12-26】[jlortiz0 / PlayerCollars](https://github.com/jlortiz0/PlayerCollars) - Minecraft mod that allows players to wear collars
 * 【2025-12-23】[FabricMC / fabric-api](https://github.com/FabricMC/fabric-api) - Essential hooks for modding with Fabric.
 * 【2025-12-22】[Xed-Editor / Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 * 【2025-12-21】[JFormDesigner / FlatLaf](https://github.com/JFormDesigner/FlatLaf) - FlatLaf - Swing Look and Feel (with Darcula/IntelliJ themes support)
@@ -1283,6 +1284,7 @@
 
 ## Python
 
+* 【2025-12-26】[OpenDCAI / DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 * 【2025-12-25】[apurvsinghgautam / robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 * 【2025-12-25】[zai-org / GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 * 【2025-12-24】[safety-research / bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
@@ -3837,6 +3839,8 @@
 
 ## Javascript
 
+* 【2025-12-26】[pucherot / Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
+* 【2025-12-26】[parcoil / sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
 * 【2025-12-23】[justlovemaki / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
 * 【2025-12-21】[BrowserWorks / waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
 * 【2025-12-21】[huangxd- / danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
@@ -7782,6 +7786,8 @@
 
 ## C++
 
+* 【2025-12-26】[alibaba / rtp-llm](https://github.com/alibaba/rtp-llm) - RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.
+* 【2025-12-26】[jd-opensource / xllm](https://github.com/jd-opensource/xllm) - A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
 * 【2025-12-25】[zeldaret / tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess
 * 【2025-12-25】[SpriteOvO / AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
 * 【2025-12-23】[bmorcelli / Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
@@ -8945,6 +8951,7 @@
 
 ## C#
 
+* 【2025-12-26】[Alex4SSB / ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
 * 【2025-12-24】[database64128 / youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) - WPF GUI for youtube-dl and yt-dlp.
 * 【2025-12-24】[STranslate / STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 * 【2025-12-18】[Shane32 / QRCoder](https://github.com/Shane32/QRCoder) - A pure C# Open Source QR Code implementation
@@ -12278,6 +12285,7 @@
 
 ## Unknown
 
+* 【2025-12-26】[zealotCE / America-Against-America](https://github.com/zealotCE/America-Against-America) - 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
 * 【2025-12-25】[xiaobaigroup / ClashBox](https://github.com/xiaobaigroup/ClashBox) - HarmonyOS NEXT的代理软件
 * 【2025-12-23】[WildKernels / OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS) - OnePlus Kernels with KernelSU & SUSFS
 * 【2025-12-17】[automata / aicodeguide](https://github.com/automata/aicodeguide) - AI Code Guide is a roadmap to start coding with AI
