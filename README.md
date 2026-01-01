@@ -1287,6 +1287,8 @@
 
 ## Python
 
+* 【2026-01-01】[google-gemini / computer-use-preview](https://github.com/google-gemini/computer-use-preview) - 
+* 【2026-01-01】[meizhong986 / WhisperJAV](https://github.com/meizhong986/WhisperJAV) - 
 * 【2025-12-31】[timescale / pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 * 【2025-12-31】[tencent-ailab / SongGeneration](https://github.com/tencent-ailab/SongGeneration) - The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment
 * 【2025-12-30】[mampfes / hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules
@@ -5319,6 +5321,7 @@
 
 ## Go
 
+* 【2026-01-01】[dundee / gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 * 【2025-12-31】[cexll / myclaude](https://github.com/cexll/myclaude) - Claude Code and Codex orchestration workflow
 * 【2025-12-31】[rishikanthc / Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 * 【2025-12-30】[oxc-project / tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
@@ -6660,6 +6663,7 @@
 
 ## C
 
+* 【2026-01-01】[winfsp / sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 * 【2025-12-30】[mruby / mruby](https://github.com/mruby/mruby) - Lightweight Ruby
 * 【2025-12-30】[vysheng / tg](https://github.com/vysheng/tg) - telegram-cli
 * 【2025-12-30】[basil00 / WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
