@@ -1295,6 +1295,7 @@
 
 ## Python
 
+* 【2026-01-22】[karpathy / nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 * 【2026-01-21】[verygoodplugins / automem](https://github.com/verygoodplugins/automem) - AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:
 * 【2026-01-21】[thu-ml / tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
 * 【2026-01-20】[The-Pocket / PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
@@ -11256,6 +11257,7 @@
 
 ## Css
 
+* 【2026-01-22】[khaneliman / dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
 * 【2026-01-20】[alb-uss / SECMON](https://github.com/alb-uss/SECMON) - SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface.
 * 【2026-01-19】[simple-login / website](https://github.com/simple-login/website) - SimpleLogin website - https://simplelogin.io
 * 【2026-01-19】[SwordPuffin / Rewaita](https://github.com/SwordPuffin/Rewaita) - Bring color to Adwaita
