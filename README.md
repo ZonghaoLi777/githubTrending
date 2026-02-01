@@ -1298,6 +1298,7 @@
 
 ## Python
 
+* 【2026-02-01】[fastino-ai / GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction
 * 【2026-01-30】[Tencent-Hunyuan / HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) - HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation
 * 【2026-01-30】[trailofbits / publications](https://github.com/trailofbits/publications) - Publications from Trail of Bits
 * 【2026-01-29】[MoonshotAI / kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
@@ -3908,6 +3909,7 @@
 
 ## Javascript
 
+* 【2026-02-01】[Acode-Foundation / Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 * 【2026-01-30】[steven-jianhao-li / zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
 * 【2026-01-29】[qrev-ai / qrev](https://github.com/qrev-ai/qrev) - 🔥 🔥 🔥 QRev is an Open Source AI First alternative to Salesforce. It's what Salesforce would be if it was built today, starting with AI.
 * 【2026-01-28】[steffest / DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
@@ -5397,6 +5399,8 @@
 
 ## Go
 
+* 【2026-02-01】[AlexanderGrooff / mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
+* 【2026-02-01】[NoFxAiOS / nofx](https://github.com/NoFxAiOS/nofx) - AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.
 * 【2026-01-30】[kubernetes-retired / dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 * 【2026-01-28】[knadh / koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 * 【2026-01-28】[elC0mpa / aws-doctor](https://github.com/elC0mpa/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️
@@ -7919,6 +7923,7 @@
 
 ## C++
 
+* 【2026-02-01】[oceanbase / seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows.
 * 【2026-01-29】[ran-j / PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 * 【2026-01-28】[N64Recomp / N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 * 【2026-01-23】[KhronosGroup / SPIRV-Tools](https://github.com/KhronosGroup/SPIRV-Tools) - 
@@ -9104,6 +9109,7 @@
 
 ## C#
 
+* 【2026-02-01】[Ruben2776 / PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer
 * 【2026-01-30】[Pryaxis / TShock](https://github.com/Pryaxis/TShock) - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
 * 【2026-01-29】[Facepunch / sbox-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 * 【2026-01-27】[andrewmd5 / Borderless-Gaming](https://github.com/andrewmd5/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
@@ -12477,6 +12483,9 @@
 
 ## Unknown
 
+* 【2026-02-01】[BehiSecc / awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
+* 【2026-02-01】[666OS / ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
+* 【2026-02-01】[awslabs / aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - 
 * 【2026-01-30】[microsoft / playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 * 【2026-01-29】[weitianxin / Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) - A curated list of papers and resources based on the survey "Agentic Reasoning for Large Language Models"
 * 【2026-01-28】[cosai-oasis / ws4-secure-design-agentic-systems](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems) - Repository for CoSAI Workstream 4, Secure Design Patterns for Agentic Systems
