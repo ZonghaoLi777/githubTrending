@@ -1301,6 +1301,7 @@
 
 ## Python
 
+* 【2026-02-08】[p-e-w / heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 * 【2026-02-07】[SWE-agent / mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!
 * 【2026-02-07】[httpie / cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * 【2026-02-06】[chenyme / grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
@@ -3923,6 +3924,7 @@
 
 ## Javascript
 
+* 【2026-02-08】[xinnan-tech / xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 * 【2026-02-06】[koosoli / ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app.
 * 【2026-02-06】[YUZU-Hub / appscreen](https://github.com/YUZU-Hub/appscreen) - Create screenshots for the iOS App Store
 * 【2026-02-04】[maxandrews / Epstein-doc-explorer](https://github.com/maxandrews/Epstein-doc-explorer) - a graph explorer of the Epstein emails
@@ -6784,6 +6786,7 @@
 
 ## C
 
+* 【2026-02-08】[Snowflake-Labs / pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 * 【2026-02-07】[bol-van / zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 * 【2026-02-05】[surge-synthesizer / shortcircuit-xt](https://github.com/surge-synthesizer/shortcircuit-xt) - Download the beta here : https://github.com/surge-synthesizer/shortcircuit-xt/releases/tag/Nightly
 * 【2026-02-04】[armel / uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
