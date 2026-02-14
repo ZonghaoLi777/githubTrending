@@ -1305,6 +1305,8 @@
 
 ## Python
 
+* 【2026-02-14】[K-Dense-AI / claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
+* 【2026-02-14】[jamwithai / production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 * 【2026-02-13】[Tencent / AngelSlim](https://github.com/Tencent/AngelSlim) - Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
 * 【2026-02-12】[coleam00 / context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 * 【2026-02-12】[element-hq / synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
@@ -3936,6 +3938,7 @@
 
 ## Javascript
 
+* 【2026-02-14】[SynkraAI / aios-core](https://github.com/SynkraAI/aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-02-12】[liuw1535 / antigravity2api-nodejs](https://github.com/liuw1535/antigravity2api-nodejs) - 
 * 【2026-02-11】[dwyl / learn-postgresql](https://github.com/dwyl/learn-postgresql) - 🐘 Learn how to use PostgreSQL and Structured Query Language (SQL) to store and query your relational data. 🔍
 * 【2026-02-08】[xinnan-tech / xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
@@ -5433,6 +5436,7 @@
 
 ## Go
 
+* 【2026-02-14】[hakwerk / labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
 * 【2026-02-13】[bia-pain-bache / BPB-Wizard](https://github.com/bia-pain-bache/BPB-Wizard) - A wizard to facilitate BPB Panel deployment and management.
 * 【2026-02-12】[asheshgoplani / agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 * 【2026-02-09】[ramonvermeulen / whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
@@ -12547,6 +12551,7 @@
 
 ## Unknown
 
+* 【2026-02-14】[open-saas-directory / awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐
 * 【2026-02-13】[teamspeak / teamspeak6-server](https://github.com/teamspeak/teamspeak6-server) - This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes. This beta release is intended for testing and feedback before the stable version launch.
 * 【2026-02-13】[iCHAIT / awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * 【2026-02-07】[google / mcp](https://github.com/google/mcp) - Google 💚 MCP
