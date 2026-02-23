@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-02-23】[Stryker-Defense-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-02-20】[adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
 * 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 * 【2026-02-17】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
@@ -1309,6 +1310,7 @@
 
 ## Python
 
+* 【2026-02-23】[mihail911 / modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 * 【2026-02-21】[anthropics / claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 * 【2026-02-21】[roboflow / trackers](https://github.com/roboflow/trackers) - Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.
 * 【2026-02-21】[huggingface / skills](https://github.com/huggingface/skills) - 
@@ -3955,6 +3957,7 @@
 
 ## Javascript
 
+* 【2026-02-23】[gamosoft / NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 * 【2026-02-21】[ZackAkil / immersive-language-learning-with-live-api](https://github.com/ZackAkil/immersive-language-learning-with-live-api) - Immergo is an immersive language learning application powered by the Google Gemini Live SDK. It simulates real-world roleplay scenarios (e.g., buying a bus ticket, ordering coffee) to help users practice speaking in various languages with an AI that acts as a native speaker.
 * 【2026-02-18】[thalesgroup-cert / Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
 * 【2026-02-16】[dler-io / Rules](https://github.com/dler-io/Rules) - 
@@ -9209,6 +9212,7 @@
 
 ## C#
 
+* 【2026-02-23】[BigheadSMZ / Zelda-LA-DX-HD-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated) - A PC Port of The Legend of Zelda: Link's Awakening.
 * 【2026-02-20】[oocx / tfplan2md](https://github.com/oocx/tfplan2md) - Convert terraform plans (json) into human readable markdown for easier review of changes in pull requests.
 * 【2026-02-19】[CodingWonders / MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
 * 【2026-02-18】[Valour-Software / Valour](https://github.com/Valour-Software/Valour) - Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
@@ -11422,6 +11426,7 @@
 
 ## Css
 
+* 【2026-02-23】[Asmor / 5e-monsters](https://github.com/Asmor/5e-monsters) - Kobold Fight Club
 * 【2026-02-20】[CMUCTAT / CTAT](https://github.com/CMUCTAT/CTAT) - Cognitive Tutor Authoring Tools
 * 【2026-02-17】[karpathy / karpathy.github.io](https://github.com/karpathy/karpathy.github.io) - my blog
 * 【2026-02-15】[eamonxg / luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora) - Aurora Theme is an OpenWrt LuCI theme for modern browsers, built with Tailwind CSS and Vite.
