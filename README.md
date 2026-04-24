@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2026-04-24】[xandergos / terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
+* 【2026-04-24】[JingMatrix / Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 * 【2026-03-17】[NightscoutFoundation / xDrip](https://github.com/NightscoutFoundation/xDrip) - Nightscout version of xDrip+
 * 【2026-03-17】[tlaplus / tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 * 【2026-03-17】[GTNewHorizons / GT5-Unofficial](https://github.com/GTNewHorizons/GT5-Unofficial) - Decompiled and modified version of GT5.07.07
@@ -1319,6 +1321,11 @@
 
 ## Python
 
+* 【2026-04-24】[huggingface / ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+* 【2026-04-24】[Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+* 【2026-04-24】[Fincept-Corporation / FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+* 【2026-04-24】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
+* 【2026-04-24】[sngyai / Sequoia-X](https://github.com/sngyai/Sequoia-X) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
 * 【2026-03-17】[ZhuLinsen / daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 * 【2026-03-16】[FoundationAgents / MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * 【2026-03-15】[dimensionalOS / dimos](https://github.com/dimensionalOS/dimos) - The Dimensional Framework
@@ -4001,6 +4008,12 @@
 
 ## Javascript
 
+* 【2026-04-24】[Anil-matcha / Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+* 【2026-04-24】[coreyhaines31 / marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+* 【2026-04-24】[affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+* 【2026-04-24】[Mathieu2301 / TradingView-API](https://github.com/Mathieu2301/TradingView-API) - 📈 Get real-time stocks from TradingView
+* 【2026-04-24】[XCQ0607 / lxserver](https://github.com/XCQ0607/lxserver) - LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。
+* 【2026-04-24】[microsoft / power-platform-skills](https://github.com/microsoft/power-platform-skills) - A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
 * 【2026-03-17】[fmhy / edit](https://github.com/fmhy/edit) - Make changes to FMHY
 * 【2026-03-16】[Axorax / awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 * 【2026-03-15】[SheepChef / Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
@@ -5527,6 +5540,7 @@
 
 ## Go
 
+* 【2026-04-24】[QuantumNous / new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * 【2026-03-11】[fengshao1227 / ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
 * 【2026-03-10】[pocket-id / pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 * 【2026-03-08】[docker / docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
@@ -8103,6 +8117,7 @@
 
 ## C++
 
+* 【2026-04-24】[intel / llm-scaler](https://github.com/intel/llm-scaler) - 
 * 【2026-03-16】[neutralinojs / neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 * 【2026-03-12】[yuaotian / antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
 * 【2026-03-11】[imputnet / helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto-updates yet)
@@ -9314,6 +9329,7 @@
 
 ## C#
 
+* 【2026-04-24】[AgOpenGPS-Official / AgOpenGPS](https://github.com/AgOpenGPS-Official/AgOpenGPS) - Ag Precision Mapping, Section Control and Guidance Software
 * 【2026-03-12】[Devolutions / UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 * 【2026-03-10】[EllyVR / VRCVideoCacher](https://github.com/EllyVR/VRCVideoCacher) - 
 * 【2026-03-07】[themidnightgospel / Imposter](https://github.com/themidnightgospel/Imposter) - Fast and Memory-Efficient Mocking Library
@@ -10486,6 +10502,8 @@
 
 ## Html
 
+* 【2026-04-24】[xindoo / agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) - 谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。
+* 【2026-04-24】[nibzard / awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 * 【2026-03-15】[shanraisshan / claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 * 【2026-03-14】[kepano / defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 * 【2026-03-12】[mhattingpete / claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Claude Code Skills for software engineering workflows - Git automation, testing, and code review
@@ -12725,6 +12743,9 @@
 
 ## Unknown
 
+* 【2026-04-24】[LukasNiessen / terrashark](https://github.com/LukasNiessen/terrashark) - Terraform Skill for Claude Code and Codex. LLMs hallucinate a lot with Terraform - TerraShark fixes this. It eliminates hallucinations, is designed for modular and secure code and grounds your IaC in the official Hashicorp Terraform best practices.
+* 【2026-04-24】[microsoft / powerbi-modeling-mcp](https://github.com/microsoft/powerbi-modeling-mcp) - The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to your AI agents.
+* 【2026-04-24】[forrestchang / andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 * 【2026-03-16】[KalyanKS-NLP / llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of 120+ LLM libraries category wise.
 * 【2026-03-14】[OWASP / wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 * 【2026-03-13】[Shichun-Liu / Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
