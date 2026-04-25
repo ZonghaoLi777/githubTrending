@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-04-25】[spring-ai-community / spring-ai-agent-utils](https://github.com/spring-ai-community/spring-ai-agent-utils) - A Spring AI library that brings Claude Code-inspired tools and agent skills to your AI applications.
 * 【2026-04-24】[xandergos / terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
 * 【2026-04-24】[JingMatrix / Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 * 【2026-03-17】[NightscoutFoundation / xDrip](https://github.com/NightscoutFoundation/xDrip) - Nightscout version of xDrip+
@@ -1321,6 +1322,8 @@
 
 ## Python
 
+* 【2026-04-25】[Tracer-Cloud / opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era ✨
+* 【2026-04-25】[alexzhang13 / rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 * 【2026-04-24】[huggingface / ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 * 【2026-04-24】[Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 * 【2026-04-24】[Fincept-Corporation / FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
@@ -4008,6 +4011,7 @@
 
 ## Javascript
 
+* 【2026-04-25】[linagora / twake-drive](https://github.com/linagora/twake-drive) - Twake Drive Web App
 * 【2026-04-24】[Anil-matcha / Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 * 【2026-04-24】[coreyhaines31 / marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 * 【2026-04-24】[affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -5540,6 +5544,11 @@
 
 ## Go
 
+* 【2026-04-25】[sivchari / kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
+* 【2026-04-25】[operacle / checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.
+* 【2026-04-25】[masterking32 / MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
+* 【2026-04-25】[gastownhall / beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
+* 【2026-04-25】[higress-group / higress](https://github.com/higress-group/higress) - 🤖 AI Gateway | AI Native API Gateway
 * 【2026-04-24】[QuantumNous / new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * 【2026-03-11】[fengshao1227 / ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
 * 【2026-03-10】[pocket-id / pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -6929,6 +6938,7 @@
 
 ## C
 
+* 【2026-04-25】[m5stack / StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
 * 【2026-03-16】[datlechin / TablePro](https://github.com/datlechin/TablePro) - A fast, native macOS database client with built-in AI assistant.
 * 【2026-03-08】[waveshareteam / e-Paper](https://github.com/waveshareteam/e-Paper) - 
 * 【2026-03-07】[allkern / iris](https://github.com/allkern/iris) - Sony PlayStation 2 emulator for Windows, Linux and macOS
@@ -9329,6 +9339,8 @@
 
 ## C#
 
+* 【2026-04-25】[SirDiabo / N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) - A Launcher that Downloads and Updates N64 Recompilations
+* 【2026-04-25】[Facepunch / Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
 * 【2026-04-24】[AgOpenGPS-Official / AgOpenGPS](https://github.com/AgOpenGPS-Official/AgOpenGPS) - Ag Precision Mapping, Section Control and Guidance Software
 * 【2026-03-12】[Devolutions / UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 * 【2026-03-10】[EllyVR / VRCVideoCacher](https://github.com/EllyVR/VRCVideoCacher) - 
@@ -10502,6 +10514,7 @@
 
 ## Html
 
+* 【2026-04-25】[CoolDude2349 / Offline-HTML-Games-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack) - 300 offline HTML games, each on a single file
 * 【2026-04-24】[xindoo / agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) - 谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。
 * 【2026-04-24】[nibzard / awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 * 【2026-03-15】[shanraisshan / claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
