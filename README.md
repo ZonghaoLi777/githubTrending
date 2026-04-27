@@ -4016,6 +4016,11 @@
 
 ## Javascript
 
+* 【2026-04-27】[LibreSpark / LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
+* 【2026-04-27】[libnoname / noname](https://github.com/libnoname/noname) - 
+* 【2026-04-27】[ComposioHQ / awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) - A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.
+* 【2026-04-27】[stephengpope / thepopebot](https://github.com/stephengpope/thepopebot) - The Pope Bot is an autonomous AI agent that you can configure and build to do just about anything you want, all day, everyday, 24/7.
+* 【2026-04-27】[wwebjs / whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 * 【2026-04-26】[Haleclipse / CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App - Cross-platform Rebuild
 * 【2026-04-26】[ComposioHQ / open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 * 【2026-04-26】[browserbase / skills](https://github.com/browserbase/skills) - Claude Agent SDK with a web browsing tool
@@ -5552,6 +5557,9 @@
 
 ## Go
 
+* 【2026-04-27】[agentscope-ai / HiClaw](https://github.com/agentscope-ai/HiClaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
+* 【2026-04-27】[ParsaKSH / spoof-tunnel](https://github.com/ParsaKSH/spoof-tunnel) - client-server tunnel with IP-Spoofing
+* 【2026-04-27】[Gentleman-Programming / engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 * 【2026-04-26】[CJackHwang / ds2api](https://github.com/CJackHwang/ds2api) - Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
 * 【2026-04-26】[gastownhall / gascity](https://github.com/gastownhall/gascity) - Orchestration-builder SDK for multi-agent coding workflows
 * 【2026-04-25】[sivchari / kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
@@ -6948,6 +6956,7 @@
 
 ## C
 
+* 【2026-04-27】[DeusData / codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 * 【2026-04-25】[m5stack / StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
 * 【2026-03-16】[datlechin / TablePro](https://github.com/datlechin/TablePro) - A fast, native macOS database client with built-in AI assistant.
 * 【2026-03-08】[waveshareteam / e-Paper](https://github.com/waveshareteam/e-Paper) - 
@@ -8137,6 +8146,7 @@
 
 ## C++
 
+* 【2026-04-27】[tile-ai / tilelang-ascend](https://github.com/tile-ai/tilelang-ascend) - Ascend TileLang adapter
 * 【2026-04-24】[intel / llm-scaler](https://github.com/intel/llm-scaler) - 
 * 【2026-03-16】[neutralinojs / neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 * 【2026-03-12】[yuaotian / antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
