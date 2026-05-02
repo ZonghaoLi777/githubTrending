@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2026-05-02】[lax1dude / eaglerxserver](https://github.com/lax1dude/eaglerxserver) - 
+* 【2026-05-02】[iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
+* 【2026-05-02】[aizhimou / pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
 * 【2026-04-29】[Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) - 基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 * 【2026-04-28】[MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) - A Minecraft: Java Edition launcher, based on PojavLauncher
 * 【2026-04-26】[ByteByteGoHq / coding-interview-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) - 
@@ -1325,6 +1328,7 @@
 
 ## Python
 
+* 【2026-05-02】[Lightricks / LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 * 【2026-04-30】[shaxiu / XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 * 【2026-04-30】[hugohe3 / ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
 * 【2026-04-29】[NVIDIA / personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code.
@@ -5576,6 +5580,8 @@
 
 ## Go
 
+* 【2026-05-02】[entireio / cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
+* 【2026-05-02】[googleapis / mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 * 【2026-04-30】[Agent-Field / agentfield](https://github.com/Agent-Field/agentfield) - Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.
 * 【2026-04-30】[richkuo / go-trader](https://github.com/richkuo/go-trader) - Crypto trading bot — backtesting, paper trading, live trading with risk management
 * 【2026-04-29】[chenhg5 / cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
@@ -8173,6 +8179,7 @@
 
 ## C++
 
+* 【2026-05-02】[sirius-db / sirius](https://github.com/sirius-db/sirius) - 
 * 【2026-05-01】[lemonade-sdk / lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 * 【2026-04-28】[BruceDevices / firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
 * 【2026-04-27】[tile-ai / tilelang-ascend](https://github.com/tile-ai/tilelang-ascend) - Ascend TileLang adapter
@@ -10572,6 +10579,8 @@
 
 ## Html
 
+* 【2026-05-02】[mrshu / github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
+* 【2026-05-02】[pedrohcgs / claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.
 * 【2026-05-01】[mergisi / awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 * 【2026-05-01】[ringhyacinth / Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
 * 【2026-04-30】[baojie / shiji-kb](https://github.com/baojie/shiji-kb) - 
@@ -12820,6 +12829,7 @@
 
 ## Unknown
 
+* 【2026-05-02】[Leey21 / awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨
 * 【2026-05-01】[hesamsheikh / awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 * 【2026-04-29】[andyrewlee / awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 * 【2026-04-29】[speedyapply / 2026-SWE-College-Jobs](https://github.com/speedyapply/2026-SWE-College-Jobs) - 2026 SWE internship & new graduate job list updated daily
