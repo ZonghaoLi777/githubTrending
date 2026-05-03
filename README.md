@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-05-03】[LiteLDev / LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) - A launcher designed for Minecraft Bedrock Edition on Android
 * 【2026-05-02】[lax1dude / eaglerxserver](https://github.com/lax1dude/eaglerxserver) - 
 * 【2026-05-02】[iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
 * 【2026-05-02】[aizhimou / pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
@@ -1328,6 +1329,8 @@
 
 ## Python
 
+* 【2026-05-03】[tirth8205 / code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
+* 【2026-05-03】[Q00 / ouroboros](https://github.com/Q00/ouroboros) - Agent OS: Stop prompting. Start specifying.
 * 【2026-05-02】[Lightricks / LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 * 【2026-04-30】[shaxiu / XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 * 【2026-04-30】[hugohe3 / ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
@@ -4029,6 +4032,7 @@
 
 ## Javascript
 
+* 【2026-05-03】[tetherto / qvac](https://github.com/tetherto/qvac) - QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-to-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS.
 * 【2026-05-01】[vava-nessa / free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 * 【2026-05-01】[WordPress / agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
 * 【2026-05-01】[robinebers / openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
@@ -9395,6 +9399,7 @@
 
 ## C#
 
+* 【2026-05-03】[erikdarlingdata / PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor) - Free, open-source SQL Server performance monitoring — 32 collectors, real-time alerts, graphical plan viewer, MCP server for AI analysis. Supports SQL 2016-2025, Azure SQL, AWS RDS.
 * 【2026-05-01】[dotnet / skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
 * 【2026-04-30】[Facepunch / sandbox](https://github.com/Facepunch/sandbox) - Sandbox mode for s&box
 * 【2026-04-29】[MattParkerDev / SharpIDE](https://github.com/MattParkerDev/SharpIDE) - A modern, cross platform IDE for .NET, built with .NET & Godot
@@ -10579,6 +10584,7 @@
 
 ## Html
 
+* 【2026-05-03】[PrefectHQ / prefab](https://github.com/PrefectHQ/prefab) - 🎨 The generative UI framework that even humans can use.
 * 【2026-05-02】[mrshu / github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
 * 【2026-05-02】[pedrohcgs / claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.
 * 【2026-05-01】[mergisi / awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
@@ -12829,6 +12835,7 @@
 
 ## Unknown
 
+* 【2026-05-03】[vanshb03 / Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships) - Collection of Summer 2026 tech internships!
 * 【2026-05-02】[Leey21 / awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨
 * 【2026-05-01】[hesamsheikh / awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 * 【2026-04-29】[andyrewlee / awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
