@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2026-05-04】[ljeng / cheat-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
+* 【2026-05-04】[j-shelfwood / voxy-neoforge](https://github.com/j-shelfwood/voxy-neoforge) - Unofficial NeoForge 1.21.1 port of Voxy (LOD mod) by MCRcortex - Community maintained
 * 【2026-05-03】[LiteLDev / LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) - A launcher designed for Minecraft Bedrock Edition on Android
 * 【2026-05-02】[lax1dude / eaglerxserver](https://github.com/lax1dude/eaglerxserver) - 
 * 【2026-05-02】[iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
@@ -1329,6 +1331,9 @@
 
 ## Python
 
+* 【2026-05-04】[cocoindex-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
+* 【2026-05-04】[hiddify / Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
+* 【2026-05-04】[conorluddy / ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) - An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps. I mainly use it as an xcodebuild wrapper to save context.
 * 【2026-05-03】[tirth8205 / code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 * 【2026-05-03】[Q00 / ouroboros](https://github.com/Q00/ouroboros) - Agent OS: Stop prompting. Start specifying.
 * 【2026-05-02】[Lightricks / LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
@@ -4032,6 +4037,7 @@
 
 ## Javascript
 
+* 【2026-05-04】[badrisnarayanan / antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
 * 【2026-05-03】[tetherto / qvac](https://github.com/tetherto/qvac) - QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-to-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS.
 * 【2026-05-01】[vava-nessa / free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 * 【2026-05-01】[WordPress / agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
@@ -5584,6 +5590,8 @@
 
 ## Go
 
+* 【2026-05-04】[smtg-ai / claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
+* 【2026-05-04】[Gentleman-Programming / gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 * 【2026-05-02】[entireio / cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 * 【2026-05-02】[googleapis / mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 * 【2026-04-30】[Agent-Field / agentfield](https://github.com/Agent-Field/agentfield) - Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.
@@ -6989,6 +6997,7 @@
 
 ## C
 
+* 【2026-05-04】[Limine-Bootloader / Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 * 【2026-04-30】[WeebLabs / DSPi](https://github.com/WeebLabs/DSPi) - A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350). Official Discord: https://discord.gg/RCyqxAQ5xS
 * 【2026-04-29】[open-telemetry / opentelemetry-ebpf-instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) - 
 * 【2026-04-29】[Mbed-TLS / TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto) - Reference implementation of the PSA Cryptography API
@@ -9399,6 +9408,8 @@
 
 ## C#
 
+* 【2026-05-04】[Facepunch / sbox-scenestaging](https://github.com/Facepunch/sbox-scenestaging) - A staging area for the scene system
+* 【2026-05-04】[voidstrap / Voidstrap](https://github.com/voidstrap/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.
 * 【2026-05-03】[erikdarlingdata / PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor) - Free, open-source SQL Server performance monitoring — 32 collectors, real-time alerts, graphical plan viewer, MCP server for AI analysis. Supports SQL 2016-2025, Azure SQL, AWS RDS.
 * 【2026-05-01】[dotnet / skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
 * 【2026-04-30】[Facepunch / sandbox](https://github.com/Facepunch/sandbox) - Sandbox mode for s&box
