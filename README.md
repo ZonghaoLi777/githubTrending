@@ -1331,6 +1331,8 @@
 
 ## Python
 
+* 【2026-05-05】[raullenchai / Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
+* 【2026-05-05】[alexgreensh / token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
 * 【2026-05-04】[cocoindex-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 * 【2026-05-04】[hiddify / Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
 * 【2026-05-04】[conorluddy / ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) - An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps. I mainly use it as an xcodebuild wrapper to save context.
@@ -4037,6 +4039,7 @@
 
 ## Javascript
 
+* 【2026-05-05】[Dispatcharr / Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 * 【2026-05-04】[badrisnarayanan / antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
 * 【2026-05-03】[tetherto / qvac](https://github.com/tetherto/qvac) - QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-to-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS.
 * 【2026-05-01】[vava-nessa / free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
@@ -5590,6 +5593,9 @@
 
 ## Go
 
+* 【2026-05-05】[pranshuparmar / witr](https://github.com/pranshuparmar/witr) - Why is this running?
+* 【2026-05-05】[clidey / whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+* 【2026-05-05】[floatpane / matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 * 【2026-05-04】[smtg-ai / claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 * 【2026-05-04】[Gentleman-Programming / gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 * 【2026-05-02】[entireio / cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
@@ -6997,6 +7003,7 @@
 
 ## C
 
+* 【2026-05-05】[NetHack / NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
 * 【2026-05-04】[Limine-Bootloader / Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 * 【2026-04-30】[WeebLabs / DSPi](https://github.com/WeebLabs/DSPi) - A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350). Official Discord: https://discord.gg/RCyqxAQ5xS
 * 【2026-04-29】[open-telemetry / opentelemetry-ebpf-instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) - 
@@ -9408,6 +9415,7 @@
 
 ## C#
 
+* 【2026-05-05】[Aether-Tools / CustomizePlus](https://github.com/Aether-Tools/CustomizePlus) - Dalamud plugin designed to give you better control over your Final Fantasy XIV character appearance.
 * 【2026-05-04】[Facepunch / sbox-scenestaging](https://github.com/Facepunch/sbox-scenestaging) - A staging area for the scene system
 * 【2026-05-04】[voidstrap / Voidstrap](https://github.com/voidstrap/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.
 * 【2026-05-03】[erikdarlingdata / PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor) - Free, open-source SQL Server performance monitoring — 32 collectors, real-time alerts, graphical plan viewer, MCP server for AI analysis. Supports SQL 2016-2025, Azure SQL, AWS RDS.
@@ -10595,6 +10603,7 @@
 
 ## Html
 
+* 【2026-05-05】[OpenAEC-Foundation / open-pdf-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - 
 * 【2026-05-03】[PrefectHQ / prefab](https://github.com/PrefectHQ/prefab) - 🎨 The generative UI framework that even humans can use.
 * 【2026-05-02】[mrshu / github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
 * 【2026-05-02】[pedrohcgs / claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.
@@ -11658,6 +11667,7 @@
 
 ## Css
 
+* 【2026-05-05】[puckzxz / NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme) - A easily customizable and automatically updating theme for Discord
 * 【2026-04-29】[CDCgov / prime-reportstream](https://github.com/CDCgov/prime-reportstream) - ReportStream is a public intermediary tool for delivery of data between different parts of the healthcare ecosystem.
 * 【2026-04-29】[brgkdm / DayZen-good-first-issue](https://github.com/brgkdm/DayZen-good-first-issue) - A user-friendly dashboard for beginners and advanced students that allows them to input and visualize their daily routine.
 * 【2026-03-12】[crimethinc / website](https://github.com/crimethinc/website) - Ruby on Rails app that powers crimethinc.com
@@ -12846,6 +12856,8 @@
 
 ## Unknown
 
+* 【2026-05-05】[Seeed-Projects / reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
+* 【2026-05-05】[VoltAgent / awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 * 【2026-05-03】[vanshb03 / Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships) - Collection of Summer 2026 tech internships!
 * 【2026-05-02】[Leey21 / awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨
 * 【2026-05-01】[hesamsheikh / awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
