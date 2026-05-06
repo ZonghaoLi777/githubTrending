@@ -210,6 +210,8 @@
 
 ## Java
 
+* 【2026-05-06】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
+* 【2026-05-06】[deltachat / deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
 * 【2026-05-04】[ljeng / cheat-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
 * 【2026-05-04】[j-shelfwood / voxy-neoforge](https://github.com/j-shelfwood/voxy-neoforge) - Unofficial NeoForge 1.21.1 port of Voxy (LOD mod) by MCRcortex - Community maintained
 * 【2026-05-03】[LiteLDev / LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) - A launcher designed for Minecraft Bedrock Edition on Android
@@ -1331,6 +1333,8 @@
 
 ## Python
 
+* 【2026-05-06】[CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+* 【2026-05-06】[ahujasid / ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
 * 【2026-05-05】[raullenchai / Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
 * 【2026-05-05】[alexgreensh / token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
 * 【2026-05-04】[cocoindex-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
@@ -7003,6 +7007,7 @@
 
 ## C
 
+* 【2026-05-06】[ClusterM / wg-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.
 * 【2026-05-05】[NetHack / NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
 * 【2026-05-04】[Limine-Bootloader / Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 * 【2026-04-30】[WeebLabs / DSPi](https://github.com/WeebLabs/DSPi) - A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350). Official Discord: https://discord.gg/RCyqxAQ5xS
@@ -8199,6 +8204,7 @@
 
 ## C++
 
+* 【2026-05-06】[jarczakpawel / BMCU-C-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration - all known issues fixed, 100% AMS-compatible behavior.
 * 【2026-05-02】[sirius-db / sirius](https://github.com/sirius-db/sirius) - 
 * 【2026-05-01】[lemonade-sdk / lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 * 【2026-04-28】[BruceDevices / firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
@@ -9415,6 +9421,8 @@
 
 ## C#
 
+* 【2026-05-06】[mcp-servers-for-revit / mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
+* 【2026-05-06】[PCL-Community / PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
 * 【2026-05-05】[Aether-Tools / CustomizePlus](https://github.com/Aether-Tools/CustomizePlus) - Dalamud plugin designed to give you better control over your Final Fantasy XIV character appearance.
 * 【2026-05-04】[Facepunch / sbox-scenestaging](https://github.com/Facepunch/sbox-scenestaging) - A staging area for the scene system
 * 【2026-05-04】[voidstrap / Voidstrap](https://github.com/voidstrap/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.
@@ -12856,6 +12864,7 @@
 
 ## Unknown
 
+* 【2026-05-06】[WICG / html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 * 【2026-05-05】[Seeed-Projects / reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 * 【2026-05-05】[VoltAgent / awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 * 【2026-05-03】[vanshb03 / Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships) - Collection of Summer 2026 tech internships!
