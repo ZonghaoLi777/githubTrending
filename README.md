@@ -1333,6 +1333,8 @@
 
 ## Python
 
+* 【2026-05-07】[anthropics / financial-services](https://github.com/anthropics/financial-services) - 
+* 【2026-05-07】[kyutai-labs / pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 * 【2026-05-06】[CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 * 【2026-05-06】[ahujasid / ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
 * 【2026-05-05】[raullenchai / Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
@@ -4043,6 +4045,7 @@
 
 ## Javascript
 
+* 【2026-05-07】[Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 * 【2026-05-05】[Dispatcharr / Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 * 【2026-05-04】[badrisnarayanan / antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
 * 【2026-05-03】[tetherto / qvac](https://github.com/tetherto/qvac) - QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-to-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS.
@@ -5597,6 +5600,7 @@
 
 ## Go
 
+* 【2026-05-07】[bjarneo / cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 * 【2026-05-05】[pranshuparmar / witr](https://github.com/pranshuparmar/witr) - Why is this running?
 * 【2026-05-05】[clidey / whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 * 【2026-05-05】[floatpane / matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
@@ -8204,6 +8208,7 @@
 
 ## C++
 
+* 【2026-05-07】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
 * 【2026-05-06】[jarczakpawel / BMCU-C-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration - all known issues fixed, 100% AMS-compatible behavior.
 * 【2026-05-02】[sirius-db / sirius](https://github.com/sirius-db/sirius) - 
 * 【2026-05-01】[lemonade-sdk / lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
@@ -12864,6 +12869,7 @@
 
 ## Unknown
 
+* 【2026-05-07】[jim-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 * 【2026-05-06】[WICG / html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 * 【2026-05-05】[Seeed-Projects / reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 * 【2026-05-05】[VoltAgent / awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
