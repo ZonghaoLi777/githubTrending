@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-05-08】[nageoffer / ragent](https://github.com/nageoffer/ragent) - 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。
 * 【2026-05-06】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 * 【2026-05-06】[deltachat / deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
 * 【2026-05-04】[ljeng / cheat-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
@@ -1333,6 +1334,9 @@
 
 ## Python
 
+* 【2026-05-08】[z-lab / dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
+* 【2026-05-08】[Open-LLM-VTuber / Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+* 【2026-05-08】[openai / plugins](https://github.com/openai/plugins) - OpenAI Plugins
 * 【2026-05-07】[anthropics / financial-services](https://github.com/anthropics/financial-services) - 
 * 【2026-05-07】[kyutai-labs / pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 * 【2026-05-06】[CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
@@ -4045,6 +4049,7 @@
 
 ## Javascript
 
+* 【2026-05-08】[Zen4-bit / Proxima](https://github.com/Zen4-bit/Proxima) - Multi-AI MCP Server - Connect ChatGPT, Claude, Gemini & Perplexity to your coding tools without any API
 * 【2026-05-07】[Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 * 【2026-05-05】[Dispatcharr / Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 * 【2026-05-04】[badrisnarayanan / antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
@@ -5600,6 +5605,8 @@
 
 ## Go
 
+* 【2026-05-08】[sipeed / picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+* 【2026-05-08】[MercuryTechnologies / mercury-cli](https://github.com/MercuryTechnologies/mercury-cli) - 
 * 【2026-05-07】[bjarneo / cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 * 【2026-05-05】[pranshuparmar / witr](https://github.com/pranshuparmar/witr) - Why is this running?
 * 【2026-05-05】[clidey / whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
@@ -9426,6 +9433,7 @@
 
 ## C#
 
+* 【2026-05-08】[Pronwan / rustplus-desktop](https://github.com/Pronwan/rustplus-desktop) - Rust+ Desktop App (unofficial)
 * 【2026-05-06】[mcp-servers-for-revit / mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
 * 【2026-05-06】[PCL-Community / PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
 * 【2026-05-05】[Aether-Tools / CustomizePlus](https://github.com/Aether-Tools/CustomizePlus) - Dalamud plugin designed to give you better control over your Final Fantasy XIV character appearance.
@@ -10616,6 +10624,7 @@
 
 ## Html
 
+* 【2026-05-08】[horilla / horilla-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR and CRM software.
 * 【2026-05-05】[OpenAEC-Foundation / open-pdf-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - 
 * 【2026-05-03】[PrefectHQ / prefab](https://github.com/PrefectHQ/prefab) - 🎨 The generative UI framework that even humans can use.
 * 【2026-05-02】[mrshu / github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
