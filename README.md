@@ -4049,6 +4049,7 @@
 
 ## Javascript
 
+* 【2026-05-09】[sgoudelis / ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
 * 【2026-05-08】[Zen4-bit / Proxima](https://github.com/Zen4-bit/Proxima) - Multi-AI MCP Server - Connect ChatGPT, Claude, Gemini & Perplexity to your coding tools without any API
 * 【2026-05-07】[Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 * 【2026-05-05】[Dispatcharr / Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
@@ -5605,6 +5606,7 @@
 
 ## Go
 
+* 【2026-05-09】[harness / harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 * 【2026-05-08】[sipeed / picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 * 【2026-05-08】[MercuryTechnologies / mercury-cli](https://github.com/MercuryTechnologies/mercury-cli) - 
 * 【2026-05-07】[bjarneo / cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
