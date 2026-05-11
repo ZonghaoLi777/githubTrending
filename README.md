@@ -1334,6 +1334,8 @@
 
 ## Python
 
+* 【2026-05-11】[jundot / omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+* 【2026-05-11】[zai-org / GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate × Fast × Comprehensive
 * 【2026-05-10】[lsdefine / GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 * 【2026-05-08】[z-lab / dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 * 【2026-05-08】[Open-LLM-VTuber / Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
@@ -4050,6 +4052,7 @@
 
 ## Javascript
 
+* 【2026-05-11】[heshengtao / super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 * 【2026-05-10】[justlovemaki / AIClient2API](https://github.com/justlovemaki/AIClient2API) - Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
 * 【2026-05-10】[presenton / presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 * 【2026-05-09】[sgoudelis / ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
@@ -5609,6 +5612,7 @@
 
 ## Go
 
+* 【2026-05-11】[microsoft / waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
 * 【2026-05-10】[enfein / mieru](https://github.com/enfein/mieru) - mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。
 * 【2026-05-09】[harness / harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 * 【2026-05-08】[sipeed / picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
@@ -7024,6 +7028,7 @@
 
 ## C
 
+* 【2026-05-11】[facebook / openzl](https://github.com/facebook/openzl) - A novel data compression framework
 * 【2026-05-10】[califio / publications](https://github.com/califio/publications) - Publications from Calif
 * 【2026-05-06】[ClusterM / wg-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.
 * 【2026-05-05】[NetHack / NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
@@ -8222,6 +8227,7 @@
 
 ## C++
 
+* 【2026-05-11】[gazebosim / gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 * 【2026-05-07】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
 * 【2026-05-06】[jarczakpawel / BMCU-C-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration - all known issues fixed, 100% AMS-compatible behavior.
 * 【2026-05-02】[sirius-db / sirius](https://github.com/sirius-db/sirius) - 
@@ -11698,6 +11704,7 @@
 
 ## Css
 
+* 【2026-05-11】[github / develop.github.com](https://github.com/github/develop.github.com) - Outdated documentation for GitHub API v2. See http://developer.github.com/ for the current API.
 * 【2026-05-10】[imjuya / juya-ai-daily](https://github.com/imjuya/juya-ai-daily) - 记录人类完蛋全过程。
 * 【2026-05-05】[puckzxz / NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme) - A easily customizable and automatically updating theme for Discord
 * 【2026-04-29】[CDCgov / prime-reportstream](https://github.com/CDCgov/prime-reportstream) - ReportStream is a public intermediary tool for delivery of data between different parts of the healthcare ecosystem.
