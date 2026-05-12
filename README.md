@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-05-12】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 * 【2026-05-08】[nageoffer / ragent](https://github.com/nageoffer/ragent) - 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。
 * 【2026-05-06】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 * 【2026-05-06】[deltachat / deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
@@ -1334,6 +1335,10 @@
 
 ## Python
 
+* 【2026-05-12】[jwadow / kiro-gateway](https://github.com/jwadow/kiro-gateway) - 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.
+* 【2026-05-12】[ylytdeng / wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
+* 【2026-05-12】[wanshuiyin / Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
+* 【2026-05-12】[romainsimon / paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷 Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 * 【2026-05-11】[jundot / omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 * 【2026-05-11】[zai-org / GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate × Fast × Comprehensive
 * 【2026-05-10】[lsdefine / GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
@@ -5612,6 +5617,8 @@
 
 ## Go
 
+* 【2026-05-12】[BenedictKing / ccx](https://github.com/BenedictKing/ccx) - Claude / Codex / Gemini API Proxy - CCX
+* 【2026-05-12】[gesellix / Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices
 * 【2026-05-11】[microsoft / waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
 * 【2026-05-10】[enfein / mieru](https://github.com/enfein/mieru) - mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。
 * 【2026-05-09】[harness / harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -7028,6 +7035,8 @@
 
 ## C
 
+* 【2026-05-12】[MrPowerGamerBR / Butterscotch](https://github.com/MrPowerGamerBR/Butterscotch) - 🥧 An open source re-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1.08 (Bytecode Version 16)
+* 【2026-05-12】[meshcore-dev / MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2026-05-11】[facebook / openzl](https://github.com/facebook/openzl) - A novel data compression framework
 * 【2026-05-10】[califio / publications](https://github.com/califio/publications) - Publications from Calif
 * 【2026-05-06】[ClusterM / wg-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.
@@ -10638,6 +10647,7 @@
 
 ## Html
 
+* 【2026-05-12】[rust-lang / blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
 * 【2026-05-10】[digoal / blog](https://github.com/digoal/blog) - Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
 * 【2026-05-08】[horilla / horilla-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR and CRM software.
 * 【2026-05-05】[OpenAEC-Foundation / open-pdf-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - 
