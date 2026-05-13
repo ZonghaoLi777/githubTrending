@@ -1335,6 +1335,9 @@
 
 ## Python
 
+* 【2026-05-13】[Imbad0202 / academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+* 【2026-05-13】[openinterpreter / open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+* 【2026-05-13】[zhangfengcdt / memoir](https://github.com/zhangfengcdt/memoir) - Hierarchical Agent Memory with Git-Like Version Control
 * 【2026-05-12】[jwadow / kiro-gateway](https://github.com/jwadow/kiro-gateway) - 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.
 * 【2026-05-12】[ylytdeng / wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 * 【2026-05-12】[wanshuiyin / Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
@@ -7035,6 +7038,7 @@
 
 ## C
 
+* 【2026-05-13】[AcademySoftwareFoundation / openexr](https://github.com/AcademySoftwareFoundation/openexr) - The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
 * 【2026-05-12】[MrPowerGamerBR / Butterscotch](https://github.com/MrPowerGamerBR/Butterscotch) - 🥧 An open source re-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1.08 (Bytecode Version 16)
 * 【2026-05-12】[meshcore-dev / MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2026-05-11】[facebook / openzl](https://github.com/facebook/openzl) - A novel data compression framework
@@ -8236,6 +8240,10 @@
 
 ## C++
 
+* 【2026-05-13】[encounter / aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
+* 【2026-05-13】[k4zmu2a / SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
+* 【2026-05-13】[zeldaret / tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
+* 【2026-05-13】[ros-controls / ros2_control](https://github.com/ros-controls/ros2_control) - Generic and simple controls framework for ROS 2
 * 【2026-05-11】[gazebosim / gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 * 【2026-05-07】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
 * 【2026-05-06】[jarczakpawel / BMCU-C-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration - all known issues fixed, 100% AMS-compatible behavior.
@@ -9455,6 +9463,9 @@
 
 ## C#
 
+* 【2026-05-13】[Greedeks / GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
+* 【2026-05-13】[microsoft / Power-CAT-Copilot-Studio-Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) - 
+* 【2026-05-13】[aelassas / servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability - Modern Alternative to NSSM, WinSW & FireDaemon Pro
 * 【2026-05-10】[Alchyr / BaseLib-StS2](https://github.com/Alchyr/BaseLib-StS2) - Mod for Slay the Spire 2 to standardize content additions
 * 【2026-05-08】[Pronwan / rustplus-desktop](https://github.com/Pronwan/rustplus-desktop) - Rust+ Desktop App (unofficial)
 * 【2026-05-06】[mcp-servers-for-revit / mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
@@ -12905,6 +12916,7 @@
 
 ## Unknown
 
+* 【2026-05-13】[ParthJadhav / app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
 * 【2026-05-10】[vinegarhq / sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 * 【2026-05-07】[jim-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 * 【2026-05-06】[WICG / html-in-canvas](https://github.com/WICG/html-in-canvas) - 
