@@ -1335,6 +1335,8 @@
 
 ## Python
 
+* 【2026-05-14】[K-Dense-AI / scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+* 【2026-05-14】[CloakHQ / CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted Multilogin alternative
 * 【2026-05-13】[Imbad0202 / academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 * 【2026-05-13】[openinterpreter / open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 * 【2026-05-13】[zhangfengcdt / memoir](https://github.com/zhangfengcdt/memoir) - Hierarchical Agent Memory with Git-Like Version Control
@@ -4060,6 +4062,9 @@
 
 ## Javascript
 
+* 【2026-05-14】[microsoft / agent-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
+* 【2026-05-14】[evidence-dev / evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
+* 【2026-05-14】[notionnext-org / NotionNext](https://github.com/notionnext-org/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 * 【2026-05-11】[heshengtao / super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 * 【2026-05-10】[justlovemaki / AIClient2API](https://github.com/justlovemaki/AIClient2API) - Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
 * 【2026-05-10】[presenton / presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
@@ -7038,6 +7043,8 @@
 
 ## C
 
+* 【2026-05-14】[hzqst / VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
+* 【2026-05-14】[bdth-7777777 / OLED_UI](https://github.com/bdth-7777777/OLED_UI) - 一个丝滑的、可以轻松部署的OLED UI界面，包含基本的多级菜单，窗口等组件。
 * 【2026-05-13】[AcademySoftwareFoundation / openexr](https://github.com/AcademySoftwareFoundation/openexr) - The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
 * 【2026-05-12】[MrPowerGamerBR / Butterscotch](https://github.com/MrPowerGamerBR/Butterscotch) - 🥧 An open source re-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1.08 (Bytecode Version 16)
 * 【2026-05-12】[meshcore-dev / MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
@@ -8240,6 +8247,7 @@
 
 ## C++
 
+* 【2026-05-14】[geo-tp / ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 * 【2026-05-13】[encounter / aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
 * 【2026-05-13】[k4zmu2a / SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 * 【2026-05-13】[zeldaret / tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
@@ -10658,6 +10666,8 @@
 
 ## Html
 
+* 【2026-05-14】[CyberAlbSecOP / Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
+* 【2026-05-14】[tractorjuice / arc-kit](https://github.com/tractorjuice/arc-kit) - Enterprise Architecture Governance & Vendor Procurement Toolkit
 * 【2026-05-12】[rust-lang / blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
 * 【2026-05-10】[digoal / blog](https://github.com/digoal/blog) - Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
 * 【2026-05-08】[horilla / horilla-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR and CRM software.
@@ -12916,6 +12926,7 @@
 
 ## Unknown
 
+* 【2026-05-14】[op7418 / Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 * 【2026-05-13】[ParthJadhav / app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
 * 【2026-05-10】[vinegarhq / sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 * 【2026-05-07】[jim-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
