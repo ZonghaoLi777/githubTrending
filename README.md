@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-05-16】[iflytek / skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
 * 【2026-05-12】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 * 【2026-05-08】[nageoffer / ragent](https://github.com/nageoffer/ragent) - 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。
 * 【2026-05-06】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
@@ -1335,6 +1336,8 @@
 
 ## Python
 
+* 【2026-05-16】[joeseesun / qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
+* 【2026-05-16】[CodeBoarding / CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 * 【2026-05-15】[NVIDIA-AI-Blueprints / video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
 * 【2026-05-15】[OthmanAdi / planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 * 【2026-05-15】[zubair-trabzada / geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
@@ -4067,6 +4070,10 @@
 
 ## Javascript
 
+* 【2026-05-16】[ykdojo / claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.
+* 【2026-05-16】[phuc-nt / my-translator](https://github.com/phuc-nt/my-translator) - Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only
+* 【2026-05-16】[oracle / skills](https://github.com/oracle/skills) - Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain
+* 【2026-05-16】[0xsdeo / AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) - JavaScript Reverse Tools -- JS逆向工具
 * 【2026-05-15】[hzm0321 / real-time-fund](https://github.com/hzm0321/real-time-fund) - 基金实时估值查看
 * 【2026-05-14】[microsoft / agent-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
 * 【2026-05-14】[evidence-dev / evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
@@ -5631,6 +5638,8 @@
 
 ## Go
 
+* 【2026-05-16】[komari-monitor / komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
+* 【2026-05-16】[llm-d / llm-d-router](https://github.com/llm-d/llm-d-router) - llm-d Router: The intelligent entry point for inference requests
 * 【2026-05-12】[BenedictKing / ccx](https://github.com/BenedictKing/ccx) - Claude / Codex / Gemini API Proxy - CCX
 * 【2026-05-12】[gesellix / Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices
 * 【2026-05-11】[microsoft / waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
@@ -8253,6 +8262,7 @@
 
 ## C++
 
+* 【2026-05-16】[electronicarts / mesh2splat](https://github.com/electronicarts/mesh2splat) - Fast mesh to 3D gaussian splat conversion
 * 【2026-05-14】[geo-tp / ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 * 【2026-05-13】[encounter / aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
 * 【2026-05-13】[k4zmu2a / SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
@@ -10672,6 +10682,7 @@
 
 ## Html
 
+* 【2026-05-16】[ShubhangiRoy12 / MooVit](https://github.com/ShubhangiRoy12/MooVit) - MooVit is a smart real-time safety assistant that helps visually impaired users by detecting people, vehicles, signals, and obstacles, and gives voice alerts to guide them safely in traffic and road environments. Designed for accessibility and easy use.
 * 【2026-05-14】[CyberAlbSecOP / Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 * 【2026-05-14】[tractorjuice / arc-kit](https://github.com/tractorjuice/arc-kit) - Enterprise Architecture Governance & Vendor Procurement Toolkit
 * 【2026-05-12】[rust-lang / blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
@@ -11741,6 +11752,7 @@
 
 ## Css
 
+* 【2026-05-16】[rust-lang / const-eval](https://github.com/rust-lang/const-eval) - home for proposals in and around compile-time function evaluation
 * 【2026-05-11】[github / develop.github.com](https://github.com/github/develop.github.com) - Outdated documentation for GitHub API v2. See http://developer.github.com/ for the current API.
 * 【2026-05-10】[imjuya / juya-ai-daily](https://github.com/imjuya/juya-ai-daily) - 记录人类完蛋全过程。
 * 【2026-05-05】[puckzxz / NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme) - A easily customizable and automatically updating theme for Discord
