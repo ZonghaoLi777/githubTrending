@@ -1336,6 +1336,9 @@
 
 ## Python
 
+* 【2026-05-17】[HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+* 【2026-05-17】[dograh-hq / dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
+* 【2026-05-17】[BigBodyCobain / Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
 * 【2026-05-16】[joeseesun / qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 * 【2026-05-16】[CodeBoarding / CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 * 【2026-05-15】[NVIDIA-AI-Blueprints / video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
@@ -4070,6 +4073,8 @@
 
 ## Javascript
 
+* 【2026-05-17】[adobe / skills](https://github.com/adobe/skills) - Adobe Skills for Agents
+* 【2026-05-17】[renatoasse / opensquad](https://github.com/renatoasse/opensquad) - 
 * 【2026-05-16】[ykdojo / claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.
 * 【2026-05-16】[phuc-nt / my-translator](https://github.com/phuc-nt/my-translator) - Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only
 * 【2026-05-16】[oracle / skills](https://github.com/oracle/skills) - Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain
@@ -5638,6 +5643,7 @@
 
 ## Go
 
+* 【2026-05-17】[gastownhall / gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 * 【2026-05-16】[komari-monitor / komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 * 【2026-05-16】[llm-d / llm-d-router](https://github.com/llm-d/llm-d-router) - llm-d Router: The intelligent entry point for inference requests
 * 【2026-05-12】[BenedictKing / ccx](https://github.com/BenedictKing/ccx) - Claude / Codex / Gemini API Proxy - CCX
@@ -7058,6 +7064,7 @@
 
 ## C
 
+* 【2026-05-17】[CrazyCritic89 / SteamHapticsSinger](https://github.com/CrazyCritic89/SteamHapticsSinger) - This project is a fork of SteamControllerSinger which aims to be a successor.
 * 【2026-05-14】[hzqst / VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
 * 【2026-05-14】[bdth-7777777 / OLED_UI](https://github.com/bdth-7777777/OLED_UI) - 一个丝滑的、可以轻松部署的OLED UI界面，包含基本的多级菜单，窗口等组件。
 * 【2026-05-13】[AcademySoftwareFoundation / openexr](https://github.com/AcademySoftwareFoundation/openexr) - The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
@@ -9487,6 +9494,7 @@
 
 ## C#
 
+* 【2026-05-17】[builtbybel / Winslopr](https://github.com/builtbybel/Winslopr) - Windows Slop Remover
 * 【2026-05-13】[Greedeks / GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
 * 【2026-05-13】[microsoft / Power-CAT-Copilot-Studio-Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) - 
 * 【2026-05-13】[aelassas / servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability - Modern Alternative to NSSM, WinSW & FireDaemon Pro
@@ -11752,6 +11760,7 @@
 
 ## Css
 
+* 【2026-05-17】[adobe / adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
 * 【2026-05-16】[rust-lang / const-eval](https://github.com/rust-lang/const-eval) - home for proposals in and around compile-time function evaluation
 * 【2026-05-11】[github / develop.github.com](https://github.com/github/develop.github.com) - Outdated documentation for GitHub API v2. See http://developer.github.com/ for the current API.
 * 【2026-05-10】[imjuya / juya-ai-daily](https://github.com/imjuya/juya-ai-daily) - 记录人类完蛋全过程。
@@ -12944,6 +12953,7 @@
 
 ## Unknown
 
+* 【2026-05-17】[hyperspaceai / agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.
 * 【2026-05-15】[caramaschiHG / awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) - 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.
 * 【2026-05-15】[0PandaDEV / awesome-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
 * 【2026-05-14】[op7418 / Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
