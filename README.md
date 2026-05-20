@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-05-20】[mubashardev / WaEnhancerX](https://github.com/mubashardev/WaEnhancerX) - 1. Wa Enhancer X | WhatsApp tools for Android
 * 【2026-05-16】[iflytek / skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
 * 【2026-05-12】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 * 【2026-05-08】[nageoffer / ragent](https://github.com/nageoffer/ragent) - 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。
@@ -1336,6 +1337,8 @@
 
 ## Python
 
+* 【2026-05-20】[HanaokaYuzu / Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) - ✨ Reverse-engineered Python API for Google Gemini web app
+* 【2026-05-20】[Flowseal / tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy) - Local MTProto proxy server for partial bypassing of Telegram loading
 * 【2026-05-19】[mattzh72 / articraft](https://github.com/mattzh72/articraft) - An Agentic System for Scalable Articulated 3D Asset Generation
 * 【2026-05-19】[zinja-coder / jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server) - MCP server for JADX-AI Plugin
 * 【2026-05-18】[Light-Heart-Labs / DreamServer](https://github.com/Light-Heart-Labs/DreamServer) - Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.
@@ -12972,6 +12975,7 @@
 
 ## Unknown
 
+* 【2026-05-20】[android / skills](https://github.com/android/skills) - 
 * 【2026-05-19】[yvoronoy / awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 * 【2026-05-19】[tmylla / Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity.
 * 【2026-05-18】[bendc / frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
