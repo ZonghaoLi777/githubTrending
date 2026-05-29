@@ -1345,6 +1345,11 @@
 
 ## Python
 
+* 【2026-05-29】[OpenMOSS / MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
+* 【2026-05-29】[anthropics / claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+* 【2026-05-29】[microsoft / RAMPART](https://github.com/microsoft/RAMPART) - A pytest-native safety and security testing framework for agentic AI applications
+* 【2026-05-29】[ariadng / metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) - Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform
+* 【2026-05-29】[adithya-s-k / omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
 * 【2026-05-27】[francescopace / espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 * 【2026-05-26】[st-tech / ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) - A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
 * 【2026-05-25】[anthropics / knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
@@ -4104,6 +4109,7 @@
 
 ## Javascript
 
+* 【2026-05-29】[bugbasesecurity / pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
 * 【2026-05-28】[zarazhangrui / frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 * 【2026-05-27】[calesthio / Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 * 【2026-05-27】[KoStard / forgecad-public-kit](https://github.com/KoStard/forgecad-public-kit) - Public companion kit for ForgeCAD: examples, agent skills, docs links, and issue tracking. The hosted CAD app and core source live elsewhere.
@@ -5687,6 +5693,7 @@
 
 ## Go
 
+* 【2026-05-29】[kenn-io / roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 * 【2026-05-28】[kulikov0 / whitelist-bypass](https://github.com/kulikov0/whitelist-bypass) - 
 * 【2026-05-28】[james-6-23 / codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
 * 【2026-05-28】[Infisical / agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
@@ -10773,6 +10780,8 @@
 
 ## Html
 
+* 【2026-05-29】[rebane2001 / xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
+* 【2026-05-29】[S3DFX-CYBER / GSoC-Org-Finder-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) - Find your perfect GSoC 2026 organization- filter all 184 selected orgs by your tech stack, language, and domain. No install needed.
 * 【2026-05-28】[revfactory / harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 * 【2026-05-28】[lijigang / ljg-skills](https://github.com/lijigang/ljg-skills) - 
 * 【2026-05-28】[OCA / e-commerce](https://github.com/OCA/e-commerce) - Odoo E-Commerce server automation addons
@@ -11852,6 +11861,7 @@
 
 ## Css
 
+* 【2026-05-29】[AumGupta / abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin) - Minimal Dark Theme for Jellyfin [Customisable]
 * 【2026-05-27】[knadh / oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.
 * 【2026-05-23】[zarazhangrui / codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 * 【2026-05-17】[adobe / adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
@@ -13047,6 +13057,7 @@
 
 ## Unknown
 
+* 【2026-05-29】[Goochbeater / Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - A repo for jailbreaking various LLMs, mainly Claude
 * 【2026-05-28】[dair-ai / Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮 A collection of resources to learn mathematics for machine learning
 * 【2026-05-28】[KimYx0207 / AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex 中文教程 | 36篇完整教程 | 18万字 | 三线学习路径 | 小白到企业实战
 * 【2026-05-26】[google / eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
