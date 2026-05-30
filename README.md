@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-05-30】[OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 * 【2026-05-27】[Stonewuu / ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
 * 【2026-05-26】[navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) - 
 * 【2026-05-26】[AuthMe / AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
@@ -1345,6 +1346,10 @@
 
 ## Python
 
+* 【2026-05-30】[galilai-group / stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
+* 【2026-05-30】[zakirkun / deep-eye](https://github.com/zakirkun/deep-eye) - Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerability types, and produces professional reports with compliance mapping.
+* 【2026-05-30】[ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
+* 【2026-05-30】[NVlabs / Eagle](https://github.com/NVlabs/Eagle) - Eagle: Frontier Vision-Language Models with Data-Centric Strategies
 * 【2026-05-29】[OpenMOSS / MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
 * 【2026-05-29】[anthropics / claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 * 【2026-05-29】[microsoft / RAMPART](https://github.com/microsoft/RAMPART) - A pytest-native safety and security testing framework for agentic AI applications
@@ -4109,6 +4114,7 @@
 
 ## Javascript
 
+* 【2026-05-30】[hitesh-kumar123 / Travel-Plans-](https://github.com/hitesh-kumar123/Travel-Plans-) - PackGo: Your ultimate travel companion. Built with React, Redux, Node.js & MongoDB to seamlessly plan trips, track budgets, check weather, and organize bookings in one intuitive dashboard.
 * 【2026-05-29】[bugbasesecurity / pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
 * 【2026-05-28】[zarazhangrui / frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 * 【2026-05-27】[calesthio / Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
@@ -5693,6 +5699,7 @@
 
 ## Go
 
+* 【2026-05-30】[runkids / skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 * 【2026-05-29】[kenn-io / roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 * 【2026-05-28】[kulikov0 / whitelist-bypass](https://github.com/kulikov0/whitelist-bypass) - 
 * 【2026-05-28】[james-6-23 / codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
@@ -9576,6 +9583,7 @@
 
 ## C#
 
+* 【2026-05-30】[SirDiabo / GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - A Launcher that Downloads and Updates Applications from Github Releases
 * 【2026-05-26】[MiniMax-AI / skills](https://github.com/MiniMax-AI/skills) - 
 * 【2026-05-26】[Polytoria / polytoria-game](https://github.com/Polytoria/polytoria-game) - Polytoria, a multiplayer gaming platform built with Godot and .NET
 * 【2026-05-26】[ed0ard / CS2-Bot-Improver](https://github.com/ed0ard/CS2-Bot-Improver) - CS2-Bot-Improver is a plugin for Counter-Strike 2 that improves bots' aim, movement, nade throwing, personalities, strategies, etc. Aims to enhance your experience when playing against bots offline or with friends. It can be installed on both clients and servers.
@@ -13057,6 +13065,7 @@
 
 ## Unknown
 
+* 【2026-05-30】[alexpate / awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 * 【2026-05-29】[Goochbeater / Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - A repo for jailbreaking various LLMs, mainly Claude
 * 【2026-05-28】[dair-ai / Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮 A collection of resources to learn mathematics for machine learning
 * 【2026-05-28】[KimYx0207 / AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex 中文教程 | 36篇完整教程 | 18万字 | 三线学习路径 | 小白到企业实战
