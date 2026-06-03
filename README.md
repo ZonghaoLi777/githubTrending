@@ -1348,6 +1348,9 @@
 
 ## Python
 
+* 【2026-06-03】[chopratejas / headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+* 【2026-06-03】[datalab-to / surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
+* 【2026-06-03】[HKUDS / Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 * 【2026-06-01】[nesquena / hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 * 【2026-05-30】[galilai-group / stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
 * 【2026-05-30】[zakirkun / deep-eye](https://github.com/zakirkun/deep-eye) - Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerability types, and produces professional reports with compliance mapping.
@@ -4117,6 +4120,7 @@
 
 ## Javascript
 
+* 【2026-06-03】[xuanyustudio / LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) - 🎬 seedance2接入 开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线
 * 【2026-06-02】[a5c-ai / babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 * 【2026-06-02】[microsoft / skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio) - A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more.
 * 【2026-06-01】[SandeepVashishtha / Eventra](https://github.com/SandeepVashishtha/Eventra) - Eventra is a comprehensive event management system that empowers organizers to create, manage, and track events seamlessly. Built with a modern tech stack featuring React frontend and Spring Boot backend, Eventra provides everything needed to run successful events from creation to post-event analytics.
@@ -5706,6 +5710,7 @@
 
 ## Go
 
+* 【2026-06-03】[sartoopjj / thefeed](https://github.com/sartoopjj/thefeed) - DNS-based feed reader for Telegram channels and public X accounts. Designed for environments where only DNS queries work.
 * 【2026-06-02】[HexmosTech / git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit
 * 【2026-06-02】[charmbracelet / soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 * 【2026-06-01】[Panonim / dynacat](https://github.com/Panonim/dynacat) - Dynacat is a dashboard focused on dynamic reloading and easy integrity with external applications.
@@ -8365,6 +8370,8 @@
 
 ## C++
 
+* 【2026-06-03】[CopterExpress / clover](https://github.com/CopterExpress/clover) - ROS-based framework and RPi image to control PX4-powered drones 🍀
+* 【2026-06-03】[aenu1 / aps3e](https://github.com/aenu1/aps3e) - An experimental Android PS3 emulator, ported and optimized based on RPCS3.
 * 【2026-05-28】[simplefoc / Arduino-FOC](https://github.com/simplefoc/Arduino-FOC) - Arduino FOC for BLDC and Stepper motors - Arduino Based Field Oriented Control Algorithm Library
 * 【2026-05-26】[DamRsn / NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
 * 【2026-05-25】[jtenniswood / espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel
@@ -9597,6 +9604,7 @@
 
 ## C#
 
+* 【2026-06-03】[Dailin521 / codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) - Synchronize Codex session provider metadata across rollout files and SQLite state.
 * 【2026-06-02】[openutau / OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 * 【2026-06-02】[PizzaLovers007 / AdofaiTweaks](https://github.com/PizzaLovers007/AdofaiTweaks) - Helpful tweaks for A Dance of Fire and Ice
 * 【2026-06-01】[KSP-CKAN / CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
@@ -10805,6 +10813,7 @@
 
 ## Html
 
+* 【2026-06-03】[googleprojectzero / 0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild) - Repository for information about 0-days exploited in-the-wild.
 * 【2026-05-29】[rebane2001 / xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 * 【2026-05-29】[S3DFX-CYBER / GSoC-Org-Finder-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) - Find your perfect GSoC 2026 organization- filter all 184 selected orgs by your tech stack, language, and domain. No install needed.
 * 【2026-05-28】[revfactory / harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
@@ -13084,6 +13093,7 @@
 
 ## Unknown
 
+* 【2026-06-03】[eeeeeeeeee-code / POC](https://github.com/eeeeeeeeee-code/POC) - 备份的漏洞库，3月开始我们来维护
 * 【2026-05-31】[EmergenceAI / Emergence-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.
 * 【2026-05-30】[alexpate / awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 * 【2026-05-29】[Goochbeater / Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - A repo for jailbreaking various LLMs, mainly Claude
