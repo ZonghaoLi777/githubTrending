@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-06-14】[matevip / mateclaw](https://github.com/matevip/mateclaw) - 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
 * 【2026-06-12】[primefaces / primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for Jakarta Faces
 * 【2026-06-04】[bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
 * 【2026-05-31】[stone-alex / EliteIntel](https://github.com/stone-alex/EliteIntel) - LLM side-kick and data analyst for Elite Dangerous
@@ -1350,6 +1351,7 @@
 
 ## Python
 
+* 【2026-06-14】[py-pdf / pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 * 【2026-06-13】[shuvonsec / claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code.
 * 【2026-06-12】[hexo-ai / sia](https://github.com/hexo-ai/sia) - SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
 * 【2026-06-12】[LLMQuant / quant-mind](https://github.com/LLMQuant/quant-mind) - QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance.
@@ -4141,6 +4143,7 @@
 
 ## Javascript
 
+* 【2026-06-14】[openai / codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 * 【2026-06-12】[rohitg00 / k8sgames](https://github.com/rohitg00/k8sgames) - Learn Kubernetes by playing. Deploy pods, fix CrashLoopBackOff, type real kubectl commands: 3D browser game, no install needed.
 * 【2026-06-09】[y13sint / FreeQwenApi](https://github.com/y13sint/FreeQwenApi) - Локальный API-прокси для Qwen AI с поддержкой сохранения контекста диалогов и управления сессиями через REST API
 * 【2026-06-07】[Gracker / SmartPerfetto](https://github.com/Gracker/SmartPerfetto) - use ai analysis Performance issue with perfetto
@@ -8420,6 +8423,8 @@
 
 ## C++
 
+* 【2026-06-14】[GensokyoClub / th06](https://github.com/GensokyoClub/th06) - Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h)
+* 【2026-06-14】[kevinpbuckley / VibeUE](https://github.com/kevinpbuckley/VibeUE) - Unreal Engine Vibe Coding tool
 * 【2026-06-13】[react / react-native](https://github.com/react/react-native) - A framework for building native applications using React
 * 【2026-06-13】[Natfii / UnrealClaude](https://github.com/Natfii/UnrealClaude) - Claude Code CLI integration for Unreal Engine 5.7 - Get AI coding assistance with built-in UE5.7 documentation context directly in the editor.
 * 【2026-06-13】[Euro-Office / desktop-apps](https://github.com/Euro-Office/desktop-apps) - 
@@ -10875,6 +10880,8 @@
 
 ## Html
 
+* 【2026-06-14】[hmislk / hmis](https://github.com/hmislk/hmis) - This is an Open Source Java EE based Hospital Information Management System
+* 【2026-06-14】[0Chencc / clawgod](https://github.com/0Chencc/clawgod) - This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect
 * 【2026-06-13】[evolution-foundation / evo-crm-community](https://github.com/evolution-foundation/evo-crm-community) - Open source and self-hosted AI-powered customer service platform. Single-tenant, no multi-account, no per-user charges — you run the complete stack on your server.
 * 【2026-06-12】[itskovacs / trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 * 【2026-06-11】[Euro-Office / web-apps](https://github.com/Euro-Office/web-apps) - 
