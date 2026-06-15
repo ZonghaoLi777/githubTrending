@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-06-15】[ls1intum / Artemis](https://github.com/ls1intum/Artemis) - Artemis - Interactive Learning with Automated Feedback
 * 【2026-06-14】[matevip / mateclaw](https://github.com/matevip/mateclaw) - 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
 * 【2026-06-12】[primefaces / primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for Jakarta Faces
 * 【2026-06-04】[bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
@@ -1351,6 +1352,8 @@
 
 ## Python
 
+* 【2026-06-15】[openinterpreter / openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+* 【2026-06-15】[Ar9av / obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern
 * 【2026-06-14】[py-pdf / pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 * 【2026-06-13】[shuvonsec / claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code.
 * 【2026-06-12】[hexo-ai / sia](https://github.com/hexo-ai/sia) - SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
@@ -4143,6 +4146,8 @@
 
 ## Javascript
 
+* 【2026-06-15】[sigalor / whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
+* 【2026-06-15】[js-org / js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 * 【2026-06-14】[openai / codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 * 【2026-06-12】[rohitg00 / k8sgames](https://github.com/rohitg00/k8sgames) - Learn Kubernetes by playing. Deploy pods, fix CrashLoopBackOff, type real kubectl commands: 3D browser game, no install needed.
 * 【2026-06-09】[y13sint / FreeQwenApi](https://github.com/y13sint/FreeQwenApi) - Локальный API-прокси для Qwen AI с поддержкой сохранения контекста диалогов и управления сессиями через REST API
@@ -8423,6 +8428,7 @@
 
 ## C++
 
+* 【2026-06-15】[cifertech / ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 * 【2026-06-14】[GensokyoClub / th06](https://github.com/GensokyoClub/th06) - Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h)
 * 【2026-06-14】[kevinpbuckley / VibeUE](https://github.com/kevinpbuckley/VibeUE) - Unreal Engine Vibe Coding tool
 * 【2026-06-13】[react / react-native](https://github.com/react/react-native) - A framework for building native applications using React
@@ -9666,6 +9672,7 @@
 
 ## C#
 
+* 【2026-06-15】[ppy / osu-framework](https://github.com/ppy/osu-framework) - A game framework written with osu! in mind.
 * 【2026-06-12】[LegendaryGaoZheng / Cross-Game-Recoil-Control](https://github.com/LegendaryGaoZheng/Cross-Game-Recoil-Control) - 部署极其简单，高效，多功能的跨平台压枪脚本，可绕过各大主流反作弊系统，适配《三角洲行动》，《CS2》，《PUBG》等一系列游戏。Effortless deployment, efficient, and versatile cross-platform aimbot script that bypasses major mainstream anti-cheat systems, compatible with games such as Delta Force, CS2, PUBG, and more.
 * 【2026-06-09】[itsfatduck / optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 * 【2026-06-09】[builtbybel / FluentTweaker](https://github.com/builtbybel/FluentTweaker) - 
@@ -13171,6 +13178,7 @@
 
 ## Unknown
 
+* 【2026-06-15】[zai-org / GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
 * 【2026-06-13】[google / agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 * 【2026-06-12】[openfootball / worldcup.json](https://github.com/openfootball/worldcup.json) - Free open public domain football data for the world cups (national teams & clubs) in JSON incl. Canada/USA/Mexico 2026, USA 2025, Qatar 2022, Russia 2018 and more - No API key required ;-)
 * 【2026-06-11】[alchaincyf / hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
