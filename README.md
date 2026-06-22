@@ -4160,6 +4160,10 @@
 
 ## Javascript
 
+* 【2026-06-22】[Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+* 【2026-06-22】[Darkatse / TauriTavern](https://github.com/Darkatse/TauriTavern) - The classic Sillytavern, now has been rewritten in Tauri/Rust.
+* 【2026-06-22】[rohitg00 / awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.
+* 【2026-06-22】[maillab / cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service | 基于 Cloudflare 的邮箱服务 | Cloudflare Email 邮箱 Mail
 * 【2026-06-21】[foundryvtt / dnd5e](https://github.com/foundryvtt/dnd5e) - An implementation of the 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt.com).
 * 【2026-06-20】[react / react](https://github.com/react/react) - The library for web and native user interfaces.
 * 【2026-06-19】[vllm-project / recipes](https://github.com/vllm-project/recipes) - Common recipes to run vLLM
@@ -7232,6 +7236,7 @@
 
 ## C
 
+* 【2026-06-22】[logicog / RTLPlayground](https://github.com/logicog/RTLPlayground) - A Playground for Firmware development for RTL8372/RTL8373 based 2.5GBit Switches
 * 【2026-06-19】[getsentry / sentry-native](https://github.com/getsentry/sentry-native) - Sentry SDK for C, C++ and native applications.
 * 【2026-06-17】[swoole / swoole-cli](https://github.com/swoole/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & fpm and mostly of common extensions.
 * 【2026-06-16】[OSGeo / grass](https://github.com/OSGeo/grass) - GRASS - free and open-source geospatial processing engine
@@ -8457,6 +8462,8 @@
 
 ## C++
 
+* 【2026-06-22】[fmrico / book_ros2](https://github.com/fmrico/book_ros2) - 
+* 【2026-06-22】[JRickey / BattleShip](https://github.com/JRickey/BattleShip) - A smashin' port for PC, Mac, and Linux!
 * 【2026-06-15】[cifertech / ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 * 【2026-06-14】[GensokyoClub / th06](https://github.com/GensokyoClub/th06) - Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h)
 * 【2026-06-14】[kevinpbuckley / VibeUE](https://github.com/kevinpbuckley/VibeUE) - Unreal Engine Vibe Coding tool
