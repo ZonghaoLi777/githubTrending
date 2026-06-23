@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-06-23】[dromara / ujcms](https://github.com/dromara/ujcms) - Java开源网站内容管理系统(java cms)。使用SpringBoot、MyBatis、Spring Security、Lucene、FreeMarker、TypeScript、Vue3、ElementPlus等技术开发。
 * 【2026-06-19】[redis / docs](https://github.com/redis/docs) - Documentation for Redis, Redis Cloud, and Redis Enterprise
 * 【2026-06-19】[lunasaw / voglander](https://github.com/lunasaw/voglander) - Voglander 是基于 Spring Boot 3.5 + Java 17 的企业级视频监控平台，支持 GB28181、JT/T 1078、ONVIF、SIP Gateway、ZLMediaKit、IPC/NVR 接入、实时点播、录像回放、流媒体转发、NAT 穿透和国标级联。
 * 【2026-06-18】[vaadin / platform](https://github.com/vaadin/platform) - Vaadin platform 10+ is a Java web development platform based on Vaadin web components. If you don't know to which repository your bug report should be filed, use this and we'll move it to the right one.
@@ -1357,6 +1358,9 @@
 
 ## Python
 
+* 【2026-06-23】[NVIDIA / skills](https://github.com/NVIDIA/skills) - AI agent skills published by NVIDIA
+* 【2026-06-23】[kernalix7 / winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
+* 【2026-06-23】[HKUDS / DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.
 * 【2026-06-20】[VectifyAI / OpenKB](https://github.com/VectifyAI/OpenKB) - OpenKB: Open LLM Knowledge Base
 * 【2026-06-20】[jamesyc / TimeCapsuleSMB](https://github.com/jamesyc/TimeCapsuleSMB) - Hacking the Apple Time Capsule to run modern Samba
 * 【2026-06-19】[cocoindex-io / cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent 🌟 Star if you like it!
@@ -4160,6 +4164,7 @@
 
 ## Javascript
 
+* 【2026-06-23】[FB208 / OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 * 【2026-06-22】[Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 * 【2026-06-22】[Darkatse / TauriTavern](https://github.com/Darkatse/TauriTavern) - The classic Sillytavern, now has been rewritten in Tauri/Rust.
 * 【2026-06-22】[rohitg00 / awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.
@@ -5771,6 +5776,9 @@
 
 ## Go
 
+* 【2026-06-23】[esengine / DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+* 【2026-06-23】[Layr-Labs / d-inference](https://github.com/Layr-Labs/d-inference) - Private Inference Network on Idle Macs
+* 【2026-06-23】[guohuiyuan / go-music-dl](https://github.com/guohuiyuan/go-music-dl) - 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005
 * 【2026-06-21】[Billionmail / BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 * 【2026-06-20】[VersusControl / versus-incident](https://github.com/VersusControl/versus-incident) - Open-source incident management tool with an AI SRE agent that watches your logs, learns normal patterns, and auto-creates incidents — plus webhook alerts, multi-channel notifications, and on-call escalation.
 * 【2026-06-20】[BishopFox / cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
@@ -10928,6 +10936,8 @@
 
 ## Html
 
+* 【2026-06-23】[Y-Research-SBU / QuantAgent](https://github.com/Y-Research-SBU/QuantAgent) - Official Repository for QuantAgent
+* 【2026-06-23】[nirholas / XActions](https://github.com/nirholas/XActions) - ⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open source. Unfollow people who don't follow back. Monitor real-time analytics. Auto follow, like, comment, scrape, without API.
 * 【2026-06-19】[jax-ml / scaling-book](https://github.com/jax-ml/scaling-book) - Home for "How To Scale Your Model", a short blog-style textbook about scaling LLMs on TPUs
 * 【2026-06-18】[techjarves / USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) - The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.
 * 【2026-06-18】[perma-id / w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
@@ -13231,6 +13241,7 @@
 
 ## Unknown
 
+* 【2026-06-23】[sirredbeard / awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 * 【2026-06-21】[infoslack / awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 * 【2026-06-21】[martj42 / international_results](https://github.com/martj42/international_results) - 
 * 【2026-06-19】[github / app](https://github.com/github/app) - The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
