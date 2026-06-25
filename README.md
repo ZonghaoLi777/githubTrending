@@ -4166,6 +4166,8 @@
 
 ## Javascript
 
+* 【2026-06-25】[arunbhardwaj / LeetHub-2.0](https://github.com/arunbhardwaj/LeetHub-2.0) - Automatically sync your leetcode solutions to your github account - with some updates to keep it working
+* 【2026-06-25】[Shopify / Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit) - Agent plugins/extensions for CLIs and IDEs
 * 【2026-06-23】[FB208 / OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 * 【2026-06-22】[Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 * 【2026-06-22】[Darkatse / TauriTavern](https://github.com/Darkatse/TauriTavern) - The classic Sillytavern, now has been rewritten in Tauri/Rust.
@@ -8473,6 +8475,7 @@
 
 ## C++
 
+* 【2026-06-25】[optiscaler / OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 * 【2026-06-22】[fmrico / book_ros2](https://github.com/fmrico/book_ros2) - 
 * 【2026-06-22】[JRickey / BattleShip](https://github.com/JRickey/BattleShip) - A smashin' port for PC, Mac, and Linux!
 * 【2026-06-15】[cifertech / ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
@@ -12040,6 +12043,7 @@
 
 ## Css
 
+* 【2026-06-25】[recloudstream / csdocs](https://github.com/recloudstream/csdocs) - 
 * 【2026-06-24】[ConardLi / garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 * 【2026-06-24】[SillyTavern / SillyTavern-Docs](https://github.com/SillyTavern/SillyTavern-Docs) - Documentation website for SillyTavern.
 * 【2026-06-21】[mariadb-corporation / mariadb-docs](https://github.com/mariadb-corporation/mariadb-docs) - 
@@ -13246,6 +13250,8 @@
 
 ## Unknown
 
+* 【2026-06-25】[Hamed233 / Cybersecurity-Mastery-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance
+* 【2026-06-25】[MedivhTirisfal / csust_test_database](https://github.com/MedivhTirisfal/csust_test_database) - 长沙理工大学考试题库
 * 【2026-06-23】[sirredbeard / awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 * 【2026-06-21】[infoslack / awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 * 【2026-06-21】[martj42 / international_results](https://github.com/martj42/international_results) - 
