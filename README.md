@@ -1361,6 +1361,8 @@
 
 ## Python
 
+* 【2026-07-02】[virgiliojr94 / book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+* 【2026-07-02】[HKUDS / VideoAgent](https://github.com/HKUDS/VideoAgent) - "VideoAgent: All-in-One Agentic Framework for Video Understanding, Editing, and Remaking"
 * 【2026-06-30】[Unclecheng-li / VulnClaw](https://github.com/Unclecheng-li/VulnClaw) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 * 【2026-06-29】[Robbyant / lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 * 【2026-06-28】[browser-use / video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
@@ -4177,6 +4179,7 @@
 
 ## Javascript
 
+* 【2026-07-02】[nadimtuhin / claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) - Optimize token usage for Claude API calls
 * 【2026-07-01】[pashov / skills](https://github.com/pashov/skills) - Pashov Audit Group Skills
 * 【2026-07-01】[tt-a1i / archify](https://github.com/tt-a1i/archify) - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
 * 【2026-06-30】[worldwonderer / oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) - 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
@@ -5799,6 +5802,7 @@
 
 ## Go
 
+* 【2026-07-02】[leookun / cursor-byok](https://github.com/leookun/cursor-byok) - Infinite BYOK in Cursor https://github.com/leookun/cursor-byok/releases
 * 【2026-07-01】[palemoky / chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
 * 【2026-06-30】[rilldata / rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
 * 【2026-06-30】[pomerium / pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
@@ -10979,6 +10983,7 @@
 
 ## Html
 
+* 【2026-07-02】[cncf / toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
 * 【2026-06-30】[hasaneyldrm / exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
 * 【2026-06-29】[DataScienceSpecialization / courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
 * 【2026-06-29】[meleantonio / awesome-econ-ai-stuff](https://github.com/meleantonio/awesome-econ-ai-stuff) - AI Skills for Economists
@@ -12085,6 +12090,7 @@
 
 ## Css
 
+* 【2026-07-02】[Nutlope / hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 * 【2026-07-01】[anushkasark08 / The-Lighthouse](https://github.com/anushkasark08/The-Lighthouse) - 
 * 【2026-06-25】[recloudstream / csdocs](https://github.com/recloudstream/csdocs) - 
 * 【2026-06-24】[ConardLi / garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
@@ -13293,6 +13299,7 @@
 
 ## Unknown
 
+* 【2026-07-02】[yetone / voice-input-src](https://github.com/yetone/voice-input-src) - 
 * 【2026-06-30】[Fl4sh9174 / Switch-Emulator-Ultrawide-FPS-Mods](https://github.com/Fl4sh9174/Switch-Emulator-Ultrawide-FPS-Mods) - 
 * 【2026-06-30】[lfapac-open-source-evangelist / translation](https://github.com/lfapac-open-source-evangelist/translation) - 
 * 【2026-06-29】[sanbuphy / learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents
