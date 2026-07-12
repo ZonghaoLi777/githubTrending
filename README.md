@@ -1366,6 +1366,9 @@
 
 ## Python
 
+* 【2026-07-12】[FoundationAgents / OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground. OpenManus is Coming.
+* 【2026-07-12】[cognizant-ai-lab / neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) - A playground for neuro-san
+* 【2026-07-12】[ATH-MaaS / Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 * 【2026-07-11】[Soju06 / codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 * 【2026-07-11】[syncable-dev / memtrace-public](https://github.com/syncable-dev/memtrace-public) - Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · Hermes · VS Code · Windsurf.
 * 【2026-07-10】[fqscfqj / Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) - YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
@@ -7306,6 +7309,7 @@
 
 ## C
 
+* 【2026-07-12】[Filoppi / Luma-Framework](https://github.com/Filoppi/Luma-Framework) - Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki
 * 【2026-07-09】[antirez / ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 * 【2026-07-03】[ducalex / retro-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID-GO and other ESP32 devices
 * 【2026-07-03】[polhenarejos / pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
@@ -9797,6 +9801,7 @@
 
 ## C#
 
+* 【2026-07-12】[par274 / sharpemu](https://github.com/par274/sharpemu) - An experimental PlayStation 5 emulator project.
 * 【2026-07-10】[SmartlyDressedGames / U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open-world zombie survival sandbox game.
 * 【2026-07-10】[codewithmukesh / dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit) - Make Claude Code a .NET 10 Expert
 * 【2026-07-03】[PhoenixNil / XrayUI-dev](https://github.com/PhoenixNil/XrayUI-dev) - Lightweight native Windows GUI client for Xray core, built with WinUI 3
@@ -11023,6 +11028,7 @@
 
 ## Html
 
+* 【2026-07-12】[sohutv / cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving re…
 * 【2026-07-11】[mlc-ai / modern-gpu-programming-for-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys) - A tutorial on modern GPU programming for machine learning systems
 * 【2026-07-11】[cclank / cell-architecture-studio](https://github.com/cclank/cell-architecture-studio) - Interactive 3D cell architecture gallery built with React and Three.js
 * 【2026-07-08】[fernfei / OnlyofficePersonal](https://github.com/fernfei/OnlyofficePersonal) - ONLYOFFICE Personal 是一款基于wasm运行的Office办公套件，无需服务端直接运行。
@@ -13349,6 +13355,8 @@
 
 ## Unknown
 
+* 【2026-07-12】[brannondorsey / wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
+* 【2026-07-12】[nasa / NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
 * 【2026-07-11】[ipfs / ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 * 【2026-07-10】[hicccc77 / WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 * 【2026-07-10】[wowlusitong / awesome-education](https://github.com/wowlusitong/awesome-education) - 学生福利-收集支持教育优惠的软件与服务
