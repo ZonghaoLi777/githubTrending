@@ -1366,6 +1366,8 @@
 
 ## Python
 
+* 【2026-07-13】[youtubediscord / zapret](https://github.com/youtubediscord/zapret) - Zapret (Запрет обход блокировки Дискорда и Ютуба)
+* 【2026-07-13】[microsoft / TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
 * 【2026-07-12】[FoundationAgents / OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground. OpenManus is Coming.
 * 【2026-07-12】[cognizant-ai-lab / neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) - A playground for neuro-san
 * 【2026-07-12】[ATH-MaaS / Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -4197,6 +4199,7 @@
 
 ## Javascript
 
+* 【2026-07-13】[venera-app / venera-configs](https://github.com/venera-app/venera-configs) - 
 * 【2026-07-11】[ilysenko / codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.
 * 【2026-07-09】[addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 * 【2026-07-09】[byoungd / up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
@@ -5828,6 +5831,7 @@
 
 ## Go
 
+* 【2026-07-13】[Mininglamp-OSS / octo-server](https://github.com/Mininglamp-OSS/octo-server) - 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.
 * 【2026-07-10】[velero-io / velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 * 【2026-07-09】[karust / openserp](https://github.com/karust/openserp) - Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 * 【2026-07-07】[micro / go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
@@ -8546,6 +8550,7 @@
 
 ## C++
 
+* 【2026-07-13】[InoriRus / Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
 * 【2026-07-10】[carbonengine / core](https://github.com/carbonengine/core) - Provides generic low-level functionality and cross-platform abstractions for system calls
 * 【2026-07-10】[Alex2772 / kuni](https://github.com/Alex2772/kuni) - character ai
 * 【2026-07-09】[huxingyi / autoremesher](https://github.com/huxingyi/autoremesher) - Automatic quad remeshing tool
@@ -11028,6 +11033,7 @@
 
 ## Html
 
+* 【2026-07-13】[GoogleCloudPlatform / knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 * 【2026-07-12】[sohutv / cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving re…
 * 【2026-07-11】[mlc-ai / modern-gpu-programming-for-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys) - A tutorial on modern GPU programming for machine learning systems
 * 【2026-07-11】[cclank / cell-architecture-studio](https://github.com/cclank/cell-architecture-studio) - Interactive 3D cell architecture gallery built with React and Three.js
@@ -12141,6 +12147,7 @@
 
 ## Css
 
+* 【2026-07-13】[madoiscool / ltsteamplugin](https://github.com/madoiscool/ltsteamplugin) - ermm, YUP!
 * 【2026-07-09】[jszmajda / lid](https://github.com/jszmajda/lid) - Linked-Intent Development - a SDD methodology for agentic coding
 * 【2026-07-08】[XiaomingX / ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 * 【2026-07-06】[rk192324217 / cubosapiens_world-tools](https://github.com/rk192324217/cubosapiens_world-tools) - 
@@ -13355,6 +13362,7 @@
 
 ## Unknown
 
+* 【2026-07-13】[Furthir / awesome-useful-projects](https://github.com/Furthir/awesome-useful-projects) - Curated List of 500+ Open Source Projects for Everyday Use
 * 【2026-07-12】[brannondorsey / wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 * 【2026-07-12】[nasa / NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
 * 【2026-07-11】[ipfs / ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
