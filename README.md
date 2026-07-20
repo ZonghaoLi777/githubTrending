@@ -1368,6 +1368,8 @@
 
 ## Python
 
+* 【2026-07-20】[bojieli / ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+* 【2026-07-20】[Canner / WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.
 * 【2026-07-19】[OpenSenseNova / SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles
 * 【2026-07-18】[PurpleAILAB / Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team
 * 【2026-07-18】[open-telemetry / semantic-conventions-genai](https://github.com/open-telemetry/semantic-conventions-genai) - 
@@ -8577,6 +8579,7 @@
 
 ## C++
 
+* 【2026-07-20】[NVIDIA / DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across edge, on‑prem, and cloud deployments.
 * 【2026-07-18】[autowarefoundation / vision_pilot](https://github.com/autowarefoundation/vision_pilot) - Free and fully open-source L2 ADAS stack powered by End-to-End AI technology
 * 【2026-07-18】[CrispStrobe / CrispASR](https://github.com/CrispStrobe/CrispASR) - C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more
 * 【2026-07-15】[sdatkinson / NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore) - Core DSP library for NAM plugins
@@ -13399,6 +13402,7 @@
 
 ## Unknown
 
+* 【2026-07-20】[greensock / gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 * 【2026-07-19】[ZeroPointRepo / awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Curated, install-ready skills for Hermes Agent (v0.17.0). 72 built-in + 101 optional bundled skills + 85 community skills, plugins & tools for the self-improving AI agent from Nous Research. Cross-compatible with Claude Code, OpenClaw, Cursor, and Windsurf.
 * 【2026-07-19】[MoonshotAI / Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5) - Moonshot's most powerful model
 * 【2026-07-19】[google-antigravity / antigravity-cli](https://github.com/google-antigravity/antigravity-cli) - Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal.
