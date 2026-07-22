@@ -1369,6 +1369,7 @@
 
 ## Python
 
+* 【2026-07-22】[NVIDIA / cosmos-framework](https://github.com/NVIDIA/cosmos-framework) - Our inference and training framework to run on the Cosmos Models
 * 【2026-07-21】[PrefectHQ / fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 * 【2026-07-21】[langchain-ai / open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 * 【2026-07-20】[bojieli / ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
@@ -4215,6 +4216,7 @@
 
 ## Javascript
 
+* 【2026-07-22】[conorbronsdon / avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
 * 【2026-07-21】[OpenWhispr / openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 * 【2026-07-21】[magnusoverli / opencode](https://github.com/magnusoverli/opencode) - 
 * 【2026-07-19】[InterfaceX-co-jp / genshijin](https://github.com/InterfaceX-co-jp/genshijin) - genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
@@ -5853,6 +5855,8 @@
 
 ## Go
 
+* 【2026-07-22】[agentscope-ai / AgentTeams](https://github.com/agentscope-ai/AgentTeams) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
+* 【2026-07-22】[openshift / hypershift](https://github.com/openshift/hypershift) - Hyperscale OpenShift - clusters with hosted control planes
 * 【2026-07-21】[open-telemetry / opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) - OpenTelemetry Go Compile Instrumentation
 * 【2026-07-21】[apache / casbin](https://github.com/apache/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
 * 【2026-07-19】[tphakala / birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
@@ -11081,6 +11085,7 @@
 
 ## Html
 
+* 【2026-07-22】[mohitagw15856 / pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) - In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.
 * 【2026-07-21】[Artzainnn / ClaudeUsageBar](https://github.com/Artzainnn/ClaudeUsageBar) - Track your Claude.ai usage right from your Mac menu bar
 * 【2026-07-18】[techjarves / OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable) - Run Claude Code from a USB drive on any PC — no installation required.
 * 【2026-07-13】[GoogleCloudPlatform / knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
@@ -12197,6 +12202,7 @@
 
 ## Css
 
+* 【2026-07-22】[thedevdojo / wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 * 【2026-07-16】[leandrocp / lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
 * 【2026-07-13】[madoiscool / ltsteamplugin](https://github.com/madoiscool/ltsteamplugin) - ermm, YUP!
 * 【2026-07-09】[jszmajda / lid](https://github.com/jszmajda/lid) - Linked-Intent Development - a SDD methodology for agentic coding
@@ -13413,6 +13419,7 @@
 
 ## Unknown
 
+* 【2026-07-22】[ayghri / i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 * 【2026-07-21】[201853910 / VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) - 手动上传官网的VMwareWorkstation安装包
 * 【2026-07-21】[MoonshotAI / Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) - 
 * 【2026-07-20】[greensock / gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
