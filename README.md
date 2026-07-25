@@ -7356,6 +7356,7 @@
 
 ## C
 
+* 【2026-07-25】[mkj / dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 * 【2026-07-24】[mvp / uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 * 【2026-07-23】[erincatto / box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
 * 【2026-07-23】[colbymchenry / codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
@@ -8602,6 +8603,8 @@
 
 ## C++
 
+* 【2026-07-25】[OpenLoco / OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re-implementation of Chris Sawyer's Locomotion
+* 【2026-07-25】[xLLM-AI / xllm](https://github.com/xLLM-AI/xllm) - A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation.
 * 【2026-07-24】[mobile-shell / mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 * 【2026-07-24】[cristibaluta / Imagin-Raw](https://github.com/cristibaluta/Imagin-Raw) - A lightweight but powerful alternative to Adobe Bridge for Mac
 * 【2026-07-21】[handy-computer / transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
@@ -11100,6 +11103,9 @@
 
 ## Html
 
+* 【2026-07-25】[datadrivenconstruction / OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching. 42 regional catalogues, 21 languages, 71 modules. AGPL-3.0. v3.0 - pip install openconstructionerp
+* 【2026-07-25】[silvertakana / worldwideview](https://github.com/silvertakana/worldwideview) - 
+* 【2026-07-25】[github / choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 * 【2026-07-23】[NomaDamas / slides-grab](https://github.com/NomaDamas/slides-grab) - Best harness + editor + linter for generating slides in Claude Code / Codex - Claude Design Open Source Alternative
 * 【2026-07-23】[Jstudner / jcorp-nomad](https://github.com/Jstudner/jcorp-nomad) - An extremely compact offline media server for Movies, Shows, Books, and Music.
 * 【2026-07-22】[mohitagw15856 / pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) - In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.
