@@ -4232,6 +4232,7 @@
 
 ## Javascript
 
+* 【2026-07-31】[nyxxbit / discord-quest-completer](https://github.com/nyxxbit/discord-quest-completer) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module loader, auto-claim, adaptive speed. No installs, no tokens, no dependencies.
 * 【2026-07-30】[kunchenguid / lavish-axi](https://github.com/kunchenguid/lavish-axi) - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
 * 【2026-07-30】[vrgamegirl19 / comfyui-vrgamedevgirl](https://github.com/vrgamegirl19/comfyui-vrgamedevgirl) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
 * 【2026-07-29】[visualbruno / 3DGenStudio](https://github.com/visualbruno/3DGenStudio) - 
@@ -5881,6 +5882,8 @@
 
 ## Go
 
+* 【2026-07-31】[openshift / origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
+* 【2026-07-31】[nianzhibai / 91](https://github.com/nianzhibai/91) - nine one
 * 【2026-07-30】[rorkai / App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 * 【2026-07-30】[certimate-go / certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
 * 【2026-07-29】[alibaba / skill-up](https://github.com/alibaba/skill-up) - An evaluation and evolution tool for Agent Skills.
