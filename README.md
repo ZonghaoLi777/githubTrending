@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-08-02】[mubashardev / WaEnhancer](https://github.com/mubashardev/WaEnhancer) - WhatsApp tools for Android
 * 【2026-07-30】[Mininglamp-OSS / octo-android](https://github.com/Mininglamp-OSS/octo-android) - OCTO Android Client — Open-source enterprise IM
 * 【2026-07-29】[icysymmetra / tiktok-patches-for-morphe](https://github.com/icysymmetra/tiktok-patches-for-morphe) - This repository is a Morphe patch source for TikTok. It continues the work from earlier community TikTok patch sets, including ReVanced, with the patches adapted for Morphe and tested against newer TikTok builds. The current target version is TikTok 43.8.3
 * 【2026-07-26】[jeandle / jeandle-jdk](https://github.com/jeandle/jeandle-jdk) - Jeandle is a Just-in-Time compiler for Java. It is built on OpenJDK and leverages the LLVM compiler infrastructure to generate machine code, aiming to provide powerful compilation optimizations and deliver high-performance code.
@@ -1376,6 +1377,8 @@
 
 ## Python
 
+* 【2026-08-02】[abus-aikorea / voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
+* 【2026-08-02】[SimplifyJobs / Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 * 【2026-08-01】[trailofbits / skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 * 【2026-08-01】[figma / mcp-server-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server
 * 【2026-07-29】[paperswithbacktest / awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
@@ -4234,6 +4237,7 @@
 
 ## Javascript
 
+* 【2026-08-02】[open-gsd / gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 * 【2026-08-01】[woosal1337 / blog](https://github.com/woosal1337/blog) - My blog website.
 * 【2026-07-31】[nyxxbit / discord-quest-completer](https://github.com/nyxxbit/discord-quest-completer) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module loader, auto-claim, adaptive speed. No installs, no tokens, no dependencies.
 * 【2026-07-30】[kunchenguid / lavish-axi](https://github.com/kunchenguid/lavish-axi) - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
@@ -11145,6 +11149,7 @@
 
 ## Html
 
+* 【2026-08-02】[microsoft / zerotrustassessment](https://github.com/microsoft/zerotrustassessment) - Repository for the Zero Trust Assessment project
 * 【2026-07-29】[hello245m / free-stockdb](https://github.com/hello245m/free-stockdb) - 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
 * 【2026-07-29】[freenet / web](https://github.com/freenet/web) - 
 * 【2026-07-25】[datadrivenconstruction / OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching. 42 regional catalogues, 21 languages, 71 modules. AGPL-3.0. v3.0 - pip install openconstructionerp
@@ -13486,6 +13491,7 @@
 
 ## Unknown
 
+* 【2026-08-02】[VoltAgent / awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) - A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
 * 【2026-07-30】[HQarroum / awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
 * 【2026-07-29】[emilkowalski / skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 * 【2026-07-27】[trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
