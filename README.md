@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-08-16】[liulangjietou / customer_work](https://github.com/liulangjietou/customer_work) - 
 * 【2026-08-15】[zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
 * 【2026-08-14】[jdubois / boot-ui](https://github.com/jdubois/boot-ui) - The missing developer UI for Spring Boot and Quarkus!
 * 【2026-08-14】[aurickk / OpSec](https://github.com/aurickk/OpSec) - Minecraft mod for advanced client brand spoofing, tracking exploit protections, and other privacy focused features.
@@ -1388,6 +1389,10 @@
 
 ## Python
 
+* 【2026-08-16】[MakazhanAlpamys / Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+* 【2026-08-16】[sgl-project / sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang-Omni empowers high-performance serving for TTS, ASR, speech and omni models.
+* 【2026-08-16】[titanwings / colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
+* 【2026-08-16】[whiteguo233 / OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
 * 【2026-08-15】[newton-physics / newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 * 【2026-08-14】[index-tts / index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 * 【2026-08-12】[AWeirdDev / flights](https://github.com/AWeirdDev/flights) - Fast, robust Google Flights scraper (API) for Python. (Probably)
@@ -8712,6 +8717,8 @@
 
 ## C++
 
+* 【2026-08-16】[afritz1 / OpenTESArena](https://github.com/afritz1/OpenTESArena) - Open-source re-implementation of The Elder Scrolls: Arena.
+* 【2026-08-16】[MeisApps / pcbu-desktop](https://github.com/MeisApps/pcbu-desktop) - Desktop app for PC Bio Unlock
 * 【2026-08-15】[safijari / openpuck](https://github.com/safijari/openpuck) - Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode
 * 【2026-08-14】[ROCm / FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 * 【2026-08-12】[sal063 / AC6_recomp](https://github.com/sal063/AC6_recomp) - static Recomp of AC6 with Rexglue
@@ -11236,6 +11243,8 @@
 
 ## Html
 
+* 【2026-08-16】[Arrow-air / project-quiver](https://github.com/Arrow-air/project-quiver) - Project Quiver documentation, designs, and project artifacts.
+* 【2026-08-16】[L1AD / claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 * 【2026-08-14】[huytieu / COG-second-brain](https://github.com/huytieu/COG-second-brain) - Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.
 * 【2026-08-12】[cathrynlavery / diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 * 【2026-08-12】[Jakubantalik / transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
@@ -13590,6 +13599,7 @@
 
 ## Unknown
 
+* 【2026-08-16】[cdleon / awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 * 【2026-08-15】[Paramchoudhary / ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - A collection of AI agent skills focused on resume optimization, job applications, and career development. Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search.
 * 【2026-08-14】[shadcn / improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 * 【2026-08-14】[aliyun / alibabacloud-jindodata](https://github.com/aliyun/alibabacloud-jindodata) - alibabacloud-jindodata
