@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-08-21】[langgraph4j / langgraph4j](https://github.com/langgraph4j/langgraph4j) - 🚀 LangGraph for Java. A library for develop AI Agentic Architectures in the Java ecosystem. Designed to work seamlessly with both Langchain4j and Spring AI.
 * 【2026-08-18】[aklivity / zilla](https://github.com/aklivity/zilla) - 🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.
 * 【2026-08-17】[OWASP / www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework) - OWASP Foundation web repository
 * 【2026-08-17】[7723mod / NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -1392,6 +1393,7 @@
 
 ## Python
 
+* 【2026-08-21】[Osmantic / ODS](https://github.com/Osmantic/ODS) - Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 * 【2026-08-20】[marceloprates / prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 * 【2026-08-20】[youssofal / MTPLX](https://github.com/youssofal/MTPLX) - 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
 * 【2026-08-20】[AgriciDaniel / claude-ads](https://github.com/AgriciDaniel/claude-ads) - Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic scoring, versioned JSON reports, and capability-gated account changes.
@@ -4285,6 +4287,7 @@
 
 ## Javascript
 
+* 【2026-08-21】[chuspeeism / dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
 * 【2026-08-20】[WhatDreamsCost / WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) - LTX Director and a variety of other custom ComfyUI nodes and workflows
 * 【2026-08-19】[AnInsomniacy / motrix-next](https://github.com/AnInsomniacy/motrix-next) - A full-featured download manager — rebuilt from the ground up
 * 【2026-08-17】[IRNova / Nova-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده از هسته‌های Amnezia، Wireguard، Sing-box، Clash/Mihomo و Xray.
@@ -5956,6 +5959,7 @@
 
 ## Go
 
+* 【2026-08-21】[autonomous-ai / autonomous-os](https://github.com/autonomous-ai/autonomous-os) - The open-source operating system for robots — install it and your robot comes alive
 * 【2026-08-20】[TencentCloud / CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 * 【2026-08-20】[google / sam](https://github.com/google/sam) - SAM Sovereign Agent Mesh
 * 【2026-08-20】[ongridio / ongrid](https://github.com/ongridio/ongrid) - An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.
