@@ -1393,6 +1393,8 @@
 
 ## Python
 
+* 【2026-08-22】[MadsLorentzen / ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+* 【2026-08-22】[forcedotcom / sf-skills](https://github.com/forcedotcom/sf-skills) - Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools.
 * 【2026-08-21】[Osmantic / ODS](https://github.com/Osmantic/ODS) - Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 * 【2026-08-20】[marceloprates / prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 * 【2026-08-20】[youssofal / MTPLX](https://github.com/youssofal/MTPLX) - 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
@@ -4287,6 +4289,7 @@
 
 ## Javascript
 
+* 【2026-08-22】[cloudflare / security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 * 【2026-08-21】[chuspeeism / dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
 * 【2026-08-20】[WhatDreamsCost / WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) - LTX Director and a variety of other custom ComfyUI nodes and workflows
 * 【2026-08-19】[AnInsomniacy / motrix-next](https://github.com/AnInsomniacy/motrix-next) - A full-featured download manager — rebuilt from the ground up
@@ -5959,6 +5962,7 @@
 
 ## Go
 
+* 【2026-08-22】[microsoft / TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 * 【2026-08-21】[autonomous-ai / autonomous-os](https://github.com/autonomous-ai/autonomous-os) - The open-source operating system for robots — install it and your robot comes alive
 * 【2026-08-20】[TencentCloud / CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 * 【2026-08-20】[google / sam](https://github.com/google/sam) - SAM Sovereign Agent Mesh
@@ -8744,6 +8748,8 @@
 
 ## C++
 
+* 【2026-08-22】[OpenHD / OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
+* 【2026-08-22】[charlie12345 / ROCmFPX](https://github.com/charlie12345/ROCmFPX) - ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants
 * 【2026-08-20】[mrxenginner / reVC](https://github.com/mrxenginner/reVC) - Reverse engineering the classic GTA Vice City game
 * 【2026-08-18】[petercorke / robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python
 * 【2026-08-18】[noctalia-dev / noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
@@ -13636,6 +13642,7 @@
 
 ## Unknown
 
+* 【2026-08-22】[nostr-protocol / nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 * 【2026-08-19】[QwenLM / Qwen3.8](https://github.com/QwenLM/Qwen3.8) - Qwen3.8 is the large language model series developed by Qwen team, Alibaba Group.
 * 【2026-08-18】[12britz / awesome-free-models](https://github.com/12britz/awesome-free-models) - A curated list of free AI models, APIs, and tools you can use without paying a cent.
 * 【2026-08-18】[hanlulong / awesome-ai-for-economists](https://github.com/hanlulong/awesome-ai-for-economists) - A curated list of AI tools, libraries, and resources for economics research, teaching, and policy analysis. Maintained by the OpenEcon team.
