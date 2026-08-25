@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-08-25】[Keeperorowner / NagramXF](https://github.com/Keeperorowner/NagramXF) - A fork of NagramX with additional features.
 * 【2026-08-21】[langgraph4j / langgraph4j](https://github.com/langgraph4j/langgraph4j) - 🚀 LangGraph for Java. A library for develop AI Agentic Architectures in the Java ecosystem. Designed to work seamlessly with both Langchain4j and Spring AI.
 * 【2026-08-18】[aklivity / zilla](https://github.com/aklivity/zilla) - 🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.
 * 【2026-08-17】[OWASP / www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework) - OWASP Foundation web repository
@@ -7498,6 +7499,7 @@
 
 ## C
 
+* 【2026-08-25】[tqbf / mdv](https://github.com/tqbf/mdv) - Markdown Viewer
 * 【2026-08-24】[RxNaison / Epson-Waste-Reset](https://github.com/RxNaison/Epson-Waste-Reset) - A free, native, and completely open-source utility to reset the "Waste Ink Pad" counter on Epson printers
 * 【2026-08-18】[NaGaa95 / sphaira](https://github.com/NaGaa95/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2026-08-15】[superturtlee / gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe) - No TrickyStore on Canoe
@@ -8756,6 +8758,7 @@
 
 ## C++
 
+* 【2026-08-25】[edin45 / simple_photogrammetry_gui](https://github.com/edin45/simple_photogrammetry_gui) - 
 * 【2026-08-22】[OpenHD / OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 * 【2026-08-22】[charlie12345 / ROCmFPX](https://github.com/charlie12345/ROCmFPX) - ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants
 * 【2026-08-20】[mrxenginner / reVC](https://github.com/mrxenginner/reVC) - Reverse engineering the classic GTA Vice City game
@@ -13653,6 +13656,7 @@
 
 ## Unknown
 
+* 【2026-08-25】[Ramys / Iptv-Brasil-2026](https://github.com/Ramys/Iptv-Brasil-2026) - Canais , Filmes e Séries
 * 【2026-08-24】[j4Uq / TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) - 
 * 【2026-08-24】[twostraws / SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 * 【2026-08-22】[nostr-protocol / nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
