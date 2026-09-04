@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-09-04】[Brazzo978 / L.L.E-Legacy-Lockscreen-Effects](https://github.com/Brazzo978/L.L.E-Legacy-Lockscreen-Effects) - 
 * 【2026-08-25】[Keeperorowner / NagramXF](https://github.com/Keeperorowner/NagramXF) - A fork of NagramX with additional features.
 * 【2026-08-21】[langgraph4j / langgraph4j](https://github.com/langgraph4j/langgraph4j) - 🚀 LangGraph for Java. A library for develop AI Agentic Architectures in the Java ecosystem. Designed to work seamlessly with both Langchain4j and Spring AI.
 * 【2026-08-18】[aklivity / zilla](https://github.com/aklivity/zilla) - 🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.
@@ -1394,6 +1395,8 @@
 
 ## Python
 
+* 【2026-09-04】[netalertx / NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery. Monitor devices, detect change, and stay aware across distributed networks.
+* 【2026-09-04】[datacurve-ai / deep-swe](https://github.com/datacurve-ai/deep-swe) - Measuring frontier coding agents on original, long-horizon engineering tasks
 * 【2026-09-02】[mujocolab / mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research
 * 【2026-09-02】[noonghunna / club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1× and 2× cards.
 * 【2026-09-01】[securo-finance / securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
@@ -7520,6 +7523,8 @@
 
 ## C
 
+* 【2026-09-04】[eunomia-bpf / agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
+* 【2026-09-04】[destan19 / OpenAppFilter](https://github.com/destan19/OpenAppFilter) - OAF(OpenAppFilter) is a parental control software based on OpenWrt. It supports popular applications across gaming, video streaming, instant messaging, such as TikTok, YouTube, Facebook. Currently, it supports hundreds of different applications.
 * 【2026-09-02】[JustVugg / colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 * 【2026-08-28】[sunblaze-ucb / exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 * 【2026-08-26】[OleksandrChekhovskyi / hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C.
@@ -8782,6 +8787,8 @@
 
 ## C++
 
+* 【2026-09-04】[xoxor4d / gta4-rtx](https://github.com/xoxor4d/gta4-rtx) - GTAIV RTX Remix Compatibility Mod
+* 【2026-09-04】[harry7557558 / spirula-studio](https://github.com/harry7557558/spirula-studio) - Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
 * 【2026-09-02】[metasequoiaime / MetasequoiaImeTsf](https://github.com/metasequoiaime/MetasequoiaImeTsf) - 水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142
 * 【2026-09-02】[crosire / reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 * 【2026-09-01】[zackb / tether](https://github.com/zackb/tether) - Linux + iPhone Continuity / iMessage / SMS
@@ -11328,6 +11335,7 @@
 
 ## Html
 
+* 【2026-09-04】[datawhalechina / Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub) - AI Agent 学习路线与资料库收集
 * 【2026-09-02】[isjiamu / gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
 * 【2026-09-01】[Abdess / retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with emulator source code as the deciding authority.
 * 【2026-08-27】[Manavarya09 / design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
@@ -12468,6 +12476,8 @@
 
 ## Css
 
+* 【2026-09-04】[CopticScriptorium / corpora](https://github.com/CopticScriptorium/corpora) - Public repository for Coptic SCRIPTORIUM Corpora Releases
+* 【2026-09-04】[DeGrandis / canvas-dark-mode](https://github.com/DeGrandis/canvas-dark-mode) - Canvas Dark Mode
 * 【2026-08-28】[apachecn / sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - 📖 [译] scikit-learn（sklearn） 中文文档
 * 【2026-08-23】[fontsource / font-files](https://github.com/fontsource/font-files) - 2000+ open-source fonts bundled into neat packages.
 * 【2026-08-23】[KyleAMathews / typefaces](https://github.com/KyleAMathews/typefaces) - NPM packages for Open Source typefaces
@@ -13694,6 +13704,7 @@
 
 ## Unknown
 
+* 【2026-09-04】[yogsec / Hacking-Tools](https://github.com/yogsec/Hacking-Tools) - A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.
 * 【2026-09-01】[MacPaw / cleanmymac-cli](https://github.com/MacPaw/cleanmymac-cli) - Clean Xcode, Docker, Homebrew, and developer caches, remove project and AI artifacts, analyze storage, and reclaim disk space from the Terminal.
 * 【2026-08-30】[liquidslr / system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
 * 【2026-08-30】[adobe / react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
