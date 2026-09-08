@@ -4323,6 +4323,8 @@
 
 ## Javascript
 
+* 【2026-09-08】[mekos2772 / ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
+* 【2026-09-08】[Yu9191 / wloc](https://github.com/Yu9191/wloc) - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 * 【2026-09-01】[DsThakurRawat / Backend-from-first-Principle](https://github.com/DsThakurRawat/Backend-from-first-Principle) - 
 * 【2026-08-31】[amElnagdy / delegate-skills](https://github.com/amElnagdy/delegate-skills) - Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.
 * 【2026-08-28】[bilawalsidhu / gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
