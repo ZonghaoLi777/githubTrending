@@ -210,6 +210,7 @@
 
 ## Java
 
+* 【2026-09-15】[APIJSON / APIJSON](https://github.com/APIJSON/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
 * 【2026-09-07】[SlimeKnights / TinkersConstruct](https://github.com/SlimeKnights/TinkersConstruct) - Tinker a little, build a little, tinker a little more...
 * 【2026-09-06】[spring-ai-alibaba / DataAgent](https://github.com/spring-ai-alibaba/DataAgent) - Spring AI Alibaba DataAgent
 * 【2026-09-05】[Zoeille / picsou-finance](https://github.com/Zoeille/picsou-finance) - Self-hosted personal finance dashboard Track bank accounts, brokerage, crypto, and net worth — all in one place.
@@ -1398,6 +1399,7 @@
 
 ## Python
 
+* 【2026-09-15】[rlaope / oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
 * 【2026-09-13】[SnailSploit / Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
 * 【2026-09-13】[multimodal-art-projection / YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 * 【2026-09-13】[petergyang / no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
@@ -4332,6 +4334,7 @@
 
 ## Javascript
 
+* 【2026-09-15】[yuliskov / SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - Watch YouTube videos on your TV and set-top-box with comfort
 * 【2026-09-14】[plugin87 / ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claiming success. Install as a Claude Code plugin or with npx.
 * 【2026-09-14】[shaun8149 / sdf-js](https://github.com/shaun8149/sdf-js) - Chainable JS SDF library + 基于 SDF 的离散结构生成器层 (form × generator decoupling). Port & extension of fogleman/sdf.
 * 【2026-09-13】[withmarbleapp / os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) - 
@@ -6019,6 +6022,7 @@
 
 ## Go
 
+* 【2026-09-15】[xob0t / gotohp](https://github.com/xob0t/gotohp) - Unofficial Google Photos Desktop GUI Client
 * 【2026-09-13】[najmuzzaman-mohammad / gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
 * 【2026-09-12】[p1neappleXpress / OpenFlux](https://github.com/p1neappleXpress/OpenFlux) - Network stack research tool. TCP tunnel with pluggable transports.
 * 【2026-09-12】[dagucloud / dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.
@@ -8832,6 +8836,7 @@
 
 ## C++
 
+* 【2026-09-15】[eden-emulator / mirror](https://github.com/eden-emulator/mirror) - Mirror of Eden. PRs welcome.
 * 【2026-09-12】[0xShug0 / audio.cpp](https://github.com/0xShug0/audio.cpp) - An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.
 * 【2026-09-12】[lkimuk / ReArk](https://github.com/lkimuk/ReArk) - An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).
 * 【2026-09-12】[iamaisim / ProjectAirSim](https://github.com/iamaisim/ProjectAirSim) - Project AirSim is Microsoft's evolution of AirSim, an advanced simulation platform for building, training, and testing autonomous systems in high-fidelity virtual environments
@@ -13763,6 +13768,7 @@
 
 ## Unknown
 
+* 【2026-09-15】[liangdabiao / Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) - 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧
 * 【2026-09-14】[LLMQuant / awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
 * 【2026-09-13】[knowledgefxg / learning-english](https://github.com/knowledgefxg/learning-english) - 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。
 * 【2026-09-11】[Yaozhil / mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) - mpv-Yaozhi 自制整合包 -重构mpv播放内核 - 自制 UI 优化、可视化配置脚本、弹幕、中文 stats
