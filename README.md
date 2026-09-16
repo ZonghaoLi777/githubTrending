@@ -1399,6 +1399,7 @@
 
 ## Python
 
+* 【2026-09-16】[MG1937 / ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 * 【2026-09-15】[rlaope / oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
 * 【2026-09-13】[SnailSploit / Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
 * 【2026-09-13】[multimodal-art-projection / YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
@@ -6022,6 +6023,7 @@
 
 ## Go
 
+* 【2026-09-16】[e2b-dev / runtime](https://github.com/e2b-dev/runtime) - The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.
 * 【2026-09-15】[xob0t / gotohp](https://github.com/xob0t/gotohp) - Unofficial Google Photos Desktop GUI Client
 * 【2026-09-13】[najmuzzaman-mohammad / gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
 * 【2026-09-12】[p1neappleXpress / OpenFlux](https://github.com/p1neappleXpress/OpenFlux) - Network stack research tool. TCP tunnel with pluggable transports.
@@ -7563,6 +7565,7 @@
 
 ## C
 
+* 【2026-09-16】[luka-dev / mib2q-carplay-rgi](https://github.com/luka-dev/mib2q-carplay-rgi) - Implementation of Route Guidance from CarPlay for MHI2Q
 * 【2026-09-13】[FoggyBytes / StreamLight](https://github.com/FoggyBytes/StreamLight) - Moonlight fork, a complete new UI experience with a lot of new features and a deeper host integration.
 * 【2026-09-11】[willfaust / Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 * 【2026-09-10】[iczelia / bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
@@ -11394,6 +11397,7 @@
 
 ## Html
 
+* 【2026-09-16】[w3c / wai-website](https://github.com/w3c/wai-website) - This repository hosts the W3C WAI web site.
 * 【2026-09-14】[tinkerhub / useless_project_temp](https://github.com/tinkerhub/useless_project_temp) - 
 * 【2026-09-09】[omacom / omarchy-site](https://github.com/omacom/omarchy-site) - Beautiful, Modern & Opinionated Linux by DHH
 * 【2026-09-05】[dqev / reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
