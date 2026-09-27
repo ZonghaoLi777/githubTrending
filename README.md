@@ -10201,6 +10201,7 @@
 
 ## C#
 
+* 【2026-09-27】[nefarius / DsHidMini](https://github.com/nefarius/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
 * 【2026-09-24】[RayrenSX / iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) - Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager.
 * 【2026-09-24】[tgeorgiadis / quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 * 【2026-09-24】[SafeExamBrowser / seb-win-refactoring](https://github.com/SafeExamBrowser/seb-win-refactoring) - Safe Exam Browser for Windows.
