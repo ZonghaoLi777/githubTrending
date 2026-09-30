@@ -210,6 +210,9 @@
 
 ## Java
 
+* 【2026-09-30】[jean-voila / FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
+* 【2026-09-30】[zed-0xff / ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy) - Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access.
+* 【2026-09-30】[yash-srivastava / Overdrive-release](https://github.com/yash-srivastava/Overdrive-release) - Advanced Sentry Mode for BYD Vehicles
 * 【2026-09-29】[AndroidCSOfficial / android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio) - Android Code Studio is an IDE for Android to develop full featured Android apps.
 * 【2026-09-28】[AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) - Dual pane Android file manager with focus on APKs
 * 【2026-09-19】[rstudio / rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
@@ -4357,6 +4360,7 @@
 
 ## Javascript
 
+* 【2026-09-30】[QwenAudio / qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents
 * 【2026-09-28】[mlmvpn / mlmvpn_windows](https://github.com/mlmvpn/mlmvpn_windows) - MLMVPN - Ultimate Anti-Filter & IP Scanner
 * 【2026-09-28】[huilang-me / CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) - 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。
 * 【2026-09-28】[ulsklyc / yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
@@ -10217,6 +10221,7 @@
 
 ## C#
 
+* 【2026-09-30】[MikuLeaks / MikuSB](https://github.com/MikuLeaks/MikuSB) - Open-source C#/.NET research server emulator for local protocol and networking experimentation.
 * 【2026-09-29】[smartstore / Smartstore](https://github.com/smartstore/Smartstore) - A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 10
 * 【2026-09-28】[Tianyu199509 / DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 * 【2026-09-27】[nefarius / DsHidMini](https://github.com/nefarius/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
