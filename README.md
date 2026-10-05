@@ -4366,6 +4366,7 @@
 
 ## Javascript
 
+* 【2026-10-05】[michael-denyer / pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 * 【2026-10-01】[WesselKroos / youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos
 * 【2026-10-01】[mokshablr / gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 * 【2026-10-01】[xiufengsun / TokenTracker](https://github.com/xiufengsun/TokenTracker) - Local-first AI token usage & cost tracker for 31 coding tools incl. Claude Code, Codex, Cursor, Gemini & DeepSeek Harness—with native apps. Never reads prompts.
@@ -6068,6 +6069,7 @@
 
 ## Go
 
+* 【2026-10-05】[ys-ll / uniterm](https://github.com/ys-ll/uniterm) - A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.
 * 【2026-10-04】[Autumn-27 / ARTEX](https://github.com/Autumn-27/ARTEX) - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 * 【2026-09-29】[londek / ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
 * 【2026-09-28】[YoanWai / agent-manager](https://github.com/YoanWai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.
@@ -8920,6 +8922,9 @@
 
 ## C++
 
+* 【2026-10-05】[noctalia-dev / umbriel](https://github.com/noctalia-dev/umbriel) - An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
+* 【2026-10-05】[kvoltmer / Audionaut](https://github.com/kvoltmer/Audionaut) - Audionaut professional audio editing and audio recording
+* 【2026-10-05】[ecruells / resident-evil-pc-decomp](https://github.com/ecruells/resident-evil-pc-decomp) - Resident Evil 1 PC Port Decomp
 * 【2026-10-03】[YesterMester / TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp) - A work in progress recomp of the The Simpsons Game 2007 from the Xbox 360 using the RexXGlue recomping tool to get the game running
 * 【2026-09-29】[ammaarreshi / Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
 * 【2026-09-28】[The412Banner / winlator-contents](https://github.com/The412Banner/winlator-contents) - Component catalog index for BannerHub / Winlator clients. Hosts contents.json (mirror of nightlies_components.json). Component binaries live on The412Banner/Nightlies releases.
@@ -13885,6 +13890,7 @@
 
 ## Unknown
 
+* 【2026-10-05】[MobileGL-Dev / MobileGlues-release](https://github.com/MobileGL-Dev/MobileGlues-release) - MobileGlues, which stands for "(on) Mobile, GL uses ES", is a GL implementation running on top of host OpenGL ES 3.2, with running Minecraft Java Edition in mind.
 * 【2026-10-03】[LLMSecurity / awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security) - 🛡️ A curated list of resources on agent skills security: attacks, defenses, frameworks, and benchmarks for securing AI agent tool use and skill ecosystems
 * 【2026-10-03】[digitalinnovationone / dio-agent](https://github.com/digitalinnovationone/dio-agent) - Agente de IA criado pela DIO para apoiar seus estudos.
 * 【2026-10-01】[runelite / plugin-hub](https://github.com/runelite/plugin-hub) - External plugins for RuneLite
