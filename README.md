@@ -1410,6 +1410,8 @@
 
 ## Python
 
+* 【2026-10-16】[ahujasid / mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
+* 【2026-10-16】[ShawnPana / phone-harness](https://github.com/ShawnPana/phone-harness) - let your agent control your phone
 * 【2026-10-15】[isair / jarvis](https://github.com/isair/jarvis) - Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.
 * 【2026-10-15】[jamiepine / voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 * 【2026-10-14】[baidu / Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
@@ -7666,6 +7668,7 @@
 
 ## C
 
+* 【2026-10-16】[KernelSU-Next / KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 * 【2026-10-14】[rogerbinns / apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
 * 【2026-10-13】[mbm110 / MSN-GUARD](https://github.com/mbm110/MSN-GUARD) - High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MASQUE/HTTP-3, WireGuard, WARP-on-WARP, Psiphon, and Tor.
 * 【2026-10-12】[tarwin / tinyjsapp](https://github.com/tarwin/tinyjsapp) - Build native apps in JS. Backend, frontend. ~5Mb.
@@ -8959,6 +8962,7 @@
 
 ## C++
 
+* 【2026-10-16】[Flare-Animate / Flare](https://github.com/Flare-Animate/Flare) - Flare - A Familiar, Open Source Animation Suite. Forked from OpenToonz.
 * 【2026-10-15】[pichenettes / eurorack](https://github.com/pichenettes/eurorack) - Eurorack modules
 * 【2026-10-13】[vittorioromeo / quakevr](https://github.com/vittorioromeo/quakevr) - Quake VR mod supporting room-scale movement, hand interactions, melee attacks, and much more.
 * 【2026-10-09】[facebook / rebalancer](https://github.com/facebook/rebalancer) - Rebalancer is a domain-specific language and tool for specifying and solving assignment problems (eg, putting balls in boxes with complex rules).
@@ -10285,6 +10289,7 @@
 
 ## C#
 
+* 【2026-10-16】[empira / PDFsharp](https://github.com/empira/PDFsharp) - PDFsharp and MigraDoc Foundation for .NET 6 and .NET Framework
 * 【2026-10-15】[thanhkeke97 / RSTGameTranslation](https://github.com/thanhkeke97/RSTGameTranslation) - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source
 * 【2026-10-14】[ntdevlabs / tiny11builder](https://github.com/ntdevlabs/tiny11builder) - WinUI app for building smaller, customized Windows 11 images.
 * 【2026-10-14】[SplitScreen-Me / splitscreenme-nucleus](https://github.com/SplitScreen-Me/splitscreenme-nucleus) - Nucleus Co-op is an application that starts multiple instances of a game for split-screen multiplayer gaming!
