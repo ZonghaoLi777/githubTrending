@@ -1410,6 +1410,9 @@
 
 ## Python
 
+* 【2026-10-19】[Kruk2 / jasna](https://github.com/Kruk2/jasna) - Video restoration tool
+* 【2026-10-19】[NVlabs / ASPIRE](https://github.com/NVlabs/ASPIRE) - ASPIRE: Agentic /Skills Discovery for Robotics
+* 【2026-10-19】[mozilla-ai / otari](https://github.com/mozilla-ai/otari) - Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.
 * 【2026-10-18】[ScrapeCreators / social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) - AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI.
 * 【2026-10-17】[elder-plinius / V3R1T4S](https://github.com/elder-plinius/V3R1T4S) - liberating known unknowns
 * 【2026-10-17】[google / artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.
@@ -4388,6 +4391,8 @@
 
 ## Javascript
 
+* 【2026-10-19】[guoyue2010 / lxmusic-](https://github.com/guoyue2010/lxmusic-) - lxmusic(洛雪音乐)全网最新最全音源
+* 【2026-10-19】[whyour / qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 * 【2026-10-17】[superdesigndev / superdesign-skill](https://github.com/superdesigndev/superdesign-skill) - The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev
 * 【2026-10-10】[chuspeeism / dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
 * 【2026-10-10】[chaolucky18 / xuexitongScript](https://github.com/chaolucky18/xuexitongScript) - 学习通自动刷课脚本
@@ -6098,6 +6103,8 @@
 
 ## Go
 
+* 【2026-10-19】[alvinunreal / lazyskills](https://github.com/alvinunreal/lazyskills) - mission control for agent skills
+* 【2026-10-19】[Mag1cFall / AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) - 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
 * 【2026-10-18】[ygelfand / echolocal](https://github.com/ygelfand/echolocal) - Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.
 * 【2026-10-17】[tristenlammi / Arrmada](https://github.com/tristenlammi/Arrmada) - arrrrrrrr
 * 【2026-10-17】[jasonxu114514 / opencode2api](https://github.com/jasonxu114514/opencode2api) - A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.
@@ -8972,6 +8979,7 @@
 
 ## C++
 
+* 【2026-10-19】[mzzvxm / LARecomp](https://github.com/mzzvxm/LARecomp) - 
 * 【2026-10-17】[zeldaret / botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 * 【2026-10-17】[LittleBitUA / DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp) - Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v1.0 stable: 60 FPS unlocked, ROV warm-cache, standalone launcher, DualSense adaptive triggers, portable saves. Tested on USA + Europe X360 dumps.
 * 【2026-10-16】[Flare-Animate / Flare](https://github.com/Flare-Animate/Flare) - Flare - A Familiar, Open Source Animation Suite. Forked from OpenToonz.
@@ -10301,6 +10309,7 @@
 
 ## C#
 
+* 【2026-10-19】[ANYNC / TaskbarLyrics](https://github.com/ANYNC/TaskbarLyrics) - Windows 任务栏歌词工具
 * 【2026-10-17】[Matteo842 / CrashBandicoot-Launcher](https://github.com/Matteo842/CrashBandicoot-Launcher) - CrashBandicoot native pc port
 * 【2026-10-16】[empira / PDFsharp](https://github.com/empira/PDFsharp) - PDFsharp and MigraDoc Foundation for .NET 6 and .NET Framework
 * 【2026-10-15】[thanhkeke97 / RSTGameTranslation](https://github.com/thanhkeke97/RSTGameTranslation) - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source
@@ -13966,6 +13975,9 @@
 
 ## Unknown
 
+* 【2026-10-19】[piomin / claude-ai-spring-boot](https://github.com/piomin/claude-ai-spring-boot) - Claude Code template for Spring Boot and other staff (included in the tags)
+* 【2026-10-19】[togg53192-cmd / jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
+* 【2026-10-19】[wtsxDev / reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 * 【2026-10-17】[ai-for-developers / awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
 * 【2026-10-12】[lobehub / awesome-rsi](https://github.com/lobehub/awesome-rsi) - A curated research map of Recursive Self-Improvement (RSI): models, agents, harnesses, embodied systems, automated AI R&D, benchmarks, and safety.
 * 【2026-10-05】[MobileGL-Dev / MobileGlues-release](https://github.com/MobileGL-Dev/MobileGlues-release) - MobileGlues, which stands for "(on) Mobile, GL uses ES", is a GL implementation running on top of host OpenGL ES 3.2, with running Minecraft Java Edition in mind.
