@@ -8991,6 +8991,8 @@
 
 ## C++
 
+* 【2026-10-26】[socquique / TamaPoke](https://github.com/socquique/TamaPoke) - A Pokemon Gen-1 Tamagotchi for the Waveshare ESP32-S3-Touch-AMOLED-1.75 round display — open firmware + one-click web installer. Case remixed from yoyothechicken's Pokeball.
+* 【2026-10-26】[psiberx / cp2077-archive-xl](https://github.com/psiberx/cp2077-archive-xl) - Cyberpunk 2077 mod that allows you to expand game resources without conflicts.
 * 【2026-10-25】[wopss / RED4ext](https://github.com/wopss/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
 * 【2026-10-24】[jamro / tiny-engineer](https://github.com/jamro/tiny-engineer) - A small desktop robot that brings an AI coding assistant to life, physically acting out when it reads files, thinks, writes code, and finishes work.
 * 【2026-10-23】[google-pytorch / torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
@@ -10326,6 +10328,7 @@
 
 ## C#
 
+* 【2026-10-26】[zqq-699 / BlockHelm-Launcher](https://github.com/zqq-699/BlockHelm-Launcher) - 简洁现代的 Minecraft Java 版启动器，支持实例、资源与账户管理。
 * 【2026-10-19】[ANYNC / TaskbarLyrics](https://github.com/ANYNC/TaskbarLyrics) - Windows 任务栏歌词工具
 * 【2026-10-17】[Matteo842 / CrashBandicoot-Launcher](https://github.com/Matteo842/CrashBandicoot-Launcher) - CrashBandicoot native pc port
 * 【2026-10-16】[empira / PDFsharp](https://github.com/empira/PDFsharp) - PDFsharp and MigraDoc Foundation for .NET 6 and .NET Framework
@@ -13997,6 +14000,7 @@
 
 ## Unknown
 
+* 【2026-10-26】[rustsec / advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
 * 【2026-10-23】[xdash / FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) - FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 * 【2026-10-23】[NVIDIA / cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
 * 【2026-10-19】[piomin / claude-ai-spring-boot](https://github.com/piomin/claude-ai-spring-boot) - Claude Code template for Spring Boot and other staff (included in the tags)
