@@ -9002,6 +9002,8 @@
 
 ## C++
 
+* 【2026-10-30】[hypery11 / flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd) - Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN capture, steering mode + more. Works via OBD-II or X179 connector.
+* 【2026-10-30】[dji-sdk / Cloud-API-2](https://github.com/dji-sdk/Cloud-API-2) - DJI Cloud API 2 Official Repository — a free PaaS for DJI docks and drones.
 * 【2026-10-29】[meta / rocksdb](https://github.com/meta/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 * 【2026-10-26】[socquique / TamaPoke](https://github.com/socquique/TamaPoke) - A Pokemon Gen-1 Tamagotchi for the Waveshare ESP32-S3-Touch-AMOLED-1.75 round display — open firmware + one-click web installer. Case remixed from yoyothechicken's Pokeball.
 * 【2026-10-26】[psiberx / cp2077-archive-xl](https://github.com/psiberx/cp2077-archive-xl) - Cyberpunk 2077 mod that allows you to expand game resources without conflicts.
@@ -12775,6 +12777,8 @@
 
 ## Css
 
+* 【2026-10-30】[lestercorderomurillo / macos-tahoe-liquid-kde](https://github.com/lestercorderomurillo/macos-tahoe-liquid-kde) - MacOS Tahoe Liquid Glass Theme for KDE Plasma 6.7/6.8+
+* 【2026-10-30】[OpsiMate / documentation](https://github.com/OpsiMate/documentation) - OpsiMate
 * 【2026-10-22】[Napster2210 / ngx-spinner](https://github.com/Napster2210/ngx-spinner) - Highly customizable Angular loading spinner library with 50+ animations, multiple named spinners, an optional HTTP interceptor for automatic show/hide, MatDialog-safe fullscreen overlays via the Popover API, and one-command ng add setup. Supports Angular 4–22, standalone & NgModule apps.
 * 【2026-10-21】[EDMOK / blue-fish-archive](https://github.com/EDMOK/blue-fish-archive) - 蓝色大肥鱼档案馆
 * 【2026-10-20】[rochacbruno / py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
