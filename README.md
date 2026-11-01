@@ -1412,6 +1412,9 @@
 
 ## Python
 
+* 【2026-11-01】[0x0funky / agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
+* 【2026-11-01】[sickn33 / agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+* 【2026-11-01】[The-PR-Agent / pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 * 【2026-10-31】[kirodotdev / KiroCrew](https://github.com/kirodotdev/KiroCrew) - A persistent workspace for development work that self-improves and continues beyond one session.
 * 【2026-10-31】[ethanplusai / harvey](https://github.com/ethanplusai/harvey) - Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.
 * 【2026-10-29】[shitagaki-lab / see-through](https://github.com/shitagaki-lab/see-through) - "Single-image Layer Decomposition for Anime Characters" (SIGGRAPH 2026 Conference Paper)
@@ -6127,6 +6130,7 @@
 
 ## Go
 
+* 【2026-11-01】[betterleaks / betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 * 【2026-10-22】[Asymptote-Labs / agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu
 * 【2026-10-19】[alvinunreal / lazyskills](https://github.com/alvinunreal/lazyskills) - mission control for agent skills
 * 【2026-10-19】[Mag1cFall / AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) - 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
@@ -9007,6 +9011,7 @@
 
 ## C++
 
+* 【2026-11-01】[Zylann / godot_voxel](https://github.com/Zylann/godot_voxel) - Voxel module for Godot Engine
 * 【2026-10-30】[hypery11 / flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd) - Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN capture, steering mode + more. Works via OBD-II or X179 connector.
 * 【2026-10-30】[dji-sdk / Cloud-API-2](https://github.com/dji-sdk/Cloud-API-2) - DJI Cloud API 2 Official Repository — a free PaaS for DJI docks and drones.
 * 【2026-10-29】[meta / rocksdb](https://github.com/meta/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
@@ -10347,6 +10352,8 @@
 
 ## C#
 
+* 【2026-11-01】[Unity-Technologies / unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) - Unity plugin for third-party agent platforms
+* 【2026-11-01】[riyasy / FlyPhotos](https://github.com/riyasy/FlyPhotos) - A blazing fast ultra-light photo viewer replacement for Windows. Works similar to Picasa Photo Viewer.
 * 【2026-10-27】[patchzyy / Wiicompiled](https://github.com/patchzyy/Wiicompiled) - Wiicompiled
 * 【2026-10-26】[zqq-699 / BlockHelm-Launcher](https://github.com/zqq-699/BlockHelm-Launcher) - 简洁现代的 Minecraft Java 版启动器，支持实例、资源与账户管理。
 * 【2026-10-19】[ANYNC / TaskbarLyrics](https://github.com/ANYNC/TaskbarLyrics) - Windows 任务栏歌词工具
